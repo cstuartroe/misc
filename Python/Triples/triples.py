@@ -20,3 +20,5 @@ by_t = sorted(triples, key = lambda x: x[1])
 by_a = sorted(triples, key = lambda x: x[2])
 by_b = sorted(triples, key = lambda x: x[3])
 by_c = sorted(triples, key = lambda x: x[4])
+
+print(by_c)
