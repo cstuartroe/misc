@@ -1,0 +1,153 @@
+/**
+*   Author:  <i>Conor Stuart-Roe</i>
+*   Date: 9 April 2015
+*   Purpose: This is a static service class containing various methods
+*   to sort arrays of strings <i>in place</i>.
+*/
+public class stuart_roe15cIntegerVector3D
+{
+    final private int x, y, z;
+    /**
+    *  This creates the vector xi + yj + zk.
+    *  @param x is the x-coordinate of the vector
+    *  @param y is the y-coordinate of the vector
+    *  @param z is the z-coordinate of the vector
+    */
+    public stuart_roe15cIntegerVector3D(int _x, int _y, int _z)
+    {
+        this.x = _x;
+        this.y = _y;
+        this.z = _z;
+    }
+    /**
+    *   This creates a zero vector
+    */
+    public stuart_roe15cIntegerVector3D()
+    {
+        this.x = 0;
+        this.y = 0;
+        this.z = 0;
+    }
+    /**
+     * This returns the X-value
+     */
+    public int getX()
+    {
+        return this.x;
+    }
+    /**
+     * This returns the Y-value
+     */
+    public int getY()
+    {
+        return this.y;
+    }
+    /**
+     * This returns the Z-value
+     */
+    public int getZ()
+    {
+        return this.z;
+    }
+    /**
+    *   This  computes the norm of this vector.
+    */
+    public double norm()
+    {
+        double normSquared = x*x + y*y + z*z;
+        return Math.sqrt(normSquared);
+    }
+    /**
+    *   This  computes the vector this + that 
+    *   @param that another IntegerVector
+    *   @return this + that
+    */
+    public stuart_roe15cIntegerVector3D add(stuart_roe15cIntegerVector3D that)
+    {
+        int _x = this.x + that.getX();
+        int _y = this.y + that.getY();
+        int _z = this.z + that.getZ();
+        return new stuart_roe15cIntegerVector3D(_x,_y,_z);
+    }
+    /**
+    *   This  computes the vector -this
+    *   @param that another IntegerVector
+    *   @return -this 
+    */
+    public stuart_roe15cIntegerVector3D negate()
+    {
+        return new stuart_roe15cIntegerVector3D(-(this.x),-(this.y),-(this.z));
+    }
+    /**
+    *   This  computes the vector this - that 
+    *   @param that another stuart-roe15cIntegerVector3D
+    *   @return this - that
+    */
+    public stuart_roe15cIntegerVector3D subtract(stuart_roe15cIntegerVector3D that)
+    {
+        int _x = this.x - that.getX();
+        int _y = this.y - that.getY();
+        int _z = this.z - that.getZ();
+        return new stuart_roe15cIntegerVector3D(_x,_y,_z);
+    }
+    /**
+    *   This  computes the scalar product  lambda * that 
+    *   @param that another IntegerVector
+    *   @return this - that
+    */
+    public stuart_roe15cIntegerVector3D scalarMultiply(int lambda)
+    {
+        return new stuart_roe15cIntegerVector3D(lambda*(this.x),lambda*(this.y),lambda*(this.z));
+    }
+    
+    /**
+    *   This  computes the dot product  this * that 
+    *   @param that another IntegerVector3D
+    *   @return this * that
+    */
+    public int dot(stuart_roe15cIntegerVector3D that)
+    {
+        int _x = this.x * that.getX();
+        int _y = this.y * that.getY();
+        int _z = this.z * that.getZ();
+        return _x + _y + _z;
+    }
+    /**
+    *   This  computes the cross proecut this X that 
+    *   @param that another IntegerVector3D
+    *   @return this X that
+    */
+    public stuart_roe15cIntegerVector3D crossProduct(stuart_roe15cIntegerVector3D that)
+    {
+        int _x = this.y * that.getZ() - this.z * that.getY();
+        int _y = this.z * that.getX() - this.x * that.getZ();
+        int _z = this.x * that.getY() - this.y * that.getX();
+        return new stuart_roe15cIntegerVector3D(_x,_y,_z);
+    }
+    /**
+    *   return uXv*w
+    */
+    public int tripleProduct(stuart_roe15cIntegerVector3D u, stuart_roe15cIntegerVector3D v, stuart_roe15cIntegerVector3D w)
+    {
+        return u.crossProduct(v).dot(w);
+    }
+    /**
+    * @param that another stuart-roe15cIntegerVector3D
+    * @return the angle between this and that
+    */
+    public double angleBetween(stuart_roe15cIntegerVector3D that)
+    {
+        double numerator = this.dot(that);
+        double denominator = this.norm() * that.norm();
+        //                                the scalar converts radians to degrees
+        return Math.acos(numerator / denominator) * 57.2957795;
+    }
+    /**
+     * This returns a string containing the coordinates of the vector
+     * @return a string of the coordinate values in parentheses separated by commas
+     */
+    public String toString()
+    {
+        return ("(" + this.x + "," + this.y + "," + this.z + ")");
+    }
+}

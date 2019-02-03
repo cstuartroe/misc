@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20140826-r5761">
+  <project autorefresh="false" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="ColorBlinder.java" package="" timestamp="28-May-2015 10:58:07">
+        <select from="136" to="136"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="PosterizedColor.java" package="" timestamp="19-May-2015 18:54:32">
+        <select from="136" to="136"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="PosterizedColorCalculator.java" package="" timestamp="19-May-2015 18:56:52">
+        <select from="136" to="136"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="ColorFilter.java" package="" timestamp="21-May-2015 18:27:00">
+        <select from="136" to="136"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="WebcamViewer.java" package="" timestamp="28-May-2015 10:58:25">
+        <select from="136" to="136"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="New folder/webcam-capture-0.3.10.jar"/>
+      <file absolute="false" name="New folder/libs/bridj-0.6.2.jar"/>
+      <file absolute="false" name="New folder/libs/slf4j-api-1.7.2.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

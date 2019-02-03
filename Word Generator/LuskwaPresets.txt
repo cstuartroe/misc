@@ -1,0 +1,47 @@
+Q = p, t*2, ts, k*2, kw, s*2, h, m*2, n*2, l*2, v*2, y
+V = a, i, u
+H = á, í, ú
+F = à, ì, ù
+C = n, l, s, h
+D = ia, ua, iu, ui, íá, úá, íú, úí, ìà, ùà, ìù, ùì
+L = ee, oo, eu, oi, éé, óó, éú, óí, èè, òò, èù, òì
+P = p, t, k, ch
+B = b, d, g, j
+S = a, i, u, á, í, ú, à, ì, ù, n
+U = u, ú, ù
+O = o, ó, ò
+E = e, é, è
+I = i, í, ì
+
+QVC * 2
+QV * 4
+QVV
+
+A: V>H/_
+H: H>F/_; ~
+
+y>h/_I
+w>/_U
+hs>tts/_
+tts>cch/_I
+ts>ch/_I
+sh>ss/_
+lh>ll/_
+s>sh/_I
+hP>PP/_
+sch>ssh/_
+H>HH/Q_#
+H>HH/Q_QV
+F>FF/Q_#
+F>FF/Q_QV
+h>/#_
+D>L/_
+U>O/_nQ
+U>O/_n#
+I>E/_nQ
+I>E/_n#
+P>B/S_V
+P>B/S_w
+n>m/_m
+n>m/_b
+E>yE/#_

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20140826-r5761">
+  <project autorefresh="false" main="" manifest="" root="" work="">
+    <createjar file="The Conlanger's Toolkit" flags="12"/>
+    <source>
+      <file active="true" name="WordGenerator.java" package="" timestamp="25-May-2015 23:16:49">
+        <select from="28262" to="28262"/>
+        <scroll column="13557" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
