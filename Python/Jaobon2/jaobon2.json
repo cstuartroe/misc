@@ -1,357 +1,3620 @@
 {
-    "invalid_roots": {
-        "idk": "bird"
-    },
+    "invalid_roots": {},
     "roots": {
-        "a": "to, toward, at, for",
-        "ai": "love",
-        "ak": "act, behave",
-        "an": "animal, beast",
-        "ao": "strange, unknown, mysterious",
-        "as": "make, cause, volitive",
-        "ba": "hold, wield, handle",
-        "bai": "hundred",
-        "bak": "cow, bovine",
-        "ban": "half",
-        "bao": "bag, package, bundle",
-        "bas": "basic, basis, fundamental, essence",
-        "be": "beautiful, nice",
-        "bek": "back, behind",
-        "ben": "bend, change, become",
-        "bes": "time, instance, action, once",
-        "bi": "live, reside, life",
-        "bik": "big, large, old",
-        "bin": "freeze, cold",
-        "bis": "visit, travel, tour, guest",
-        "bo": "fly",
-        "bok": "mouth, hole open at one end",
-        "bon": "under, bottom, bum",
-        "bos": "voice, sound, noise, make noise",
-        "bu": "turn, return",
-        "buk": "book",
-        "bun": "boon, prize, accomplishment, surplus, extra",
-        "bus": "seek, search, look for, want",
-        "ca": "fall short, minus, mistake, break, error, bad",
-        "cai": "boil, tea",
-        "cak": null,
-        "can": null,
-        "cao": "long, string, extreme, hair",
-        "cas": "click, snap, pop",
-        "ce": "car, vehicle",
-        "cek": "(diminutive suffix))",
-        "cen": "front, face",
-        "ces": "chase, pursue, follow",
-        "ci": "group",
-        "cik": "fowl, chicken",
-        "cin": "polite, please, customary",
-        "cis": "cheese, form, coagulate, curdle",
-        "co": "eat, drink, consume",
-        "cok": null,
-        "con": "insect, worm",
-        "cos": null,
-        "cu": "out, send, happen, leave, quit, depart",
-        "cuk": null,
-        "cun": "vitality, life, lust, spring",
-        "cus": "choose, select",
-        "da": "hit, strike",
-        "dai": "support, carry, bring",
-        "dak": "dark, black",
-        "dan": "simple, easy",
-        "dao": "road, way, path",
-        "das": null,
-        "de": "from, off of, away from",
-        "dek": "thin, slender",
-        "den": "inside",
-        "des": "speak, say",
-        "do": "relative particle",
-        "dok": "dog",
-        "don": "understand",
-        "dos": "two, pair",
-        "du": "city, belly",
-        "duk": null,
-        "dun": null,
-        "dus": null,
-        "e": "about, with regard to",
-        "ek": "far, distant, foreign, outside",
-        "en": "in, on, continuous",
-        "es": "be, absolutive",
-        "ga": null,
-        "gai": "should, ought",
-        "gak": null,
-        "gan": "win, gain",
-        "gao": "tall, high, noble",
-        "gas": "gas, air",
-        "ge": "give, offer",
-        "gek": "arm, branch, split, fork",
-        "gen": null,
-        "ges": null,
-        "gi": "guide, steer, direct, lead, govern",
-        "gik": "geek, enthusiast",
-        "gin": "green",
-        "gis": null,
-        "go": "enough, adequate, suffice",
-        "gok": "thick, wide, fat",
-        "gon": "public, shared, government",
-        "gos": "fruit, egg, produce, results",
-        "gu": "old, tradition, ancient, story",
-        "guk": null,
-        "gun": "stick, tube, pipe",
-        "gus": "be enjoyed/enjoyable",
-        "ha": "laugh",
-        "hai": "child, offshoot",
-        "hak": "heart, emotion, feel, center",
-        "han": "hunger",
-        "hao": "good, beneficial, pleasant, beautiful",
-        "has": null,
-        "he": "help, assist, aid, heal",
-        "hek": null,
-        "hen": "sky, heaven, holy, sacred",
-        "hes": "breathe, rest, pause",
-        "ho": "time",
-        "hok": "hot, heat",
-        "hon": "red, anger, passion",
-        "hos": "horse, equine",
-        "hu": "game, play, have fun",
-        "huk": "hook, bend, curve, corner",
-        "hun": "soul, mood, spirit",
-        "hus": null,
-        "i": "and, also, add, again",
-        "ik": null,
-        "in": "pull, stretch, extend",
-        "is": null,
-        "ja": "family, household",
-        "jai": null,
-        "jak": null,
-        "jan": "flat, straight, correct, right, proper, table, stand",
-        "jao": "foot, leg",
-        "jas": null,
-        "je": "this, that",
-        "jek": "think, consider, ponder, believe",
-        "jen": "person",
-        "jes": null,
-        "ji": "number, amount, how many, some, ordinal, number, unit, count",
-        "jik": null,
-        "jin": "yellow, brown, gold, metal",
-        "jis": null,
-        "jo": "just, only, already, as soon as",
-        "jok": "humor, joke",
-        "jon": "seed, bean, gamete, gene, sexual, species",
-        "jos": null,
-        "ju": "tree, plant",
-        "juk": null,
-        "jun": "bacteria, mold",
-        "jus": "juice, liquid, soup",
-        "ka": "fall, drop, down",
-        "kai": "start, open, begin, operate",
-        "kak": "feces",
-        "kan": "see, read",
-        "kao": "test, inspect",
-        "kas": "house, home, building",
-        "ke": "what, which",
-        "kek": null,
-        "ken": "can, may, possible",
-        "kes": "grow, increase",
-        "ki": null,
-        "kik": "remove, take away, clean off",
-        "kin": "keen, sharp, witty, clever, blade",
-        "kis": "kiss",
-        "ko": "door, opening, hole open at both ends",
-        "kok": "cut, separate",
-        "kon": "recognize, be familiar with",
-        "kos": "thing, object, tool",
-        "ku": "bitterness, suffering, unpleasantness, alkali",
-        "kuk": "cook, prepare",
-        "kun": null,
-        "kus": "hear",
-        "la": "side, edge, end",
-        "lai": "come, become, exhortative",
-        "lak": "milk",
-        "lan": "blue, body of water, sad, humble",
-        "lao": "allow, let",
-        "las": null,
-        "le": "type, kind",
-        "lek": "electric, electricity",
-        "len": "learn, study",
-        "les": "respond, answer, return",
-        "li": "strong, strength, force",
-        "lik": "lightweight, fragile",
-        "lin": "clean, clear",
-        "lis": "ready, clever, ripe",
-        "lo": "low, short",
-        "lok": "lock, fasten, secure",
-        "lon": "unique, alone, solitary",
-        "los": null,
-        "lu": "flow, pour, spill, move, circulate",
-        "luk": "place, location",
-        "lun": "round, wheel, ball, cycle",
-        "lus": "light, intelligence, clarity",
-        "ma": "mother",
-        "mai": "sell, convince",
-        "mak": "machine, contraption, car",
-        "man": "slow",
-        "mao": "cat",
-        "mas": "more, compare, most",
-        "me": "all, each, every",
-        "mek": "make, construct, create",
-        "men": "plural, many, much, a lot",
-        "mes": "middle, center, between, among",
-        "mi": "1st person",
-        "mik": "friend, kind, amicable",
-        "min": "name, word, call, refer",
-        "mis": null,
-        "mo": "die, stop, halt, pause",
-        "mok": null,
-        "mon": "money, value, asset",
-        "mos": "must, have to",
-        "mu": "tree, post, column, wood",
-        "muk": "feminine, female",
-        "mun": "moon, month",
-        "mus": "mouse, rodent",
-        "na": "that",
-        "nai": "nine",
-        "nak": "nag, annoy, bother, harass",
-        "nan": "male, masculine",
-        "nao": "brain, mind",
-        "nas": null,
-        "ne": "system, network, economy, environment",
-        "nek": "neck, stem",
-        "nen": "year; sticky, adhere",
-        "nes": "essence, abstract noun",
-        "ni": "2nd person",
-        "nik": null,
-        "nin": "none, nothing, zero",
-        "nis": null,
-        "no": "no, not",
-        "nok": null,
-        "non": null,
-        "nos": "nose, smell",
-        "nu": "new, young",
-        "nuk": null,
-        "nun": null,
-        "nus": "nut, bead",
-        "o": "or, still, other",
-        "ok": "eight",
-        "on": "fungus",
-        "os": "bear",
-        "pa": "father",
-        "pai": "country, nation, people",
-        "pak": "bird",
-        "pan": "bread, rice, starch",
-        "pao": "power, energy, run",
-        "pas": "pass, cross, across, on the other side of, experiential",
-        "pe": "lose, drop, pay, pain, suffer",
-        "pek": "chest, breast",
-        "pen": "slice, sheet, paper, card, leaf",
-        "pes": "weight, mass, importance",
-        "pi": "skin, outside, edge, peel, surface",
-        "pik": "picture, image, depiction, explanation",
-        "pin": "pin, needle, point, prick, pen",
-        "pis": "piece, part, drop, singulative",
-        "po": "four",
-        "pok": "few, little, some, scarce; pig",
-        "pon": "put, place, add, set",
-        "pos": "position, role, place",
-        "pu": "poor, helpless, forlorn, meager, sparse",
-        "puk": "conflict, fight, war",
-        "pun": null,
-        "pus": "complex, difficult",
-        "sa": "know",
-        "sai": "vegetable, plant",
-        "sak": "shake, vibrate, sway, move (back and forth)",
-        "san": "three",
-        "sao": "early, morning; salt",
-        "sas": null,
-        "se": "self, reflexive",
-        "sek": "dry",
-        "sen": "sit",
-        "ses": "six",
-        "so": "color",
-        "sok": "soft, tender, limp, mild, smooth",
-        "son": "sun, day",
-        "sos": "source, origin, root",
-        "su": "fast, quick",
-        "suk": "sugar",
-        "sun": "sour, acid",
-        "sus": "dirty, gross, grubby, unwashed",
-        "ta": "3rd person, thing",
-        "tai": "knot, tie, join, marry",
-        "tak": "thank",
-        "tan": "lie, recline",
-        "tao": "thousand",
-        "tas": "cup, bowl",
-        "te": "fabric, cloth, clothing",
-        "tek": "take, buy",
-        "ten": "ten",
-        "tes": "test, taste, try to",
-        "to": "head, individual",
-        "tok": "touch, feel, play (instrument)",
-        "ton": "same, common",
-        "tos": "throw, throw out, reject",
-        "tu": "ground, land, dirt, territory",
-        "tuk": null,
-        "tun": "music, harmony",
-        "tus": null,
-        "u": "without, lacking",
-        "uk": null,
-        "un": "one, a, some, any",
-        "us": null,
-        "wa": "water, liquid",
-        "wai": "white, pale",
-        "wak": "walk, move",
-        "wan": "late, night",
-        "wao": "wow, (exclamation)",
-        "was": null,
-        "we": "way, state, manner, reason, in order to",
-        "wek": "alert, awake, wait, anticipate",
-        "wen": "if, while, when, such that, during",
-        "wes": "bone",
-        "wi": null,
-        "wik": "weak, tired",
-        "win": "wind, smell, atmosphere",
-        "wis": null,
-        "wo": "fire",
-        "wok": "work, labor, position, role",
-        "won": "ask, request, problem, issue",
-        "wos": null,
-        "xa": "sand, powder",
-        "xai": "shy, humble, almost, shut, closed",
-        "xak": null,
-        "xan": "top, over",
-        "xao": "small, young",
-        "xas": null,
-        "xe": "write",
-        "xek": "seven",
-        "xen": "body, form, appearance, flesh, meat",
-        "xes": null,
-        "xi": "happy, pleased, enjoy, interest",
-        "xik": "chic, hip, cool",
-        "xin": "star, point, week",
-        "xis": null,
-        "xo": "hand, arm, five",
-        "xok": "stone, rock, hard, stiff",
-        "xon": null,
-        "xos": null,
-        "xu": "shoe",
-        "xuk": "sleep, rest",
-        "xun": "obey",
-        "xus": null,
-        "ya": "tooth",
-        "yai": "(exclamation of distress)",
-        "yak": null,
-        "yan": "sheep, goat",
-        "yao": "want, need",
-        "yas": null,
-        "ye": "also, too",
-        "yek": null,
-        "yen": "eye, personality, character, soul",
-        "yes": "yes, indeed",
-        "yo": "have, own, there is",
-        "yok": "oil, fat, grease",
-        "yon": null,
-        "yos": null,
-        "yu": "fish",
-        "yuk": null,
-        "yun": "cloud, fog, mist, steam, vapor",
-        "yus": "use"
+        "a": {
+            "definition": "to, toward, at, for",
+            "hanzi": "\u5f80",
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "a"
+                }
+            ]
+        },
+        "ai": {
+            "definition": "love",
+            "hanzi": "\u7231",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u7231"
+                }
+            ]
+        },
+        "ak": {
+            "definition": "act, behave, appear, seem, express",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "act"
+                },
+                {
+                    "language": "es",
+                    "word": "actuar"
+                }
+            ]
+        },
+        "an": {
+            "definition": "animal, beast",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "animal"
+                },
+                {
+                    "language": "es",
+                    "word": "animal"
+                }
+            ]
+        },
+        "ao": {
+            "definition": "strange, unknown, mysterious",
+            "hanzi": "\u5965",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u5965"
+                }
+            ]
+        },
+        "as": {
+            "definition": "make, cause, volitive",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "hacer"
+                }
+            ]
+        },
+        "ba": {
+            "definition": "hold, wield, handle",
+            "hanzi": "\u628a",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u628a"
+                }
+            ]
+        },
+        "bai": {
+            "definition": "hundred",
+            "hanzi": "\u628a",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u628a"
+                }
+            ]
+        },
+        "bak": {
+            "definition": "cow, bovine",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "vaca"
+                }
+            ]
+        },
+        "ban": {
+            "definition": "half",
+            "hanzi": "\u534a",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u534a"
+                }
+            ]
+        },
+        "bao": {
+            "definition": "bag, package, bundle; to cover, to wrap",
+            "hanzi": "\u5305",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u5305"
+                }
+            ]
+        },
+        "bas": {
+            "definition": "basic, basis, fundamental, essence",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "base"
+                }
+            ]
+        },
+        "be": {
+            "definition": "beautiful, nice",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "bello"
+                }
+            ]
+        },
+        "bek": {
+            "definition": "back, behind",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "back"
+                }
+            ]
+        },
+        "ben": {
+            "definition": "bend, change, become",
+            "hanzi": "\u53d8",
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "bend"
+                },
+                {
+                    "language": "zh",
+                    "word": "\u53d8"
+                }
+            ]
+        },
+        "bes": {
+            "definition": "time, instance, action, once",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "vez"
+                }
+            ]
+        },
+        "bi": {
+            "definition": "live, reside, life",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "vivir"
+                }
+            ]
+        },
+        "bik": {
+            "definition": "big, large, old",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "big"
+                }
+            ]
+        },
+        "bin": {
+            "definition": "freeze, cold",
+            "hanzi": "\u51b0",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u51b0"
+                }
+            ]
+        },
+        "bis": {
+            "definition": "visit, travel, tour, guest",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "visitar"
+                }
+            ]
+        },
+        "bo": {
+            "definition": "fly",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "volar"
+                }
+            ]
+        },
+        "bok": {
+            "definition": "mouth, hole open at one end",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "boca"
+                }
+            ]
+        },
+        "bon": {
+            "definition": "under, bottom, bum",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "bottom"
+                }
+            ]
+        },
+        "bos": {
+            "definition": "voice, sound, noise, make noise",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "voz"
+                }
+            ]
+        },
+        "bu": {
+            "definition": "turn, return",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "volver"
+                }
+            ]
+        },
+        "buk": {
+            "definition": "book",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "book"
+                }
+            ]
+        },
+        "bun": {
+            "definition": "boon, prize, accomplishment, surplus, extra",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "boon"
+                }
+            ]
+        },
+        "bus": {
+            "definition": "seek, search, look for, want",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "buscar"
+                }
+            ]
+        },
+        "ca": {
+            "definition": "fall short, difference, minus, mistake, break, error, bad",
+            "hanzi": "\u5dee",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u5dee"
+                }
+            ]
+        },
+        "cai": {
+            "definition": "boil, tea",
+            "hanzi": "\u8336",
+            "sources": []
+        },
+        "cao": {
+            "definition": "long, string, extreme, hair",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u8d85, \u6761"
+                }
+            ]
+        },
+        "cas": {
+            "definition": "click, snap, pop",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "chasquear"
+                }
+            ]
+        },
+        "ce": {
+            "definition": "car, vehicle",
+            "hanzi": "\u8f66",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u8f66"
+                }
+            ]
+        },
+        "cek": {
+            "definition": "(diminutive suffix))",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "pl",
+                    "word": "-czek"
+                }
+            ]
+        },
+        "cen": {
+            "definition": "front, face",
+            "hanzi": "\u524d",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u524d"
+                }
+            ]
+        },
+        "ces": {
+            "definition": "chase, pursue, follow",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "chase"
+                }
+            ]
+        },
+        "ci": {
+            "definition": "group",
+            "hanzi": "\u8d77",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u8d77"
+                }
+            ]
+        },
+        "cik": {
+            "definition": "fowl, chicken",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "chicken"
+                }
+            ]
+        },
+        "cin": {
+            "definition": "polite, please, customary",
+            "hanzi": "\u8bf7",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u8bf7"
+                }
+            ]
+        },
+        "cis": {
+            "definition": "cheese, form, coagulate, curdle",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "cheese"
+                }
+            ]
+        },
+        "co": {
+            "definition": "eat, drink, consume",
+            "hanzi": "\u5403",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u5403"
+                }
+            ]
+        },
+        "con": {
+            "definition": "insect, worm",
+            "hanzi": "\u866b",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u866b"
+                }
+            ]
+        },
+        "cu": {
+            "definition": "out, send, happen, leave, quit, depart",
+            "hanzi": "\u51fa",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u51fa"
+                }
+            ]
+        },
+        "cun": {
+            "definition": "vitality, life, lust, spring",
+            "hanzi": "\u6625",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u6625"
+                }
+            ]
+        },
+        "cus": {
+            "definition": "choose, select",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "choose"
+                }
+            ]
+        },
+        "da": {
+            "definition": "hit, strike",
+            "hanzi": "\u6253",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u6253"
+                }
+            ]
+        },
+        "dai": {
+            "definition": "support, carry, bring",
+            "hanzi": "\u5e26",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u5e26"
+                }
+            ]
+        },
+        "dak": {
+            "definition": "dark, black",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "dark"
+                }
+            ]
+        },
+        "dan": {
+            "definition": "simple, easy",
+            "hanzi": "\u5355",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u5355"
+                }
+            ]
+        },
+        "dao": {
+            "definition": "road, way, path",
+            "hanzi": "\u9053",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u9053"
+                }
+            ]
+        },
+        "de": {
+            "definition": "from, off of, away from",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "de"
+                }
+            ]
+        },
+        "dek": {
+            "definition": "thin, slender",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "delgado"
+                }
+            ]
+        },
+        "den": {
+            "definition": "inside",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "dentro"
+                }
+            ]
+        },
+        "des": {
+            "definition": "speak, say",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "decir"
+                }
+            ]
+        },
+        "do": {
+            "definition": "relative particle",
+            "hanzi": "\u7684",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u7684"
+                }
+            ]
+        },
+        "dok": {
+            "definition": "dog",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "dog"
+                }
+            ]
+        },
+        "don": {
+            "definition": "understand",
+            "hanzi": "\u61c2",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u61c2"
+                }
+            ]
+        },
+        "dos": {
+            "definition": "two, pair",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "dos"
+                }
+            ]
+        },
+        "du": {
+            "definition": "city, belly",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u90fd, \u809a"
+                }
+            ]
+        },
+        "e": {
+            "definition": "about, with regard to",
+            "hanzi": null,
+            "sources": []
+        },
+        "ek": {
+            "definition": "far, distant, foreign, outside",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "external"
+                },
+                {
+                    "language": "es",
+                    "word": "externo"
+                }
+            ]
+        },
+        "en": {
+            "definition": "in, on, continuous",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "en"
+                }
+            ]
+        },
+        "es": {
+            "definition": "be, absolutive",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "ser, estar"
+                }
+            ]
+        },
+        "ga": {
+            "definition": "gather, assemble, condense, aggregate",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "gather"
+                }
+            ]
+        },
+        "gai": {
+            "definition": "should, ought",
+            "hanzi": "\u8be5",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u8be5"
+                }
+            ]
+        },
+        "gan": {
+            "definition": "win, gain",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "ganar"
+                }
+            ]
+        },
+        "gao": {
+            "definition": "tall, high, noble",
+            "hanzi": "\u9ad8",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u9ad8"
+                }
+            ]
+        },
+        "gas": {
+            "definition": "gas, air",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "gas"
+                },
+                {
+                    "language": "es",
+                    "word": "gas"
+                }
+            ]
+        },
+        "ge": {
+            "definition": "give, offer",
+            "hanzi": "\u7ed9",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u7ed9"
+                }
+            ]
+        },
+        "gek": {
+            "definition": "arm, branch, split, fork",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u80f3\u818a"
+                }
+            ]
+        },
+        "gi": {
+            "definition": "guide, steer, direct, lead, govern",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "guiar"
+                }
+            ]
+        },
+        "gik": {
+            "definition": "geek, enthusiast",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "geek"
+                }
+            ]
+        },
+        "gin": {
+            "definition": "green",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "green"
+                }
+            ]
+        },
+        "go": {
+            "definition": "enough, adequate, suffice",
+            "hanzi": "\u591f",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u591f"
+                }
+            ]
+        },
+        "gok": {
+            "definition": "thick, wide, fat",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "gordo"
+                }
+            ]
+        },
+        "gon": {
+            "definition": "public, shared, government",
+            "hanzi": "\u516c",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u516c"
+                }
+            ]
+        },
+        "gos": {
+            "definition": "fruit, egg, produce, results",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u679c\u5b9e"
+                }
+            ]
+        },
+        "gu": {
+            "definition": "old, tradition, ancient, story",
+            "hanzi": "\u53e4",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u53e4"
+                }
+            ]
+        },
+        "gun": {
+            "definition": "stick, tube, pipe",
+            "hanzi": "\u7ba1",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u7ba1"
+                }
+            ]
+        },
+        "gus": {
+            "definition": "be enjoyed/enjoyable",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "gustar"
+                }
+            ]
+        },
+        "ha": {
+            "definition": "laugh",
+            "hanzi": null,
+            "sources": []
+        },
+        "hai": {
+            "definition": "child, offshoot",
+            "hanzi": "\u5b69",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u5b69"
+                }
+            ]
+        },
+        "hak": {
+            "definition": "heart, emotion, feel, center",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "heart"
+                }
+            ]
+        },
+        "han": {
+            "definition": "hunger",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "hunger"
+                },
+                {
+                    "language": "es",
+                    "word": "hambre"
+                }
+            ]
+        },
+        "hao": {
+            "definition": "good, beneficial, pleasant, beautiful",
+            "hanzi": "\u597d",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u597d"
+                }
+            ]
+        },
+        "has": {
+            "definition": "up to, until",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "hasta"
+                }
+            ]
+        },
+        "he": {
+            "definition": "help, assist, aid, heal",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "help"
+                }
+            ]
+        },
+        "hen": {
+            "definition": "sky, heaven, holy, sacred",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "heaven"
+                }
+            ]
+        },
+        "hes": {
+            "definition": "breathe, rest, pause",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "respirar"
+                }
+            ]
+        },
+        "ho": {
+            "definition": "time, when, during",
+            "hanzi": "\u5019",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u5019"
+                },
+                {
+                    "language": "es",
+                    "word": "hora"
+                }
+            ]
+        },
+        "hok": {
+            "definition": "hot, heat",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "hot"
+                }
+            ]
+        },
+        "hon": {
+            "definition": "red, anger, passion",
+            "hanzi": "\u7ea2",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u7ea2"
+                }
+            ]
+        },
+        "hos": {
+            "definition": "horse, equine",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "horse"
+                }
+            ]
+        },
+        "hu": {
+            "definition": "game, play, have fun",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "jugar"
+                }
+            ]
+        },
+        "huk": {
+            "definition": "hook, bend, curve, corner",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "hook"
+                }
+            ]
+        },
+        "hun": {
+            "definition": "soul, mood, spirit",
+            "hanzi": "\u9b42",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u9b42"
+                }
+            ]
+        },
+        "i": {
+            "definition": "and, also, add, again",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "y"
+                }
+            ]
+        },
+        "in": {
+            "definition": "pull, stretch, extend",
+            "hanzi": "\u5f15",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u5f15"
+                }
+            ]
+        },
+        "is": {
+            "definition": "east",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "east"
+                }
+            ]
+        },
+        "ja": {
+            "definition": "family, household",
+            "hanzi": "\u5bb6",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u5bb6"
+                }
+            ]
+        },
+        "jan": {
+            "definition": "flat, straight, correct, right, proper, table, stand",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u7ad9, \u5f20, \u6b63"
+                }
+            ]
+        },
+        "jao": {
+            "definition": "foot, leg",
+            "hanzi": "\u811a",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u811a"
+                }
+            ]
+        },
+        "je": {
+            "definition": "this, that",
+            "hanzi": "\u8fd9",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u8fd9"
+                }
+            ]
+        },
+        "jek": {
+            "definition": "think, consider, ponder, believe",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u89c9\u5f97"
+                }
+            ]
+        },
+        "jen": {
+            "definition": "person",
+            "hanzi": "\u4eba",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u4eba"
+                }
+            ]
+        },
+        "ji": {
+            "definition": "number, amount, how many, some, ordinal, unit, count",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u51e0, \u7b2c"
+                }
+            ]
+        },
+        "jin": {
+            "definition": "yellow, brown, gold, metal, money",
+            "hanzi": "\u91d1",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u91d1"
+                },
+                {
+                    "language": "es",
+                    "word": "dinero"
+                }
+            ]
+        },
+        "jis": {
+            "definition": "body, form, flesh, meat, organ",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u808c\u8089"
+                }
+            ]
+        },
+        "jo": {
+            "definition": "just, only, already, as soon as",
+            "hanzi": "\u5c31",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u5c31"
+                }
+            ]
+        },
+        "jok": {
+            "definition": "humor, joke",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "joke"
+                }
+            ]
+        },
+        "jon": {
+            "definition": "seed, bean, gamete, gene, sexual, species",
+            "hanzi": "\u79cd",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u79cd"
+                }
+            ]
+        },
+        "ju": {
+            "definition": "tree, plant",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u690d\u7269, \u682a"
+                }
+            ]
+        },
+        "juk": {
+            "definition": "if",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u5982\u679c"
+                }
+            ]
+        },
+        "jun": {
+            "definition": "bacteria, mold",
+            "hanzi": "\u83cc",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u83cc"
+                }
+            ]
+        },
+        "jus": {
+            "definition": "juice, liquid, blood",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "juice"
+                }
+            ]
+        },
+        "ka": {
+            "definition": "fall, drop, down",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "caer"
+                }
+            ]
+        },
+        "kai": {
+            "definition": "start, open, begin, operate",
+            "hanzi": "\u5f00",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u5f00"
+                }
+            ]
+        },
+        "kak": {
+            "definition": "feces",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "caca"
+                }
+            ]
+        },
+        "kan": {
+            "definition": "see, read",
+            "hanzi": "\u770b",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u770b"
+                }
+            ]
+        },
+        "kao": {
+            "definition": "test, inspect",
+            "hanzi": "\u8003",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u8003"
+                }
+            ]
+        },
+        "kas": {
+            "definition": "house, home, building",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "casa"
+                }
+            ]
+        },
+        "ke": {
+            "definition": "what, which",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "qu\u00e9"
+                }
+            ]
+        },
+        "ken": {
+            "definition": "can, may, possible",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "can"
+                }
+            ]
+        },
+        "kes": {
+            "definition": "grow, increase",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "crecer"
+                }
+            ]
+        },
+        "kik": {
+            "definition": "remove, take away, clean off",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "quitar"
+                }
+            ]
+        },
+        "kin": {
+            "definition": "keen, sharp, witty, clever, blade",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "keen"
+                }
+            ]
+        },
+        "kis": {
+            "definition": "kiss",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "kiss"
+                }
+            ]
+        },
+        "ko": {
+            "definition": "door, opening, hole open at both ends",
+            "hanzi": "\u53e3",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u53e3"
+                }
+            ]
+        },
+        "kok": {
+            "definition": "cut, separate",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "cortar"
+                },
+                {
+                    "language": "en",
+                    "word": "cut"
+                }
+            ]
+        },
+        "kon": {
+            "definition": "recognize, be familiar with",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "conocer"
+                }
+            ]
+        },
+        "kos": {
+            "definition": "thing, object, tool",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "cosa"
+                }
+            ]
+        },
+        "ku": {
+            "definition": "bitterness, suffering, unpleasantness, alkali",
+            "hanzi": "\u82e6",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u82e6"
+                }
+            ]
+        },
+        "kuk": {
+            "definition": "cook, prepare",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "cook"
+                }
+            ]
+        },
+        "kus": {
+            "definition": "hear",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "escuchar"
+                }
+            ]
+        },
+        "la": {
+            "definition": "side, edge, end",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "lado"
+                }
+            ]
+        },
+        "lai": {
+            "definition": "come, become, exhortative",
+            "hanzi": "\u6765",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u6765"
+                }
+            ]
+        },
+        "lak": {
+            "definition": "milk",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "lactic"
+                },
+                {
+                    "language": "es",
+                    "word": "l\u00e1cteo"
+                }
+            ]
+        },
+        "lan": {
+            "definition": "blue, body of water, sad, humble",
+            "hanzi": "\u84dd",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u84dd"
+                }
+            ]
+        },
+        "lao": {
+            "definition": "allow, let",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "allow"
+                }
+            ]
+        },
+        "le": {
+            "definition": "type, kind, class",
+            "hanzi": "\u7c7b",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u7c7b"
+                }
+            ]
+        },
+        "lek": {
+            "definition": "electric, electricity",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "electric"
+                },
+                {
+                    "language": "es",
+                    "word": "el\u00e9ctrico"
+                }
+            ]
+        },
+        "len": {
+            "definition": "learn, study",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "learn"
+                }
+            ]
+        },
+        "les": {
+            "definition": "respond, answer, return",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "respond"
+                },
+                {
+                    "language": "es",
+                    "word": "responder"
+                }
+            ]
+        },
+        "li": {
+            "definition": "strong, strength, force",
+            "hanzi": "\u529b",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u529b"
+                }
+            ]
+        },
+        "lik": {
+            "definition": "lightweight, fragile",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "ligero"
+                }
+            ]
+        },
+        "lin": {
+            "definition": "clean, clear",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "limpio"
+                }
+            ]
+        },
+        "lis": {
+            "definition": "ready, clever, ripe",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "listo"
+                }
+            ]
+        },
+        "lo": {
+            "definition": "low, short",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "low"
+                }
+            ]
+        },
+        "lok": {
+            "definition": "lock, fasten, secure",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "lock"
+                }
+            ]
+        },
+        "lon": {
+            "definition": "unique, alone, solitary",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "lone"
+                }
+            ]
+        },
+        "lu": {
+            "definition": "flow, pour, spill, move, circulate",
+            "hanzi": "\u6d41",
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "fluir"
+                },
+                {
+                    "language": "zh",
+                    "word": "\u6d41"
+                }
+            ]
+        },
+        "luk": {
+            "definition": "place, location",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "lugar"
+                }
+            ]
+        },
+        "lun": {
+            "definition": "round, wheel, ball, cycle",
+            "hanzi": "\u8f6e",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u8f6e"
+                }
+            ]
+        },
+        "lus": {
+            "definition": "light, intelligence, clarity",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "luz"
+                }
+            ]
+        },
+        "ma": {
+            "definition": "mother",
+            "hanzi": null,
+            "sources": []
+        },
+        "mai": {
+            "definition": "sell, convince",
+            "hanzi": "\u5356",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u5356"
+                }
+            ]
+        },
+        "mak": {
+            "definition": "machine, contraption, car",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "m\u00e1quina"
+                }
+            ]
+        },
+        "man": {
+            "definition": "slow",
+            "hanzi": "\u6162",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u6162"
+                }
+            ]
+        },
+        "mao": {
+            "definition": "cat",
+            "hanzi": "\u732b",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u732b"
+                }
+            ]
+        },
+        "mas": {
+            "definition": "more, compare, most",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "m\u00e1s"
+                }
+            ]
+        },
+        "me": {
+            "definition": "all, each, every",
+            "hanzi": "\u6bcf",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u6bcf"
+                }
+            ]
+        },
+        "mek": {
+            "definition": "make, construct, create",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "make"
+                }
+            ]
+        },
+        "men": {
+            "definition": "plural, many, much, a lot",
+            "hanzi": "\u4eec",
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "many"
+                },
+                {
+                    "language": "zh",
+                    "word": "\u4eec"
+                }
+            ]
+        },
+        "mes": {
+            "definition": "middle, center, between, among",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "medio"
+                },
+                {
+                    "language": "en",
+                    "word": "middle, meso-"
+                }
+            ]
+        },
+        "mi": {
+            "definition": "1st person",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "me"
+                },
+                {
+                    "language": "es",
+                    "word": "me, mi"
+                }
+            ]
+        },
+        "mik": {
+            "definition": "friend, kind, amicable",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "amigo"
+                }
+            ]
+        },
+        "min": {
+            "definition": "name, word, call, refer",
+            "hanzi": "\u540d",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u540d"
+                }
+            ]
+        },
+        "mo": {
+            "definition": "die, stop, halt, pause",
+            "hanzi": "\u672b",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u672b"
+                },
+                {
+                    "language": "es",
+                    "word": "morir"
+                }
+            ]
+        },
+        "mok": {
+            "definition": "nag, annoy, bother, harass",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "molestar"
+                }
+            ]
+        },
+        "mon": {
+            "definition": "mountain, hill, mound, pile, heap",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "mountain, mound"
+                },
+                {
+                    "language": "es",
+                    "word": "monta\u00f1a"
+                }
+            ]
+        },
+        "mos": {
+            "definition": "must, have to",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "must"
+                }
+            ]
+        },
+        "mu": {
+            "definition": "tree, post, column, wood",
+            "hanzi": "\u6728",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u6728"
+                }
+            ]
+        },
+        "muk": {
+            "definition": "feminine, female",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "mujer"
+                }
+            ]
+        },
+        "mun": {
+            "definition": "moon, month",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "moon"
+                }
+            ]
+        },
+        "mus": {
+            "definition": "mouse, rodent",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "mouse"
+                }
+            ]
+        },
+        "na": {
+            "definition": "swim",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "nadar"
+                }
+            ]
+        },
+        "nai": {
+            "definition": "nine",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "nine"
+                }
+            ]
+        },
+        "nak": {
+            "definition": "nature, character, base, bare, naked",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "naked, nature"
+                },
+                {
+                    "language": "es",
+                    "word": "naturaleza"
+                }
+            ]
+        },
+        "nan": {
+            "definition": "male, masculine; south",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u7537, \u5357"
+                }
+            ]
+        },
+        "nao": {
+            "definition": "brain, mind",
+            "hanzi": "\u8111",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u8111"
+                }
+            ]
+        },
+        "nas": {
+            "definition": "nation, people, ethnicity",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "nation"
+                },
+                {
+                    "language": "es",
+                    "word": "naci\u00f3n"
+                }
+            ]
+        },
+        "ne": {
+            "definition": "system, network, economy, environment, internet",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "net"
+                }
+            ]
+        },
+        "nek": {
+            "definition": "neck, stem",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "neck"
+                }
+            ]
+        },
+        "nen": {
+            "definition": "year; sticky, adhere",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u5e74, \u9ecf"
+                }
+            ]
+        },
+        "nes": {
+            "definition": "essence, abstract noun",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "-ness"
+                }
+            ]
+        },
+        "ni": {
+            "definition": "2nd person",
+            "hanzi": "\u4f60",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u4f60"
+                }
+            ]
+        },
+        "nin": {
+            "definition": "none, nothing, zero",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "ninguno"
+                }
+            ]
+        },
+        "no": {
+            "definition": "no, not",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "no"
+                },
+                {
+                    "language": "en",
+                    "word": "no"
+                }
+            ]
+        },
+        "nok": {
+            "definition": "north",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "north"
+                },
+                {
+                    "language": "es",
+                    "word": "norte"
+                }
+            ]
+        },
+        "non": {
+            "definition": "farm, grow, raise, agriculture",
+            "hanzi": "\u519c",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u519c"
+                }
+            ]
+        },
+        "nos": {
+            "definition": "nose, smell",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "nose"
+                }
+            ]
+        },
+        "nu": {
+            "definition": "new, young",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "new"
+                }
+            ]
+        },
+        "nus": {
+            "definition": "nut, bead",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "nuez"
+                }
+            ]
+        },
+        "o": {
+            "definition": "or, still, other",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "or, other"
+                },
+                {
+                    "language": "es",
+                    "word": "o, otro"
+                }
+            ]
+        },
+        "ok": {
+            "definition": "eight",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "ocho"
+                }
+            ]
+        },
+        "on": {
+            "definition": "fungus, mushroom",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "hongo"
+                }
+            ]
+        },
+        "os": {
+            "definition": "bear",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "oso"
+                }
+            ]
+        },
+        "pa": {
+            "definition": "father",
+            "hanzi": null,
+            "sources": []
+        },
+        "pai": {
+            "definition": "arrange, put in order, oversee, row",
+            "hanzi": "\u6392",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u6392"
+                }
+            ]
+        },
+        "pak": {
+            "definition": "bird",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "p\u00e1jaro"
+                }
+            ]
+        },
+        "pan": {
+            "definition": "bread, rice, starch",
+            "hanzi": "\u996d",
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "pan"
+                },
+                {
+                    "language": "zh",
+                    "word": "\u996d"
+                }
+            ]
+        },
+        "pao": {
+            "definition": "power, energy, run",
+            "hanzi": "\u8dd1",
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "power"
+                },
+                {
+                    "language": "zh",
+                    "word": "\u8dd1"
+                }
+            ]
+        },
+        "pas": {
+            "definition": "pass, cross, across, on the other side of, experiential",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "pasar"
+                },
+                {
+                    "language": "en",
+                    "word": "pass"
+                }
+            ]
+        },
+        "pe": {
+            "definition": "lose, pay, pain, suffer",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "perder, pena"
+                },
+                {
+                    "language": "en",
+                    "word": "pay"
+                }
+            ]
+        },
+        "pek": {
+            "definition": "chest, breast",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "pecho"
+                }
+            ]
+        },
+        "pen": {
+            "definition": "slice, sheet, paper, card, leaf",
+            "hanzi": "\u7247",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u7247"
+                }
+            ]
+        },
+        "pes": {
+            "definition": "weight, mass, importance",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "peso"
+                }
+            ]
+        },
+        "pi": {
+            "definition": "skin, outside, edge, peel, surface",
+            "hanzi": "\u76ae",
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "peel"
+                },
+                {
+                    "language": "es",
+                    "word": "piel"
+                },
+                {
+                    "language": "zh",
+                    "word": "\u76ae"
+                }
+            ]
+        },
+        "pik": {
+            "definition": "picture, image, depiction, explanation",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "picture"
+                }
+            ]
+        },
+        "pin": {
+            "definition": "pin, needle, point, prick, pen",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "pin, pen"
+                }
+            ]
+        },
+        "pis": {
+            "definition": "piece, part, drop, singulative",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "piece"
+                }
+            ]
+        },
+        "po": {
+            "definition": "four",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "four"
+                }
+            ]
+        },
+        "pok": {
+            "definition": "few, little, some, scarce; pig",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "poco"
+                }
+            ]
+        },
+        "pon": {
+            "definition": "put, place, add, set",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "poner"
+                }
+            ]
+        },
+        "pos": {
+            "definition": "position, role, place, status",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "position"
+                },
+                {
+                    "language": "es",
+                    "word": "posici\u00f3n"
+                }
+            ]
+        },
+        "pu": {
+            "definition": "poor, helpless, forlorn, meager, sparse",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "poor"
+                }
+            ]
+        },
+        "puk": {
+            "definition": "conflict, fight, war",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "pugnar"
+                }
+            ]
+        },
+        "pus": {
+            "definition": "complex, difficult",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u590d\u6742"
+                }
+            ]
+        },
+        "sa": {
+            "definition": "know",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "saber"
+                }
+            ]
+        },
+        "sai": {
+            "definition": "vegetable, plant",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u83dc"
+                }
+            ]
+        },
+        "sak": {
+            "definition": "shake, vibrate, sway, move (back and forth)",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "sacudir"
+                }
+            ]
+        },
+        "san": {
+            "definition": "three",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u4e09"
+                }
+            ]
+        },
+        "sao": {
+            "definition": "early, morning; salt",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u65e9"
+                },
+                {
+                    "language": "es",
+                    "word": "sal"
+                },
+                {
+                    "language": "en",
+                    "word": "salt"
+                }
+            ]
+        },
+        "sas": {
+            "definition": "sauce, dressing",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "salsa"
+                },
+                {
+                    "language": "en",
+                    "word": "sauce"
+                }
+            ]
+        },
+        "se": {
+            "definition": "self, reflexive",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "se"
+                }
+            ]
+        },
+        "sek": {
+            "definition": "circle, ring, around, near",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "circle"
+                },
+                {
+                    "language": "es",
+                    "word": "cerca"
+                }
+            ]
+        },
+        "sen": {
+            "definition": "sit",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "sentar"
+                }
+            ]
+        },
+        "ses": {
+            "definition": "six",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "seis"
+                }
+            ]
+        },
+        "so": {
+            "definition": "color",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u8272"
+                }
+            ]
+        },
+        "sok": {
+            "definition": "free, loose, open, relaxed",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u677e\u52a8"
+                },
+                {
+                    "language": "es",
+                    "word": "suelto"
+                }
+            ]
+        },
+        "son": {
+            "definition": "sun, day",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "sun"
+                }
+            ]
+        },
+        "sos": {
+            "definition": "source, origin, root",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "source"
+                }
+            ]
+        },
+        "su": {
+            "definition": "fast, quick",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u901f"
+                }
+            ]
+        },
+        "suk": {
+            "definition": "sugar",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "az\u00facar"
+                }
+            ]
+        },
+        "sun": {
+            "definition": "sour, acid",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u9178"
+                }
+            ]
+        },
+        "sus": {
+            "definition": "dirty, gross, grubby, unwashed",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "sucio"
+                }
+            ]
+        },
+        "ta": {
+            "definition": "3rd person, thing",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u4ed6, \u5979, \u5b83"
+                }
+            ]
+        },
+        "tai": {
+            "definition": "knot, tie, join, connect, relate",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "tie"
+                }
+            ]
+        },
+        "tan": {
+            "definition": "lie, recline",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u8eba"
+                }
+            ]
+        },
+        "tao": {
+            "definition": "thousand",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "thousand"
+                }
+            ]
+        },
+        "tas": {
+            "definition": "cup, bowl",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "taza, taz\u00f3n"
+                }
+            ]
+        },
+        "te": {
+            "definition": "fabric, cloth, clothing",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "tela"
+                }
+            ]
+        },
+        "tek": {
+            "definition": "take, buy",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "take"
+                }
+            ]
+        },
+        "ten": {
+            "definition": "ten",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "ten"
+                }
+            ]
+        },
+        "tes": {
+            "definition": "test, taste, try to",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "test, taste"
+                }
+            ]
+        },
+        "to": {
+            "definition": "head, individual",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u5934"
+                }
+            ]
+        },
+        "tok": {
+            "definition": "touch, feel, play (instrument)",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "tocar"
+                }
+            ]
+        },
+        "ton": {
+            "definition": "same, common, like, as",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u540c"
+                }
+            ]
+        },
+        "tos": {
+            "definition": "throw, throw out, reject",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "toss"
+                }
+            ]
+        },
+        "tu": {
+            "definition": "ground, land, dirt, territory",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u571f"
+                }
+            ]
+        },
+        "tun": {
+            "definition": "music, harmony",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "tune"
+                }
+            ]
+        },
+        "tus": {
+            "definition": "tooth",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "tooth"
+                }
+            ]
+        },
+        "u": {
+            "definition": "without, lacking",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u65e0"
+                }
+            ]
+        },
+        "un": {
+            "definition": "one, a, some, any",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "un, uno"
+                }
+            ]
+        },
+        "wa": {
+            "definition": "water, liquid",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "water"
+                }
+            ]
+        },
+        "wai": {
+            "definition": "white, pale",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "white"
+                }
+            ]
+        },
+        "wak": {
+            "definition": "walk, move",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "walk"
+                }
+            ]
+        },
+        "wan": {
+            "definition": "late, night",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u665a"
+                }
+            ]
+        },
+        "wao": {
+            "definition": "wow, (exclamation)",
+            "hanzi": null,
+            "sources": []
+        },
+        "we": {
+            "definition": "way, state, manner, reason, in order to",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "way"
+                },
+                {
+                    "language": "zh",
+                    "word": "\u4e3a"
+                }
+            ]
+        },
+        "wek": {
+            "definition": "alert, awake, wait, anticipate",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "wake"
+                }
+            ]
+        },
+        "wen": {
+            "definition": "soft, tender, mild, smooth, easy, warm",
+            "hanzi": "\u6e29",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u6e29"
+                }
+            ]
+        },
+        "wes": {
+            "definition": "bone, west",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "hueso, oeste"
+                },
+                {
+                    "language": "en",
+                    "word": "west"
+                }
+            ]
+        },
+        "wik": {
+            "definition": "weak, tired",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "weak"
+                }
+            ]
+        },
+        "win": {
+            "definition": "wind, smell, atmosphere",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "wind"
+                }
+            ]
+        },
+        "wo": {
+            "definition": "fire",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u706b"
+                }
+            ]
+        },
+        "wok": {
+            "definition": "work, labor, position, role",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "work"
+                }
+            ]
+        },
+        "won": {
+            "definition": "ask, request, problem, issue",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u95ee"
+                }
+            ]
+        },
+        "xa": {
+            "definition": "sand, powder",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u6c99"
+                }
+            ]
+        },
+        "xak": {
+            "definition": "shut, closed",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "shut"
+                }
+            ]
+        },
+        "xan": {
+            "definition": "top, over",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u4e0a"
+                }
+            ]
+        },
+        "xao": {
+            "definition": "small, young",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u5c0f"
+                }
+            ]
+        },
+        "xe": {
+            "definition": "write",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u5199"
+                }
+            ]
+        },
+        "xek": {
+            "definition": "seven",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "es",
+                    "word": "siete"
+                }
+            ]
+        },
+        "xen": {
+            "definition": "deep, rich, saturated",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u6df1"
+                }
+            ]
+        },
+        "xi": {
+            "definition": "happy, pleased, enjoy, interest",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u559c"
+                }
+            ]
+        },
+        "xik": {
+            "definition": "chic, hip, cool",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "chic"
+                }
+            ]
+        },
+        "xin": {
+            "definition": "star, point, week",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u661f"
+                }
+            ]
+        },
+        "xo": {
+            "definition": "hand, arm, five",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u624b"
+                }
+            ]
+        },
+        "xok": {
+            "definition": "stone, rock, hard, stiff",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u77f3\u5934"
+                }
+            ]
+        },
+        "xos": {
+            "definition": "rest, sleep",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u4f11\u606f, \u7761\u89c9"
+                }
+            ]
+        },
+        "xu": {
+            "definition": "shoe",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "shoe"
+                }
+            ]
+        },
+        "xuk": {
+            "definition": "thank",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "ar",
+                    "word": "\u0634\u0643\u0631\u0627"
+                }
+            ]
+        },
+        "xun": {
+            "definition": "obey",
+            "hanzi": "\u987a",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u987a"
+                }
+            ]
+        },
+        "ya": {
+            "definition": "press, push, control, print",
+            "hanzi": "\u538b",
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u538b"
+                }
+            ]
+        },
+        "yai": {
+            "definition": "(exclamation of distress)",
+            "hanzi": null,
+            "sources": []
+        },
+        "yan": {
+            "definition": "sheep, goat",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "羊"
+                }
+            ]
+        },
+        "yao": {
+            "definition": "want, need",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "要"
+                }
+            ]
+        },
+        "ye": {
+            "definition": "also, too",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "也"
+                }
+            ]
+        },
+        "yen": {
+            "definition": "eye, personality, character, soul",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "眼"
+                }
+            ]
+        },
+        "yes": {
+            "definition": "yes, indeed",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "yes"
+                }
+            ]
+        },
+        "yo": {
+            "definition": "have, own, there is",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "有"
+                }
+            ]
+        },
+        "yos": {
+            "definition": "oil, fat, grease",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u6cb9\u8102"
+                }
+            ]
+        },
+        "yu": {
+            "definition": "fish",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "鱼"
+                }
+            ]
+        },
+        "yun": {
+            "definition": "cloud, fog, mist, steam, vapor",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "云"
+                }
+            ]
+        },
+        "yus": {
+            "definition": "use",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "en",
+                    "word": "use"
+                }
+            ]
+        }
+    },
+    "undefined_roots": {
+        "cak": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "can": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "cok": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "cos": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "cuk": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "das": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "duk": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "dun": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "dus": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "gak": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "gen": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "ges": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "gis": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "guk": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "hek": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "hus": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "ik": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "jai": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "jak": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "jas": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "jes": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "jik": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "jos": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "kek": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "ki": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "kun": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "las": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "los": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "mis": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "nik": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "nis": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "nuk": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "nun": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "pun": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "tak": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "tuk": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "uk": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "us": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "was": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "wi": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "wis": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "wos": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "xai": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "xas": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "xes": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "xis": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "xon": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "xus": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "yak": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "yas": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "yek": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "yok": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "yon": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        },
+        "yuk": {
+            "definition": null,
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": null,
+                    "word": null
+                }
+            ]
+        }
     }
 }
