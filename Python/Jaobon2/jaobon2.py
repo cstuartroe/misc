@@ -24,6 +24,8 @@ EMPTY_ROOT = {
     "hanzi": None
 }
 
+LEVEL_NAMES = ["nature", "pta", "food", "profs", "society"]
+
 
 def possible_syllables():
     syllables = set()
@@ -36,6 +38,15 @@ def possible_syllables():
                 syllables.add(syll)
 
     return syllables
+
+
+def join_syllables(sylls):
+    out = sylls[0]
+    for syll in sylls[1:]:
+        if syll[0] in "aeiou":
+            out += "'"
+        out += syll
+    return out
 
 
 if os.path.exists(FILENAME):
@@ -73,9 +84,6 @@ if "makesylls" in sys.argv:
 
     print(f"{len(jaobon_json['roots'])} roots defined.")
 
-    with open(FILENAME, "w") as fh:
-        json.dump(jaobon_json, fh, indent=4, sort_keys=True)
-
 elif "sources" in sys.argv:
     sources = {}
     num_sources = 0
@@ -95,9 +103,32 @@ elif "sources" in sys.argv:
               f"({str(round(100*count/(num_sources if '-c' in sys.argv else len(jaobon_json['roots'])))).rjust(2,' ')}%) "
               f"{lang} sources listed.")
 
+elif "validate" in sys.argv:
+    for c in jaobon_json["compounds"]:
+        try:
+            assert(type(c["definition"]) == str)
+            assert(all(s in jaobon_json["roots"] for s in c["syllables"]))
+            assert(len(c["tags"]) > 0)
+            assert(all(t in LEVEL_NAMES for t in c["tags"]))
+        except BaseException as e:
+            print(f"{type(e).__name__}: {e}")
+            print(json.dumps(c, indent=2))
 
 elif "csv" in sys.argv:
     sorted_sylls = sorted(list(jaobon_json["roots"].keys()))
     with open("sylls.csv", "w") as fh:
         for syll in sorted_sylls:
-            fh.write(f"{syll}\t{jaobon_json['roots'][syll]['definition'] or '...'}\n")
+            fh.write(f"{syll}\t{jaobon_json['roots'][syll]['definition']}\n")
+
+    for level_name in LEVEL_NAMES:
+        compounds = [c for c in jaobon_json["compounds"]
+                     if level_name in c["tags"]]
+        compounds.sort(key=lambda c: join_syllables(c['syllables']))
+
+        with open(f"{level_name}.csv", "w") as fh:
+            for c in compounds:
+                fh.write(f"{join_syllables(c['syllables'])}\t{c['definition']}\n")
+
+
+with open(FILENAME, "w") as fh:
+    json.dump(jaobon_json, fh, indent=4, sort_keys=True)

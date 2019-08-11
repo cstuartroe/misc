@@ -63,8 +63,7 @@
         {
             "definition": "bus",
             "syllables": [
-                "chao",
-                "dao",
+                "gon",
                 "ce"
             ],
             "tags": [
@@ -132,10 +131,40 @@
             ]
         },
         {
+            "definition": "roadway",
+            "syllables": [
+                "ce",
+                "dao"
+            ],
+            "tags": [
+                "pta"
+            ]
+        },
+        {
             "definition": "thoroughfare",
             "syllables": [
                 "lu",
-                "luk"
+                "dao"
+            ],
+            "tags": [
+                "pta"
+            ]
+        },
+        {
+            "definition": "highway",
+            "syllables": [
+                "su",
+                "dao"
+            ],
+            "tags": [
+                "pta"
+            ]
+        },
+        {
+            "definition": "bus stop",
+            "syllables": [
+                "ce",
+                "jan"
             ],
             "tags": [
                 "pta"
@@ -144,12 +173,294 @@
         {
             "definition": "station, hub",
             "syllables": [
-                "lai",
-                "cu",
-                "luk"
+                "lu",
+                "jan"
             ],
             "tags": [
                 "pta"
+            ]
+        },
+        {
+            "definition": "main/central station",
+            "syllables": [
+                "to",
+                "lu",
+                "jan"
+            ],
+            "tags": [
+                "pta"
+            ]
+        },
+        {
+            "definition": "airport",
+            "syllables": [
+                "bo",
+                "jan"
+            ],
+            "tags": [
+                "pta"
+            ]
+        },
+        {
+            "definition": "boat port",
+            "syllables": [
+                "wa",
+                "jan"
+            ],
+            "tags": [
+                "pta"
+            ]
+        },
+        {
+            "definition": "steering wheel",
+            "syllables": [
+                "gi",
+                "sek"
+            ],
+            "tags": [
+                "pta"
+            ]
+        },
+        {
+            "definition": "flower",
+            "syllables": [
+                "so",
+                "cek"
+            ],
+            "tags": [
+                "nature"
+            ]
+        },
+        {
+            "definition": "rainbow",
+            "syllables": [
+                "so",
+                "cao"
+            ],
+            "tags": [
+                "nature"
+            ]
+        },
+        {
+            "definition": "grass, lawn",
+            "syllables": [
+                "mao",
+                "ju"
+            ],
+            "tags": [
+                "nature"
+            ]
+        },
+        {
+            "definition": "fork",
+            "syllables": [
+                "pin",
+                "gek"
+            ],
+            "tags": [
+                "food"
+            ]
+        },
+        {
+            "definition": "knife",
+            "syllables": [
+                "kin",
+                "cek"
+            ],
+            "tags": [
+                "food"
+            ]
+        },
+        {
+            "definition": "science, body of knowledge",
+            "syllables": [
+                "sa",
+                "ga"
+            ],
+            "tags": [
+                "profs"
+            ]
+        },
+        {
+            "definition": "physics",
+            "syllables": [
+                "pao",
+                "sa",
+                "ga"
+            ],
+            "tags": [
+                "profs"
+            ]
+        },
+        {
+            "definition": "chemistry",
+            "syllables": [
+                "us",
+                "sa",
+                "ga"
+            ],
+            "tags": [
+                "profs"
+            ]
+        },
+        {
+            "definition": "biology",
+            "syllables": [
+                "cun",
+                "sa",
+                "ga"
+            ],
+            "tags": [
+                "profs"
+            ]
+        },
+        {
+            "definition": "psychology",
+            "syllables": [
+                "nao",
+                "sa",
+                "ga"
+            ],
+            "tags": [
+                "profs"
+            ]
+        },
+        {
+            "definition": "linguistics",
+            "syllables": [
+                "des",
+                "we",
+                "sa",
+                "ga"
+            ],
+            "tags": [
+                "profs"
+            ]
+        },
+        {
+            "definition": "sociology",
+            "syllables": [
+                "sos",
+                "sa",
+                "ga"
+            ],
+            "tags": [
+                "profs"
+            ]
+        },
+        {
+            "definition": "political science",
+            "syllables": [
+                "sos",
+                "gi",
+                "sa",
+                "ga"
+            ],
+            "tags": [
+                "profs"
+            ]
+        },
+        {
+            "definition": "anthropology",
+            "syllables": [
+                "jen",
+                "sa",
+                "ga"
+            ],
+            "tags": [
+                "profs"
+            ]
+        },
+        {
+            "definition": "history",
+            "syllables": [
+                "cu",
+                "ho",
+                "sa",
+                "ga"
+            ],
+            "tags": [
+                "profs"
+            ]
+        },
+        {
+            "definition": "beef",
+            "syllables": [
+                "bak",
+                "jis"
+            ],
+            "tags": [
+                "food"
+            ]
+        },
+        {
+            "definition": "chicken meat",
+            "syllables": [
+                "cik",
+                "jis"
+            ],
+            "tags": [
+                "food"
+            ]
+        },
+        {
+            "definition": "pork",
+            "syllables": [
+                "pok",
+                "jis"
+            ],
+            "tags": [
+                "food"
+            ]
+        },
+        {
+            "definition": "mutton",
+            "syllables": [
+                "yan",
+                "jis"
+            ],
+            "tags": [
+                "food"
+            ]
+        },
+        {
+            "definition": "fish meat",
+            "syllables": [
+                "yu",
+                "jis"
+            ],
+            "tags": [
+                "food"
+            ]
+        },
+        {
+            "definition": "lawyer",
+            "syllables": [
+                "kao",
+                "ges"
+            ],
+            "tags": [
+                "profs"
+            ]
+        },
+        {
+            "definition": "student",
+            "syllables": [
+                "xes",
+                "jen"
+            ],
+            "tags": [
+                "profs"
+            ]
+        },
+        {
+            "definition": "teacher, professor",
+            "syllables": [
+                "as",
+                "xes"
+            ],
+            "tags": [
+                "profs"
             ]
         }
     ],
@@ -408,7 +719,7 @@
             ]
         },
         "bu": {
-            "definition": "turn, return, backward, reflect",
+            "definition": "turn, return, backward, reflect, opposite",
             "hanzi": null,
             "sources": [
                 {
@@ -473,7 +784,7 @@
             ]
         },
         "cao": {
-            "definition": "long, string, extreme, hair",
+            "definition": "long, string, strip, ribbon, extreme",
             "hanzi": null,
             "sources": [
                 {
@@ -503,7 +814,7 @@
             ]
         },
         "cek": {
-            "definition": "(diminutive suffix))",
+            "definition": "(diminutive suffix)",
             "hanzi": null,
             "sources": [
                 {
@@ -925,6 +1236,16 @@
                 }
             ]
         },
+        "ges": {
+            "definition": "rule, law",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u89c4\u5219, \u683c"
+                }
+            ]
+        },
         "gi": {
             "definition": "guide, steer, direct, lead, govern",
             "hanzi": null,
@@ -1239,12 +1560,16 @@
             ]
         },
         "is": {
-            "definition": "left",
+            "definition": "left; art, skill, craft",
             "hanzi": null,
             "sources": [
                 {
                     "language": "es",
                     "word": "izquierda"
+                },
+                {
+                    "language": "zh",
+                    "word": "\u827a\u672f"
                 }
             ]
         },
@@ -1269,7 +1594,7 @@
             ]
         },
         "jan": {
-            "definition": "flat, straight, correct, right, proper, stand",
+            "definition": "flat, straight, correct, right, proper, stand, station",
             "hanzi": null,
             "sources": [
                 {
@@ -1285,6 +1610,16 @@
                 {
                     "language": "zh",
                     "word": "\u811a"
+                }
+            ]
+        },
+        "jas": {
+            "definition": "true, real, genuine, serious",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u771f\u5b9e"
                 }
             ]
         },
@@ -1315,6 +1650,16 @@
                 {
                     "language": "zh",
                     "word": "\u4eba"
+                }
+            ]
+        },
+        "jes": {
+            "definition": "advise, comment, suggest",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u6307\u6559, \u652f\u62db"
                 }
             ]
         },
@@ -2518,7 +2863,7 @@
             "sources": [
                 {
                     "language": "es",
-                    "word": "poco"
+                    "word": "poco, puerco"
                 }
             ]
         },
@@ -2538,7 +2883,7 @@
             "sources": [
                 {
                     "language": "en",
-                    "word": "position"
+                    "word": "position, post"
                 },
                 {
                     "language": "es",
@@ -2738,7 +3083,7 @@
             "sources": [
                 {
                     "language": "en",
-                    "word": "society"
+                    "word": "social, society"
                 },
                 {
                     "language": "es",
@@ -3531,16 +3876,6 @@
                 }
             ]
         },
-        "ges": {
-            "definition": null,
-            "hanzi": null,
-            "sources": [
-                {
-                    "language": null,
-                    "word": null
-                }
-            ]
-        },
         "gis": {
             "definition": null,
             "hanzi": null,
@@ -3562,26 +3897,6 @@
             ]
         },
         "jai": {
-            "definition": null,
-            "hanzi": null,
-            "sources": [
-                {
-                    "language": null,
-                    "word": null
-                }
-            ]
-        },
-        "jas": {
-            "definition": null,
-            "hanzi": null,
-            "sources": [
-                {
-                    "language": null,
-                    "word": null
-                }
-            ]
-        },
-        "jes": {
             "definition": null,
             "hanzi": null,
             "sources": [
