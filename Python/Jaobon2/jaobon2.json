@@ -384,6 +384,17 @@
             ]
         },
         {
+            "definition": "medical science",
+            "syllables": [
+                "los",
+                "sa",
+                "ga"
+            ],
+            "tags": [
+                "profs"
+            ]
+        },
+        {
             "definition": "beef",
             "syllables": [
                 "bak",
@@ -775,7 +786,7 @@
         },
         "can": {
             "definition": "wall, barrier, block",
-            "hanzi": null,
+            "hanzi": "\u5899",
             "sources": [
                 {
                     "language": "zh",
@@ -924,7 +935,7 @@
             ]
         },
         "cun": {
-            "definition": "vitality, life, lust, spring",
+            "definition": "vitality, life, lust, spring, alive",
             "hanzi": "\u6625",
             "sources": [
                 {
@@ -1095,7 +1106,7 @@
         },
         "dun": {
             "definition": "shield, guard, cover",
-            "hanzi": null,
+            "hanzi": "\u76fe",
             "sources": [
                 {
                     "language": "zh",
@@ -1109,7 +1120,7 @@
             "sources": []
         },
         "ek": {
-            "definition": "far, distant, foreign, outside",
+            "definition": "far, distant, foreign, outside, apart",
             "hanzi": null,
             "sources": [
                 {
@@ -1228,7 +1239,7 @@
         },
         "gen": {
             "definition": "root, source, origin",
-            "hanzi": null,
+            "hanzi": "\u6839",
             "sources": [
                 {
                     "language": "zh",
@@ -1353,7 +1364,7 @@
         },
         "hai": {
             "definition": "still, yet, additional, surplus, also",
-            "hanzi": null,
+            "hanzi": "\u8fd8",
             "sources": [
                 {
                     "language": "zh",
@@ -1973,7 +1984,7 @@
         },
         "kun": {
             "definition": "fear, afraid",
-            "hanzi": null,
+            "hanzi": "\u6050",
             "sources": [
                 {
                     "language": "zh",
@@ -2170,6 +2181,16 @@
                 {
                     "language": "en",
                     "word": "lone"
+                }
+            ]
+        },
+        "los": {
+            "definition": "heal, healthy",
+            "hanzi": null,
+            "sources": [
+                {
+                    "language": "zh",
+                    "word": "\u7597\u4f24"
                 }
             ]
         },
@@ -2943,7 +2964,7 @@
         },
         "sai": {
             "definition": "vegetable, plant",
-            "hanzi": null,
+            "hanzi": "\u83dc",
             "sources": [
                 {
                     "language": "zh",
@@ -2963,7 +2984,7 @@
         },
         "san": {
             "definition": "three",
-            "hanzi": null,
+            "hanzi": "\u4e09",
             "sources": [
                 {
                     "language": "zh",
@@ -2973,7 +2994,7 @@
         },
         "sao": {
             "definition": "early, morning; salt",
-            "hanzi": null,
+            "hanzi": "\u65e9",
             "sources": [
                 {
                     "language": "zh",
@@ -3049,7 +3070,7 @@
         },
         "so": {
             "definition": "color",
-            "hanzi": null,
+            "hanzi": "\u8272",
             "sources": [
                 {
                     "language": "zh",
@@ -3093,7 +3114,7 @@
         },
         "su": {
             "definition": "fast, quick",
-            "hanzi": null,
+            "hanzi": "\u901f",
             "sources": [
                 {
                     "language": "zh",
@@ -3113,7 +3134,7 @@
         },
         "sun": {
             "definition": "sour, acid",
-            "hanzi": null,
+            "hanzi": "\u9178",
             "sources": [
                 {
                     "language": "zh",
@@ -3163,7 +3184,7 @@
         },
         "tan": {
             "definition": "lie, recline",
-            "hanzi": null,
+            "hanzi": "\u8eba",
             "sources": [
                 {
                     "language": "zh",
@@ -3233,7 +3254,7 @@
         },
         "to": {
             "definition": "head, individual",
-            "hanzi": null,
+            "hanzi": "\u5934",
             "sources": [
                 {
                     "language": "zh",
@@ -3253,7 +3274,7 @@
         },
         "ton": {
             "definition": "same, common, like, as",
-            "hanzi": null,
+            "hanzi": "\u540c",
             "sources": [
                 {
                     "language": "zh",
@@ -3273,7 +3294,7 @@
         },
         "tu": {
             "definition": "ground, land, dirt, territory",
-            "hanzi": null,
+            "hanzi": "\u571f",
             "sources": [
                 {
                     "language": "zh",
@@ -3303,7 +3324,7 @@
         },
         "u": {
             "definition": "without, lacking",
-            "hanzi": null,
+            "hanzi": "\u65e0",
             "sources": [
                 {
                     "language": "zh",
@@ -3363,7 +3384,7 @@
         },
         "wan": {
             "definition": "late, night",
-            "hanzi": null,
+            "hanzi": "\u665a",
             "sources": [
                 {
                     "language": "zh",
@@ -3378,7 +3399,7 @@
         },
         "we": {
             "definition": "way, state, manner, reason, in order to",
-            "hanzi": null,
+            "hanzi": "\u4e3a",
             "sources": [
                 {
                     "language": "en",
@@ -3426,7 +3447,7 @@
         },
         "wi": {
             "definition": "flavor, style, taste, preference",
-            "hanzi": null,
+            "hanzi": "\u5473",
             "sources": [
                 {
                     "language": "zh",
@@ -3466,7 +3487,7 @@
         },
         "wo": {
             "definition": "fire",
-            "hanzi": null,
+            "hanzi": "\u706b",
             "sources": [
                 {
                     "language": "zh",
@@ -3486,7 +3507,7 @@
         },
         "won": {
             "definition": "ask, request, problem, issue",
-            "hanzi": null,
+            "hanzi": "\u95ee",
             "sources": [
                 {
                     "language": "zh",
@@ -3496,7 +3517,7 @@
         },
         "xa": {
             "definition": "sand, powder",
-            "hanzi": null,
+            "hanzi": "\u6c99",
             "sources": [
                 {
                     "language": "zh",
@@ -3516,7 +3537,7 @@
         },
         "xan": {
             "definition": "top, over",
-            "hanzi": null,
+            "hanzi": "\u4e0a",
             "sources": [
                 {
                     "language": "zh",
@@ -3526,7 +3547,7 @@
         },
         "xao": {
             "definition": "small, young",
-            "hanzi": null,
+            "hanzi": "\u5c0f",
             "sources": [
                 {
                     "language": "zh",
@@ -3536,7 +3557,7 @@
         },
         "xe": {
             "definition": "write",
-            "hanzi": null,
+            "hanzi": "\u5199",
             "sources": [
                 {
                     "language": "zh",
@@ -3556,7 +3577,7 @@
         },
         "xen": {
             "definition": "deep, rich, saturated",
-            "hanzi": null,
+            "hanzi": "\u6df1",
             "sources": [
                 {
                     "language": "zh",
@@ -3576,7 +3597,7 @@
         },
         "xi": {
             "definition": "happy, pleased, enjoy, interest",
-            "hanzi": null,
+            "hanzi": "\u559c",
             "sources": [
                 {
                     "language": "zh",
@@ -3596,7 +3617,7 @@
         },
         "xin": {
             "definition": "star, point, week",
-            "hanzi": null,
+            "hanzi": "\u661f",
             "sources": [
                 {
                     "language": "zh",
@@ -3616,7 +3637,7 @@
         },
         "xo": {
             "definition": "hand, arm, five",
-            "hanzi": null,
+            "hanzi": "\u624b",
             "sources": [
                 {
                     "language": "zh",
@@ -3636,7 +3657,7 @@
         },
         "xon": {
             "definition": "sibling",
-            "hanzi": null,
+            "hanzi": "\u5144",
             "sources": [
                 {
                     "language": "zh",
@@ -3706,7 +3727,7 @@
         },
         "yan": {
             "definition": "sheep, goat",
-            "hanzi": null,
+            "hanzi": "\u7f8a",
             "sources": [
                 {
                     "language": "zh",
@@ -3716,7 +3737,7 @@
         },
         "yao": {
             "definition": "want, need",
-            "hanzi": null,
+            "hanzi": "\u8981",
             "sources": [
                 {
                     "language": "zh",
@@ -3726,7 +3747,7 @@
         },
         "ye": {
             "definition": "also, too",
-            "hanzi": null,
+            "hanzi": "\u4e5f",
             "sources": [
                 {
                     "language": "zh",
@@ -3736,7 +3757,7 @@
         },
         "yen": {
             "definition": "eye, personality, character, soul",
-            "hanzi": null,
+            "hanzi": "\u773c",
             "sources": [
                 {
                     "language": "zh",
@@ -3756,7 +3777,7 @@
         },
         "yo": {
             "definition": "have, own, there is",
-            "hanzi": null,
+            "hanzi": "\u6709",
             "sources": [
                 {
                     "language": "zh",
@@ -3776,7 +3797,7 @@
         },
         "yon": {
             "definition": "leap, jump, bounce",
-            "hanzi": null,
+            "hanzi": "\u8e0a",
             "sources": [
                 {
                     "language": "zh",
@@ -3796,7 +3817,7 @@
         },
         "yu": {
             "definition": "fish",
-            "hanzi": null,
+            "hanzi": "\u9c7c",
             "sources": [
                 {
                     "language": "zh",
@@ -3806,7 +3827,7 @@
         },
         "yun": {
             "definition": "cloud, fog, mist, steam, vapor",
-            "hanzi": null,
+            "hanzi": "\u4e91",
             "sources": [
                 {
                     "language": "zh",
@@ -3917,16 +3938,6 @@
             ]
         },
         "ki": {
-            "definition": null,
-            "hanzi": null,
-            "sources": [
-                {
-                    "language": null,
-                    "word": null
-                }
-            ]
-        },
-        "los": {
             "definition": null,
             "hanzi": null,
             "sources": [

@@ -1,3 +1,6 @@
 *.class
 *.java~
 __pycache__
+venv
+.idea
+Python/Jaobon2/*.csv
