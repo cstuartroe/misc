@@ -1,0 +1,26 @@
+{
+  "completed": true,
+  "locales": {
+    "San_Mateo,_California": {
+      "latitude": -37.55417,
+      "longitude": -122.31306,
+      "name": "San Mateo, California",
+      "max_avg_high": 25,
+      "min_avg_high": 13
+    },
+    "Sierra_de_Ju%C3%A1rez": {
+      "latitude": -31.3034,
+      "longitude": -115.325,
+      "name": "Sierra de Juárez",
+      "max_avg_high": 28.4,
+      "min_avg_high": 11.7
+    },
+    "San_Gregorio,_California": {
+      "latitude": -37.32722,
+      "longitude": -122.38667,
+      "name": "San Gregorio, California",
+      "max_avg_high": null,
+      "min_avg_high": null
+    }
+  }
+}
