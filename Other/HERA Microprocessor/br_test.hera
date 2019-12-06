@@ -1,0 +1,13 @@
+#include <HERA.h>
+#include <HERA-print.h>
+
+void HERA_main()
+{
+    CBON()
+    BR(unconditional)
+    SET(R2, 15)
+    print_reg(R2)
+    LABEL(unconditional)
+    SET(R1, 5)
+    print_reg(R1)
+}

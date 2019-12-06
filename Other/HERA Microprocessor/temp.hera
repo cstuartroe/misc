@@ -1,0 +1,12 @@
+#include <HERA.h>
+
+void HERA_main() {
+    SETLO(R4, 2)
+    SETLO(R3, 1)
+    STORE(R4, 0, R3)
+    SETLO(R2, 15)
+    LOAD(R1, 0, R3)
+    ADD(R2, R1, R2)
+    ADD(R2, R2, R2)
+}
+

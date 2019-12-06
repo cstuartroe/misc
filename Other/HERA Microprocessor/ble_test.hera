@@ -1,0 +1,13 @@
+#include <HERA.h>
+
+void HERA_main()
+{
+    CBON()
+    SET(R1, 3)
+    SET(R2, 1)
+    LABEL(start)
+    SUB(R1, R1, R2)
+    BLE(end)
+    BG(start)
+    LABEL(end)
+
