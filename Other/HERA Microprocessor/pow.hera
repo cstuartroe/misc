@@ -1,0 +1,62 @@
+#include <HERA.h>
+
+void HERA_main() {
+    CBON()
+    BR(main)
+    
+    LABEL(pow)
+    print_reg(FP)
+    print_reg(SP)
+    STORE(SP, 0, FP)
+    STORE(R13, 1, FP)
+
+    SETLO(R1, 5)
+    ADD(SP, FP, R1)
+
+    LOAD(R1, 2, FP)
+    LOAD(R2, 3, FP)
+    print_reg(R1)
+    print_reg(R2)
+    ASR(R0, R2)
+    BC(if_odd)
+   
+    LABEL(if_even)
+    SUB(R0, R2, R0)
+    BZ(copyreturn)
+
+    MUL(R1, R1, R1)
+    ASR(R2, R2)
+
+    STORE(R1, 2, SP)
+    STORE(R2, 3, SP)
+    CALL(SP, pow)
+
+    LABEL(copyreturn)
+
+    LOAD(R3, 4, SP)
+    STORE(R3, 4, FP)
+
+    BR(returning)    
+
+    LABEL(if_odd)
+    STORE(R1, 2, SP)
+    DEC(R2, 1)
+    STORE(R2, 3, SP)
+    CALL(SP, pow)
+    LOAD(R3, 4, SP)
+    MUL(R3, R3, R1)
+    STORE(R3, 4, FP)
+
+    LABEL(returning)
+    LOAD(R12, 0, FP)
+    LOAD(R13, 1, FP)
+    RETURN(R12, R13)
+
+    LABEL(main)
+    SETLO(SP, 2)
+    SETLO(R1, 3)
+    SETLO(R2, 3)
+    STORE(R1, 2, SP)
+    STORE(R2, 3, SP)
+    CALL(SP, pow)
+}
