@@ -1,5 +1,5 @@
 from scales import SCALE_REFS, DEGREE_REFS, DEGREES_31EDO
-from find_scales import interval_diversity, count_interval, count18s, count_chord_richness, count_total_chords
+from find_scales import interval_diversity, count_interval, count18s, count_chord_richness, count_total_chords, proper
 
 
 def print_scales(scale_name, edo):
@@ -30,7 +30,7 @@ def print_cents(scale_name, edo):
 #    print_scales(l)
 
 
-def scale_info(scale_name):
+def scale_info(scale_name, extra_lines=None):
     print(scale_name)
     print_scales(scale_name, 31)
     print_cents(scale_name, 31)
@@ -39,9 +39,14 @@ def scale_info(scale_name):
     print("Total interval diversity: %d/31" % interval_diversity(scale))
     print(*[(DEGREES_31EDO[i], count_interval(scale, i)) for i in range(32)])
     print("Total chords:", *[count_total_chords(scale, [third]) for third in [7, 8, 9, 10, 11]])
+    print("Proper:", proper(scale))
+    for line in extra_lines or []:
+        print(line)
     print()
 
 
 if __name__ == "__main__":
-    for scale in ("2,6 dioudeteric modified dodecatonic", "god chromatic A", "god chromatic B"):
+    for scale in ("ultra melodic heptatonic",  "melodic octatonic 27 A",  "melodic octatonic 27 B",
+                  "melodic dodecatonic 27",  "melodic octatonic 31 A",  "melodic octatonic 31 B",
+                  "ultra melodic nonatonic", "melodic dodecatonic 31", "no-step melodic nonatonic"):
         scale_info(scale)

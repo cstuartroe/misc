@@ -1,3 +1,5 @@
+import sys
+
 from scales import SCALES_31EDO
 from scale_info import scale_info
 from find_scales import find_canon_rotation, all_subscales
@@ -40,9 +42,36 @@ def find_subscales(scale, priorities_function, length):
         print(*subscale_stats, *this_scale_names)
 
 
-if __name__ == "__main__":
-    for scale_name in modified_dioudeteric_family:
-        scale_info(scale_name)
+KEY_NAMES = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"]
 
-    # find_subscales(SCALES_31EDO["chromatic theta"], dioudeteric_priorities, 7)
-    # find_subscales(SCALES_31EDO["2,6 dioudeteric modified dodecatonic"], unknown_priorities, 9)
+
+def find_keys(subscale, parent_scale):
+    subscale_pos = 0
+    steps = 0
+    yield KEY_NAMES[0]
+    for i, step in enumerate(parent_scale):
+        steps += step
+        if steps == subscale[subscale_pos]:
+            steps = 0
+            subscale_pos += 1
+            yield KEY_NAMES[(i+1) % 12]
+
+
+def print_family(parent_scale_name, lengths=(6, 7, 8, 9, 10, 12)):
+    parent_scale = SCALES_31EDO[parent_scale_name]
+    subscales = {}
+    for length in lengths:
+        subscales[length] = all_subscales(parent_scale, length)
+
+    named_subscales = []
+    for name, scale in SCALES_31EDO.items():
+        if find_canon_rotation(tuple(scale)) in subscales.get(len(scale), []):
+            named_subscales.append((name, scale))
+    named_subscales.sort(key=lambda x: len(x[1]))
+
+    for name, scale in named_subscales:
+        scale_info(name, [f"Keys: {' '.join(list(find_keys(scale, parent_scale)))}"])
+
+
+if __name__ == "__main__":
+    print_family(sys.argv[1])

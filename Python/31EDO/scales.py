@@ -173,7 +173,27 @@ SCALES_31EDO = {
 
   "god chromatic B": [3, 2, 4, 1, 3, 3, 2, 3, 2, 3, 1, 4],
   "double 2 dim5 sus heptatonic": [3, 2, 8, 3, 7, 3, 5],
-  "double 2 no 5  major heptatonic": [3, 2, 5, 3, 8, 2, 8]
+  "double 2 no 5  major heptatonic": [3, 2, 5, 3, 8, 2, 8],
+
+  "proper nonatonic A": [4, 1, 5, 3, 5, 2, 3, 5, 3],
+  "proper nonatonic B": [5, 1, 4, 3, 5, 3, 2, 5, 3],
+  "strictly proper nonatonic A": [3, 3, 3, 4, 3, 3, 5, 2, 5],
+  "strictly proper nonatonic B": [5, 2, 5, 3, 3, 4, 3, 3, 3],
+
+  "melodic god B heptatonic": [5, 8, 3, 2, 4, 1, 8],
+
+  "ultra melodic heptatonic": [5, 5, 6, 2, 1, 4, 8],
+  "melodic octatonic 27 A": [6, 4, 1, 5, 8, 4, 1, 2],
+  "melodic octatonic 27 B": [6, 4, 1, 5, 3, 5, 5, 2],
+  "melodic dodecatonic 27": [5, 1, 4, 1, 5, 2, 1, 4, 1, 4, 1, 2],
+
+  "melodic octatonic 31 A": [3, 2, 7, 1, 3, 2, 8, 5],
+  "melodic octatonic 31 B": [3, 5, 5, 3, 5, 2, 3, 5],
+  "ultra melodic nonatonic": [5, 3, 4, 1, 5, 3, 2, 3, 5],
+  "melodic dodecatonic 31": [3, 2, 3, 4, 1, 3, 2, 3, 2, 2, 1, 5],
+
+  "no-step melodic nonatonic": [5, 3, 5, 2, 3, 4, 4, 3, 2],
+  "no-step melodic dodecatonic": [3, 3, 2, 3, 2, 4, 2, 2, 3, 2, 3, 2],
 }
 
 SCALES_24EDO = {
