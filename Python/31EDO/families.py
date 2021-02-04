@@ -57,7 +57,7 @@ def find_keys(subscale, parent_scale):
             yield KEY_NAMES[(i+1) % 12]
 
 
-def print_family(parent_scale_name, lengths=(6, 7, 8, 9, 10, 12)):
+def print_family(parent_scale_name, lengths=(6, 7, 8, 9, )):
     parent_scale = SCALES_31EDO[parent_scale_name]
     subscales = {}
     for length in lengths:

@@ -114,13 +114,26 @@ def count_chord_richness(l, intervals):
     return min(*totals)
 
 
-def count_total_chords(l, intervals):
+def count_total_chords(l, thirds):
     total = 0
     for start in range(len(l)):
         if has_interval(l, start, 18):
-            for i, third in enumerate(intervals):
+            for i, third in enumerate(thirds):
                 if has_interval(l, start, third):
                     total += 1
+    return total
+
+
+def count_distinct_chord_roots(l, thirds):
+    total = 0
+    for start in range(len(l)):
+        if has_interval(l, start, 18):
+            has_third = False
+            for i, third in enumerate(thirds):
+                if has_interval(l, start, third):
+                    has_third = True
+            if has_third:
+                total += 1
     return total
 
 
@@ -231,6 +244,15 @@ melodic_priorities = (
 )
 
 
+harmonic_priorities = (
+    lambda scale: (8, 5, 8, 5, 5) in all_subscales(scale, 5),
+    lambda scale: interval_diversity(scale, {4, 6, 7, 9, 15}),
+    lambda scale: count_distinct_chord_roots(scale, [7, 8, 10]),
+    lambda scale: count_total_chords(scale, [7, 8, 10]),
+    count18s,
+)
+
+
 # Final actions
 
 
@@ -264,4 +286,4 @@ def find_scales(priorities_function, scale_size, intervals, *check_parent_names)
 all_dodecatonics = [key for key, value in SCALES_31EDO.items() if len(value) == 12]
 
 if __name__ == "__main__":
-    find_scales(melodic_priorities, 12, [2, 3, 4, 5, 6, 7, 8, 9, 10], *all_dodecatonics)
+    find_scales(harmonic_priorities, 9, [2, 3, 4, 5, 6, 7, 8, 9, 10])  # , *all_dodecatonics)

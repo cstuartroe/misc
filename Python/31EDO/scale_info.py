@@ -35,7 +35,7 @@ def scale_info(scale_name, extra_lines=None):
     print_scales(scale_name, 31)
     print_cents(scale_name, 31)
     scale = SCALE_REFS[31][scale_name]
-    print("Important interval diversity: %d/6" % interval_diversity(scale, {4, 7, 8, 9, 10, 25}))
+    print("Important interval diversity: %d/7" % interval_diversity(scale, {4, 6, 7, 8, 9, 10, 15}))
     print("Total interval diversity: %d/31" % interval_diversity(scale))
     print(*[(DEGREES_31EDO[i], count_interval(scale, i)) for i in range(32)])
     print("Total chords:", *[count_total_chords(scale, [third]) for third in [7, 8, 9, 10, 11]])
@@ -46,7 +46,5 @@ def scale_info(scale_name, extra_lines=None):
 
 
 if __name__ == "__main__":
-    for scale in ("ultra melodic heptatonic",  "melodic octatonic 27 A",  "melodic octatonic 27 B",
-                  "melodic dodecatonic 27",  "melodic octatonic 31 A",  "melodic octatonic 31 B",
-                  "ultra melodic nonatonic", "melodic dodecatonic 31", "no-step melodic nonatonic"):
+    for scale in ("septimal playground diatonic",):
         scale_info(scale)

@@ -63,6 +63,7 @@ DEGREES_31EDO = [
 
 SCALES_31EDO = {
   "diatonic": [5, 5, 3, 5, 5, 5, 3],
+  "12-TET approx": [3, 2, 3, 2, 3, 3, 2, 3, 2, 3, 2, 3],
   "neutral diatonic": [4, 4, 5, 4, 4, 5, 5],
   "neutral": [4, 4, 5, 4, 5, 4, 5],
   "hahn symmetric pentachordal": [3, 3, 4, 3, 5, 3, 4, 3, 3],
@@ -97,7 +98,7 @@ SCALES_31EDO = {
   "h7 sus hexatonic": [5, 8, 5, 5, 2, 6],
   "h7 major hexatonic": [5, 5, 8, 5, 2, 6],
   "n7 heptatonic": [5, 5, 3, 5, 5, 4, 4],
-  "h7 heptatonic": [5, 5, 3, 5, 5, 2, 6],
+  "h7 heptatonic": [5, 5, 2, 6, 5, 5, 3],
   "double 3 heptatonic": [5, 2, 3, 3, 5, 5, 8],
   "double 7 sus heptatonic": [5, 8, 5, 5, 2, 2, 4],
   "double 7 major heptatonic": [5, 5, 8, 5, 2, 2, 4],
@@ -194,6 +195,16 @@ SCALES_31EDO = {
 
   "no-step melodic nonatonic": [5, 3, 5, 2, 3, 4, 4, 3, 2],
   "no-step melodic dodecatonic": [3, 3, 2, 3, 2, 4, 2, 2, 3, 2, 3, 2],
+
+  "harmonic 7 near-diatonic": [6, 6, 2, 5, 5, 5, 2],
+
+  "septimal playground diatonic": [5, 5, 2, 6, 5, 5, 3],
+  "septimal playground octatonic 1": [5, 5, 2, 3, 3, 5, 5, 3],
+  "septimal playground octatonic 2": [5, 3, 2, 2, 6, 5, 5, 3],
+  "septimal playground nonatonic 1": [5, 3, 2, 2, 3, 3, 5, 5, 3],
+  "septimal playground nonatonic 2": [5, 3, 2, 2, 6, 3, 2, 5, 3],
+  "septimal playground decatonic":   [5, 3, 2, 2, 3, 3, 3, 2, 5, 3],
+  "septimal playground chromatic": [3, 2, 3, 2, 2, 3, 3, 3, 2, 3, 2, 3]
 }
 
 SCALES_24EDO = {
