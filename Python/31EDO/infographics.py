@@ -3,7 +3,7 @@ from PIL import ImageFont
 from PIL import ImageDraw
 import math
 
-from just_chords import chords_with_dissonance, closest_approximation, get_chord_name, cents, MAJOR_EDOS, euler_dissonance, vogel_dissonance
+from just_chords import chords_with_dissonance, closest_approximation, get_chord_name, cents, MAJOR_EDOS, euler_dissonance, vogel_dissonance, gill_purves_dissonance
 
 
 CORBERT_FILENAME = "../../../storyweb/static/fonts/Corbert-Regular.ttf"
@@ -26,6 +26,7 @@ def hex_to_rgb(value):
 DISSONANCE_FUNCTION_NAMES = {
     euler_dissonance: "Euler",
     vogel_dissonance: "Vogel",
+    gill_purves_dissonance: "Gill-Purves",
 }
 
 
@@ -215,7 +216,80 @@ def intervals_infographic(notes=2, dissonance_function=euler_dissonance, min_to_
     img.save(f"{CHORD_SIZE_NAMES[notes]}s.png")
 
 
+def flatten(l):
+    if type(l) is list:
+        out = []
+        for e in l:
+            out += flatten(e)
+        return out
+    else:
+        return [l]
+
+
+def launchpad_infographic(edo_steps=31, diag_steps=(8, 9, 10, 11,)):
+    boards = []
+
+    for down in range(1, max(diag_steps)):
+        for right in range(down+1, max(diag_steps)):
+            if math.gcd(down, right) == 1 and (down + right in diag_steps):
+                boards.append([
+                    [
+                        right*x + down*y
+                        for x in range(8)
+                    ]
+                    for y in range(8)
+                ])
+
+    boards.sort(key=lambda board: board[0][1] + board[1][0])
+
+    block_size = 30
+    margin = 30
+    diatonic_degrees = {
+        12: [0, 2, 4, 5, 7, 9, 11],
+        19: [0, 3, 6, 8, 11, 14, 17],
+        31: [0, 5, 10, 13, 18, 23, 28],
+    }[edo_steps]
+
+    image_width = block_size*8 + margin*2
+    image_height = (block_size*8 + margin)*len(boards) + margin
+
+    img = Image.new('RGB', (image_width, image_height), color=(255, 255, 255))
+    draw = ImageDraw.Draw(img)
+    corbert32 = ImageFont.truetype(CORBERT_FILENAME, 16)
+
+    for i, board in enumerate(boards):
+        top = (block_size*8 + margin)*i + margin
+
+        for y, row in enumerate(board):
+            for x, deg in enumerate(row):
+                bgcolor = "#ffffff" if (deg % edo_steps) in diatonic_degrees else "#cccccc"
+                text_color = "#000000" if len([e for e in flatten(board) if e == deg]) == 1 else "#ff0000"
+
+                draw.rectangle(
+                    xy=[
+                        margin + (block_size * x),
+                        top + (block_size * y),
+                        margin + (block_size * (x + 1)),
+                        top + (block_size * (y + 1)),
+                    ],
+                    fill=hex_to_rgb(bgcolor)
+                )
+
+                draw.text(
+                    xy=(margin + (block_size * (x + .5)), top + (block_size * (y + .5))),
+                    anchor='mm',
+                    text=str(deg % edo_steps),
+                    fill=hex_to_rgb(text_color),
+                    font=corbert32,
+                )
+
+    img.save(f"launchpad_{edo_steps}.png")
+
+
 if __name__ == "__main__":
-    intervals_infographic(2)
-    intervals_infographic(3)
-    intervals_infographic(4)
+    # intervals_infographic(2, dissonance_function=euler_dissonance)
+    # intervals_infographic(3)
+    # intervals_infographic(4)
+    launchpad_infographic(12, (2, 3, 4, 5, 6, 7,))
+    launchpad_infographic(19, (2, 3, 4, 5, 6, 7, 8, 9, 10, 11,))
+    launchpad_infographic(31, (8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,))

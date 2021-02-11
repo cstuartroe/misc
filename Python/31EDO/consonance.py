@@ -59,6 +59,10 @@ def vogel_dissonance(*ints):
     return sum((n-1) for n in prime_factors(lcm(*ints)) if n != 2) + 1
 
 
+def gill_purves_dissonance(n1, n2):
+    return round(100*(1-((n1+n2-1)/(n1*n2))))
+
+
 if __name__ == "__main__":
     for deg, approximations in DEGREE_APPROXIMATIONS.items():
         print(deg)

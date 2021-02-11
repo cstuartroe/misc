@@ -1,6 +1,6 @@
 import math
 from tabulate import tabulate
-from consonance import vogel_dissonance, euler_dissonance, cents
+from consonance import vogel_dissonance, euler_dissonance, cents, gill_purves_dissonance
 
 NAMED_CHORDS = {
     (1, 2): "octave",
@@ -102,8 +102,7 @@ def chords_with_dissonance(tones=3, dissonance_function=euler_dissonance):
     out = []
 
     for chord in chords(tones):
-        if (chord[-1] % 2 == 1) or (dissonance_function == euler_dissonance):
-            out.append((chord, dissonance_function(*chord)))
+        out.append((chord, dissonance_function(*chord)))
 
     out.sort(key=lambda x: x[1])
     return out
