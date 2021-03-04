@@ -5,29 +5,32 @@ def cents(r):
     return round(1200 * math.log2(r), 1)
 
 
-CENTS_31EDO = [round(1200 * i / 31) for i in range(31)]
+def degree_approximations(edo_steps):
+    step_cents = [round(1200 * i / edo_steps) for i in range(edo_steps)]
 
-RMAX = 32
-CENTS_RATIOS = []
+    RMAX = 32
+    cents_ratios = []
 
-for denom in range(1, RMAX + 1):
-    for num in range(denom, RMAX + 1):
-        if math.gcd(num, denom) == 1 and (num / denom <= 2):
-            CENTS_RATIOS.append(((num, denom), cents(num / denom)))
+    for denom in range(1, RMAX + 1):
+        for num in range(denom, RMAX + 1):
+            if math.gcd(num, denom) == 1 and (num / denom <= 2):
+                cents_ratios.append(((num, denom), cents(num / denom)))
 
-CENTS_RATIOS.sort(key=lambda x: x[1])
+    cents_ratios.sort(key=lambda x: x[1])
 
-APPROX_THRESHOLD = 18.5
-DEGREE_APPROXIMATIONS = {}
+    APPROX_THRESHOLD = 1200/(edo_steps*2)
+    approximations = {}
 
-for deg, cents_deg in enumerate(CENTS_31EDO):
-    DEGREE_APPROXIMATIONS[deg] = []
-    for (num, denom), cents_ratio in CENTS_RATIOS:
-        if math.fabs(cents_deg - cents_ratio) <= APPROX_THRESHOLD:
-            DEGREE_APPROXIMATIONS[deg].append((
-                (num, denom),
-                round(cents_deg - cents_ratio, 1),
-            ))
+    for deg, cents_deg in enumerate(step_cents):
+        approximations[deg] = []
+        for (num, denom), cents_ratio in cents_ratios:
+            if math.fabs(cents_deg - cents_ratio) <= APPROX_THRESHOLD:
+                approximations[deg].append((
+                    (num, denom),
+                    round(cents_deg - cents_ratio, 1),
+                ))
+
+    return approximations
 
 
 def lcm(*ints):
@@ -63,9 +66,14 @@ def gill_purves_dissonance(n1, n2):
     return round(100*(1-((n1+n2-1)/(n1*n2))))
 
 
+def compromise_dissonance(n1, n2):
+    return euler_dissonance(n1, n2) + gill_purves_dissonance(n1, n2)/10
+
+
 if __name__ == "__main__":
-    for deg, approximations in DEGREE_APPROXIMATIONS.items():
+    for deg, approximations in degree_approximations(31).items():
         print(deg)
         for (num, denom), diff in approximations:
-            print(f"{num}:{denom}    {vogel_dissonance(denom, num)}   ({'+' if diff > 0 else ''}{diff})")
+            if compromise_dissonance(denom, num) < 40:
+                print(f"{num}:{denom}    {euler_dissonance(denom, num)} {gill_purves_dissonance(denom, num)} ({'+' if diff > 0 else ''}{diff})")
         print()

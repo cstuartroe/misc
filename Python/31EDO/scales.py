@@ -204,7 +204,14 @@ SCALES_31EDO = {
   "septimal playground nonatonic 1": [5, 3, 2, 2, 3, 3, 5, 5, 3],
   "septimal playground nonatonic 2": [5, 3, 2, 2, 6, 3, 2, 5, 3],
   "septimal playground decatonic":   [5, 3, 2, 2, 3, 3, 3, 2, 5, 3],
-  "septimal playground chromatic": [3, 2, 3, 2, 2, 3, 3, 3, 2, 3, 2, 3]
+  "septimal playground chromatic": [3, 2, 3, 2, 2, 3, 3, 3, 2, 3, 2, 3],
+
+  "consonant heptatonic": [5, 3, 5, 5, 5, 6, 2],
+  "consonant hexatonic": [5, 8, 5, 5, 6, 2],
+
+  "fairly consonant many-chorded octatonic": [7, 3, 3, 5, 2, 3, 5, 3],
+  "consonant octatonic A": [5, 5, 3, 5, 2, 6, 2, 3],
+  "consonant octatonic B": [5, 2, 3, 3, 5, 5, 5, 3],
 }
 
 SCALES_24EDO = {
@@ -226,3 +233,12 @@ DEGREE_REFS = {
   31: DEGREES_31EDO
 }
 
+TETRACHORDS_31EDO = {
+  "h7": (10, 18, 25),
+  "dom7": (10, 18, 26),
+  "m7": (8, 18, 26),
+  "maj7": (8, 18, 28),
+  "subminadd4": (7, 13, 18),
+  "subminmaj7": (7, 18, 28),
+  "minmaj7": (8, 18, 28),
+}

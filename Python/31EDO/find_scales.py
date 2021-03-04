@@ -137,6 +137,22 @@ def count_distinct_chord_roots(l, thirds):
     return total
 
 
+def count_extensions(scale, degrees):
+    total = 0
+    for start in range(len(scale)):
+        if all(has_interval(scale, start, d) for d in degrees):
+            total += 1
+    return total
+
+
+def count_present_consonances(scale, consonances):
+    return len([c for c in consonances if count_interval(scale, c) > 0])
+
+
+def count_dissonances(scale, consonances, edo_steps=31):
+    return sum([count_interval(scale, d) for d in range(1, edo_steps) if d not in consonances])
+
+
 def proper(scale):
     degrees = [set() for _ in range(len(scale) - 1)]
     for i, tonic in enumerate(scale):
@@ -252,6 +268,16 @@ harmonic_priorities = (
     count18s,
 )
 
+consonances = {5, 6, 7, 8, 10, 11, 13, 15}
+for c in consonances | set():
+    consonances.add(31 - c)
+
+consonance_priorities = (
+    lambda scale: count_present_consonances(scale, consonances),
+    lambda scale: -count_dissonances(scale, consonances | {3, 28}),
+    lambda scale: count_total_chords(scale, [7, 8, 10])
+)
+
 
 # Final actions
 
@@ -286,4 +312,4 @@ def find_scales(priorities_function, scale_size, intervals, *check_parent_names)
 all_dodecatonics = [key for key, value in SCALES_31EDO.items() if len(value) == 12]
 
 if __name__ == "__main__":
-    find_scales(harmonic_priorities, 9, [2, 3, 4, 5, 6, 7, 8, 9, 10])  # , *all_dodecatonics)
+    find_scales(consonance_priorities, 8, [2, 3, 4, 5, 6, 7, 8, 9, 10])  # , *all_dodecatonics)

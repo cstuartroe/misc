@@ -286,10 +286,72 @@ def launchpad_infographic(edo_steps=31, diag_steps=(8, 9, 10, 11,)):
     img.save(f"launchpad_{edo_steps}.png")
 
 
+def cents_bar_infographic(edo_steps, total_cents=1200):
+    bar_width = 2400
+    side_padding = 200
+    image_height = 300
+    vertical_line_height = 80
+    bar_top = 150
+    bottom_padding = 50
+
+    img = Image.new('RGBA', (bar_width + 2*side_padding, image_height), color=(0, 0, 0, 0))
+    draw = ImageDraw.Draw(img)
+    num_steps = edo_steps if type(edo_steps) == int else len(edo_steps)
+    corbert_scaled = ImageFont.truetype(CORBERT_FILENAME, bar_width//int(num_steps**.5 * 12))
+
+    draw.rectangle(
+        xy=[
+            side_padding,
+            bar_top,
+            bar_width + side_padding,
+            image_height - bottom_padding,
+        ],
+        fill=(0, 0, 0, 0),
+        outline="white",
+        width=5,
+    )
+
+    if type(edo_steps) == int:
+        intervals = [step/total_cents for step in range(edo_steps + 1)]
+    else:
+        intervals = [math.log2(r) for r in edo_steps]
+
+    for interval in intervals:
+        cents = round(interval*total_cents)
+        x = side_padding + round(interval*bar_width)
+        draw.text(
+            xy=(x, bar_top - (vertical_line_height // 2)),
+            anchor="md",
+            text=str(cents),
+            fill="white",
+            font=corbert_scaled,
+        )
+        draw.line(
+            xy=[
+                x,
+                bar_top - (vertical_line_height // 2),
+                x,
+                bar_top + (vertical_line_height // 2),
+            ],
+            fill="white",
+            width=5,
+        )
+
+    img.save(f"cents_bar_{edo_steps}_steps_{total_cents}_cents.png")
+
+
 if __name__ == "__main__":
-    # intervals_infographic(2, dissonance_function=euler_dissonance)
-    # intervals_infographic(3)
-    # intervals_infographic(4)
-    launchpad_infographic(12, (2, 3, 4, 5, 6, 7,))
-    launchpad_infographic(19, (2, 3, 4, 5, 6, 7, 8, 9, 10, 11,))
-    launchpad_infographic(31, (8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,))
+    # intervals_infographic(2, dissonance_function=gill_purves_dissonance)
+    # intervals_infographic(3, dissonance_function=gill_purves_dissonance)
+    # intervals_infographic(4, dissonance_function=gill_purves_dissonance)
+    # launchpad_infographic(12, (2, 3, 4, 5, 6, 7,))
+    # launchpad_infographic(19, (2, 3, 4, 5, 6, 7, 8, 9, 10, 11,))
+    # launchpad_infographic(31, (5,))
+    cents_bar_infographic(12)
+    cents_bar_infographic(17)
+    cents_bar_infographic(19)
+    cents_bar_infographic(22)
+    cents_bar_infographic(24)
+    cents_bar_infographic(31)
+    cents_bar_infographic(13, 1800)
+    cents_bar_infographic([1, 9/8, 7/6, 5/4, 4/3, 7/5, 3/2, 13/8, 7/4, 15/8, 2])
