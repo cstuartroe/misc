@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p id="token">
+    <a href="https://www.facebook.com/v13.0/dialog/oauth?client_id=5292881500751272&redirect_uri=http://localhost:5000&state=foo&response_type=token">
+        Generate token
+    </a>
+</p>
+<script>
+    const sp = new URLSearchParams(window.location.hash.substring(1));
+    const token = sp.get('long_lived_token');
+
+    fetch("/token", {
+      method: "POST",
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({token})
+    })
+</script>
+</body>
+</html>
