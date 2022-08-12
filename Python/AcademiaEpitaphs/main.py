@@ -34,7 +34,7 @@ def get_year_times(year: int):
 
 
 PAGE_SWITCH_DATE = datetime.datetime(2020, 10, 17)
-START_YEAR = 2020
+START_YEAR = 2018
 
 
 def get_all_times():
