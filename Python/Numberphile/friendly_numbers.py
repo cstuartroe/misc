@@ -1,19 +1,4 @@
-from tqdm import tqdm
-
-primes = [2]
-
-
-def generate_primes():
-    yield from primes
-
-    n = primes[-1]
-
-    while True:
-        n += 1
-
-        if all(n % p != 0 for p in primes):
-            primes.append(n)
-            yield n
+from utils import generate_primes
 
 
 def prime_factors(n):
