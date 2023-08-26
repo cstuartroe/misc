@@ -70,7 +70,7 @@ def load_word(word_div: bs4.PageElement) -> Word:
     definition = ""
     for child in definition_div.children:
         if isinstance(child, bs4.NavigableString):
-            stripped = child.strip()
+            stripped = child.replace('\u200c', ' ').strip()
 
             if len(stripped) == 0:
                 continue
@@ -133,11 +133,11 @@ def get_levels() -> list[Level]:
 
 def export_level_for_anki(level: Level):
     content = ""
-    for word in level.words:
+    for i, word in enumerate(level.words):
         pronunciation = word.pronunciation
         if word.pronunciation == word.spelling:
             pronunciation = ""
-        content += f"{word.spelling:<10};{pronunciation:<10};{','.join(word.accent_patterns):<6};{word.definition.replace(';', ',')};\n"
+        content += f"{i+1:<4};{word.spelling:<10};{pronunciation:<10};{','.join(word.accent_patterns):<6};{word.definition.replace(';', ',')};\n"
 
     with open(f"anki/N{level.level}.txt", "w") as fh:
         fh.write(content)
