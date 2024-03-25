@@ -101,6 +101,17 @@ class Video:
             "duration": self.duration,
         }
 
+    @classmethod
+    def from_json(cls, data):
+        return cls(
+            id=data["id"],
+            author=data["author"], # TODO
+            description=data["description"],
+            create_time=data["create_time"],
+            download_link="",
+            duration=data["duration"],
+        )
+
 
 def video_json_to_dataclass(data: dict) -> Video:
     author = Author(
@@ -153,11 +164,6 @@ def get_videos():
 
     print(f"{len(videos)} videos liked.")
 
-    total_video_length = 0
-    for video in videos:
-        total_video_length += video.duration
-    print(f"Total video length: {total_video_length//3600}:{(total_video_length%3600)//60}:{total_video_length%60}")
-
     authors = list(set(
         video.author
         for video in videos
@@ -181,4 +187,29 @@ def get_videos():
         video.download()
 
 
-get_videos()
+def print_stats():
+    with open("videos.json", "r") as fh:
+        videos_json = json.load(fh)
+
+    videos = [
+        Video.from_json(data)
+        for data in videos_json
+    ]
+
+    total_video_length = 0
+    longest = videos[0]
+    shortest = videos[0]
+    for video in videos:
+        total_video_length += video.duration
+        if video.duration > longest.duration:
+            longest = video
+        if video.duration < shortest.duration:
+            shortest = video
+
+    print(f"Total video length: {total_video_length//3600}:{(total_video_length%3600)//60}:{total_video_length%60}")
+    print(f"Shortest video: {shortest.id} at {shortest.duration} seconds")
+    print(f"Longest video: {longest.id} at {longest.duration} seconds")
+
+
+# get_videos()
+print_stats()
