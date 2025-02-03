@@ -1,0 +1,190 @@
+[
+  {
+    "root": {
+      "definition": "new, young",
+      "syllable": "nu",
+      "pos": [
+        "adjective"
+      ],
+      "CJK": "新",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "new"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "Today begins a new year!",
+      "Jaobon": {
+        "roman": "je son kai nu nen!",
+        "CJK": "这日开新年！"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "light, intelligence, clarity, perspective",
+      "syllable": "lus",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "光",
+      "etymologies": [
+        {
+          "language": "Spanish",
+          "word": "luz"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "The sunlight melts the snow.",
+      "Jaobon": {
+        "roman": "son lus as ke ten bin wa ben lu.",
+        "CJK": "日光使何天冰水变流。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "cat",
+      "syllable": "gak",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "猫",
+      "etymologies": [
+        {
+          "language": "Spanish",
+          "word": "gato"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "On the internet, many people like looking at pictures of cats.",
+      "Jaobon": {
+        "roman": "en lek nao ne den, men jen xi kan pik nis gak.",
+        "CJK": "在电脑网内，们人喜看像于猫。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "star, week",
+      "syllable": "xin",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "星",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "星"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "During the daytime, stars cannot be seen.",
+      "Jaobon": {
+        "roman": "lus xas xin no ken es kan.",
+        "CJK": "光时星不能是看。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "one, a, some, any",
+      "syllable": "un",
+      "pos": [
+        "numeral"
+      ],
+      "CJK": "一",
+      "etymologies": [
+        {
+          "language": "Spanish",
+          "word": "un"
+        },
+        {
+          "language": "Spanish",
+          "word": "uno"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "All people live together in just one world.",
+      "Jaobon": {
+        "roman": "me jen jo bi en un cok man guk we.",
+        "CJK": "每人就活在一球满组为。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "two, pair",
+      "syllable": "dos",
+      "pos": [
+        "numeral"
+      ],
+      "CJK": "二",
+      "etymologies": [
+        {
+          "language": "Spanish",
+          "word": "dos"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "Bicycles have two wheels.",
+      "Jaobon": {
+        "roman": "jao pao ce yo dos lun.",
+        "CJK": "脚力车有二轮。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "three",
+      "syllable": "san",
+      "pos": [
+        "numeral"
+      ],
+      "CJK": "三",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "三"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "Triangles are the strongest shape.",
+      "Jaobon": {
+        "roman": "san huk jan es la jan ki mas duk.",
+        "CJK": "三角张是边张者更刚。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "four",
+      "syllable": "cak",
+      "pos": [
+        "numeral"
+      ],
+      "CJK": "四",
+      "etymologies": [
+        {
+          "language": "Hindi",
+          "word": "चार"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "Spring is one quarter of the year.",
+      "Jaobon": {
+        "roman": "cun xas es un de cak pis de nen.",
+        "CJK": "春时是一从四块从年。"
+      }
+    }
+  }
+]
