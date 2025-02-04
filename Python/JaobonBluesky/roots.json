@@ -186,5 +186,293 @@
         "CJK": "春时是一从四块从年。"
       }
     }
+  },
+  {
+    "root": {
+      "definition": "five",
+      "syllable": "u",
+      "pos": [
+        "numeral"
+      ],
+      "CJK": "五",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "五"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "My hand has five fingers. The shortest is called the thumb.",
+      "Jaobon": {
+        "roman": "mi xo yo u xo cik. ki mas kok es min nis ho xo cik.",
+        "CJK": "我手有五手子。者更刻是名于厚手子。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "six",
+      "syllable": "ses",
+      "pos": [
+        "numeral"
+      ],
+      "CJK": "六",
+      "etymologies": [
+        {
+          "language": "Spanish",
+          "word": "seis"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "A carbon atom has six protons.",
+      "Jaobon": {
+        "roman": "cun us gok yo ses sun gok.",
+        "CJK": "春质点有六酸点。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "seven",
+      "syllable": "ci",
+      "pos": [
+        "numeral"
+      ],
+      "CJK": "七",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "七"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "People say that seven is their favorite number more often than any other number.",
+      "Jaobon": {
+        "roman": "jen men des ke ci es ji ki se mas xi mas bes de me o ji.",
+        "CJK": "人们言何七是计者己更喜更次从每另计。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "eight",
+      "syllable": "ok",
+      "pos": [
+        "numeral"
+      ],
+      "CJK": "八",
+      "etymologies": [
+        {
+          "language": "Spanish",
+          "word": "ocho"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "In modern computers, a byte has eight bits.",
+      "Jaobon": {
+        "roman": "en lek nao de je xas des guk yo ok yes o no.",
+        "CJK": "在电脑从这时言组有八唉另不。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "nine",
+      "syllable": "nai",
+      "pos": [
+        "numeral"
+      ],
+      "CJK": "九",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "nine"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "The last digit of a price is very often nine.",
+      "Jaobon": {
+        "roman": "ji xe cik ki en bek de goi nes es nai hen men bes.",
+        "CJK": "计写子者在后从贵性是九很们次。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "ten",
+      "syllable": "das",
+      "pos": [
+        "numeral"
+      ],
+      "CJK": "十",
+      "etymologies": [
+        {
+          "language": "Hindi",
+          "word": "दस"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "Should we use ten or twelve as a numerical base?",
+      "Jaobon": {
+        "roman": "mi men gai yus das o das dos nis ji gen?",
+        "CJK": "我们该用十另十二于计根？"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "gas, air, odor",
+      "syllable": "gas",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "气",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "gas"
+        },
+        {
+          "language": "Spanish",
+          "word": "gas"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "My car has bad tires.",
+      "Jaobon": {
+        "roman": "mi ce yo gas lun ki ca.",
+        "CJK": "我车有气轮者差。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "tree, post, column, wood",
+      "syllable": "mu",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "木",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "木"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "Wood is used to make paper.",
+      "Jaobon": {
+        "roman": "mu es yus we ki mak mu pen.",
+        "CJK": "木是用为者作木片。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "burn, fire",
+      "syllable": "ik",
+      "pos": [
+        "intransitive verb"
+      ],
+      "CJK": "火",
+      "etymologies": [
+        {
+          "language": "Latin",
+          "word": "ignis"
+        },
+        {
+          "language": "English",
+          "word": "ignite"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "An engine burns gasoline.",
+      "Jaobon": {
+        "roman": "ik hoi mek as ik xok yos.",
+        "CJK": "火回器使火石油。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "metal, money",
+      "syllable": "jin",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "金",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "金"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "I didn't have enough money to buy the hat.",
+      "Jaobon": {
+        "roman": "mi pas no yo jin ki go nis mai tek je to te.",
+        "CJK": "我过不有金者够于买拿这头布。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "water",
+      "syllable": "wa",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "水",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "water"
+        },
+        {
+          "language": "Spanish",
+          "word": "agua"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "Do you want ice and lemon to put in your water?",
+      "Jaobon": {
+        "roman": "ni yao bin wa i sun gos pon a ni wa o?",
+        "CJK": "你要冰水又酸果加向你水另？"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "ground, land, dirt, territory, earth",
+      "syllable": "tu",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "土",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "土"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "We can give you a map of the park.",
+      "Jaobon": {
+        "roman": "mi men ken ba tu pik de gon tu ge ni.",
+        "CJK": "我们能把土像从公土给你。"
+      }
+    }
   }
 ]

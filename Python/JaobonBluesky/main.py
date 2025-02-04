@@ -45,8 +45,8 @@ class PostData:
     facets: list[dict]
 
     def __post_init__(self):
-      if len(self.text.encode()) > 300:
-        raise ValueError("Post too long:\n\n" + self.text)
+        if len(self.text) > BLUESKY_LENGTH_LIMIT:
+            raise ValueError(f"Post too long (length is {len(self.text)}, max is {BLUESKY_LENGTH_LIMIT}):\n\n{self.text}")
 
 
 def facet(facet_type: str, content: dict, start: int, length: int):
