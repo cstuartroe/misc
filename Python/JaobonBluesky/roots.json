@@ -474,5 +474,143 @@
         "CJK": "我们能把土像从公土给你。"
       }
     }
+  },
+  {
+    "root": {
+      "definition": "white, pale",
+      "syllable": "wai",
+      "pos": [
+        "adjective"
+      ],
+      "CJK": "白",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "white"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "The soup with cauliflower is my favorite.",
+      "Jaobon": {
+        "roman": "je hun wa ki yo wai yun sai es mas xi nis mi.",
+        "CJK": "这混水者有白云菜是更喜于我。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "green",
+      "syllable": "gin",
+      "pos": [
+        "adjective"
+      ],
+      "CJK": "绿",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "green"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "Unripe fruit is usually green.",
+      "Jaobon": {
+        "roman": "sai gos ki no lis es gin mas bes.",
+        "CJK": "菜果者不备是绿更次。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "yellow, orange, brown",
+      "syllable": "kun",
+      "pos": [
+        "adjective"
+      ],
+      "CJK": "黄",
+      "etymologies": [
+        {
+          "language": "Malay",
+          "word": "kuning"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "In old times people made money from gold.",
+      "Jaobon": {
+        "roman": "gu xas jen men as yus kun jin mak mai jin.",
+        "CJK": "故时人们使用黄金作买金。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "red",
+      "syllable": "hon",
+      "pos": [
+        "adjective"
+      ],
+      "CJK": "红",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "红"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "The surface of Mars is iron oxide, that's why it's red.",
+      "Jaobon": {
+        "roman": "pi de jin xin es jus jin sun hun, loi es hon.",
+        "CJK": "皮从金星是汁金酸混，而是红。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "blue",
+      "syllable": "lan",
+      "pos": [
+        "adjective"
+      ],
+      "CJK": "蓝",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "蓝"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "If the eyes of the mother and father are both blue, the eyes of their child must also be blue.",
+      "Jaobon": {
+        "roman": "juk yek de nus ma i nan ma es lan, yek de cik mos ye lan.",
+        "CJK": "如眼从女亲又男亲是蓝，眼从子必也蓝。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "dark, black",
+      "syllable": "dak",
+      "pos": [
+        "adjective"
+      ],
+      "CJK": "黑",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "dark"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "The inside of the cave is the darkest place I've ever been.",
+      "Jaobon": {
+        "roman": "xok bok den es mas dak de me o luk ki mi pas bis.",
+        "CJK": "石孔内是更黑从每另所者我过客。"
+      }
+    }
   }
 ]
