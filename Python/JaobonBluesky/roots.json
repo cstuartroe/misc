@@ -612,5 +612,120 @@
         "CJK": "石孔内是更黑从每另所者我过客。"
       }
     }
+  },
+  {
+    "root": {
+      "definition": "farm, grow, raise, agriculture",
+      "syllable": "non",
+      "pos": [
+        "transitive verb"
+      ],
+      "CJK": "农",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "农"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "On the farm we raise goats and ducks.",
+      "Jaobon": {
+        "roman": "en non tu mi men as non yan i wa poi.",
+        "CJK": "在农土我们使农羊又水鸡。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "escape, avoid, flee",
+      "syllable": "wi",
+      "pos": [
+        "intransitive verb"
+      ],
+      "CJK": "逃",
+      "etymologies": [
+        {
+          "language": "Spanish",
+          "word": "huir"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "When it's afraid, the animal doesn't run away - it actually pretends to be dead.",
+      "Jaobon": {
+        "roman": "juk tak, je an no as wi - jas we ta ak we ki pas mo.",
+        "CJK": "如怕，这兽不使逃—真为他表为者过末。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "seek, search, look for, want, aim, intentionally",
+      "syllable": "bus",
+      "pos": [
+        "transitive verb"
+      ],
+      "CJK": "找",
+      "etymologies": [
+        {
+          "language": "Spanish",
+          "word": "buscar"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "Did you just break my umbrella on purpose?",
+      "Jaobon": {
+        "roman": "ni jo bus as ca mi han wa gan o?",
+        "CJK": "你就找使差我反水杆另？"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "turn, revolve, rotate, turn back, return, orbit",
+      "syllable": "hoi",
+      "pos": [
+        "intransitive verb"
+      ],
+      "CJK": "回",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "回"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "Every twenty-nine days, the moon completes an orbit.",
+      "Jaobon": {
+        "roman": "me dos das nai ban son xas, mun hoi wis man lun.",
+        "CJK": "每二十九半日时，月回跟满轮。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "neck, stem",
+      "syllable": "nek",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "颈",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "neck"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "This virus makes my throat hurt.",
+      "Jaobon": {
+        "roman": "je pek jon cik as ke mi nek den yo doi.",
+        "CJK": "这黏种子使何我颈内有悲。"
+      }
+    }
   }
 ]
