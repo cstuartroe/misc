@@ -113,6 +113,9 @@ def post_data(date: datetime.date) -> PostData:
 
 def preview_all_posts():
     for i in range(len(ROOTS)):
+        if ROOTS[i] is None:
+            continue
+
         d = FIRST_DAY + datetime.timedelta(days=i)
         print(f"({d.strftime("%Y-%m-%d")})")
         data = post_data(d)
