@@ -206,7 +206,7 @@
       "English": "My hand has five fingers. The shortest is called the thumb.",
       "Jaobon": {
         "roman": "mi xo yo u xo cik. ki mas kok es min nis ho xo cik.",
-        "CJK": "我手有五手子。者更刻是名于厚手子。"
+        "CJK": "我手有五手子。者更短是名于厚手子。"
       }
     }
   },
@@ -727,5 +727,1493 @@
         "CJK": "这黏种子使何我颈内有悲。"
       }
     }
-  }
+  },
+  {
+    "root": {
+      "definition": "animal, beast",
+      "syllable": "an",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "兽",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "animal"
+        },
+        {
+          "language": "Spanish",
+          "word": "animal"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "Most mammals give birth to live young.",
+      "Jaobon": {
+        "roman": "mas men lak an yo cu cik ki cun.",
+        "CJK": "更们奶兽有出子者春。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "leap, jump, bounce",
+      "syllable": "yon",
+      "pos": [
+        "intransitive verb"
+      ],
+      "CJK": "踊",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "踊"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "The kitten jumped onto the table.",
+      "Jaobon": {
+        "roman": "gak cik pas as yon a jos xan.",
+        "CJK": "猫子过使踊向桌上。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "shake, vibrate, sway, move (back and forth)",
+      "syllable": "xek",
+      "pos": [
+        "intransitive verb"
+      ],
+      "CJK": "摇",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "shake"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "Exercising is healthy.",
+      "Jaobon": {
+        "roman": "xek koi as he.",
+        "CJK": "摇身使健。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "foot, leg",
+      "syllable": "jao",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "脚",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "脚"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "We sat in the cafe drinking coffee.",
+      "Jaobon": {
+        "roman": "mi men pas jao sen en cai luk co jon cai.",
+        "CJK": "我们过脚坐在茶所吃种茶。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "lie, recline",
+      "syllable": "tan",
+      "pos": [
+        "intransitive verb"
+      ],
+      "CJK": "躺",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "躺"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "I really love lying in bed.",
+      "Jaobon": {
+        "roman": "mi cao xi tan en do jan.",
+        "CJK": "我条喜躺在睡张。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "still, yet, additional, surplus",
+      "syllable": "hai",
+      "pos": [
+        "adverb"
+      ],
+      "CJK": "还",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "还"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "At 11:00 am I was still lying in bed.",
+      "Jaobon": {
+        "roman": "ji das un son pis mi pas hai tan en do jan.",
+        "CJK": "计十一日块我过还躺在睡张。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "yes, indeed",
+      "syllable": "yes",
+      "pos": [
+        "adverb"
+      ],
+      "CJK": "唉",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "yes"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "I did do what you asked!",
+      "Jaobon": {
+        "roman": "mi pas yes mak ki ni won!",
+        "CJK": "我过唉作者你问！"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "ritual, ceremony, etiquette, custom, gift",
+      "syllable": "li",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "礼",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "礼"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "Where will their wedding be?",
+      "Jaobon": {
+        "roman": "ta hun li a es en ke luk?",
+        "CJK": "他混礼向是在何所？"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "sour, acid",
+      "syllable": "sun",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "酸",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "酸"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "I usually have eggs and yogurt for breakfast.",
+      "Jaobon": {
+        "roman": "mas bes mi sao co poi gos i sun lak.",
+        "CJK": "更次我早吃鸡果又酸奶。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "brain, mind",
+      "syllable": "nao",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "脑",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "脑"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "Crows have large brains.",
+      "Jaobon": {
+        "roman": "dak nao pak yo nao nik ki bik.",
+        "CJK": "黑脑鸟有脑肉者大。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "allow, let, open",
+      "syllable": "lao",
+      "pos": [
+        "transitive verb"
+      ],
+      "CJK": "许",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "allow"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "My parents don't allow me to ride the train alone.",
+      "Jaobon": {
+        "roman": "mi ma men no as lao ke mi sen en pai ce lon we.",
+        "CJK": "我亲们不使许何我坐在排车独为。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "if",
+      "syllable": "juk",
+      "pos": [
+        "subordinating conjunction"
+      ],
+      "CJK": "如",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "如果"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "I'd be so happy if she loved me.",
+      "Jaobon": {
+        "roman": "mi ben cao xi juk ta ai mi.",
+        "CJK": "我变条喜如他爱我。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "place, location",
+      "syllable": "luk",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "所",
+      "etymologies": [
+        {
+          "language": "Spanish",
+          "word": "lugar"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "Where are you going?",
+      "Jaobon": {
+        "roman": "a ke luk ni wak?",
+        "CJK": "向何所你走？"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "flow, pour, spill, move, circulate",
+      "syllable": "lu",
+      "pos": [
+        "intransitive verb"
+      ],
+      "CJK": "流",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "流"
+        },
+        {
+          "language": "Spanish",
+          "word": "fluir"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "That city has a very good transportation system.",
+      "Jaobon": {
+        "roman": "je dus yo gon dai lu ne ki hen hao.",
+        "CJK": "这市有公带流网者很好。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "same, common, like, as",
+      "syllable": "ton",
+      "pos": [
+        "adjective"
+      ],
+      "CJK": "同",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "同"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "Today, the daytime and nighttime are approximately the same length.",
+      "Jaobon": {
+        "roman": "je son, lus xas i nok xas yo cao nes ki yak ton.",
+        "CJK": "这日，光时又夕时有条性者约同。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "give, offer",
+      "syllable": "ge",
+      "pos": [
+        "transitive verb"
+      ],
+      "CJK": "给",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "给"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "He sold us this work of art.",
+      "Jaobon": {
+        "roman": "ta pas mai je jis kos ge mi men.",
+        "CJK": "他过买这术物给我们。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "piece, part, drop, singulative",
+      "syllable": "pis",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "块",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "piece"
+        },
+        {
+          "language": "Spanish",
+          "word": "pieza"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "Around two thirds of tigers live in human captivity.",
+      "Jaobon": {
+        "roman": "yak dos de san pis de dak cao gak men bi en jen wo den.",
+        "CJK": "约二从三块从黑条猫们活在人墙内。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "side, edge, direction",
+      "syllable": "la",
+      "pos": [
+        "positional"
+      ],
+      "CJK": "边",
+      "etymologies": [
+        {
+          "language": "Spanish",
+          "word": "lado"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "At noon we ate our lunch by the roadside.",
+      "Jaobon": {
+        "roman": "nun mes mi men pas co en pu la.",
+        "CJK": "午中我们过吃在路边。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "wow, (exclamation)",
+      "syllable": "wao",
+      "pos": [
+        "interjection"
+      ],
+      "CJK": "哇",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "wow"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "Wow! So beautiful!",
+      "Jaobon": {
+        "roman": "wao! cao be!",
+        "CJK": "哇！条美！"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "glass, transparent",
+      "syllable": "las",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "玻",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "glass"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "My sister needs glasses.",
+      "Jaobon": {
+        "roman": "mi nus kek mos yus yek las.",
+        "CJK": "我女兄必用眼玻。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "conflict, fight, war",
+      "syllable": "puk",
+      "pos": [
+        "intransitive verb"
+      ],
+      "CJK": "争",
+      "etymologies": [
+        {
+          "language": "Spanish",
+          "word": "pugnar"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "No more war!",
+      "Jaobon": {
+        "roman": "hai no puk!",
+        "CJK": "还不争！"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "hand, arm",
+      "syllable": "xo",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "手",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "手"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "In this sport you're not allowed to touch the ball with your hands.",
+      "Jaobon": {
+        "roman": "en je koi hu ni no es lao yus xo tok hu cok.",
+        "CJK": "在这身玩你不是许用手摸玩球。"
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "empty, blank, vacant, hollow",
+      "syllable": "bas",
+      "pos": [
+        "adjective"
+      ],
+      "CJK": "空",
+      "etymologies": [
+        {
+          "language": "Spanish",
+          "word": "vacío"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "weak, tired",
+      "syllable": "wik",
+      "pos": [
+        "adjective"
+      ],
+      "CJK": "弱",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "weak"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "stand up, stop, halt, be still",
+      "syllable": "pa",
+      "pos": [
+        "intransitive verb",
+        "aspect particle"
+      ],
+      "CJK": "站",
+      "etymologies": [
+        {
+          "language": "Spanish",
+          "word": "parar"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "root": {
+      "definition": "long, string, strip, ribbon, extreme",
+      "syllable": "cao",
+      "pos": [
+        "adjective",
+        "adverb"
+      ],
+      "CJK": "条",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "条"
+        },
+        {
+          "language": "Chinese",
+          "word": "超"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "root": {
+      "definition": "color",
+      "syllable": "so",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "色",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "色"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "lizard, snake, reptile",
+      "syllable": "xis",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "蜥",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "蜥形纲"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "root": {
+      "definition": "hundred",
+      "syllable": "bai",
+      "pos": [
+        "numeral"
+      ],
+      "CJK": "百",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "百"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "thousand",
+      "syllable": "tao",
+      "pos": [
+        "numeral"
+      ],
+      "CJK": "千",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "thousand"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "half",
+      "syllable": "ban",
+      "pos": [
+        "numeral"
+      ],
+      "CJK": "半",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "半"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "number, amount, some, ordinal, unit, count, calculate",
+      "syllable": "ji",
+      "pos": [
+        "transitive verb"
+      ],
+      "CJK": "计",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "几"
+        },
+        {
+          "language": "Chinese",
+          "word": "计"
+        },
+        {
+          "language": "Chinese",
+          "word": "第"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "arrange, put in order, oversee, row",
+      "syllable": "pai",
+      "pos": [
+        "transitive verb"
+      ],
+      "CJK": "排",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "排"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "reverse, oppose, opposite, against, respond, react",
+      "syllable": "han",
+      "pos": [
+        "transitive verb"
+      ],
+      "CJK": "反",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "返"
+        },
+        {
+          "language": "Chinese",
+          "word": "反"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "and, add, again",
+      "syllable": "i",
+      "pos": [
+        "coordinating conjunction"
+      ],
+      "CJK": "又",
+      "etymologies": [
+        {
+          "language": "Spanish",
+          "word": "y"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "fall short, different, minus, mistake, error, bad",
+      "syllable": "ca",
+      "pos": [
+        "intransitive verb"
+      ],
+      "CJK": "差",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "差"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "mountain, hill, mound, pile, heap, mass",
+      "syllable": "mon",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "山",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "mound"
+        },
+        {
+          "language": "English",
+          "word": "mountain"
+        },
+        {
+          "language": "Spanish",
+          "word": "montón"
+        },
+        {
+          "language": "Spanish",
+          "word": "montaña"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "cut, slice, separate",
+      "syllable": "cek",
+      "pos": [
+        "transitive verb"
+      ],
+      "CJK": "切",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "切割"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "root": {
+      "definition": "horse, equine",
+      "syllable": "hos",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "马",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "horse"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "root": {
+      "definition": "sun, day",
+      "syllable": "son",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "日",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "sun"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "root": {
+      "definition": "sheep, goat",
+      "syllable": "yan",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "羊",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "羊"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "root": {
+      "definition": "bread, rice, starch, grain",
+      "syllable": "pan",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "饭",
+      "etymologies": [
+        {
+          "language": "Spanish",
+          "word": "pan"
+        },
+        {
+          "language": "Chinese",
+          "word": "饭"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "monkey, ape, naughty, tricksy",
+      "syllable": "hus",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "猴",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "猴子"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "root": {
+      "definition": "chicken, fowl",
+      "syllable": "poi",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "鸡",
+      "etymologies": [
+        {
+          "language": "Spanish",
+          "word": "pollo"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "root": {
+      "definition": "dog",
+      "syllable": "dok",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "犬",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "dog"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "root": {
+      "definition": "strange, unknown, mysterious",
+      "syllable": "ao",
+      "pos": [
+        "adjective"
+      ],
+      "CJK": "奥",
+      "etymologies": [
+        {
+          "language": "Chinese",
+          "word": "奥"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  {
+    "root": {
+      "definition": "pig",
+      "syllable": "pok",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "猪",
+      "etymologies": [
+        {
+          "language": "Spanish",
+          "word": "puerco"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "root": {
+      "definition": "mouse, rodent",
+      "syllable": "mus",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "鼠",
+      "etymologies": [
+        {
+          "language": "English",
+          "word": "mouse"
+        },
+        {
+          "language": "Latin",
+          "word": "mūs"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "root": {
+      "definition": "night",
+      "syllable": "nok",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "夕",
+      "etymologies": [
+        {
+          "language": "Spanish",
+          "word": "noche"
+        },
+        {
+          "language": "Latin",
+          "word": "nox"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "root": {
+      "definition": "cow, bovine",
+      "syllable": "bak",
+      "pos": [
+        "noun"
+      ],
+      "CJK": "牛",
+      "etymologies": [
+        {
+          "language": "Spanish",
+          "word": "vaca"
+        }
+      ]
+    },
+    "example_sentence": {
+      "English": "",
+      "Jaobon": {
+        "roman": "",
+        "CJK": ""
+      }
+    }
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
 ]
