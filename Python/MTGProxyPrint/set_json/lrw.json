@@ -1,0 +1,2410 @@
+[
+  {
+    "id": "2a1470a6-d09d-4a2a-84a6-d56e32ed237a",
+    "title": "Ajani Goldmane",
+    "scryfall_uri": "https://scryfall.com/card/lrw/1/ajani-goldmane",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/a/2a1470a6-d09d-4a2a-84a6-d56e32ed237a.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Planeswalker \u2014 Ajani"
+  },
+  {
+    "id": "6b598cf2-c327-422b-9527-1b28645ba70c",
+    "title": "Arbiter of Knollridge",
+    "scryfall_uri": "https://scryfall.com/card/lrw/2/arbiter-of-knollridge",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/b/6b598cf2-c327-422b-9527-1b28645ba70c.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Giant Wizard"
+  },
+  {
+    "id": "8ee73fe8-d52b-43bb-ab91-5545192be676",
+    "title": "Austere Command",
+    "scryfall_uri": "https://scryfall.com/card/lrw/3/austere-command",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/e/8ee73fe8-d52b-43bb-ab91-5545192be676.webp",
+    "rarity": "Rare",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "f2258bd3-e38b-4029-a9fb-f9ae86dbbc3a",
+    "title": "Avian Changeling",
+    "scryfall_uri": "https://scryfall.com/card/lrw/4/avian-changeling",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/2/f2258bd3-e38b-4029-a9fb-f9ae86dbbc3a.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Shapeshifter"
+  },
+  {
+    "id": "79e234ce-6d61-4d62-a8cd-fa985a6aba60",
+    "title": "Battle Mastery",
+    "scryfall_uri": "https://scryfall.com/card/lrw/5/battle-mastery",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/9/79e234ce-6d61-4d62-a8cd-fa985a6aba60.webp",
+    "rarity": "Uncommon",
+    "card_type": "Enchantment \u2014 Aura"
+  },
+  {
+    "id": "da70a20f-213e-4d79-a46f-1ef1fc3f4a51",
+    "title": "Brigid, Hero of Kinsbaile",
+    "scryfall_uri": "https://scryfall.com/card/lrw/6/brigid-hero-of-kinsbaile",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/a/da70a20f-213e-4d79-a46f-1ef1fc3f4a51.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Creature \u2014 Kithkin Archer"
+  },
+  {
+    "id": "c000c3e4-d71a-43c8-8ded-f3da54bc088d",
+    "title": "Burrenton Forge-Tender",
+    "scryfall_uri": "https://scryfall.com/card/lrw/7/burrenton-forge-tender",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/0/c000c3e4-d71a-43c8-8ded-f3da54bc088d.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Kithkin Wizard"
+  },
+  {
+    "id": "a7610d2f-e35f-42fa-a3fb-fcae54bf5a1d",
+    "title": "Cenn's Heir",
+    "scryfall_uri": "https://scryfall.com/card/lrw/8/cenns-heir",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/7/a7610d2f-e35f-42fa-a3fb-fcae54bf5a1d.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Kithkin Soldier"
+  },
+  {
+    "id": "24f0c586-a1a5-4907-801a-7815c4dceb39",
+    "title": "Changeling Hero",
+    "scryfall_uri": "https://scryfall.com/card/lrw/9/changeling-hero",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/4/24f0c586-a1a5-4907-801a-7815c4dceb39.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Shapeshifter"
+  },
+  {
+    "id": "9e344859-7248-4498-8303-252f196a007b",
+    "title": "Cloudgoat Ranger",
+    "scryfall_uri": "https://scryfall.com/card/lrw/10/cloudgoat-ranger",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/e/9e344859-7248-4498-8303-252f196a007b.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Giant Warrior Ranger"
+  },
+  {
+    "id": "a9044585-4d44-42fb-ad7b-e0e224fbc502",
+    "title": "Crib Swap",
+    "scryfall_uri": "https://scryfall.com/card/lrw/11/crib-swap",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/9/a9044585-4d44-42fb-ad7b-e0e224fbc502.webp",
+    "rarity": "Uncommon",
+    "card_type": "Kindred Instant \u2014 Shapeshifter"
+  },
+  {
+    "id": "f8968bc0-518f-4c41-bf00-2bf295065e33",
+    "title": "Dawnfluke",
+    "scryfall_uri": "https://scryfall.com/card/lrw/12/dawnfluke",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/8/f8968bc0-518f-4c41-bf00-2bf295065e33.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elemental"
+  },
+  {
+    "id": "0d1cec6f-5308-4bff-b19a-df9e3325bb06",
+    "title": "Entangling Trap",
+    "scryfall_uri": "https://scryfall.com/card/lrw/13/entangling-trap",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/d/0d1cec6f-5308-4bff-b19a-df9e3325bb06.webp",
+    "rarity": "Uncommon",
+    "card_type": "Enchantment"
+  },
+  {
+    "id": "20d858be-4c03-4819-94e9-ca4ca3de9032",
+    "title": "Favor of the Mighty",
+    "scryfall_uri": "https://scryfall.com/card/lrw/14/favor-of-the-mighty",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/0/20d858be-4c03-4819-94e9-ca4ca3de9032.webp",
+    "rarity": "Rare",
+    "card_type": "Kindred Enchantment \u2014 Giant"
+  },
+  {
+    "id": "8152999d-5e65-4ea6-b1e7-94b41808faa0",
+    "title": "Galepowder Mage",
+    "scryfall_uri": "https://scryfall.com/card/lrw/15/galepowder-mage",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/1/8152999d-5e65-4ea6-b1e7-94b41808faa0.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Kithkin Wizard"
+  },
+  {
+    "id": "5305b5c6-2af6-4b5c-9a57-0a2d2628e2f4",
+    "title": "Goldmeadow Dodger",
+    "scryfall_uri": "https://scryfall.com/card/lrw/16/goldmeadow-dodger",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/3/5305b5c6-2af6-4b5c-9a57-0a2d2628e2f4.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Kithkin Rogue"
+  },
+  {
+    "id": "b6a7508c-2815-40eb-92f7-3e66dfb28484",
+    "title": "Goldmeadow Harrier",
+    "scryfall_uri": "https://scryfall.com/card/lrw/17/goldmeadow-harrier",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/6/b6a7508c-2815-40eb-92f7-3e66dfb28484.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Kithkin Soldier"
+  },
+  {
+    "id": "6a7a9110-6aea-460b-91fa-5f8a507160e7",
+    "title": "Goldmeadow Stalwart",
+    "scryfall_uri": "https://scryfall.com/card/lrw/18/goldmeadow-stalwart",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/a/6a7a9110-6aea-460b-91fa-5f8a507160e7.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Kithkin Soldier"
+  },
+  {
+    "id": "c10ccaef-2a75-43d6-95f2-c3690ae5c87a",
+    "title": "Harpoon Sniper",
+    "scryfall_uri": "https://scryfall.com/card/lrw/19/harpoon-sniper",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/1/c10ccaef-2a75-43d6-95f2-c3690ae5c87a.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Merfolk Archer"
+  },
+  {
+    "id": "c0a785a2-462d-4321-9e48-eb98698b7591",
+    "title": "Hillcomber Giant",
+    "scryfall_uri": "https://scryfall.com/card/lrw/20/hillcomber-giant",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/0/c0a785a2-462d-4321-9e48-eb98698b7591.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Giant Scout"
+  },
+  {
+    "id": "d11187c6-f213-45db-9de3-314df1f43589",
+    "title": "Hoofprints of the Stag",
+    "scryfall_uri": "https://scryfall.com/card/lrw/21/hoofprints-of-the-stag",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/1/d11187c6-f213-45db-9de3-314df1f43589.webp",
+    "rarity": "Rare",
+    "card_type": "Kindred Enchantment \u2014 Elemental"
+  },
+  {
+    "id": "3073f3f5-bff8-4ec1-a68f-c83d63435843",
+    "title": "Judge of Currents",
+    "scryfall_uri": "https://scryfall.com/card/lrw/22/judge-of-currents",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/0/3073f3f5-bff8-4ec1-a68f-c83d63435843.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Merfolk Wizard"
+  },
+  {
+    "id": "b6053c20-3632-43e2-8560-259d0c12f235",
+    "title": "Kinsbaile Balloonist",
+    "scryfall_uri": "https://scryfall.com/card/lrw/23/kinsbaile-balloonist",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/6/b6053c20-3632-43e2-8560-259d0c12f235.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Kithkin Soldier"
+  },
+  {
+    "id": "6145bcd5-a583-4a04-9a13-a64ecdf4425a",
+    "title": "Kinsbaile Skirmisher",
+    "scryfall_uri": "https://scryfall.com/card/lrw/24/kinsbaile-skirmisher",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/1/6145bcd5-a583-4a04-9a13-a64ecdf4425a.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Kithkin Soldier"
+  },
+  {
+    "id": "e75283b6-1b70-4e89-bf21-f85c21454aae",
+    "title": "Kithkin Greatheart",
+    "scryfall_uri": "https://scryfall.com/card/lrw/25/kithkin-greatheart",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/7/e75283b6-1b70-4e89-bf21-f85c21454aae.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Kithkin Soldier"
+  },
+  {
+    "id": "64735178-3dc5-4a95-92fa-e15bd04e5733",
+    "title": "Kithkin Harbinger",
+    "scryfall_uri": "https://scryfall.com/card/lrw/26/kithkin-harbinger",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/4/64735178-3dc5-4a95-92fa-e15bd04e5733.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Kithkin Wizard"
+  },
+  {
+    "id": "44032574-a5bc-4366-af65-9824fd4302a2",
+    "title": "Kithkin Healer",
+    "scryfall_uri": "https://scryfall.com/card/lrw/27/kithkin-healer",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/4/44032574-a5bc-4366-af65-9824fd4302a2.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Kithkin Cleric"
+  },
+  {
+    "id": "1eb33901-1f97-4080-a9dd-922ef29f42c9",
+    "title": "Knight of Meadowgrain",
+    "scryfall_uri": "https://scryfall.com/card/lrw/28/knight-of-meadowgrain",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/e/1eb33901-1f97-4080-a9dd-922ef29f42c9.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Kithkin Knight"
+  },
+  {
+    "id": "c64ba1c8-b93a-4169-9ba0-d3fc5bf57676",
+    "title": "Lairwatch Giant",
+    "scryfall_uri": "https://scryfall.com/card/lrw/29/lairwatch-giant",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/6/c64ba1c8-b93a-4169-9ba0-d3fc5bf57676.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Giant Warrior"
+  },
+  {
+    "id": "53c8cde1-e447-422e-aed0-2571a77d3d29",
+    "title": "Militia's Pride",
+    "scryfall_uri": "https://scryfall.com/card/lrw/30/militias-pride",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/3/53c8cde1-e447-422e-aed0-2571a77d3d29.webp",
+    "rarity": "Rare",
+    "card_type": "Kindred Enchantment \u2014 Kithkin"
+  },
+  {
+    "id": "adfff880-cbf6-4085-bc05-c72658b75f25",
+    "title": "Mirror Entity",
+    "scryfall_uri": "https://scryfall.com/card/lrw/31/mirror-entity",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/d/adfff880-cbf6-4085-bc05-c72658b75f25.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Shapeshifter"
+  },
+  {
+    "id": "fc326b79-363e-4c14-86e4-23041f2d6b4f",
+    "title": "Neck Snap",
+    "scryfall_uri": "https://scryfall.com/card/lrw/32/neck-snap",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/c/fc326b79-363e-4c14-86e4-23041f2d6b4f.webp",
+    "rarity": "Common",
+    "card_type": "Instant"
+  },
+  {
+    "id": "e9fdb060-8f4d-453a-9516-92c390fbc85a",
+    "title": "Oaken Brawler",
+    "scryfall_uri": "https://scryfall.com/card/lrw/33/oaken-brawler",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/9/e9fdb060-8f4d-453a-9516-92c390fbc85a.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Treefolk Warrior"
+  },
+  {
+    "id": "1c7fffe8-709c-4cb4-bbad-e4a0c35b616a",
+    "title": "Oblivion Ring",
+    "scryfall_uri": "https://scryfall.com/card/lrw/34/oblivion-ring",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/c/1c7fffe8-709c-4cb4-bbad-e4a0c35b616a.webp",
+    "rarity": "Common",
+    "card_type": "Enchantment"
+  },
+  {
+    "id": "ea2de26e-4cb3-4d7e-b884-54d6056dc9e9",
+    "title": "Plover Knights",
+    "scryfall_uri": "https://scryfall.com/card/lrw/35/plover-knights",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/a/ea2de26e-4cb3-4d7e-b884-54d6056dc9e9.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Kithkin Knight"
+  },
+  {
+    "id": "deb2156a-8a77-4954-b557-1bdaf3ba171a",
+    "title": "Pollen Lullaby",
+    "scryfall_uri": "https://scryfall.com/card/lrw/36/pollen-lullaby",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/e/deb2156a-8a77-4954-b557-1bdaf3ba171a.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant"
+  },
+  {
+    "id": "154a335d-188d-49c3-af6d-c8e702b4b3ba",
+    "title": "Purity",
+    "scryfall_uri": "https://scryfall.com/card/lrw/37/purity",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/5/154a335d-188d-49c3-af6d-c8e702b4b3ba.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Elemental Incarnation"
+  },
+  {
+    "id": "ab09d6d7-e2f0-4e78-a9a3-ac37f02f4096",
+    "title": "Sentry Oak",
+    "scryfall_uri": "https://scryfall.com/card/lrw/38/sentry-oak",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/b/ab09d6d7-e2f0-4e78-a9a3-ac37f02f4096.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Treefolk Warrior"
+  },
+  {
+    "id": "f550f44f-8b8f-4c1d-a583-9fd986d3061c",
+    "title": "Shields of Velis Vel",
+    "scryfall_uri": "https://scryfall.com/card/lrw/39/shields-of-velis-vel",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/5/f550f44f-8b8f-4c1d-a583-9fd986d3061c.webp",
+    "rarity": "Common",
+    "card_type": "Kindred Instant \u2014 Shapeshifter"
+  },
+  {
+    "id": "7f6c24b1-af9d-4a9c-9167-faa8a397a361",
+    "title": "Soaring Hope",
+    "scryfall_uri": "https://scryfall.com/card/lrw/40/soaring-hope",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/f/7f6c24b1-af9d-4a9c-9167-faa8a397a361.webp",
+    "rarity": "Common",
+    "card_type": "Enchantment \u2014 Aura"
+  },
+  {
+    "id": "75fa0c72-427b-4797-b5b1-15f07fc5fa07",
+    "title": "Springjack Knight",
+    "scryfall_uri": "https://scryfall.com/card/lrw/41/springjack-knight",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/5/75fa0c72-427b-4797-b5b1-15f07fc5fa07.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Kithkin Knight"
+  },
+  {
+    "id": "13a4c124-216b-44b1-b49a-3db3f033e4cd",
+    "title": "Summon the School",
+    "scryfall_uri": "https://scryfall.com/card/lrw/42/summon-the-school",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/3/13a4c124-216b-44b1-b49a-3db3f033e4cd.webp",
+    "rarity": "Uncommon",
+    "card_type": "Kindred Sorcery \u2014 Merfolk"
+  },
+  {
+    "id": "e0b61fb2-11e5-45ae-873d-85f79f161950",
+    "title": "Surge of Thoughtweft",
+    "scryfall_uri": "https://scryfall.com/card/lrw/43/surge-of-thoughtweft",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/0/e0b61fb2-11e5-45ae-873d-85f79f161950.webp",
+    "rarity": "Common",
+    "card_type": "Kindred Instant \u2014 Kithkin"
+  },
+  {
+    "id": "9e48d34d-063c-4703-870b-4a22d5774c89",
+    "title": "Thoughtweft Trio",
+    "scryfall_uri": "https://scryfall.com/card/lrw/44/thoughtweft-trio",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/e/9e48d34d-063c-4703-870b-4a22d5774c89.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Kithkin Soldier"
+  },
+  {
+    "id": "444b5d72-ac5b-43d2-b5dc-0cc4bf63e43d",
+    "title": "Triclopean Sight",
+    "scryfall_uri": "https://scryfall.com/card/lrw/45/triclopean-sight",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/4/444b5d72-ac5b-43d2-b5dc-0cc4bf63e43d.webp",
+    "rarity": "Common",
+    "card_type": "Enchantment \u2014 Aura"
+  },
+  {
+    "id": "c36fe821-e9b1-453d-8e44-f8dce111a6de",
+    "title": "Veteran of the Depths",
+    "scryfall_uri": "https://scryfall.com/card/lrw/46/veteran-of-the-depths",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/3/c36fe821-e9b1-453d-8e44-f8dce111a6de.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Merfolk Soldier"
+  },
+  {
+    "id": "129933ba-60a0-4764-a705-28fa7bb10bd3",
+    "title": "Wellgabber Apothecary",
+    "scryfall_uri": "https://scryfall.com/card/lrw/47/wellgabber-apothecary",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/2/129933ba-60a0-4764-a705-28fa7bb10bd3.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Merfolk Cleric"
+  },
+  {
+    "id": "56389c91-a470-4c43-9368-98df4d38f7fd",
+    "title": "Wispmare",
+    "scryfall_uri": "https://scryfall.com/card/lrw/48/wispmare",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/6/56389c91-a470-4c43-9368-98df4d38f7fd.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elemental"
+  },
+  {
+    "id": "585f1c8e-6898-4def-8e3f-d45cd263f776",
+    "title": "Wizened Cenn",
+    "scryfall_uri": "https://scryfall.com/card/lrw/49/wizened-cenn",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/8/585f1c8e-6898-4def-8e3f-d45cd263f776.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Kithkin Cleric"
+  },
+  {
+    "id": "c44c623e-9ae1-495d-b72d-166f2ed4cf2c",
+    "title": "Aethersnipe",
+    "scryfall_uri": "https://scryfall.com/card/lrw/50/aethersnipe",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/4/c44c623e-9ae1-495d-b72d-166f2ed4cf2c.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elemental"
+  },
+  {
+    "id": "068518d2-f061-4061-b208-158e991156b6",
+    "title": "Amoeboid Changeling",
+    "scryfall_uri": "https://scryfall.com/card/lrw/51/amoeboid-changeling",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/6/068518d2-f061-4061-b208-158e991156b6.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Shapeshifter"
+  },
+  {
+    "id": "fd13d2c1-3db7-4fdc-9321-57c9d6e8c3ae",
+    "title": "Aquitect's Will",
+    "scryfall_uri": "https://scryfall.com/card/lrw/52/aquitects-will",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/d/fd13d2c1-3db7-4fdc-9321-57c9d6e8c3ae.webp",
+    "rarity": "Common",
+    "card_type": "Kindred Sorcery \u2014 Merfolk"
+  },
+  {
+    "id": "f240d225-9fbf-438a-93c3-5fef325035e8",
+    "title": "Benthicore",
+    "scryfall_uri": "https://scryfall.com/card/lrw/53/benthicore",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/2/f240d225-9fbf-438a-93c3-5fef325035e8.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elemental"
+  },
+  {
+    "id": "8052d90b-bc49-4a9e-9211-159a54aa2bcd",
+    "title": "Broken Ambitions",
+    "scryfall_uri": "https://scryfall.com/card/lrw/54/broken-ambitions",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/0/8052d90b-bc49-4a9e-9211-159a54aa2bcd.webp",
+    "rarity": "Common",
+    "card_type": "Instant"
+  },
+  {
+    "id": "642be353-a46a-4d14-a35a-7716fd552870",
+    "title": "Captivating Glance",
+    "scryfall_uri": "https://scryfall.com/card/lrw/55/captivating-glance",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/4/642be353-a46a-4d14-a35a-7716fd552870.webp",
+    "rarity": "Uncommon",
+    "card_type": "Enchantment \u2014 Aura"
+  },
+  {
+    "id": "829e3d6e-5d7c-4cc4-a7a6-7cbf5a7442ba",
+    "title": "Cryptic Command",
+    "scryfall_uri": "https://scryfall.com/card/lrw/56/cryptic-command",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/2/829e3d6e-5d7c-4cc4-a7a6-7cbf5a7442ba.webp",
+    "rarity": "Rare",
+    "card_type": "Instant"
+  },
+  {
+    "id": "42ebd6ff-2b1c-4e93-81cc-81998459c5c7",
+    "title": "Deeptread Merrow",
+    "scryfall_uri": "https://scryfall.com/card/lrw/57/deeptread-merrow",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/2/42ebd6ff-2b1c-4e93-81cc-81998459c5c7.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Merfolk Rogue"
+  },
+  {
+    "id": "149aa77e-fc10-4b9b-8f38-cc6db5be7b79",
+    "title": "Drowner of Secrets",
+    "scryfall_uri": "https://scryfall.com/card/lrw/58/drowner-of-secrets",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/4/149aa77e-fc10-4b9b-8f38-cc6db5be7b79.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Merfolk Wizard"
+  },
+  {
+    "id": "f577831b-2aa2-44a1-bd6b-ef111bc2e211",
+    "title": "Ego Erasure",
+    "scryfall_uri": "https://scryfall.com/card/lrw/59/ego-erasure",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/5/f577831b-2aa2-44a1-bd6b-ef111bc2e211.webp",
+    "rarity": "Uncommon",
+    "card_type": "Kindred Instant \u2014 Shapeshifter"
+  },
+  {
+    "id": "5b9fa774-fb6d-4a2f-96d5-a449a423312e",
+    "title": "Ethereal Whiskergill",
+    "scryfall_uri": "https://scryfall.com/card/lrw/60/ethereal-whiskergill",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/b/5b9fa774-fb6d-4a2f-96d5-a449a423312e.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elemental"
+  },
+  {
+    "id": "f9bdc319-4e06-420b-ba54-6cb994d4e279",
+    "title": "Faerie Harbinger",
+    "scryfall_uri": "https://scryfall.com/card/lrw/61/faerie-harbinger",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/9/f9bdc319-4e06-420b-ba54-6cb994d4e279.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Faerie Wizard"
+  },
+  {
+    "id": "defb9f0b-195e-4aeb-92c1-8f827ad6724b",
+    "title": "Faerie Trickery",
+    "scryfall_uri": "https://scryfall.com/card/lrw/62/faerie-trickery",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/e/defb9f0b-195e-4aeb-92c1-8f827ad6724b.webp",
+    "rarity": "Common",
+    "card_type": "Kindred Instant \u2014 Faerie"
+  },
+  {
+    "id": "d4237352-4e0e-4f40-946b-2a61753674d4",
+    "title": "Fallowsage",
+    "scryfall_uri": "https://scryfall.com/card/lrw/63/fallowsage",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/4/d4237352-4e0e-4f40-946b-2a61753674d4.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Merfolk Wizard"
+  },
+  {
+    "id": "55b9be91-f3a1-49ce-8a3e-2ecd30e2e692",
+    "title": "Familiar's Ruse",
+    "scryfall_uri": "https://scryfall.com/card/lrw/64/familiars-ruse",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/5/55b9be91-f3a1-49ce-8a3e-2ecd30e2e692.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant"
+  },
+  {
+    "id": "cd9c0bd7-f8a9-4d13-9a06-acc8bfb3d68b",
+    "title": "Fathom Trawl",
+    "scryfall_uri": "https://scryfall.com/card/lrw/65/fathom-trawl",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/d/cd9c0bd7-f8a9-4d13-9a06-acc8bfb3d68b.webp",
+    "rarity": "Rare",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "f7ea1c6e-c0af-40b0-b492-8d71f496903e",
+    "title": "Forced Fruition",
+    "scryfall_uri": "https://scryfall.com/card/lrw/66/forced-fruition",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/7/f7ea1c6e-c0af-40b0-b492-8d71f496903e.webp",
+    "rarity": "Rare",
+    "card_type": "Enchantment"
+  },
+  {
+    "id": "2a71800f-3e67-4cfb-a3b1-8c073a91b909",
+    "title": "Glen Elendra Pranksters",
+    "scryfall_uri": "https://scryfall.com/card/lrw/67/glen-elendra-pranksters",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/a/2a71800f-3e67-4cfb-a3b1-8c073a91b909.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Faerie Wizard"
+  },
+  {
+    "id": "e05a4ce4-dbd5-4c47-8b40-c145c7f5d06c",
+    "title": "Glimmerdust Nap",
+    "scryfall_uri": "https://scryfall.com/card/lrw/68/glimmerdust-nap",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/0/e05a4ce4-dbd5-4c47-8b40-c145c7f5d06c.webp",
+    "rarity": "Common",
+    "card_type": "Enchantment \u2014 Aura"
+  },
+  {
+    "id": "2eec6ab7-afbe-46ea-a7a6-6b678256f33e",
+    "title": "Guile",
+    "scryfall_uri": "https://scryfall.com/card/lrw/69/guile",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/e/2eec6ab7-afbe-46ea-a7a6-6b678256f33e.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Elemental Incarnation"
+  },
+  {
+    "id": "cce7ce6e-0d84-4d66-a1dd-26ddac73d47b",
+    "title": "Inkfathom Divers",
+    "scryfall_uri": "https://scryfall.com/card/lrw/70/inkfathom-divers",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/c/cce7ce6e-0d84-4d66-a1dd-26ddac73d47b.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Merfolk Soldier"
+  },
+  {
+    "id": "cdffb058-1af0-41bb-956a-ae10e092c389",
+    "title": "Jace Beleren",
+    "scryfall_uri": "https://scryfall.com/card/lrw/71/jace-beleren",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/d/cdffb058-1af0-41bb-956a-ae10e092c389.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Planeswalker \u2014 Jace"
+  },
+  {
+    "id": "3ad0c3b4-fd24-44ad-8b30-4176f07be3d6",
+    "title": "Merrow Commerce",
+    "scryfall_uri": "https://scryfall.com/card/lrw/72/merrow-commerce",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/a/3ad0c3b4-fd24-44ad-8b30-4176f07be3d6.webp",
+    "rarity": "Uncommon",
+    "card_type": "Kindred Enchantment \u2014 Merfolk"
+  },
+  {
+    "id": "b47af11c-1090-4f0a-8eea-64a3b639e535",
+    "title": "Merrow Harbinger",
+    "scryfall_uri": "https://scryfall.com/card/lrw/73/merrow-harbinger",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/4/b47af11c-1090-4f0a-8eea-64a3b639e535.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Merfolk Wizard"
+  },
+  {
+    "id": "b57434d9-6fa5-43a6-98b9-044d2259d699",
+    "title": "Merrow Reejerey",
+    "scryfall_uri": "https://scryfall.com/card/lrw/74/merrow-reejerey",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/5/b57434d9-6fa5-43a6-98b9-044d2259d699.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Merfolk Soldier"
+  },
+  {
+    "id": "cfc421e2-0dd4-4bdf-b5f5-a60c4b0df63b",
+    "title": "Mistbind Clique",
+    "scryfall_uri": "https://scryfall.com/card/lrw/75/mistbind-clique",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/f/cfc421e2-0dd4-4bdf-b5f5-a60c4b0df63b.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Faerie Wizard"
+  },
+  {
+    "id": "a97cfefa-ade7-49f6-b2aa-1118b9db4935",
+    "title": "Mulldrifter",
+    "scryfall_uri": "https://scryfall.com/card/lrw/76/mulldrifter",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/9/a97cfefa-ade7-49f6-b2aa-1118b9db4935.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elemental"
+  },
+  {
+    "id": "a439c0ca-0cb2-4293-825e-1a72159953b9",
+    "title": "Paperfin Rascal",
+    "scryfall_uri": "https://scryfall.com/card/lrw/77/paperfin-rascal",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/4/a439c0ca-0cb2-4293-825e-1a72159953b9.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Merfolk Rogue"
+  },
+  {
+    "id": "f252ae53-443c-4a27-b8f0-639a9a2b8598",
+    "title": "Pestermite",
+    "scryfall_uri": "https://scryfall.com/card/lrw/78/pestermite",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/2/f252ae53-443c-4a27-b8f0-639a9a2b8598.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Faerie Rogue"
+  },
+  {
+    "id": "ba6b6fc5-5077-4812-b8e9-906783dbaf67",
+    "title": "Ponder",
+    "scryfall_uri": "https://scryfall.com/card/lrw/79/ponder",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/a/ba6b6fc5-5077-4812-b8e9-906783dbaf67.webp",
+    "rarity": "Common",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "7ab1db58-66b6-4b92-9dcd-e044fa383469",
+    "title": "Protective Bubble",
+    "scryfall_uri": "https://scryfall.com/card/lrw/80/protective-bubble",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/a/7ab1db58-66b6-4b92-9dcd-e044fa383469.webp",
+    "rarity": "Common",
+    "card_type": "Enchantment \u2014 Aura"
+  },
+  {
+    "id": "72d3ae1f-5442-4725-a16a-502f13359a85",
+    "title": "Ringskipper",
+    "scryfall_uri": "https://scryfall.com/card/lrw/81/ringskipper",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/2/72d3ae1f-5442-4725-a16a-502f13359a85.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Faerie Wizard"
+  },
+  {
+    "id": "c536c1ce-a012-4d77-ab29-8574be164731",
+    "title": "Scattering Stroke",
+    "scryfall_uri": "https://scryfall.com/card/lrw/82/scattering-stroke",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/5/c536c1ce-a012-4d77-ab29-8574be164731.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant"
+  },
+  {
+    "id": "f75fc1eb-09ac-4800-a55d-c0e723f5786b",
+    "title": "Scion of Oona",
+    "scryfall_uri": "https://scryfall.com/card/lrw/83/scion-of-oona",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/7/f75fc1eb-09ac-4800-a55d-c0e723f5786b.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Faerie Soldier"
+  },
+  {
+    "id": "f48daf7e-2f8e-4179-a145-a6b36dd11d44",
+    "title": "Sentinels of Glen Elendra",
+    "scryfall_uri": "https://scryfall.com/card/lrw/84/sentinels-of-glen-elendra",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/4/f48daf7e-2f8e-4179-a145-a6b36dd11d44.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Faerie Soldier"
+  },
+  {
+    "id": "e148481d-a969-40d9-9335-d0e06ad8245b",
+    "title": "Shapesharer",
+    "scryfall_uri": "https://scryfall.com/card/lrw/85/shapesharer",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/1/e148481d-a969-40d9-9335-d0e06ad8245b.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Shapeshifter"
+  },
+  {
+    "id": "9e07a38a-2d88-4b01-9634-f24cbc8d96d6",
+    "title": "Silvergill Adept",
+    "scryfall_uri": "https://scryfall.com/card/lrw/86/silvergill-adept",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/e/9e07a38a-2d88-4b01-9634-f24cbc8d96d6.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Merfolk Wizard"
+  },
+  {
+    "id": "8875c883-8d56-406b-bd89-42199a6e79f5",
+    "title": "Silvergill Douser",
+    "scryfall_uri": "https://scryfall.com/card/lrw/87/silvergill-douser",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/8/8875c883-8d56-406b-bd89-42199a6e79f5.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Merfolk Wizard"
+  },
+  {
+    "id": "2f5320da-7214-4348-84d8-74bf951c9f2f",
+    "title": "Sower of Temptation",
+    "scryfall_uri": "https://scryfall.com/card/lrw/88/sower-of-temptation",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/f/2f5320da-7214-4348-84d8-74bf951c9f2f.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Faerie Wizard"
+  },
+  {
+    "id": "4e5ba4a9-a282-4d4b-b25a-179e05e458f4",
+    "title": "Spellstutter Sprite",
+    "scryfall_uri": "https://scryfall.com/card/lrw/89/spellstutter-sprite",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/e/4e5ba4a9-a282-4d4b-b25a-179e05e458f4.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Faerie Wizard"
+  },
+  {
+    "id": "047709e7-c44f-47e4-a9cc-1d941264e454",
+    "title": "Stonybrook Angler",
+    "scryfall_uri": "https://scryfall.com/card/lrw/90/stonybrook-angler",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/4/047709e7-c44f-47e4-a9cc-1d941264e454.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Merfolk Wizard"
+  },
+  {
+    "id": "aed908f4-630c-4f3c-9e61-4725b88b93ff",
+    "title": "Streambed Aquitects",
+    "scryfall_uri": "https://scryfall.com/card/lrw/91/streambed-aquitects",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/e/aed908f4-630c-4f3c-9e61-4725b88b93ff.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Merfolk Scout"
+  },
+  {
+    "id": "1d5b00cb-ebc3-44e8-970d-724150eb7876",
+    "title": "Surgespanner",
+    "scryfall_uri": "https://scryfall.com/card/lrw/92/surgespanner",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/d/1d5b00cb-ebc3-44e8-970d-724150eb7876.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Merfolk Wizard"
+  },
+  {
+    "id": "e526ebbf-2041-4c3e-9a20-73bbf6f90251",
+    "title": "Tideshaper Mystic",
+    "scryfall_uri": "https://scryfall.com/card/lrw/93/tideshaper-mystic",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/5/e526ebbf-2041-4c3e-9a20-73bbf6f90251.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Merfolk Wizard"
+  },
+  {
+    "id": "a72b078e-e324-4775-9d38-08943017a48e",
+    "title": "Turtleshell Changeling",
+    "scryfall_uri": "https://scryfall.com/card/lrw/94/turtleshell-changeling",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/7/a72b078e-e324-4775-9d38-08943017a48e.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Shapeshifter"
+  },
+  {
+    "id": "6cdbb6ff-c945-4dd6-aba6-4fd4b77824c0",
+    "title": "Wanderwine Prophets",
+    "scryfall_uri": "https://scryfall.com/card/lrw/95/wanderwine-prophets",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/c/6cdbb6ff-c945-4dd6-aba6-4fd4b77824c0.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Merfolk Wizard"
+  },
+  {
+    "id": "1934c34a-c163-4fac-a80d-8b17e8d64efa",
+    "title": "Whirlpool Whelm",
+    "scryfall_uri": "https://scryfall.com/card/lrw/96/whirlpool-whelm",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/9/1934c34a-c163-4fac-a80d-8b17e8d64efa.webp",
+    "rarity": "Common",
+    "card_type": "Instant"
+  },
+  {
+    "id": "fb3c1f39-b6ac-4663-9623-bd573a1117b0",
+    "title": "Wings of Velis Vel",
+    "scryfall_uri": "https://scryfall.com/card/lrw/97/wings-of-velis-vel",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/b/fb3c1f39-b6ac-4663-9623-bd573a1117b0.webp",
+    "rarity": "Common",
+    "card_type": "Kindred Instant \u2014 Shapeshifter"
+  },
+  {
+    "id": "817b8996-388f-4704-a4c8-ef99d4701805",
+    "title": "Zephyr Net",
+    "scryfall_uri": "https://scryfall.com/card/lrw/98/zephyr-net",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/1/817b8996-388f-4704-a4c8-ef99d4701805.webp",
+    "rarity": "Common",
+    "card_type": "Enchantment \u2014 Aura"
+  },
+  {
+    "id": "11a1fc03-5719-49ed-9d53-d8ea5693373e",
+    "title": "Black Poplar Shaman",
+    "scryfall_uri": "https://scryfall.com/card/lrw/99/black-poplar-shaman",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/1/11a1fc03-5719-49ed-9d53-d8ea5693373e.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Treefolk Shaman"
+  },
+  {
+    "id": "f2459953-a4b5-4a9c-85ed-928b684d7240",
+    "title": "Bog Hoodlums",
+    "scryfall_uri": "https://scryfall.com/card/lrw/100/bog-hoodlums",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/2/f2459953-a4b5-4a9c-85ed-928b684d7240.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Goblin Warrior"
+  },
+  {
+    "id": "1bb4916d-ab50-45c9-bf7e-e7a7e761aef4",
+    "title": "Boggart Birth Rite",
+    "scryfall_uri": "https://scryfall.com/card/lrw/101/boggart-birth-rite",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/b/1bb4916d-ab50-45c9-bf7e-e7a7e761aef4.webp",
+    "rarity": "Common",
+    "card_type": "Kindred Sorcery \u2014 Goblin"
+  },
+  {
+    "id": "8ea8d2b8-bcac-410d-aa5a-e4a74f7d5315",
+    "title": "Boggart Harbinger",
+    "scryfall_uri": "https://scryfall.com/card/lrw/102/boggart-harbinger",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/e/8ea8d2b8-bcac-410d-aa5a-e4a74f7d5315.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Goblin Shaman"
+  },
+  {
+    "id": "9ed9a638-c3f9-48dd-9633-5c52146e0dcd",
+    "title": "Boggart Loggers",
+    "scryfall_uri": "https://scryfall.com/card/lrw/103/boggart-loggers",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/e/9ed9a638-c3f9-48dd-9633-5c52146e0dcd.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Goblin Rogue"
+  },
+  {
+    "id": "a61990de-0daf-4340-8e6b-c49852d46980",
+    "title": "Boggart Mob",
+    "scryfall_uri": "https://scryfall.com/card/lrw/104/boggart-mob",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/6/a61990de-0daf-4340-8e6b-c49852d46980.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Goblin Warrior"
+  },
+  {
+    "id": "b870a7aa-0836-4e3e-8be9-3299bdaded81",
+    "title": "Cairn Wanderer",
+    "scryfall_uri": "https://scryfall.com/card/lrw/105/cairn-wanderer",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/8/b870a7aa-0836-4e3e-8be9-3299bdaded81.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Shapeshifter"
+  },
+  {
+    "id": "f8d06368-d226-4089-84d4-950a3ebdfb15",
+    "title": "Colfenor's Plans",
+    "scryfall_uri": "https://scryfall.com/card/lrw/106/colfenors-plans",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/8/f8d06368-d226-4089-84d4-950a3ebdfb15.webp",
+    "rarity": "Rare",
+    "card_type": "Enchantment"
+  },
+  {
+    "id": "9b608658-9150-439b-b0a0-4a994722b95c",
+    "title": "Dread",
+    "scryfall_uri": "https://scryfall.com/card/lrw/107/dread",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/b/9b608658-9150-439b-b0a0-4a994722b95c.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Elemental Incarnation"
+  },
+  {
+    "id": "7d5c2487-5da0-4d9a-beb2-598feeb068a1",
+    "title": "Dreamspoiler Witches",
+    "scryfall_uri": "https://scryfall.com/card/lrw/108/dreamspoiler-witches",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/d/7d5c2487-5da0-4d9a-beb2-598feeb068a1.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Faerie Wizard"
+  },
+  {
+    "id": "5fe41509-02db-415c-964e-971ea1d5485c",
+    "title": "Exiled Boggart",
+    "scryfall_uri": "https://scryfall.com/card/lrw/109/exiled-boggart",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/f/5fe41509-02db-415c-964e-971ea1d5485c.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Goblin Rogue"
+  },
+  {
+    "id": "e0c08701-7038-4d6b-bbf8-056fd8ffb226",
+    "title": "Eyeblight's Ending",
+    "scryfall_uri": "https://scryfall.com/card/lrw/110/eyeblights-ending",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/0/e0c08701-7038-4d6b-bbf8-056fd8ffb226.webp",
+    "rarity": "Common",
+    "card_type": "Kindred Instant \u2014 Elf"
+  },
+  {
+    "id": "1fc973d3-39cf-4d0c-a3e9-70af2be3cd68",
+    "title": "Facevaulter",
+    "scryfall_uri": "https://scryfall.com/card/lrw/111/facevaulter",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/f/1fc973d3-39cf-4d0c-a3e9-70af2be3cd68.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Goblin Warrior"
+  },
+  {
+    "id": "33727782-dafd-4a7c-96dd-6ffaf667cc6b",
+    "title": "Faerie Tauntings",
+    "scryfall_uri": "https://scryfall.com/card/lrw/112/faerie-tauntings",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/3/33727782-dafd-4a7c-96dd-6ffaf667cc6b.webp",
+    "rarity": "Uncommon",
+    "card_type": "Kindred Enchantment \u2014 Faerie"
+  },
+  {
+    "id": "99f3744a-71c4-4a54-9e1c-92420526b792",
+    "title": "Final Revels",
+    "scryfall_uri": "https://scryfall.com/card/lrw/113/final-revels",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/9/99f3744a-71c4-4a54-9e1c-92420526b792.webp",
+    "rarity": "Uncommon",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "d000670f-1151-4abf-a7ec-b35a6e587183",
+    "title": "Fodder Launch",
+    "scryfall_uri": "https://scryfall.com/card/lrw/114/fodder-launch",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/0/d000670f-1151-4abf-a7ec-b35a6e587183.webp",
+    "rarity": "Uncommon",
+    "card_type": "Kindred Sorcery \u2014 Goblin"
+  },
+  {
+    "id": "fc04f820-9505-4ccd-98e7-1bb861161af5",
+    "title": "Footbottom Feast",
+    "scryfall_uri": "https://scryfall.com/card/lrw/115/footbottom-feast",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/c/fc04f820-9505-4ccd-98e7-1bb861161af5.webp",
+    "rarity": "Common",
+    "card_type": "Instant"
+  },
+  {
+    "id": "d7218726-dfa2-4d13-a210-5d54024e2d27",
+    "title": "Ghostly Changeling",
+    "scryfall_uri": "https://scryfall.com/card/lrw/116/ghostly-changeling",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/7/d7218726-dfa2-4d13-a210-5d54024e2d27.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Shapeshifter"
+  },
+  {
+    "id": "9666a328-cc51-4be1-abef-06bbe41dd866",
+    "title": "Hoarder's Greed",
+    "scryfall_uri": "https://scryfall.com/card/lrw/117/hoarders-greed",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/6/9666a328-cc51-4be1-abef-06bbe41dd866.webp",
+    "rarity": "Uncommon",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "45598727-a8b1-4b3e-87c6-70c36f0d4fe8",
+    "title": "Hornet Harasser",
+    "scryfall_uri": "https://scryfall.com/card/lrw/118/hornet-harasser",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/5/45598727-a8b1-4b3e-87c6-70c36f0d4fe8.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Goblin Shaman"
+  },
+  {
+    "id": "bbd5b8db-4a56-45bd-9704-a1316016ec5b",
+    "title": "Hunter of Eyeblights",
+    "scryfall_uri": "https://scryfall.com/card/lrw/119/hunter-of-eyeblights",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/b/bbd5b8db-4a56-45bd-9704-a1316016ec5b.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elf Assassin"
+  },
+  {
+    "id": "7d66b355-9aff-4cce-ae4a-42b233475dcf",
+    "title": "Knucklebone Witch",
+    "scryfall_uri": "https://scryfall.com/card/lrw/120/knucklebone-witch",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/d/7d66b355-9aff-4cce-ae4a-42b233475dcf.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Goblin Shaman"
+  },
+  {
+    "id": "1662fcb1-f142-43ff-b682-6827dea2ff7e",
+    "title": "Liliana Vess",
+    "scryfall_uri": "https://scryfall.com/card/lrw/121/liliana-vess",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/6/1662fcb1-f142-43ff-b682-6827dea2ff7e.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Planeswalker \u2014 Liliana"
+  },
+  {
+    "id": "7614e3e7-708f-4717-b798-97f0c391a673",
+    "title": "Lys Alana Scarblade",
+    "scryfall_uri": "https://scryfall.com/card/lrw/122/lys-alana-scarblade",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/6/7614e3e7-708f-4717-b798-97f0c391a673.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elf Assassin"
+  },
+  {
+    "id": "39b1655b-ab0a-40d9-8d4d-55d13310ede1",
+    "title": "Mad Auntie",
+    "scryfall_uri": "https://scryfall.com/card/lrw/123/mad-auntie",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/9/39b1655b-ab0a-40d9-8d4d-55d13310ede1.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Goblin Shaman"
+  },
+  {
+    "id": "79029161-a2c9-4cf6-94c0-31400daa0e8e",
+    "title": "Makeshift Mannequin",
+    "scryfall_uri": "https://scryfall.com/card/lrw/124/makeshift-mannequin",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/9/79029161-a2c9-4cf6-94c0-31400daa0e8e.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant"
+  },
+  {
+    "id": "040e1039-1943-4c2d-aa98-b7f9519de321",
+    "title": "Marsh Flitter",
+    "scryfall_uri": "https://scryfall.com/card/lrw/125/marsh-flitter",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/4/040e1039-1943-4c2d-aa98-b7f9519de321.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Faerie Rogue"
+  },
+  {
+    "id": "effb7761-98a8-4cb8-883a-ddcb91d30c08",
+    "title": "Moonglove Winnower",
+    "scryfall_uri": "https://scryfall.com/card/lrw/126/moonglove-winnower",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/f/effb7761-98a8-4cb8-883a-ddcb91d30c08.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elf Rogue"
+  },
+  {
+    "id": "3a62a282-5f94-444b-9095-4c36fabdad57",
+    "title": "Mournwhelk",
+    "scryfall_uri": "https://scryfall.com/card/lrw/127/mournwhelk",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/a/3a62a282-5f94-444b-9095-4c36fabdad57.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elemental"
+  },
+  {
+    "id": "94b4e4d2-2358-48d2-9a2a-3d17afea28f5",
+    "title": "Nameless Inversion",
+    "scryfall_uri": "https://scryfall.com/card/lrw/128/nameless-inversion",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/4/94b4e4d2-2358-48d2-9a2a-3d17afea28f5.webp",
+    "rarity": "Common",
+    "card_type": "Kindred Instant \u2014 Shapeshifter"
+  },
+  {
+    "id": "66f077d2-34ab-45fa-84db-eb408c5a9996",
+    "title": "Nath's Buffoon",
+    "scryfall_uri": "https://scryfall.com/card/lrw/129/naths-buffoon",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/6/66f077d2-34ab-45fa-84db-eb408c5a9996.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Goblin Rogue"
+  },
+  {
+    "id": "d943b877-805d-4bc8-a3ae-abec00fa51a6",
+    "title": "Nectar Faerie",
+    "scryfall_uri": "https://scryfall.com/card/lrw/130/nectar-faerie",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/9/d943b877-805d-4bc8-a3ae-abec00fa51a6.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Faerie Wizard"
+  },
+  {
+    "id": "dd6b1240-0bc3-401a-9cc3-3acaea871a3d",
+    "title": "Nettlevine Blight",
+    "scryfall_uri": "https://scryfall.com/card/lrw/131/nettlevine-blight",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/d/dd6b1240-0bc3-401a-9cc3-3acaea871a3d.webp",
+    "rarity": "Rare",
+    "card_type": "Enchantment \u2014 Aura"
+  },
+  {
+    "id": "aa341824-bf3a-49ce-a8a0-ee53f537d626",
+    "title": "Nightshade Stinger",
+    "scryfall_uri": "https://scryfall.com/card/lrw/132/nightshade-stinger",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/a/aa341824-bf3a-49ce-a8a0-ee53f537d626.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Faerie Rogue"
+  },
+  {
+    "id": "9675b8ea-47f9-440e-9535-de879da53f76",
+    "title": "Oona's Prowler",
+    "scryfall_uri": "https://scryfall.com/card/lrw/133/oonas-prowler",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/6/9675b8ea-47f9-440e-9535-de879da53f76.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Faerie Rogue"
+  },
+  {
+    "id": "568586ca-8a02-4a77-bd65-c0b4a74c429d",
+    "title": "Peppersmoke",
+    "scryfall_uri": "https://scryfall.com/card/lrw/134/peppersmoke",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/6/568586ca-8a02-4a77-bd65-c0b4a74c429d.webp",
+    "rarity": "Common",
+    "card_type": "Kindred Instant \u2014 Faerie"
+  },
+  {
+    "id": "752bf7fd-c49e-42fa-bbdd-8ca5d4c89b2b",
+    "title": "Profane Command",
+    "scryfall_uri": "https://scryfall.com/card/lrw/135/profane-command",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/5/752bf7fd-c49e-42fa-bbdd-8ca5d4c89b2b.webp",
+    "rarity": "Rare",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "099badba-1c8a-4a74-80e9-133f2bafb94d",
+    "title": "Prowess of the Fair",
+    "scryfall_uri": "https://scryfall.com/card/lrw/136/prowess-of-the-fair",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/9/099badba-1c8a-4a74-80e9-133f2bafb94d.webp",
+    "rarity": "Uncommon",
+    "card_type": "Kindred Enchantment \u2014 Elf"
+  },
+  {
+    "id": "c3a15a9d-46d7-4181-8131-50ba46a11c7b",
+    "title": "Quill-Slinger Boggart",
+    "scryfall_uri": "https://scryfall.com/card/lrw/137/quill-slinger-boggart",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/3/c3a15a9d-46d7-4181-8131-50ba46a11c7b.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Goblin Warrior"
+  },
+  {
+    "id": "a60c51c2-3a24-4376-850c-cebd4d75adca",
+    "title": "Scarred Vinebreeder",
+    "scryfall_uri": "https://scryfall.com/card/lrw/138/scarred-vinebreeder",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/6/a60c51c2-3a24-4376-850c-cebd4d75adca.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elf Shaman"
+  },
+  {
+    "id": "ea19eb5e-0d70-42e6-bda2-b13757e08ca6",
+    "title": "Shriekmaw",
+    "scryfall_uri": "https://scryfall.com/card/lrw/139/shriekmaw",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/a/ea19eb5e-0d70-42e6-bda2-b13757e08ca6.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elemental"
+  },
+  {
+    "id": "6f1d8e26-304b-4571-9b33-7713265d9bbf",
+    "title": "Skeletal Changeling",
+    "scryfall_uri": "https://scryfall.com/card/lrw/140/skeletal-changeling",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/f/6f1d8e26-304b-4571-9b33-7713265d9bbf.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Shapeshifter"
+  },
+  {
+    "id": "88e77c10-b569-485f-ba3e-16ef0c57dd81",
+    "title": "Spiderwig Boggart",
+    "scryfall_uri": "https://scryfall.com/card/lrw/141/spiderwig-boggart",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/8/88e77c10-b569-485f-ba3e-16ef0c57dd81.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Goblin Shaman"
+  },
+  {
+    "id": "b7184715-3ed3-4f56-9bf3-ff431cca86be",
+    "title": "Squeaking Pie Sneak",
+    "scryfall_uri": "https://scryfall.com/card/lrw/142/squeaking-pie-sneak",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/7/b7184715-3ed3-4f56-9bf3-ff431cca86be.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Goblin Rogue"
+  },
+  {
+    "id": "9b5b51c3-60a8-45b2-9de0-605388091e8a",
+    "title": "Thieving Sprite",
+    "scryfall_uri": "https://scryfall.com/card/lrw/143/thieving-sprite",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/b/9b5b51c3-60a8-45b2-9de0-605388091e8a.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Faerie Rogue"
+  },
+  {
+    "id": "140265a2-61c3-4731-989c-9d55c27400ec",
+    "title": "Thorntooth Witch",
+    "scryfall_uri": "https://scryfall.com/card/lrw/144/thorntooth-witch",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/4/140265a2-61c3-4731-989c-9d55c27400ec.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Treefolk Shaman"
+  },
+  {
+    "id": "3df8c148-e87d-4043-9d8b-ec72bf8b6d5d",
+    "title": "Thoughtseize",
+    "scryfall_uri": "https://scryfall.com/card/lrw/145/thoughtseize",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/d/3df8c148-e87d-4043-9d8b-ec72bf8b6d5d.webp",
+    "rarity": "Rare",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "bc98177b-34a6-44e1-9abd-6fd8df09fc70",
+    "title": "Warren Pilferers",
+    "scryfall_uri": "https://scryfall.com/card/lrw/146/warren-pilferers",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/c/bc98177b-34a6-44e1-9abd-6fd8df09fc70.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Goblin Rogue"
+  },
+  {
+    "id": "c1f7fb79-19a8-483a-bf91-e687f7da4e9c",
+    "title": "Weed Strangle",
+    "scryfall_uri": "https://scryfall.com/card/lrw/147/weed-strangle",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/1/c1f7fb79-19a8-483a-bf91-e687f7da4e9c.webp",
+    "rarity": "Common",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "d116839f-6a3a-4a2e-a3ab-ea177c012746",
+    "title": "Adder-Staff Boggart",
+    "scryfall_uri": "https://scryfall.com/card/lrw/148/adder-staff-boggart",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/1/d116839f-6a3a-4a2e-a3ab-ea177c012746.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Goblin Warrior"
+  },
+  {
+    "id": "63056eb9-4257-4530-8ff4-6909a2cedf47",
+    "title": "Ashling the Pilgrim",
+    "scryfall_uri": "https://scryfall.com/card/lrw/149/ashling-the-pilgrim",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/3/63056eb9-4257-4530-8ff4-6909a2cedf47.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Creature \u2014 Elemental Shaman"
+  },
+  {
+    "id": "d850d95e-ba27-49cc-aa7a-42508852fe20",
+    "title": "Ashling's Prerogative",
+    "scryfall_uri": "https://scryfall.com/card/lrw/150/ashlings-prerogative",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/8/d850d95e-ba27-49cc-aa7a-42508852fe20.webp",
+    "rarity": "Rare",
+    "card_type": "Enchantment"
+  },
+  {
+    "id": "8595e9a1-010e-48a7-91e4-3d2722c8dbc0",
+    "title": "Axegrinder Giant",
+    "scryfall_uri": "https://scryfall.com/card/lrw/151/axegrinder-giant",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/5/8595e9a1-010e-48a7-91e4-3d2722c8dbc0.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Giant Warrior"
+  },
+  {
+    "id": "5a3ac629-a8c9-4b84-a8ea-b775d7913238",
+    "title": "Blades of Velis Vel",
+    "scryfall_uri": "https://scryfall.com/card/lrw/152/blades-of-velis-vel",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/a/5a3ac629-a8c9-4b84-a8ea-b775d7913238.webp",
+    "rarity": "Common",
+    "card_type": "Kindred Instant \u2014 Shapeshifter"
+  },
+  {
+    "id": "75aaca31-8ed5-4e8a-8332-1cca77903f88",
+    "title": "Blind-Spot Giant",
+    "scryfall_uri": "https://scryfall.com/card/lrw/153/blind-spot-giant",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/5/75aaca31-8ed5-4e8a-8332-1cca77903f88.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Giant Warrior"
+  },
+  {
+    "id": "fbc26374-d8de-4740-b1ec-ac92cfedbebc",
+    "title": "Boggart Forager",
+    "scryfall_uri": "https://scryfall.com/card/lrw/154/boggart-forager",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/b/fbc26374-d8de-4740-b1ec-ac92cfedbebc.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Goblin Rogue"
+  },
+  {
+    "id": "1b3c0ea9-270d-4738-9462-7f48fecb4bf4",
+    "title": "Boggart Shenanigans",
+    "scryfall_uri": "https://scryfall.com/card/lrw/155/boggart-shenanigans",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/b/1b3c0ea9-270d-4738-9462-7f48fecb4bf4.webp",
+    "rarity": "Uncommon",
+    "card_type": "Kindred Enchantment \u2014 Goblin"
+  },
+  {
+    "id": "6341b73b-a035-45a2-908d-879c8eed4bbd",
+    "title": "Boggart Sprite-Chaser",
+    "scryfall_uri": "https://scryfall.com/card/lrw/156/boggart-sprite-chaser",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/3/6341b73b-a035-45a2-908d-879c8eed4bbd.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Goblin Warrior"
+  },
+  {
+    "id": "ee8337bf-9fe8-45a0-974c-8911306b19ea",
+    "title": "Caterwauling Boggart",
+    "scryfall_uri": "https://scryfall.com/card/lrw/157/caterwauling-boggart",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/e/ee8337bf-9fe8-45a0-974c-8911306b19ea.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Goblin Shaman"
+  },
+  {
+    "id": "a7e103a3-555c-4b68-9768-42637bfd2478",
+    "title": "Ceaseless Searblades",
+    "scryfall_uri": "https://scryfall.com/card/lrw/158/ceaseless-searblades",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/7/a7e103a3-555c-4b68-9768-42637bfd2478.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elemental Warrior"
+  },
+  {
+    "id": "317e7ab7-7639-4877-aae2-3746563f2ec9",
+    "title": "Chandra Nalaar",
+    "scryfall_uri": "https://scryfall.com/card/lrw/159/chandra-nalaar",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/1/317e7ab7-7639-4877-aae2-3746563f2ec9.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Planeswalker \u2014 Chandra"
+  },
+  {
+    "id": "9f2e8f24-2ee1-4516-bf60-7fe6a0c4baec",
+    "title": "Changeling Berserker",
+    "scryfall_uri": "https://scryfall.com/card/lrw/160/changeling-berserker",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/f/9f2e8f24-2ee1-4516-bf60-7fe6a0c4baec.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Shapeshifter"
+  },
+  {
+    "id": "56a4ec08-5029-4f7b-a93b-a5dad4be5113",
+    "title": "Consuming Bonfire",
+    "scryfall_uri": "https://scryfall.com/card/lrw/161/consuming-bonfire",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/6/56a4ec08-5029-4f7b-a93b-a5dad4be5113.webp",
+    "rarity": "Common",
+    "card_type": "Kindred Sorcery \u2014 Elemental"
+  },
+  {
+    "id": "e0386925-53bc-4902-ac30-cbdcb099936d",
+    "title": "Crush Underfoot",
+    "scryfall_uri": "https://scryfall.com/card/lrw/162/crush-underfoot",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/0/e0386925-53bc-4902-ac30-cbdcb099936d.webp",
+    "rarity": "Uncommon",
+    "card_type": "Kindred Instant \u2014 Giant"
+  },
+  {
+    "id": "be88b32a-986c-4317-b4a3-119f67e13b83",
+    "title": "Faultgrinder",
+    "scryfall_uri": "https://scryfall.com/card/lrw/163/faultgrinder",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/e/be88b32a-986c-4317-b4a3-119f67e13b83.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elemental"
+  },
+  {
+    "id": "d4732342-71a4-4079-b549-f4454945273a",
+    "title": "Fire-Belly Changeling",
+    "scryfall_uri": "https://scryfall.com/card/lrw/164/fire-belly-changeling",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/4/d4732342-71a4-4079-b549-f4454945273a.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Shapeshifter"
+  },
+  {
+    "id": "1b6ea1c8-ca58-4240-adb7-71cd49664414",
+    "title": "Flamekin Bladewhirl",
+    "scryfall_uri": "https://scryfall.com/card/lrw/165/flamekin-bladewhirl",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/b/1b6ea1c8-ca58-4240-adb7-71cd49664414.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elemental Warrior"
+  },
+  {
+    "id": "301abe8f-916a-4e5b-bf25-f1e12ae9cee2",
+    "title": "Flamekin Brawler",
+    "scryfall_uri": "https://scryfall.com/card/lrw/166/flamekin-brawler",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/0/301abe8f-916a-4e5b-bf25-f1e12ae9cee2.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elemental Warrior"
+  },
+  {
+    "id": "f330c0f4-13d2-4432-9ced-f044bef98ec8",
+    "title": "Flamekin Harbinger",
+    "scryfall_uri": "https://scryfall.com/card/lrw/167/flamekin-harbinger",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/3/f330c0f4-13d2-4432-9ced-f044bef98ec8.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elemental Shaman"
+  },
+  {
+    "id": "9a7878e5-fcb0-4de5-8dda-fcdb4b138ec1",
+    "title": "Flamekin Spitfire",
+    "scryfall_uri": "https://scryfall.com/card/lrw/168/flamekin-spitfire",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/a/9a7878e5-fcb0-4de5-8dda-fcdb4b138ec1.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elemental Shaman"
+  },
+  {
+    "id": "1f72f461-98d7-45e0-9968-9afb240fbf1e",
+    "title": "Giant Harbinger",
+    "scryfall_uri": "https://scryfall.com/card/lrw/169/giant-harbinger",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/f/1f72f461-98d7-45e0-9968-9afb240fbf1e.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Giant Shaman"
+  },
+  {
+    "id": "046fa2db-4c73-401a-b9a4-b039554be625",
+    "title": "Giant's Ire",
+    "scryfall_uri": "https://scryfall.com/card/lrw/170/giants-ire",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/4/046fa2db-4c73-401a-b9a4-b039554be625.webp",
+    "rarity": "Common",
+    "card_type": "Kindred Sorcery \u2014 Giant"
+  },
+  {
+    "id": "59fdc845-7165-40f3-a082-21a502b3f0f6",
+    "title": "Glarewielder",
+    "scryfall_uri": "https://scryfall.com/card/lrw/171/glarewielder",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/9/59fdc845-7165-40f3-a082-21a502b3f0f6.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elemental Shaman"
+  },
+  {
+    "id": "78f32852-2a18-453d-910a-829c3a2b5b1b",
+    "title": "Goatnapper",
+    "scryfall_uri": "https://scryfall.com/card/lrw/172/goatnapper",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/8/78f32852-2a18-453d-910a-829c3a2b5b1b.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Goblin Rogue"
+  },
+  {
+    "id": "96f71692-6389-462f-933e-b18b5aa7d76b",
+    "title": "Hamletback Goliath",
+    "scryfall_uri": "https://scryfall.com/card/lrw/173/hamletback-goliath",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/6/96f71692-6389-462f-933e-b18b5aa7d76b.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Giant Warrior"
+  },
+  {
+    "id": "fb0d4d3f-d3ad-4c70-b9af-9bfcdd9efd1f",
+    "title": "Hearthcage Giant",
+    "scryfall_uri": "https://scryfall.com/card/lrw/174/hearthcage-giant",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/b/fb0d4d3f-d3ad-4c70-b9af-9bfcdd9efd1f.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Giant Warrior"
+  },
+  {
+    "id": "a432470c-7f68-4429-970a-3da8eabcf0b8",
+    "title": "Heat Shimmer",
+    "scryfall_uri": "https://scryfall.com/card/lrw/175/heat-shimmer",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/4/a432470c-7f68-4429-970a-3da8eabcf0b8.webp",
+    "rarity": "Rare",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "5f560199-7703-4e2a-8e2d-5728f6efef46",
+    "title": "Hostility",
+    "scryfall_uri": "https://scryfall.com/card/lrw/176/hostility",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/f/5f560199-7703-4e2a-8e2d-5728f6efef46.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Elemental Incarnation"
+  },
+  {
+    "id": "7a6e0b97-c2a9-4cd6-957e-87e9b22f7b48",
+    "title": "Hurly-Burly",
+    "scryfall_uri": "https://scryfall.com/card/lrw/177/hurly-burly",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/a/7a6e0b97-c2a9-4cd6-957e-87e9b22f7b48.webp",
+    "rarity": "Common",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "c8829b3c-5267-44c6-b709-c2dfc683b0a8",
+    "title": "Incandescent Soulstoke",
+    "scryfall_uri": "https://scryfall.com/card/lrw/178/incandescent-soulstoke",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/8/c8829b3c-5267-44c6-b709-c2dfc683b0a8.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Elemental Shaman"
+  },
+  {
+    "id": "512367a2-f8f6-4c28-9eb3-8e04d2694e4b",
+    "title": "Incendiary Command",
+    "scryfall_uri": "https://scryfall.com/card/lrw/179/incendiary-command",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/1/512367a2-f8f6-4c28-9eb3-8e04d2694e4b.webp",
+    "rarity": "Rare",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "9ceb9ae9-d153-446f-8835-1c53672fc9ca",
+    "title": "Ingot Chewer",
+    "scryfall_uri": "https://scryfall.com/card/lrw/180/ingot-chewer",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/c/9ceb9ae9-d153-446f-8835-1c53672fc9ca.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elemental"
+  },
+  {
+    "id": "f99a113a-013a-411b-9f16-975cebd5ea5f",
+    "title": "Inner-Flame Acolyte",
+    "scryfall_uri": "https://scryfall.com/card/lrw/181/inner-flame-acolyte",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/9/f99a113a-013a-411b-9f16-975cebd5ea5f.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elemental Shaman"
+  },
+  {
+    "id": "07ced8a0-1caa-4737-b863-eb244a3d388a",
+    "title": "Inner-Flame Igniter",
+    "scryfall_uri": "https://scryfall.com/card/lrw/182/inner-flame-igniter",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/7/07ced8a0-1caa-4737-b863-eb244a3d388a.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elemental Warrior"
+  },
+  {
+    "id": "de2c0c8b-5442-44fb-9686-d3dff5742501",
+    "title": "Lash Out",
+    "scryfall_uri": "https://scryfall.com/card/lrw/183/lash-out",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/e/de2c0c8b-5442-44fb-9686-d3dff5742501.webp",
+    "rarity": "Common",
+    "card_type": "Instant"
+  },
+  {
+    "id": "cdaa7f6a-9639-4bee-aa12-20054d7975d5",
+    "title": "Lowland Oaf",
+    "scryfall_uri": "https://scryfall.com/card/lrw/184/lowland-oaf",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/d/cdaa7f6a-9639-4bee-aa12-20054d7975d5.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Giant Warrior"
+  },
+  {
+    "id": "50575eab-6c23-4f63-9667-458416c5caa5",
+    "title": "Mudbutton Torchrunner",
+    "scryfall_uri": "https://scryfall.com/card/lrw/185/mudbutton-torchrunner",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/0/50575eab-6c23-4f63-9667-458416c5caa5.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Goblin Warrior"
+  },
+  {
+    "id": "d3f89bcf-46f8-4598-a949-7f10134606aa",
+    "title": "Needle Drop",
+    "scryfall_uri": "https://scryfall.com/card/lrw/186/needle-drop",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/3/d3f89bcf-46f8-4598-a949-7f10134606aa.webp",
+    "rarity": "Common",
+    "card_type": "Instant"
+  },
+  {
+    "id": "07f97507-abbe-4c8b-9683-f044e38f8d4b",
+    "title": "Nova Chaser",
+    "scryfall_uri": "https://scryfall.com/card/lrw/187/nova-chaser",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/7/07f97507-abbe-4c8b-9683-f044e38f8d4b.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Elemental Warrior"
+  },
+  {
+    "id": "abd2c8cb-4852-4bde-b2cf-72ceb9b0dd3e",
+    "title": "Rebellion of the Flamekin",
+    "scryfall_uri": "https://scryfall.com/card/lrw/188/rebellion-of-the-flamekin",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/b/abd2c8cb-4852-4bde-b2cf-72ceb9b0dd3e.webp",
+    "rarity": "Uncommon",
+    "card_type": "Kindred Enchantment \u2014 Elemental"
+  },
+  {
+    "id": "e3c6227b-bd43-47e8-927f-f8a78c532591",
+    "title": "Smokebraider",
+    "scryfall_uri": "https://scryfall.com/card/lrw/189/smokebraider",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/3/e3c6227b-bd43-47e8-927f-f8a78c532591.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elemental Shaman"
+  },
+  {
+    "id": "eaf72b4d-a399-49fb-a890-653b184a9e95",
+    "title": "Soulbright Flamekin",
+    "scryfall_uri": "https://scryfall.com/card/lrw/190/soulbright-flamekin",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/a/eaf72b4d-a399-49fb-a890-653b184a9e95.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elemental Shaman"
+  },
+  {
+    "id": "428ba328-a0d8-4c52-ac2c-e9698486cc08",
+    "title": "Stinkdrinker Daredevil",
+    "scryfall_uri": "https://scryfall.com/card/lrw/191/stinkdrinker-daredevil",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/2/428ba328-a0d8-4c52-ac2c-e9698486cc08.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Goblin Rogue"
+  },
+  {
+    "id": "b62a4703-9e8d-4164-a529-b2dbc4069aa8",
+    "title": "Sunrise Sovereign",
+    "scryfall_uri": "https://scryfall.com/card/lrw/192/sunrise-sovereign",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/6/b62a4703-9e8d-4164-a529-b2dbc4069aa8.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Giant Warrior"
+  },
+  {
+    "id": "ffd2ec11-eb65-488d-a857-b5020113c429",
+    "title": "Tar Pitcher",
+    "scryfall_uri": "https://scryfall.com/card/lrw/193/tar-pitcher",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/f/ffd2ec11-eb65-488d-a857-b5020113c429.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Goblin Shaman"
+  },
+  {
+    "id": "d13a898e-6a97-4fd9-980e-3bfd8d755386",
+    "title": "Tarfire",
+    "scryfall_uri": "https://scryfall.com/card/lrw/194/tarfire",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/1/d13a898e-6a97-4fd9-980e-3bfd8d755386.webp",
+    "rarity": "Common",
+    "card_type": "Kindred Instant \u2014 Goblin"
+  },
+  {
+    "id": "5864f207-2878-461b-8ff6-76475abc324d",
+    "title": "Thundercloud Shaman",
+    "scryfall_uri": "https://scryfall.com/card/lrw/195/thundercloud-shaman",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/8/5864f207-2878-461b-8ff6-76475abc324d.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Giant Shaman"
+  },
+  {
+    "id": "d76f09bc-b49a-4ad2-be2d-2a191d41b86d",
+    "title": "Wild Ricochet",
+    "scryfall_uri": "https://scryfall.com/card/lrw/196/wild-ricochet",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/7/d76f09bc-b49a-4ad2-be2d-2a191d41b86d.webp",
+    "rarity": "Rare",
+    "card_type": "Instant"
+  },
+  {
+    "id": "8a128ea6-cd00-4410-8dc4-cf66ce6f0fa1",
+    "title": "Battlewand Oak",
+    "scryfall_uri": "https://scryfall.com/card/lrw/197/battlewand-oak",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/a/8a128ea6-cd00-4410-8dc4-cf66ce6f0fa1.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Treefolk Warrior"
+  },
+  {
+    "id": "310a1b54-56d9-496a-b910-90cc55996ad4",
+    "title": "Bog-Strider Ash",
+    "scryfall_uri": "https://scryfall.com/card/lrw/198/bog-strider-ash",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/1/310a1b54-56d9-496a-b910-90cc55996ad4.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Treefolk Shaman"
+  },
+  {
+    "id": "b734a0a8-aa21-4fc0-b20d-5fea172884f6",
+    "title": "Briarhorn",
+    "scryfall_uri": "https://scryfall.com/card/lrw/199/briarhorn",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/7/b734a0a8-aa21-4fc0-b20d-5fea172884f6.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elemental"
+  },
+  {
+    "id": "2d5b9719-2861-477e-bb78-225fd03d7bbc",
+    "title": "Changeling Titan",
+    "scryfall_uri": "https://scryfall.com/card/lrw/200/changeling-titan",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/d/2d5b9719-2861-477e-bb78-225fd03d7bbc.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Shapeshifter"
+  },
+  {
+    "id": "e742366f-e726-406e-bcbe-51a3bfd0151e",
+    "title": "Cloudcrown Oak",
+    "scryfall_uri": "https://scryfall.com/card/lrw/201/cloudcrown-oak",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/7/e742366f-e726-406e-bcbe-51a3bfd0151e.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Treefolk Warrior"
+  },
+  {
+    "id": "c759c561-829d-483d-a433-fe1213f20236",
+    "title": "Cloudthresher",
+    "scryfall_uri": "https://scryfall.com/card/lrw/202/cloudthresher",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/7/c759c561-829d-483d-a433-fe1213f20236.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Elemental"
+  },
+  {
+    "id": "ad87cb77-6b49-4e93-9151-29f53b48dd4b",
+    "title": "Dauntless Dourbark",
+    "scryfall_uri": "https://scryfall.com/card/lrw/203/dauntless-dourbark",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/d/ad87cb77-6b49-4e93-9151-29f53b48dd4b.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Treefolk Warrior"
+  },
+  {
+    "id": "5154fc12-a8f2-4a16-8b1f-f7415c87566d",
+    "title": "Elvish Branchbender",
+    "scryfall_uri": "https://scryfall.com/card/lrw/204/elvish-branchbender",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/1/5154fc12-a8f2-4a16-8b1f-f7415c87566d.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elf Druid"
+  },
+  {
+    "id": "564b9d31-3079-45e3-acb3-a74169aa332e",
+    "title": "Elvish Eulogist",
+    "scryfall_uri": "https://scryfall.com/card/lrw/205/elvish-eulogist",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/6/564b9d31-3079-45e3-acb3-a74169aa332e.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elf Shaman"
+  },
+  {
+    "id": "9854f9a9-160c-4c96-b871-0f85914597d0",
+    "title": "Elvish Handservant",
+    "scryfall_uri": "https://scryfall.com/card/lrw/206/elvish-handservant",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/8/9854f9a9-160c-4c96-b871-0f85914597d0.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elf Warrior"
+  },
+  {
+    "id": "de789231-8358-4cbd-b8eb-1da4ce5b34c0",
+    "title": "Elvish Harbinger",
+    "scryfall_uri": "https://scryfall.com/card/lrw/207/elvish-harbinger",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/e/de789231-8358-4cbd-b8eb-1da4ce5b34c0.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elf Druid"
+  },
+  {
+    "id": "ec9d5049-c1a6-4186-952e-bd7481b1974a",
+    "title": "Elvish Promenade",
+    "scryfall_uri": "https://scryfall.com/card/lrw/208/elvish-promenade",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/c/ec9d5049-c1a6-4186-952e-bd7481b1974a.webp",
+    "rarity": "Uncommon",
+    "card_type": "Kindred Sorcery \u2014 Elf"
+  },
+  {
+    "id": "3d7ffca1-c73c-4de1-b811-bd1876ea6d6f",
+    "title": "Epic Proportions",
+    "scryfall_uri": "https://scryfall.com/card/lrw/209/epic-proportions",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/d/3d7ffca1-c73c-4de1-b811-bd1876ea6d6f.webp",
+    "rarity": "Rare",
+    "card_type": "Enchantment \u2014 Aura"
+  },
+  {
+    "id": "c6725b96-7390-4599-9d5f-ba08755605af",
+    "title": "Eyes of the Wisent",
+    "scryfall_uri": "https://scryfall.com/card/lrw/210/eyes-of-the-wisent",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/6/c6725b96-7390-4599-9d5f-ba08755605af.webp",
+    "rarity": "Rare",
+    "card_type": "Kindred Enchantment \u2014 Elemental"
+  },
+  {
+    "id": "05edfbbc-34e8-4046-966c-3a979468b95e",
+    "title": "Fertile Ground",
+    "scryfall_uri": "https://scryfall.com/card/lrw/211/fertile-ground",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/5/05edfbbc-34e8-4046-966c-3a979468b95e.webp",
+    "rarity": "Common",
+    "card_type": "Enchantment \u2014 Aura"
+  },
+  {
+    "id": "f7f77c7e-d35f-477e-acc4-a393044319ea",
+    "title": "Fistful of Force",
+    "scryfall_uri": "https://scryfall.com/card/lrw/212/fistful-of-force",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/7/f7f77c7e-d35f-477e-acc4-a393044319ea.webp",
+    "rarity": "Common",
+    "card_type": "Instant"
+  },
+  {
+    "id": "ca6f13a2-9243-4ce9-9f71-bed74355b781",
+    "title": "Garruk Wildspeaker",
+    "scryfall_uri": "https://scryfall.com/card/lrw/213/garruk-wildspeaker",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/a/ca6f13a2-9243-4ce9-9f71-bed74355b781.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Planeswalker \u2014 Garruk"
+  },
+  {
+    "id": "47bf7254-4302-41a0-bc87-d7dc437ff38d",
+    "title": "Gilt-Leaf Ambush",
+    "scryfall_uri": "https://scryfall.com/card/lrw/214/gilt-leaf-ambush",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/7/47bf7254-4302-41a0-bc87-d7dc437ff38d.webp",
+    "rarity": "Common",
+    "card_type": "Kindred Instant \u2014 Elf"
+  },
+  {
+    "id": "0b4cc889-9bc1-48dd-b1d1-95daa73b8fbe",
+    "title": "Gilt-Leaf Seer",
+    "scryfall_uri": "https://scryfall.com/card/lrw/215/gilt-leaf-seer",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/b/0b4cc889-9bc1-48dd-b1d1-95daa73b8fbe.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elf Shaman"
+  },
+  {
+    "id": "311c5f1d-7e3b-4397-b05b-f20bde2dc164",
+    "title": "Guardian of Cloverdell",
+    "scryfall_uri": "https://scryfall.com/card/lrw/216/guardian-of-cloverdell",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/1/311c5f1d-7e3b-4397-b05b-f20bde2dc164.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Treefolk Shaman"
+  },
+  {
+    "id": "b802a7fe-9c8b-4bc3-95d8-4a5dafcf2c75",
+    "title": "Heal the Scars",
+    "scryfall_uri": "https://scryfall.com/card/lrw/217/heal-the-scars",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/8/b802a7fe-9c8b-4bc3-95d8-4a5dafcf2c75.webp",
+    "rarity": "Common",
+    "card_type": "Instant"
+  },
+  {
+    "id": "cb783652-6450-4789-8ec1-b057b39c6a4b",
+    "title": "Hunt Down",
+    "scryfall_uri": "https://scryfall.com/card/lrw/218/hunt-down",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/b/cb783652-6450-4789-8ec1-b057b39c6a4b.webp",
+    "rarity": "Common",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "3bbf6137-4f50-4915-b608-7a03512476a2",
+    "title": "Immaculate Magistrate",
+    "scryfall_uri": "https://scryfall.com/card/lrw/219/immaculate-magistrate",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/b/3bbf6137-4f50-4915-b608-7a03512476a2.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Elf Shaman"
+  },
+  {
+    "id": "706fce74-fed9-4bf7-949d-7df6bef29238",
+    "title": "Imperious Perfect",
+    "scryfall_uri": "https://scryfall.com/card/lrw/220/imperious-perfect",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/0/706fce74-fed9-4bf7-949d-7df6bef29238.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elf Warrior"
+  },
+  {
+    "id": "356793ec-3285-4bda-9b8e-23bf2d60f124",
+    "title": "Incremental Growth",
+    "scryfall_uri": "https://scryfall.com/card/lrw/221/incremental-growth",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/5/356793ec-3285-4bda-9b8e-23bf2d60f124.webp",
+    "rarity": "Uncommon",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "75fd5232-2dac-4bd9-a1f6-eb1a40154367",
+    "title": "Jagged-Scar Archers",
+    "scryfall_uri": "https://scryfall.com/card/lrw/222/jagged-scar-archers",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/5/75fd5232-2dac-4bd9-a1f6-eb1a40154367.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elf Archer"
+  },
+  {
+    "id": "90d0d7fd-a580-41af-8e9d-fee74094ec47",
+    "title": "Kithkin Daggerdare",
+    "scryfall_uri": "https://scryfall.com/card/lrw/223/kithkin-daggerdare",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/0/90d0d7fd-a580-41af-8e9d-fee74094ec47.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Kithkin Soldier"
+  },
+  {
+    "id": "0a8b6f90-c609-4ffd-9136-9fd7a833ebb3",
+    "title": "Kithkin Mourncaller",
+    "scryfall_uri": "https://scryfall.com/card/lrw/224/kithkin-mourncaller",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/a/0a8b6f90-c609-4ffd-9136-9fd7a833ebb3.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Kithkin Scout"
+  },
+  {
+    "id": "32f209d6-c194-4208-864d-f8a44b88997f",
+    "title": "Lace with Moonglove",
+    "scryfall_uri": "https://scryfall.com/card/lrw/225/lace-with-moonglove",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/2/32f209d6-c194-4208-864d-f8a44b88997f.webp",
+    "rarity": "Common",
+    "card_type": "Instant"
+  },
+  {
+    "id": "667fd7ab-de75-48e7-8d4b-a96130ae4666",
+    "title": "Lammastide Weave",
+    "scryfall_uri": "https://scryfall.com/card/lrw/226/lammastide-weave",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/6/667fd7ab-de75-48e7-8d4b-a96130ae4666.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant"
+  },
+  {
+    "id": "3aaff934-cc79-4a01-a4be-3c4936605e4e",
+    "title": "Leaf Gilder",
+    "scryfall_uri": "https://scryfall.com/card/lrw/227/leaf-gilder",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/a/3aaff934-cc79-4a01-a4be-3c4936605e4e.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elf Druid"
+  },
+  {
+    "id": "264fd6c5-8d73-4928-aed7-5ed637426780",
+    "title": "Lignify",
+    "scryfall_uri": "https://scryfall.com/card/lrw/228/lignify",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/6/264fd6c5-8d73-4928-aed7-5ed637426780.webp",
+    "rarity": "Common",
+    "card_type": "Kindred Enchantment \u2014 Treefolk Aura"
+  },
+  {
+    "id": "8d21f992-f982-415e-9d77-d11d8c931741",
+    "title": "Lys Alana Huntmaster",
+    "scryfall_uri": "https://scryfall.com/card/lrw/229/lys-alana-huntmaster",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/d/8d21f992-f982-415e-9d77-d11d8c931741.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elf Warrior"
+  },
+  {
+    "id": "c9cf01d6-7d5d-4638-9884-733797c9f502",
+    "title": "Masked Admirers",
+    "scryfall_uri": "https://scryfall.com/card/lrw/230/masked-admirers",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/9/c9cf01d6-7d5d-4638-9884-733797c9f502.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Elf Shaman"
+  },
+  {
+    "id": "f2a2b029-02ba-46b0-88a2-99025727cc56",
+    "title": "Nath's Elite",
+    "scryfall_uri": "https://scryfall.com/card/lrw/231/naths-elite",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/2/f2a2b029-02ba-46b0-88a2-99025727cc56.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elf Warrior"
+  },
+  {
+    "id": "09fe818e-6dbc-4100-8552-b0393c87b052",
+    "title": "Oakgnarl Warrior",
+    "scryfall_uri": "https://scryfall.com/card/lrw/232/oakgnarl-warrior",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/9/09fe818e-6dbc-4100-8552-b0393c87b052.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Treefolk Warrior"
+  },
+  {
+    "id": "40d2c5b9-cef9-4763-8e65-e3b1418c0ad3",
+    "title": "Primal Command",
+    "scryfall_uri": "https://scryfall.com/card/lrw/233/primal-command",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/0/40d2c5b9-cef9-4763-8e65-e3b1418c0ad3.webp",
+    "rarity": "Rare",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "0fe6051f-6252-4ad1-90ab-d21705a708d1",
+    "title": "Rootgrapple",
+    "scryfall_uri": "https://scryfall.com/card/lrw/234/rootgrapple",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/f/0fe6051f-6252-4ad1-90ab-d21705a708d1.webp",
+    "rarity": "Common",
+    "card_type": "Kindred Instant \u2014 Treefolk"
+  },
+  {
+    "id": "eca605c0-6270-4238-bb77-0bbfd7568807",
+    "title": "Seedguide Ash",
+    "scryfall_uri": "https://scryfall.com/card/lrw/235/seedguide-ash",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/c/eca605c0-6270-4238-bb77-0bbfd7568807.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Treefolk Druid"
+  },
+  {
+    "id": "dc20ef13-e97f-454c-8295-7bb8a7c4e4be",
+    "title": "Spring Cleaning",
+    "scryfall_uri": "https://scryfall.com/card/lrw/236/spring-cleaning",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/c/dc20ef13-e97f-454c-8295-7bb8a7c4e4be.webp",
+    "rarity": "Common",
+    "card_type": "Instant"
+  },
+  {
+    "id": "f5b55fa6-4c94-4ab4-bc30-4fb8b1d3e38f",
+    "title": "Sylvan Echoes",
+    "scryfall_uri": "https://scryfall.com/card/lrw/237/sylvan-echoes",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/5/f5b55fa6-4c94-4ab4-bc30-4fb8b1d3e38f.webp",
+    "rarity": "Uncommon",
+    "card_type": "Enchantment"
+  },
+  {
+    "id": "14b93784-cbe5-437a-8235-f6864e413b41",
+    "title": "Timber Protector",
+    "scryfall_uri": "https://scryfall.com/card/lrw/238/timber-protector",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/4/14b93784-cbe5-437a-8235-f6864e413b41.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Treefolk Warrior"
+  },
+  {
+    "id": "9ef45cdc-2e1c-40c7-8978-b09a50f511fb",
+    "title": "Treefolk Harbinger",
+    "scryfall_uri": "https://scryfall.com/card/lrw/239/treefolk-harbinger",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/e/9ef45cdc-2e1c-40c7-8978-b09a50f511fb.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Treefolk Druid"
+  },
+  {
+    "id": "5cede0be-1bdd-4392-beaf-b83d0b780eb7",
+    "title": "Vigor",
+    "scryfall_uri": "https://scryfall.com/card/lrw/240/vigor",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/c/5cede0be-1bdd-4392-beaf-b83d0b780eb7.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Elemental Incarnation"
+  },
+  {
+    "id": "7ab5fe17-5499-427b-9267-3b3a9676a087",
+    "title": "Warren-Scourge Elf",
+    "scryfall_uri": "https://scryfall.com/card/lrw/241/warren-scourge-elf",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/a/7ab5fe17-5499-427b-9267-3b3a9676a087.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Elf Warrior"
+  },
+  {
+    "id": "aa41edf8-88a1-46dd-8315-b0afe7e14b7e",
+    "title": "Woodland Changeling",
+    "scryfall_uri": "https://scryfall.com/card/lrw/242/woodland-changeling",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/a/aa41edf8-88a1-46dd-8315-b0afe7e14b7e.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Shapeshifter"
+  },
+  {
+    "id": "92adead0-f8b4-4c49-b4ce-d9253980ee03",
+    "title": "Woodland Guidance",
+    "scryfall_uri": "https://scryfall.com/card/lrw/243/woodland-guidance",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/2/92adead0-f8b4-4c49-b4ce-d9253980ee03.webp",
+    "rarity": "Uncommon",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "3e97f29a-1551-4e75-80e8-2dd31cb6c0db",
+    "title": "Wren's Run Packmaster",
+    "scryfall_uri": "https://scryfall.com/card/lrw/244/wrens-run-packmaster",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/e/3e97f29a-1551-4e75-80e8-2dd31cb6c0db.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Elf Warrior"
+  },
+  {
+    "id": "f9c411a0-b8dd-4394-852a-a29dbcec953b",
+    "title": "Wren's Run Vanquisher",
+    "scryfall_uri": "https://scryfall.com/card/lrw/245/wrens-run-vanquisher",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/9/f9c411a0-b8dd-4394-852a-a29dbcec953b.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elf Warrior"
+  },
+  {
+    "id": "aa21cfc2-9671-4bf3-b922-2f436f284cb1",
+    "title": "Brion Stoutarm",
+    "scryfall_uri": "https://scryfall.com/card/lrw/246/brion-stoutarm",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/a/aa21cfc2-9671-4bf3-b922-2f436f284cb1.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Creature \u2014 Giant Warrior"
+  },
+  {
+    "id": "b006b169-295d-4ead-8e8e-29a9c3246025",
+    "title": "Doran, the Siege Tower",
+    "scryfall_uri": "https://scryfall.com/card/lrw/247/doran-the-siege-tower",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/0/b006b169-295d-4ead-8e8e-29a9c3246025.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Creature \u2014 Treefolk Shaman"
+  },
+  {
+    "id": "32c16e1b-f4ce-409f-928a-42c666adac9d",
+    "title": "Gaddock Teeg",
+    "scryfall_uri": "https://scryfall.com/card/lrw/248/gaddock-teeg",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/2/32c16e1b-f4ce-409f-928a-42c666adac9d.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Creature \u2014 Kithkin Advisor"
+  },
+  {
+    "id": "80b9ea46-ae9b-4729-b206-0ba3ddc7660d",
+    "title": "Horde of Notions",
+    "scryfall_uri": "https://scryfall.com/card/lrw/249/horde-of-notions",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/0/80b9ea46-ae9b-4729-b206-0ba3ddc7660d.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Creature \u2014 Elemental"
+  },
+  {
+    "id": "0c6c69bd-a8bf-4085-85fa-364b8e92b88a",
+    "title": "Nath of the Gilt-Leaf",
+    "scryfall_uri": "https://scryfall.com/card/lrw/250/nath-of-the-gilt-leaf",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/c/0c6c69bd-a8bf-4085-85fa-364b8e92b88a.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Creature \u2014 Elf Warrior"
+  },
+  {
+    "id": "fb1aefaf-1b96-4c08-a73e-98e401655965",
+    "title": "Sygg, River Guide",
+    "scryfall_uri": "https://scryfall.com/card/lrw/251/sygg-river-guide",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/b/fb1aefaf-1b96-4c08-a73e-98e401655965.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Creature \u2014 Merfolk Wizard"
+  },
+  {
+    "id": "a08a1377-dede-47c8-8447-c9df125f3b14",
+    "title": "Wort, Boggart Auntie",
+    "scryfall_uri": "https://scryfall.com/card/lrw/252/wort-boggart-auntie",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/0/a08a1377-dede-47c8-8447-c9df125f3b14.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Creature \u2014 Goblin Shaman"
+  },
+  {
+    "id": "ff6b558b-74a5-497d-8be4-474c375d7ca7",
+    "title": "Wydwen, the Biting Gale",
+    "scryfall_uri": "https://scryfall.com/card/lrw/253/wydwen-the-biting-gale",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/f/ff6b558b-74a5-497d-8be4-474c375d7ca7.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Creature \u2014 Faerie Wizard"
+  },
+  {
+    "id": "419fea28-3813-4e65-8b90-6d335fdf0a0b",
+    "title": "Colfenor's Urn",
+    "scryfall_uri": "https://scryfall.com/card/lrw/254/colfenors-urn",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/1/419fea28-3813-4e65-8b90-6d335fdf0a0b.webp",
+    "rarity": "Rare",
+    "card_type": "Artifact"
+  },
+  {
+    "id": "bd836fe0-932c-4d5c-9a52-94fc423c3d57",
+    "title": "Deathrender",
+    "scryfall_uri": "https://scryfall.com/card/lrw/255/deathrender",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/d/bd836fe0-932c-4d5c-9a52-94fc423c3d57.webp",
+    "rarity": "Rare",
+    "card_type": "Artifact \u2014 Equipment"
+  },
+  {
+    "id": "fdcbf10e-32f2-41c5-a7a2-5f24662892d2",
+    "title": "Dolmen Gate",
+    "scryfall_uri": "https://scryfall.com/card/lrw/256/dolmen-gate",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/d/fdcbf10e-32f2-41c5-a7a2-5f24662892d2.webp",
+    "rarity": "Rare",
+    "card_type": "Artifact"
+  },
+  {
+    "id": "b20925a3-dd4f-477c-806a-a3ec0fd2e00d",
+    "title": "Herbal Poultice",
+    "scryfall_uri": "https://scryfall.com/card/lrw/257/herbal-poultice",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/2/b20925a3-dd4f-477c-806a-a3ec0fd2e00d.webp",
+    "rarity": "Common",
+    "card_type": "Artifact"
+  },
+  {
+    "id": "97377416-35e8-4cf3-be1f-edc2ec3f6eb2",
+    "title": "Moonglove Extract",
+    "scryfall_uri": "https://scryfall.com/card/lrw/258/moonglove-extract",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/7/97377416-35e8-4cf3-be1f-edc2ec3f6eb2.webp",
+    "rarity": "Common",
+    "card_type": "Artifact"
+  },
+  {
+    "id": "fbfd3898-cb06-4bb9-9d52-b319e1fa2217",
+    "title": "Rings of Brighthearth",
+    "scryfall_uri": "https://scryfall.com/card/lrw/259/rings-of-brighthearth",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/b/fbfd3898-cb06-4bb9-9d52-b319e1fa2217.webp",
+    "rarity": "Rare",
+    "card_type": "Artifact"
+  },
+  {
+    "id": "9be88336-83c7-422d-8826-13ceb8db5534",
+    "title": "Runed Stalactite",
+    "scryfall_uri": "https://scryfall.com/card/lrw/260/runed-stalactite",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/b/9be88336-83c7-422d-8826-13ceb8db5534.webp",
+    "rarity": "Common",
+    "card_type": "Artifact \u2014 Equipment"
+  },
+  {
+    "id": "fa8b09d0-fbd2-4441-9d87-02450412e0db",
+    "title": "Springleaf Drum",
+    "scryfall_uri": "https://scryfall.com/card/lrw/261/springleaf-drum",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/a/fa8b09d0-fbd2-4441-9d87-02450412e0db.webp",
+    "rarity": "Common",
+    "card_type": "Artifact"
+  },
+  {
+    "id": "e472d4f5-add4-4de3-8718-31a47a35277c",
+    "title": "Thorn of Amethyst",
+    "scryfall_uri": "https://scryfall.com/card/lrw/262/thorn-of-amethyst",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/4/e472d4f5-add4-4de3-8718-31a47a35277c.webp",
+    "rarity": "Rare",
+    "card_type": "Artifact"
+  },
+  {
+    "id": "18743fd4-2a15-40a2-ac90-e3f0fef07e37",
+    "title": "Thousand-Year Elixir",
+    "scryfall_uri": "https://scryfall.com/card/lrw/263/thousand-year-elixir",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/8/18743fd4-2a15-40a2-ac90-e3f0fef07e37.webp",
+    "rarity": "Rare",
+    "card_type": "Artifact"
+  },
+  {
+    "id": "e0138c42-77ea-45f0-b2ca-cda03f3f50d1",
+    "title": "Twinning Glass",
+    "scryfall_uri": "https://scryfall.com/card/lrw/264/twinning-glass",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/0/e0138c42-77ea-45f0-b2ca-cda03f3f50d1.webp",
+    "rarity": "Rare",
+    "card_type": "Artifact"
+  },
+  {
+    "id": "8ea7b2c0-c641-478f-b8d9-17aa17fa1cbe",
+    "title": "Wanderer's Twig",
+    "scryfall_uri": "https://scryfall.com/card/lrw/265/wanderers-twig",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/e/8ea7b2c0-c641-478f-b8d9-17aa17fa1cbe.webp",
+    "rarity": "Common",
+    "card_type": "Artifact"
+  },
+  {
+    "id": "2ff3a82d-e794-4c3b-994d-b28b8eb7eac4",
+    "title": "Ancient Amphitheater",
+    "scryfall_uri": "https://scryfall.com/card/lrw/266/ancient-amphitheater",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/f/2ff3a82d-e794-4c3b-994d-b28b8eb7eac4.webp",
+    "rarity": "Rare",
+    "card_type": "Land"
+  },
+  {
+    "id": "098685c9-cd85-4279-a3b5-b495485bba35",
+    "title": "Auntie's Hovel",
+    "scryfall_uri": "https://scryfall.com/card/lrw/267/aunties-hovel",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/9/098685c9-cd85-4279-a3b5-b495485bba35.webp",
+    "rarity": "Rare",
+    "card_type": "Land"
+  },
+  {
+    "id": "cc4bbbb5-4218-4b2a-9ca2-de4d5f5dda19",
+    "title": "Gilt-Leaf Palace",
+    "scryfall_uri": "https://scryfall.com/card/lrw/268/gilt-leaf-palace",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/c/cc4bbbb5-4218-4b2a-9ca2-de4d5f5dda19.webp",
+    "rarity": "Rare",
+    "card_type": "Land"
+  },
+  {
+    "id": "5c678643-6640-49e1-a5b0-2954123bcabc",
+    "title": "Howltooth Hollow",
+    "scryfall_uri": "https://scryfall.com/card/lrw/269/howltooth-hollow",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/c/5c678643-6640-49e1-a5b0-2954123bcabc.webp",
+    "rarity": "Rare",
+    "card_type": "Land"
+  },
+  {
+    "id": "38234590-812c-4d29-80c1-32b9e1282580",
+    "title": "Mosswort Bridge",
+    "scryfall_uri": "https://scryfall.com/card/lrw/270/mosswort-bridge",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/8/38234590-812c-4d29-80c1-32b9e1282580.webp",
+    "rarity": "Rare",
+    "card_type": "Land"
+  },
+  {
+    "id": "9e4afa65-7933-4a64-b50f-a9a9f832b112",
+    "title": "Secluded Glen",
+    "scryfall_uri": "https://scryfall.com/card/lrw/271/secluded-glen",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/e/9e4afa65-7933-4a64-b50f-a9a9f832b112.webp",
+    "rarity": "Rare",
+    "card_type": "Land"
+  },
+  {
+    "id": "4216656e-90e8-45fc-a0f6-0d0d79d0a021",
+    "title": "Shelldock Isle",
+    "scryfall_uri": "https://scryfall.com/card/lrw/272/shelldock-isle",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/2/4216656e-90e8-45fc-a0f6-0d0d79d0a021.webp",
+    "rarity": "Rare",
+    "card_type": "Land"
+  },
+  {
+    "id": "b5e85acc-ed12-4036-8193-739721c3e178",
+    "title": "Shimmering Grotto",
+    "scryfall_uri": "https://scryfall.com/card/lrw/273/shimmering-grotto",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/5/b5e85acc-ed12-4036-8193-739721c3e178.webp",
+    "rarity": "Common",
+    "card_type": "Land"
+  },
+  {
+    "id": "dec6abed-8fbb-4d3e-8f89-64ea1b3913db",
+    "title": "Spinerock Knoll",
+    "scryfall_uri": "https://scryfall.com/card/lrw/274/spinerock-knoll",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/e/dec6abed-8fbb-4d3e-8f89-64ea1b3913db.webp",
+    "rarity": "Rare",
+    "card_type": "Land"
+  },
+  {
+    "id": "539001dc-69f0-42c0-b5c3-37d7b12eb79e",
+    "title": "Vivid Crag",
+    "scryfall_uri": "https://scryfall.com/card/lrw/275/vivid-crag",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/3/539001dc-69f0-42c0-b5c3-37d7b12eb79e.webp",
+    "rarity": "Uncommon",
+    "card_type": "Land"
+  },
+  {
+    "id": "2e3c2935-84ee-446d-b247-2f574ea84a8f",
+    "title": "Vivid Creek",
+    "scryfall_uri": "https://scryfall.com/card/lrw/276/vivid-creek",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/e/2e3c2935-84ee-446d-b247-2f574ea84a8f.webp",
+    "rarity": "Uncommon",
+    "card_type": "Land"
+  },
+  {
+    "id": "6646babe-edd8-4367-ba8f-89af4f859dd8",
+    "title": "Vivid Grove",
+    "scryfall_uri": "https://scryfall.com/card/lrw/277/vivid-grove",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/6/6646babe-edd8-4367-ba8f-89af4f859dd8.webp",
+    "rarity": "Uncommon",
+    "card_type": "Land"
+  },
+  {
+    "id": "31f806c7-0063-4270-b37c-5363c41a7621",
+    "title": "Vivid Marsh",
+    "scryfall_uri": "https://scryfall.com/card/lrw/278/vivid-marsh",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/1/31f806c7-0063-4270-b37c-5363c41a7621.webp",
+    "rarity": "Uncommon",
+    "card_type": "Land"
+  },
+  {
+    "id": "a535790b-d416-4807-bca0-acf6b192101c",
+    "title": "Vivid Meadow",
+    "scryfall_uri": "https://scryfall.com/card/lrw/279/vivid-meadow",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/5/a535790b-d416-4807-bca0-acf6b192101c.webp",
+    "rarity": "Uncommon",
+    "card_type": "Land"
+  },
+  {
+    "id": "ccec69de-7203-4810-a8ec-8748705ee3a2",
+    "title": "Wanderwine Hub",
+    "scryfall_uri": "https://scryfall.com/card/lrw/280/wanderwine-hub",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/c/ccec69de-7203-4810-a8ec-8748705ee3a2.webp",
+    "rarity": "Rare",
+    "card_type": "Land"
+  },
+  {
+    "id": "9df6a31a-5c49-4506-b8f8-84c9ab4a2ece",
+    "title": "Windbrisk Heights",
+    "scryfall_uri": "https://scryfall.com/card/lrw/281/windbrisk-heights",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/d/9df6a31a-5c49-4506-b8f8-84c9ab4a2ece.webp",
+    "rarity": "Rare",
+    "card_type": "Land"
+  },
+  {
+    "id": "b8e41010-a7d2-4e78-8f7b-502347f8c47d",
+    "title": "Plains",
+    "scryfall_uri": "https://scryfall.com/card/lrw/282/plains",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/8/b8e41010-a7d2-4e78-8f7b-502347f8c47d.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Plains"
+  },
+  {
+    "id": "6e5db4d0-61f4-4cc6-89c4-02a2060b556d",
+    "title": "Plains",
+    "scryfall_uri": "https://scryfall.com/card/lrw/283/plains",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/e/6e5db4d0-61f4-4cc6-89c4-02a2060b556d.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Plains"
+  },
+  {
+    "id": "6e6d4bb5-9da7-4d21-9cdc-1732ea61121a",
+    "title": "Plains",
+    "scryfall_uri": "https://scryfall.com/card/lrw/284/plains",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/e/6e6d4bb5-9da7-4d21-9cdc-1732ea61121a.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Plains"
+  },
+  {
+    "id": "5bd5900e-100c-44e8-97e9-b0c15379fea1",
+    "title": "Plains",
+    "scryfall_uri": "https://scryfall.com/card/lrw/285/plains",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/b/5bd5900e-100c-44e8-97e9-b0c15379fea1.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Plains"
+  },
+  {
+    "id": "5885738f-a51d-418c-b194-0ba8ef6af556",
+    "title": "Island",
+    "scryfall_uri": "https://scryfall.com/card/lrw/286/island",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/8/5885738f-a51d-418c-b194-0ba8ef6af556.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Island"
+  },
+  {
+    "id": "24ffadeb-cf20-4da9-a140-1fdcc7484c7a",
+    "title": "Island",
+    "scryfall_uri": "https://scryfall.com/card/lrw/287/island",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/4/24ffadeb-cf20-4da9-a140-1fdcc7484c7a.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Island"
+  },
+  {
+    "id": "d714d196-8cbc-4b53-8219-21044a017bce",
+    "title": "Island",
+    "scryfall_uri": "https://scryfall.com/card/lrw/288/island",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/7/d714d196-8cbc-4b53-8219-21044a017bce.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Island"
+  },
+  {
+    "id": "a35d9548-f495-43ef-af66-e13a84c1f12a",
+    "title": "Island",
+    "scryfall_uri": "https://scryfall.com/card/lrw/289/island",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/3/a35d9548-f495-43ef-af66-e13a84c1f12a.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Island"
+  },
+  {
+    "id": "4f799604-bbbf-4d57-83c8-13a0eafa974e",
+    "title": "Swamp",
+    "scryfall_uri": "https://scryfall.com/card/lrw/290/swamp",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/f/4f799604-bbbf-4d57-83c8-13a0eafa974e.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Swamp"
+  },
+  {
+    "id": "8f9dc477-a3e4-4fc0-af62-c8b8eb68d360",
+    "title": "Swamp",
+    "scryfall_uri": "https://scryfall.com/card/lrw/291/swamp",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/f/8f9dc477-a3e4-4fc0-af62-c8b8eb68d360.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Swamp"
+  },
+  {
+    "id": "1e4ad69e-843c-4f33-be2f-711568f8aac7",
+    "title": "Swamp",
+    "scryfall_uri": "https://scryfall.com/card/lrw/292/swamp",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/e/1e4ad69e-843c-4f33-be2f-711568f8aac7.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Swamp"
+  },
+  {
+    "id": "38625a65-868f-4cbf-a512-9142f1eddf4a",
+    "title": "Swamp",
+    "scryfall_uri": "https://scryfall.com/card/lrw/293/swamp",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/8/38625a65-868f-4cbf-a512-9142f1eddf4a.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Swamp"
+  },
+  {
+    "id": "83beeef7-2bb5-4c3a-9be4-79a968696d65",
+    "title": "Mountain",
+    "scryfall_uri": "https://scryfall.com/card/lrw/294/mountain",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/3/83beeef7-2bb5-4c3a-9be4-79a968696d65.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Mountain"
+  },
+  {
+    "id": "3f0e0823-cbf3-4cf7-8fe1-a032cf33ee66",
+    "title": "Mountain",
+    "scryfall_uri": "https://scryfall.com/card/lrw/295/mountain",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/f/3f0e0823-cbf3-4cf7-8fe1-a032cf33ee66.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Mountain"
+  },
+  {
+    "id": "dd842290-fd0d-419d-b793-bd84b43f5d9a",
+    "title": "Mountain",
+    "scryfall_uri": "https://scryfall.com/card/lrw/296/mountain",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/d/dd842290-fd0d-419d-b793-bd84b43f5d9a.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Mountain"
+  },
+  {
+    "id": "b0eaaad2-5512-46f8-9bdb-84aa3ef0c2ac",
+    "title": "Mountain",
+    "scryfall_uri": "https://scryfall.com/card/lrw/297/mountain",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/0/b0eaaad2-5512-46f8-9bdb-84aa3ef0c2ac.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Mountain"
+  },
+  {
+    "id": "6d3a661e-d890-4211-bc9c-8266001ebfba",
+    "title": "Forest",
+    "scryfall_uri": "https://scryfall.com/card/lrw/298/forest",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/d/6d3a661e-d890-4211-bc9c-8266001ebfba.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Forest"
+  },
+  {
+    "id": "081c1f03-3251-42dc-b356-3454ebdabc2e",
+    "title": "Forest",
+    "scryfall_uri": "https://scryfall.com/card/lrw/299/forest",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/8/081c1f03-3251-42dc-b356-3454ebdabc2e.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Forest"
+  },
+  {
+    "id": "5f608a10-6bd4-4579-a08a-f7e2da383794",
+    "title": "Forest",
+    "scryfall_uri": "https://scryfall.com/card/lrw/300/forest",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/f/5f608a10-6bd4-4579-a08a-f7e2da383794.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Forest"
+  },
+  {
+    "id": "7104a533-42df-4430-87dc-e0adeb7f2320",
+    "title": "Forest",
+    "scryfall_uri": "https://scryfall.com/card/lrw/301/forest",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/1/7104a533-42df-4430-87dc-e0adeb7f2320.webp",
+    "rarity": "Common",
+    "card_type": "Basic Land \u2014 Forest"
+  }
+]

@@ -1,0 +1,1242 @@
+[
+  {
+    "id": "ee4336a9-c904-44a3-8cbd-a1fd5fdbcd74",
+    "title": "Adarkar Valkyrie",
+    "scryfall_uri": "https://scryfall.com/card/csp/1/adarkar-valkyrie",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/e/ee4336a9-c904-44a3-8cbd-a1fd5fdbcd74.webp",
+    "rarity": "Rare",
+    "card_type": "Snow Creature \u2014 Angel"
+  },
+  {
+    "id": "36638e20-0a1d-4ea3-936c-2ea74add868a",
+    "title": "Boreal Griffin",
+    "scryfall_uri": "https://scryfall.com/card/csp/2/boreal-griffin",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/6/36638e20-0a1d-4ea3-936c-2ea74add868a.webp",
+    "rarity": "Common",
+    "card_type": "Snow Creature \u2014 Griffin"
+  },
+  {
+    "id": "91d9bb89-d8f8-4dff-8b94-3f7b8aa8f299",
+    "title": "Cover of Winter",
+    "scryfall_uri": "https://scryfall.com/card/csp/3/cover-of-winter",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/1/91d9bb89-d8f8-4dff-8b94-3f7b8aa8f299.webp",
+    "rarity": "Rare",
+    "card_type": "Snow Enchantment"
+  },
+  {
+    "id": "5ea571ae-b9bd-4bd2-9357-52915f0d2f15",
+    "title": "Darien, King of Kjeldor",
+    "scryfall_uri": "https://scryfall.com/card/csp/4/darien-king-of-kjeldor",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/e/5ea571ae-b9bd-4bd2-9357-52915f0d2f15.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Creature \u2014 Human Soldier"
+  },
+  {
+    "id": "421648a0-51c8-45c4-9771-0fd3ccdc69c9",
+    "title": "Field Marshal",
+    "scryfall_uri": "https://scryfall.com/card/csp/5/field-marshal",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/2/421648a0-51c8-45c4-9771-0fd3ccdc69c9.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Human Soldier"
+  },
+  {
+    "id": "d372bb70-2d2a-4c44-8f69-4abff8ba7c2a",
+    "title": "Gelid Shackles",
+    "scryfall_uri": "https://scryfall.com/card/csp/6/gelid-shackles",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/3/d372bb70-2d2a-4c44-8f69-4abff8ba7c2a.webp",
+    "rarity": "Common",
+    "card_type": "Snow Enchantment \u2014 Aura"
+  },
+  {
+    "id": "55742f0f-a894-48c3-82b1-dfc3d8390dc3",
+    "title": "Glacial Plating",
+    "scryfall_uri": "https://scryfall.com/card/csp/7/glacial-plating",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/5/55742f0f-a894-48c3-82b1-dfc3d8390dc3.webp",
+    "rarity": "Uncommon",
+    "card_type": "Snow Enchantment \u2014 Aura"
+  },
+  {
+    "id": "5526c510-bd33-4fac-8941-f19bd0997557",
+    "title": "J\u00f6tun Grunt",
+    "scryfall_uri": "https://scryfall.com/card/csp/8/j%C3%B6tun-grunt",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/5/5526c510-bd33-4fac-8941-f19bd0997557.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Giant Soldier"
+  },
+  {
+    "id": "1566c8a2-aaca-4ce0-a36b-620ea6f135cb",
+    "title": "J\u00f6tun Owl Keeper",
+    "scryfall_uri": "https://scryfall.com/card/csp/9/j%C3%B6tun-owl-keeper",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/5/1566c8a2-aaca-4ce0-a36b-620ea6f135cb.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Giant"
+  },
+  {
+    "id": "484a4892-fba0-459d-9e72-e82f7e079d78",
+    "title": "Kjeldoran Gargoyle",
+    "scryfall_uri": "https://scryfall.com/card/csp/10/kjeldoran-gargoyle",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/8/484a4892-fba0-459d-9e72-e82f7e079d78.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Gargoyle"
+  },
+  {
+    "id": "48b0776b-d1ed-4b0d-9684-99978e3e3b46",
+    "title": "Kjeldoran Javelineer",
+    "scryfall_uri": "https://scryfall.com/card/csp/11/kjeldoran-javelineer",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/8/48b0776b-d1ed-4b0d-9684-99978e3e3b46.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Human Soldier"
+  },
+  {
+    "id": "bd641b1d-dab8-415b-9655-09e033df761d",
+    "title": "Kjeldoran Outrider",
+    "scryfall_uri": "https://scryfall.com/card/csp/12/kjeldoran-outrider",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/d/bd641b1d-dab8-415b-9655-09e033df761d.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Human Soldier"
+  },
+  {
+    "id": "320b2b02-a3ff-4f68-93e6-8539d7caa005",
+    "title": "Kjeldoran War Cry",
+    "scryfall_uri": "https://scryfall.com/card/csp/13/kjeldoran-war-cry",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/2/320b2b02-a3ff-4f68-93e6-8539d7caa005.webp",
+    "rarity": "Common",
+    "card_type": "Instant"
+  },
+  {
+    "id": "38e8fe10-a4b7-4504-849f-a5c8379e587d",
+    "title": "Luminesce",
+    "scryfall_uri": "https://scryfall.com/card/csp/14/luminesce",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/8/38e8fe10-a4b7-4504-849f-a5c8379e587d.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant"
+  },
+  {
+    "id": "59c55105-bffc-43dc-b5f3-2e6bb9323230",
+    "title": "Martyr of Sands",
+    "scryfall_uri": "https://scryfall.com/card/csp/15/martyr-of-sands",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/9/59c55105-bffc-43dc-b5f3-2e6bb9323230.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Human Cleric"
+  },
+  {
+    "id": "ae4764e1-e47c-4934-86a5-9b432c29a158",
+    "title": "Ronom Unicorn",
+    "scryfall_uri": "https://scryfall.com/card/csp/16/ronom-unicorn",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/e/ae4764e1-e47c-4934-86a5-9b432c29a158.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Unicorn"
+  },
+  {
+    "id": "b3ecb728-4b54-47d0-bbef-d39e5f7d172f",
+    "title": "Squall Drifter",
+    "scryfall_uri": "https://scryfall.com/card/csp/17/squall-drifter",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/3/b3ecb728-4b54-47d0-bbef-d39e5f7d172f.webp",
+    "rarity": "Common",
+    "card_type": "Snow Creature \u2014 Elemental"
+  },
+  {
+    "id": "bde59b0e-c75e-455b-b375-e0dac430a6d1",
+    "title": "Sun's Bounty",
+    "scryfall_uri": "https://scryfall.com/card/csp/18/suns-bounty",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/d/bde59b0e-c75e-455b-b375-e0dac430a6d1.webp",
+    "rarity": "Common",
+    "card_type": "Instant"
+  },
+  {
+    "id": "44c726db-a30a-4e76-9fbf-ec6d5cd7a1ba",
+    "title": "Sunscour",
+    "scryfall_uri": "https://scryfall.com/card/csp/19/sunscour",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/4/44c726db-a30a-4e76-9fbf-ec6d5cd7a1ba.webp",
+    "rarity": "Rare",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "264d120a-d7e2-4b9e-ac85-c66e976c577b",
+    "title": "Surging Sentinels",
+    "scryfall_uri": "https://scryfall.com/card/csp/20/surging-sentinels",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/6/264d120a-d7e2-4b9e-ac85-c66e976c577b.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Human Soldier"
+  },
+  {
+    "id": "1f97ef40-9d07-47fa-ad4b-45f26f7351c9",
+    "title": "Swift Maneuver",
+    "scryfall_uri": "https://scryfall.com/card/csp/21/swift-maneuver",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/f/1f97ef40-9d07-47fa-ad4b-45f26f7351c9.webp",
+    "rarity": "Common",
+    "card_type": "Instant"
+  },
+  {
+    "id": "1ad7c141-2e20-4891-93a8-1cf309d3b979",
+    "title": "Ursine Fylgja",
+    "scryfall_uri": "https://scryfall.com/card/csp/22/ursine-fylgja",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/a/1ad7c141-2e20-4891-93a8-1cf309d3b979.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Spirit Bear"
+  },
+  {
+    "id": "884ee8d8-4c0d-4e44-8321-bccd18195693",
+    "title": "Wall of Shards",
+    "scryfall_uri": "https://scryfall.com/card/csp/23/wall-of-shards",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/8/884ee8d8-4c0d-4e44-8321-bccd18195693.webp",
+    "rarity": "Uncommon",
+    "card_type": "Snow Creature \u2014 Wall"
+  },
+  {
+    "id": "368322d7-d399-45e1-8d7f-8001d048071e",
+    "title": "White Shield Crusader",
+    "scryfall_uri": "https://scryfall.com/card/csp/24/white-shield-crusader",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/6/368322d7-d399-45e1-8d7f-8001d048071e.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Human Knight"
+  },
+  {
+    "id": "95ed6354-161e-496e-9ac7-74432f9b0818",
+    "title": "Woolly Razorback",
+    "scryfall_uri": "https://scryfall.com/card/csp/25/woolly-razorback",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/5/95ed6354-161e-496e-9ac7-74432f9b0818.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Boar Beast"
+  },
+  {
+    "id": "c18bce4a-9afb-4b91-bc9a-d62634b0f8dd",
+    "title": "Adarkar Windform",
+    "scryfall_uri": "https://scryfall.com/card/csp/26/adarkar-windform",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/1/c18bce4a-9afb-4b91-bc9a-d62634b0f8dd.webp",
+    "rarity": "Uncommon",
+    "card_type": "Snow Creature \u2014 Illusion"
+  },
+  {
+    "id": "dd9d3ce7-53db-4808-88bc-03c120211f81",
+    "title": "Arcum Dagsson",
+    "scryfall_uri": "https://scryfall.com/card/csp/27/arcum-dagsson",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/d/dd9d3ce7-53db-4808-88bc-03c120211f81.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Creature \u2014 Human Artificer"
+  },
+  {
+    "id": "18096cdb-0ba9-41e0-b597-c5ed819e7497",
+    "title": "Balduvian Frostwaker",
+    "scryfall_uri": "https://scryfall.com/card/csp/28/balduvian-frostwaker",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/8/18096cdb-0ba9-41e0-b597-c5ed819e7497.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Human Wizard"
+  },
+  {
+    "id": "7e6e6204-c622-4efe-ac4f-8195528cec9c",
+    "title": "Commandeer",
+    "scryfall_uri": "https://scryfall.com/card/csp/29/commandeer",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/e/7e6e6204-c622-4efe-ac4f-8195528cec9c.webp",
+    "rarity": "Rare",
+    "card_type": "Instant"
+  },
+  {
+    "id": "0e670f6b-d16e-47fc-a5b7-7ca0d8763644",
+    "title": "Controvert",
+    "scryfall_uri": "https://scryfall.com/card/csp/30/controvert",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/e/0e670f6b-d16e-47fc-a5b7-7ca0d8763644.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant"
+  },
+  {
+    "id": "c329ff2b-0331-4934-a8df-870dd7bf402b",
+    "title": "Counterbalance",
+    "scryfall_uri": "https://scryfall.com/card/csp/31/counterbalance",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/3/c329ff2b-0331-4934-a8df-870dd7bf402b.webp",
+    "rarity": "Uncommon",
+    "card_type": "Enchantment"
+  },
+  {
+    "id": "954a1e9c-ed2f-4774-b2b7-166052a5c59a",
+    "title": "Drelnoch",
+    "scryfall_uri": "https://scryfall.com/card/csp/32/drelnoch",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/5/954a1e9c-ed2f-4774-b2b7-166052a5c59a.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Yeti Mutant"
+  },
+  {
+    "id": "cefd9955-a195-4855-a00e-3809b96ca92b",
+    "title": "Flashfreeze",
+    "scryfall_uri": "https://scryfall.com/card/csp/33/flashfreeze",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/e/cefd9955-a195-4855-a00e-3809b96ca92b.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant"
+  },
+  {
+    "id": "4ab2f81a-fcbe-44d1-8281-04dd78bb9ea3",
+    "title": "Frost Raptor",
+    "scryfall_uri": "https://scryfall.com/card/csp/34/frost-raptor",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/a/4ab2f81a-fcbe-44d1-8281-04dd78bb9ea3.webp",
+    "rarity": "Common",
+    "card_type": "Snow Creature \u2014 Bird"
+  },
+  {
+    "id": "72c00743-d208-4aed-939a-d70de2d759b9",
+    "title": "Frozen Solid",
+    "scryfall_uri": "https://scryfall.com/card/csp/35/frozen-solid",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/2/72c00743-d208-4aed-939a-d70de2d759b9.webp",
+    "rarity": "Common",
+    "card_type": "Enchantment \u2014 Aura"
+  },
+  {
+    "id": "39916d65-60a6-4da6-8675-8a8ef9505772",
+    "title": "Heidar, Rimewind Master",
+    "scryfall_uri": "https://scryfall.com/card/csp/36/heidar-rimewind-master",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/9/39916d65-60a6-4da6-8675-8a8ef9505772.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Creature \u2014 Human Wizard"
+  },
+  {
+    "id": "a8bd1c2f-dab8-4f22-9400-a0e45618757a",
+    "title": "Jokulmorder",
+    "scryfall_uri": "https://scryfall.com/card/csp/37/jokulmorder",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/8/a8bd1c2f-dab8-4f22-9400-a0e45618757a.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Leviathan"
+  },
+  {
+    "id": "43e09469-205d-4a60-821c-ceb7ae2e01be",
+    "title": "Krovikan Mist",
+    "scryfall_uri": "https://scryfall.com/card/csp/38/krovikan-mist",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/3/43e09469-205d-4a60-821c-ceb7ae2e01be.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Illusion"
+  },
+  {
+    "id": "e9ac2469-db92-44e4-8930-96f2c40c60f1",
+    "title": "Krovikan Whispers",
+    "scryfall_uri": "https://scryfall.com/card/csp/39/krovikan-whispers",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/9/e9ac2469-db92-44e4-8930-96f2c40c60f1.webp",
+    "rarity": "Uncommon",
+    "card_type": "Enchantment \u2014 Aura"
+  },
+  {
+    "id": "b249136c-94d4-4f65-95a4-d45b4f20429b",
+    "title": "Martyr of Frost",
+    "scryfall_uri": "https://scryfall.com/card/csp/40/martyr-of-frost",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/2/b249136c-94d4-4f65-95a4-d45b4f20429b.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Human Wizard"
+  },
+  {
+    "id": "0669285c-5560-4f49-8d0a-44b8c33e23d0",
+    "title": "Perilous Research",
+    "scryfall_uri": "https://scryfall.com/card/csp/41/perilous-research",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/6/0669285c-5560-4f49-8d0a-44b8c33e23d0.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant"
+  },
+  {
+    "id": "7e8e3552-a251-4a80-b0bb-a96a9f8a4c56",
+    "title": "Rimefeather Owl",
+    "scryfall_uri": "https://scryfall.com/card/csp/42/rimefeather-owl",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/e/7e8e3552-a251-4a80-b0bb-a96a9f8a4c56.webp",
+    "rarity": "Rare",
+    "card_type": "Snow Creature \u2014 Bird"
+  },
+  {
+    "id": "4433653d-5ba9-4cdb-8a0b-69026301bc6f",
+    "title": "Rimewind Cryomancer",
+    "scryfall_uri": "https://scryfall.com/card/csp/43/rimewind-cryomancer",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/4/4433653d-5ba9-4cdb-8a0b-69026301bc6f.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Human Wizard"
+  },
+  {
+    "id": "e9cdc06e-1458-4b19-a272-28a3d0453643",
+    "title": "Rimewind Taskmage",
+    "scryfall_uri": "https://scryfall.com/card/csp/44/rimewind-taskmage",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/9/e9cdc06e-1458-4b19-a272-28a3d0453643.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Human Wizard"
+  },
+  {
+    "id": "3bf81a39-0a6e-4253-81eb-a24f48253343",
+    "title": "Ronom Serpent",
+    "scryfall_uri": "https://scryfall.com/card/csp/45/ronom-serpent",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/b/3bf81a39-0a6e-4253-81eb-a24f48253343.webp",
+    "rarity": "Common",
+    "card_type": "Snow Creature \u2014 Serpent"
+  },
+  {
+    "id": "45b6cadf-1974-47c8-98d8-ba413486c3b5",
+    "title": "Rune Snag",
+    "scryfall_uri": "https://scryfall.com/card/csp/46/rune-snag",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/5/45b6cadf-1974-47c8-98d8-ba413486c3b5.webp",
+    "rarity": "Common",
+    "card_type": "Instant"
+  },
+  {
+    "id": "bfba9fc2-8746-4693-bb75-01b5d78f7fee",
+    "title": "Surging Aether",
+    "scryfall_uri": "https://scryfall.com/card/csp/47/surging-aether",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/f/bfba9fc2-8746-4693-bb75-01b5d78f7fee.webp",
+    "rarity": "Common",
+    "card_type": "Instant"
+  },
+  {
+    "id": "8a28c9cb-ae41-4f9c-b3f6-151ef95c81b3",
+    "title": "Survivor of the Unseen",
+    "scryfall_uri": "https://scryfall.com/card/csp/48/survivor-of-the-unseen",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/a/8a28c9cb-ae41-4f9c-b3f6-151ef95c81b3.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Human Wizard"
+  },
+  {
+    "id": "523ab8a0-906a-43b3-a554-db0d3dcd62d3",
+    "title": "Thermal Flux",
+    "scryfall_uri": "https://scryfall.com/card/csp/49/thermal-flux",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/2/523ab8a0-906a-43b3-a554-db0d3dcd62d3.webp",
+    "rarity": "Common",
+    "card_type": "Instant"
+  },
+  {
+    "id": "81cc1248-85c8-428f-ba08-96d188167eaa",
+    "title": "Vexing Sphinx",
+    "scryfall_uri": "https://scryfall.com/card/csp/50/vexing-sphinx",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/1/81cc1248-85c8-428f-ba08-96d188167eaa.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Sphinx"
+  },
+  {
+    "id": "6a52b952-6e3b-403b-b355-2af47a282ab6",
+    "title": "Balduvian Fallen",
+    "scryfall_uri": "https://scryfall.com/card/csp/51/balduvian-fallen",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/a/6a52b952-6e3b-403b-b355-2af47a282ab6.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Zombie"
+  },
+  {
+    "id": "312505d7-362e-43cf-bd23-28c248a8b7e1",
+    "title": "Chill to the Bone",
+    "scryfall_uri": "https://scryfall.com/card/csp/52/chill-to-the-bone",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/1/312505d7-362e-43cf-bd23-28c248a8b7e1.webp",
+    "rarity": "Common",
+    "card_type": "Instant"
+  },
+  {
+    "id": "d050c8b9-2b5a-4025-9886-73c418f4e22f",
+    "title": "Chilling Shade",
+    "scryfall_uri": "https://scryfall.com/card/csp/53/chilling-shade",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/0/d050c8b9-2b5a-4025-9886-73c418f4e22f.webp",
+    "rarity": "Common",
+    "card_type": "Snow Creature \u2014 Shade"
+  },
+  {
+    "id": "e72e8728-d0a0-4ee5-87c3-092ca94225e0",
+    "title": "Deathmark",
+    "scryfall_uri": "https://scryfall.com/card/csp/54/deathmark",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/7/e72e8728-d0a0-4ee5-87c3-092ca94225e0.webp",
+    "rarity": "Uncommon",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "8f99ec07-8af7-4e80-9f0e-fa304a94d4b4",
+    "title": "Disciple of Tevesh Szat",
+    "scryfall_uri": "https://scryfall.com/card/csp/55/disciple-of-tevesh-szat",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/f/8f99ec07-8af7-4e80-9f0e-fa304a94d4b4.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Human Cleric"
+  },
+  {
+    "id": "2d344791-5d5c-40c5-99c7-931954ea39d1",
+    "title": "Feast of Flesh",
+    "scryfall_uri": "https://scryfall.com/card/csp/56/feast-of-flesh",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/d/2d344791-5d5c-40c5-99c7-931954ea39d1.webp",
+    "rarity": "Common",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "3407ccbd-788d-4fe3-a039-0497724a94b5",
+    "title": "Garza's Assassin",
+    "scryfall_uri": "https://scryfall.com/card/csp/57/garzas-assassin",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/4/3407ccbd-788d-4fe3-a039-0497724a94b5.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Human Assassin"
+  },
+  {
+    "id": "bdb1972f-2ef7-4fe2-8c8e-ab07f48a3176",
+    "title": "Grim Harvest",
+    "scryfall_uri": "https://scryfall.com/card/csp/58/grim-harvest",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/d/bdb1972f-2ef7-4fe2-8c8e-ab07f48a3176.webp",
+    "rarity": "Common",
+    "card_type": "Instant"
+  },
+  {
+    "id": "ff8b607d-56c5-4a18-88b5-d5d0f50ef403",
+    "title": "Gristle Grinner",
+    "scryfall_uri": "https://scryfall.com/card/csp/59/gristle-grinner",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/f/ff8b607d-56c5-4a18-88b5-d5d0f50ef403.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Zombie"
+  },
+  {
+    "id": "b8bb97ce-d9cf-47db-93cb-02745ebeb05e",
+    "title": "Gutless Ghoul",
+    "scryfall_uri": "https://scryfall.com/card/csp/60/gutless-ghoul",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/8/b8bb97ce-d9cf-47db-93cb-02745ebeb05e.webp",
+    "rarity": "Common",
+    "card_type": "Snow Creature \u2014 Zombie"
+  },
+  {
+    "id": "10a7101e-e6c7-40d6-82cb-daa84701d1f8",
+    "title": "Haakon, Stromgald Scourge",
+    "scryfall_uri": "https://scryfall.com/card/csp/61/haakon-stromgald-scourge",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/0/10a7101e-e6c7-40d6-82cb-daa84701d1f8.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Creature \u2014 Zombie Knight"
+  },
+  {
+    "id": "ad6080b1-b032-4172-8594-4d894a60a80d",
+    "title": "Herald of Leshrac",
+    "scryfall_uri": "https://scryfall.com/card/csp/62/herald-of-leshrac",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/d/ad6080b1-b032-4172-8594-4d894a60a80d.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Avatar"
+  },
+  {
+    "id": "17597c66-0d9f-41af-9160-0d92be88f450",
+    "title": "Krovikan Rot",
+    "scryfall_uri": "https://scryfall.com/card/csp/63/krovikan-rot",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/7/17597c66-0d9f-41af-9160-0d92be88f450.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant"
+  },
+  {
+    "id": "bd9f046c-b416-4d80-8998-047b98361352",
+    "title": "Krovikan Scoundrel",
+    "scryfall_uri": "https://scryfall.com/card/csp/64/krovikan-scoundrel",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/d/bd9f046c-b416-4d80-8998-047b98361352.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Human Rogue"
+  },
+  {
+    "id": "8bba602e-5a81-4da2-99c0-6082f8a981e1",
+    "title": "Martyr of Bones",
+    "scryfall_uri": "https://scryfall.com/card/csp/65/martyr-of-bones",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/b/8bba602e-5a81-4da2-99c0-6082f8a981e1.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Human Wizard"
+  },
+  {
+    "id": "a14802be-f9d4-4984-86e0-537467f37fd7",
+    "title": "Phobian Phantasm",
+    "scryfall_uri": "https://scryfall.com/card/csp/66/phobian-phantasm",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/1/a14802be-f9d4-4984-86e0-537467f37fd7.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Illusion"
+  },
+  {
+    "id": "978dbf63-0842-4abd-9950-a33aa080971c",
+    "title": "Phyrexian Etchings",
+    "scryfall_uri": "https://scryfall.com/card/csp/67/phyrexian-etchings",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/7/978dbf63-0842-4abd-9950-a33aa080971c.webp",
+    "rarity": "Rare",
+    "card_type": "Enchantment"
+  },
+  {
+    "id": "e18318fe-b429-459f-9b70-d444b48b8dc7",
+    "title": "Rime Transfusion",
+    "scryfall_uri": "https://scryfall.com/card/csp/68/rime-transfusion",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/1/e18318fe-b429-459f-9b70-d444b48b8dc7.webp",
+    "rarity": "Uncommon",
+    "card_type": "Snow Enchantment \u2014 Aura"
+  },
+  {
+    "id": "6877469b-f14e-4121-aa5d-6cea92ab7278",
+    "title": "Rimebound Dead",
+    "scryfall_uri": "https://scryfall.com/card/csp/69/rimebound-dead",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/8/6877469b-f14e-4121-aa5d-6cea92ab7278.webp",
+    "rarity": "Common",
+    "card_type": "Snow Creature \u2014 Skeleton"
+  },
+  {
+    "id": "4b14b97d-122b-453a-9e5f-129404f96440",
+    "title": "Soul Spike",
+    "scryfall_uri": "https://scryfall.com/card/csp/70/soul-spike",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/b/4b14b97d-122b-453a-9e5f-129404f96440.webp",
+    "rarity": "Rare",
+    "card_type": "Instant"
+  },
+  {
+    "id": "a5baeff5-40e9-47b6-85a8-3a6548565b5f",
+    "title": "Stromgald Crusader",
+    "scryfall_uri": "https://scryfall.com/card/csp/71/stromgald-crusader",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/5/a5baeff5-40e9-47b6-85a8-3a6548565b5f.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Zombie Knight"
+  },
+  {
+    "id": "1eb7cb72-24f7-433b-9858-26009189daaa",
+    "title": "Surging Dementia",
+    "scryfall_uri": "https://scryfall.com/card/csp/72/surging-dementia",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/e/1eb7cb72-24f7-433b-9858-26009189daaa.webp",
+    "rarity": "Common",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "b852d9f9-069d-419a-b8d1-db30c72aaac6",
+    "title": "Tresserhorn Skyknight",
+    "scryfall_uri": "https://scryfall.com/card/csp/73/tresserhorn-skyknight",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/8/b852d9f9-069d-419a-b8d1-db30c72aaac6.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Zombie Knight"
+  },
+  {
+    "id": "ba464b81-2633-4422-a4b5-3593dfb7e7aa",
+    "title": "Void Maw",
+    "scryfall_uri": "https://scryfall.com/card/csp/74/void-maw",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/a/ba464b81-2633-4422-a4b5-3593dfb7e7aa.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Horror"
+  },
+  {
+    "id": "51cf9ade-1c3d-4104-98fa-3c6a8cccc088",
+    "title": "Zombie Musher",
+    "scryfall_uri": "https://scryfall.com/card/csp/75/zombie-musher",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/1/51cf9ade-1c3d-4104-98fa-3c6a8cccc088.webp",
+    "rarity": "Common",
+    "card_type": "Snow Creature \u2014 Zombie"
+  },
+  {
+    "id": "6716c980-bd89-4297-a843-9c3e18178b47",
+    "title": "Balduvian Rage",
+    "scryfall_uri": "https://scryfall.com/card/csp/76/balduvian-rage",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/7/6716c980-bd89-4297-a843-9c3e18178b47.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant"
+  },
+  {
+    "id": "a3286dbd-c8b8-45cb-98e4-d572289f2c14",
+    "title": "Balduvian Warlord",
+    "scryfall_uri": "https://scryfall.com/card/csp/77/balduvian-warlord",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/3/a3286dbd-c8b8-45cb-98e4-d572289f2c14.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Human Barbarian"
+  },
+  {
+    "id": "41bab8de-6e0f-4ccd-a303-01e9c8c82d3f",
+    "title": "Braid of Fire",
+    "scryfall_uri": "https://scryfall.com/card/csp/78/braid-of-fire",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/1/41bab8de-6e0f-4ccd-a303-01e9c8c82d3f.webp",
+    "rarity": "Rare",
+    "card_type": "Enchantment"
+  },
+  {
+    "id": "6a892711-a1a4-4402-957f-92077d00320d",
+    "title": "Cryoclasm",
+    "scryfall_uri": "https://scryfall.com/card/csp/79/cryoclasm",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/a/6a892711-a1a4-4402-957f-92077d00320d.webp",
+    "rarity": "Uncommon",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "b347f1bf-6167-4c59-bfa6-3e921874ab9a",
+    "title": "Earthen Goo",
+    "scryfall_uri": "https://scryfall.com/card/csp/80/earthen-goo",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/3/b347f1bf-6167-4c59-bfa6-3e921874ab9a.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Ooze"
+  },
+  {
+    "id": "f3223ef9-787a-40ac-8ab2-79ac75664aa2",
+    "title": "Fury of the Horde",
+    "scryfall_uri": "https://scryfall.com/card/csp/81/fury-of-the-horde",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/3/f3223ef9-787a-40ac-8ab2-79ac75664aa2.webp",
+    "rarity": "Rare",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "4f8ec9c1-da73-44fb-9e30-5279a7ed4e7e",
+    "title": "Goblin Furrier",
+    "scryfall_uri": "https://scryfall.com/card/csp/82/goblin-furrier",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/f/4f8ec9c1-da73-44fb-9e30-5279a7ed4e7e.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Goblin Warrior"
+  },
+  {
+    "id": "0254a437-5240-40ca-bf7b-d30b95942bf5",
+    "title": "Goblin Rimerunner",
+    "scryfall_uri": "https://scryfall.com/card/csp/83/goblin-rimerunner",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/2/0254a437-5240-40ca-bf7b-d30b95942bf5.webp",
+    "rarity": "Common",
+    "card_type": "Snow Creature \u2014 Goblin Warrior"
+  },
+  {
+    "id": "77697b16-7faa-400d-a865-732c8b0d3d41",
+    "title": "Greater Stone Spirit",
+    "scryfall_uri": "https://scryfall.com/card/csp/84/greater-stone-spirit",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/7/77697b16-7faa-400d-a865-732c8b0d3d41.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elemental Spirit"
+  },
+  {
+    "id": "6cf90fc3-b08b-4261-a194-d6b06fdd59d8",
+    "title": "Icefall",
+    "scryfall_uri": "https://scryfall.com/card/csp/85/icefall",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/c/6cf90fc3-b08b-4261-a194-d6b06fdd59d8.webp",
+    "rarity": "Common",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "963f45d7-ce84-47af-ae1c-727172a31f0f",
+    "title": "Karplusan Minotaur",
+    "scryfall_uri": "https://scryfall.com/card/csp/86/karplusan-minotaur",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/6/963f45d7-ce84-47af-ae1c-727172a31f0f.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Minotaur Warrior"
+  },
+  {
+    "id": "602610ce-8f42-4a1d-8f6e-92424d9d637c",
+    "title": "Karplusan Wolverine",
+    "scryfall_uri": "https://scryfall.com/card/csp/87/karplusan-wolverine",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/0/602610ce-8f42-4a1d-8f6e-92424d9d637c.webp",
+    "rarity": "Common",
+    "card_type": "Snow Creature \u2014 Wolverine Beast"
+  },
+  {
+    "id": "f6b4f4b6-51cd-4ae0-9585-82ad964853ba",
+    "title": "Lightning Serpent",
+    "scryfall_uri": "https://scryfall.com/card/csp/88/lightning-serpent",
+    "img_uri": "https://cards.scryfall.io/grid/front/f/6/f6b4f4b6-51cd-4ae0-9585-82ad964853ba.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Elemental Serpent"
+  },
+  {
+    "id": "c9c0388e-a04c-4757-a06d-8e8046f5a783",
+    "title": "Lightning Storm",
+    "scryfall_uri": "https://scryfall.com/card/csp/89/lightning-storm",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/9/c9c0388e-a04c-4757-a06d-8e8046f5a783.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant"
+  },
+  {
+    "id": "b11bdd7d-0b85-4b63-89c9-9e865c680bd4",
+    "title": "Lovisa Coldeyes",
+    "scryfall_uri": "https://scryfall.com/card/csp/90/lovisa-coldeyes",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/1/b11bdd7d-0b85-4b63-89c9-9e865c680bd4.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Creature \u2014 Human"
+  },
+  {
+    "id": "98db70f9-1feb-4932-97be-02db824eda70",
+    "title": "Magmatic Core",
+    "scryfall_uri": "https://scryfall.com/card/csp/91/magmatic-core",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/8/98db70f9-1feb-4932-97be-02db824eda70.webp",
+    "rarity": "Uncommon",
+    "card_type": "Enchantment"
+  },
+  {
+    "id": "600a2cd2-166a-4fd8-838d-e513534b7cb0",
+    "title": "Martyr of Ashes",
+    "scryfall_uri": "https://scryfall.com/card/csp/92/martyr-of-ashes",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/0/600a2cd2-166a-4fd8-838d-e513534b7cb0.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Human Shaman"
+  },
+  {
+    "id": "8d6cfa21-75b1-4380-b0fc-a7450699660f",
+    "title": "Ohran Yeti",
+    "scryfall_uri": "https://scryfall.com/card/csp/93/ohran-yeti",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/d/8d6cfa21-75b1-4380-b0fc-a7450699660f.webp",
+    "rarity": "Common",
+    "card_type": "Snow Creature \u2014 Yeti"
+  },
+  {
+    "id": "746eaf30-3ded-4a9f-a4ec-1925edcc8e94",
+    "title": "Orcish Bloodpainter",
+    "scryfall_uri": "https://scryfall.com/card/csp/94/orcish-bloodpainter",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/4/746eaf30-3ded-4a9f-a4ec-1925edcc8e94.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Orc Shaman"
+  },
+  {
+    "id": "113d0342-0ba2-46b0-bda5-6a9fe4dcad3e",
+    "title": "Rimescale Dragon",
+    "scryfall_uri": "https://scryfall.com/card/csp/95/rimescale-dragon",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/1/113d0342-0ba2-46b0-bda5-6a9fe4dcad3e.webp",
+    "rarity": "Rare",
+    "card_type": "Snow Creature \u2014 Dragon"
+  },
+  {
+    "id": "c062caf7-f0eb-44db-9f74-e6711a13fada",
+    "title": "Rite of Flame",
+    "scryfall_uri": "https://scryfall.com/card/csp/96/rite-of-flame",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/0/c062caf7-f0eb-44db-9f74-e6711a13fada.webp",
+    "rarity": "Common",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "b3d6d42a-7607-4361-acc4-7f3cb956bfc9",
+    "title": "Skred",
+    "scryfall_uri": "https://scryfall.com/card/csp/97/skred",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/3/b3d6d42a-7607-4361-acc4-7f3cb956bfc9.webp",
+    "rarity": "Common",
+    "card_type": "Instant"
+  },
+  {
+    "id": "4af53d0b-ac60-4519-a6f4-c67899bcfdd6",
+    "title": "Stalking Yeti",
+    "scryfall_uri": "https://scryfall.com/card/csp/98/stalking-yeti",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/a/4af53d0b-ac60-4519-a6f4-c67899bcfdd6.webp",
+    "rarity": "Uncommon",
+    "card_type": "Snow Creature \u2014 Yeti"
+  },
+  {
+    "id": "9974a543-7429-458b-a24f-c84cbffbb54d",
+    "title": "Surging Flame",
+    "scryfall_uri": "https://scryfall.com/card/csp/99/surging-flame",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/9/9974a543-7429-458b-a24f-c84cbffbb54d.webp",
+    "rarity": "Common",
+    "card_type": "Instant"
+  },
+  {
+    "id": "c09475e9-d6c1-4d4b-905e-40bc30405725",
+    "title": "Thermopod",
+    "scryfall_uri": "https://scryfall.com/card/csp/100/thermopod",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/0/c09475e9-d6c1-4d4b-905e-40bc30405725.webp",
+    "rarity": "Common",
+    "card_type": "Snow Creature \u2014 Slug"
+  },
+  {
+    "id": "e0f3ba39-5b4d-4a7c-9215-7e349aecbeb3",
+    "title": "Allosaurus Rider",
+    "scryfall_uri": "https://scryfall.com/card/csp/101/allosaurus-rider",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/0/e0f3ba39-5b4d-4a7c-9215-7e349aecbeb3.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Elf Warrior"
+  },
+  {
+    "id": "8da62ada-b7cd-4110-a213-281f00fca3e7",
+    "title": "Arctic Nishoba",
+    "scryfall_uri": "https://scryfall.com/card/csp/102/arctic-nishoba",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/d/8da62ada-b7cd-4110-a213-281f00fca3e7.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Cat Warrior"
+  },
+  {
+    "id": "d757b3ad-b808-4506-934e-727e065f66c1",
+    "title": "Aurochs Herd",
+    "scryfall_uri": "https://scryfall.com/card/csp/103/aurochs-herd",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/7/d757b3ad-b808-4506-934e-727e065f66c1.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Aurochs"
+  },
+  {
+    "id": "05231fa1-47b8-49aa-9393-ec4d8384c41b",
+    "title": "Boreal Centaur",
+    "scryfall_uri": "https://scryfall.com/card/csp/104/boreal-centaur",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/5/05231fa1-47b8-49aa-9393-ec4d8384c41b.webp",
+    "rarity": "Common",
+    "card_type": "Snow Creature \u2014 Centaur Warrior"
+  },
+  {
+    "id": "473d3633-6dc7-4026-a50e-3ea76b9e8c20",
+    "title": "Boreal Druid",
+    "scryfall_uri": "https://scryfall.com/card/csp/105/boreal-druid",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/7/473d3633-6dc7-4026-a50e-3ea76b9e8c20.webp",
+    "rarity": "Common",
+    "card_type": "Snow Creature \u2014 Elf Druid"
+  },
+  {
+    "id": "252ef807-f861-4dcf-8e52-9260301c729a",
+    "title": "Brooding Saurian",
+    "scryfall_uri": "https://scryfall.com/card/csp/106/brooding-saurian",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/5/252ef807-f861-4dcf-8e52-9260301c729a.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Lizard"
+  },
+  {
+    "id": "2d59bd4a-006b-4dd8-ab33-d931196f3a8a",
+    "title": "Bull Aurochs",
+    "scryfall_uri": "https://scryfall.com/card/csp/107/bull-aurochs",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/d/2d59bd4a-006b-4dd8-ab33-d931196f3a8a.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Aurochs"
+  },
+  {
+    "id": "4bafb0b4-9f01-4c67-add4-a0ffe0a3a691",
+    "title": "Freyalise's Radiance",
+    "scryfall_uri": "https://scryfall.com/card/csp/108/freyalises-radiance",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/b/4bafb0b4-9f01-4c67-add4-a0ffe0a3a691.webp",
+    "rarity": "Uncommon",
+    "card_type": "Enchantment"
+  },
+  {
+    "id": "48574974-bdbb-40e8-916a-44c54b08b501",
+    "title": "Frostweb Spider",
+    "scryfall_uri": "https://scryfall.com/card/csp/109/frostweb-spider",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/8/48574974-bdbb-40e8-916a-44c54b08b501.webp",
+    "rarity": "Common",
+    "card_type": "Snow Creature \u2014 Spider"
+  },
+  {
+    "id": "093ab03a-99e3-4596-a19a-033845f77a93",
+    "title": "Hibernation's End",
+    "scryfall_uri": "https://scryfall.com/card/csp/110/hibernations-end",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/9/093ab03a-99e3-4596-a19a-033845f77a93.webp",
+    "rarity": "Rare",
+    "card_type": "Enchantment"
+  },
+  {
+    "id": "79cea55d-8ef3-44a5-894e-967f1e97fc02",
+    "title": "Into the North",
+    "scryfall_uri": "https://scryfall.com/card/csp/111/into-the-north",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/9/79cea55d-8ef3-44a5-894e-967f1e97fc02.webp",
+    "rarity": "Common",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "44d27fdf-690b-4e93-8412-4f6fb0ed43db",
+    "title": "Karplusan Strider",
+    "scryfall_uri": "https://scryfall.com/card/csp/112/karplusan-strider",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/4/44d27fdf-690b-4e93-8412-4f6fb0ed43db.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Yeti"
+  },
+  {
+    "id": "375fc47b-9a1b-4540-9c07-09e4e92ab974",
+    "title": "Martyr of Spores",
+    "scryfall_uri": "https://scryfall.com/card/csp/113/martyr-of-spores",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/7/375fc47b-9a1b-4540-9c07-09e4e92ab974.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Human Shaman"
+  },
+  {
+    "id": "bf4ff91d-acc1-4be7-a327-58fcb036b452",
+    "title": "Mystic Melting",
+    "scryfall_uri": "https://scryfall.com/card/csp/114/mystic-melting",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/f/bf4ff91d-acc1-4be7-a327-58fcb036b452.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant"
+  },
+  {
+    "id": "bd5fd0ee-2350-4eb0-8417-700459879f74",
+    "title": "Ohran Viper",
+    "scryfall_uri": "https://scryfall.com/card/csp/115/ohran-viper",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/d/bd5fd0ee-2350-4eb0-8417-700459879f74.webp",
+    "rarity": "Rare",
+    "card_type": "Snow Creature \u2014 Snake"
+  },
+  {
+    "id": "063bb28b-5e32-4f31-a208-16b653edf413",
+    "title": "Panglacial Wurm",
+    "scryfall_uri": "https://scryfall.com/card/csp/116/panglacial-wurm",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/6/063bb28b-5e32-4f31-a208-16b653edf413.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Wurm"
+  },
+  {
+    "id": "c5dded16-e516-430e-a528-c49a483f03b4",
+    "title": "Resize",
+    "scryfall_uri": "https://scryfall.com/card/csp/117/resize",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/5/c5dded16-e516-430e-a528-c49a483f03b4.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant"
+  },
+  {
+    "id": "3844b3f8-2d42-4265-b2dd-fa888492efff",
+    "title": "Rimehorn Aurochs",
+    "scryfall_uri": "https://scryfall.com/card/csp/118/rimehorn-aurochs",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/8/3844b3f8-2d42-4265-b2dd-fa888492efff.webp",
+    "rarity": "Uncommon",
+    "card_type": "Snow Creature \u2014 Aurochs"
+  },
+  {
+    "id": "e5b4b14c-e6fa-4cd2-9be7-fa2a2df05de1",
+    "title": "Ronom Hulk",
+    "scryfall_uri": "https://scryfall.com/card/csp/119/ronom-hulk",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/5/e5b4b14c-e6fa-4cd2-9be7-fa2a2df05de1.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Beast"
+  },
+  {
+    "id": "5436d55d-d2d0-4f22-b399-93f1d48e080f",
+    "title": "Shape of the Wiitigo",
+    "scryfall_uri": "https://scryfall.com/card/csp/120/shape-of-the-wiitigo",
+    "img_uri": "https://cards.scryfall.io/grid/front/5/4/5436d55d-d2d0-4f22-b399-93f1d48e080f.webp",
+    "rarity": "Rare",
+    "card_type": "Enchantment \u2014 Aura"
+  },
+  {
+    "id": "d16535ae-6e03-4992-9459-d31626a3222e",
+    "title": "Sheltering Ancient",
+    "scryfall_uri": "https://scryfall.com/card/csp/121/sheltering-ancient",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/1/d16535ae-6e03-4992-9459-d31626a3222e.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Treefolk"
+  },
+  {
+    "id": "df2ed9f3-50b1-493b-9c14-0f8ddb4d8c57",
+    "title": "Simian Brawler",
+    "scryfall_uri": "https://scryfall.com/card/csp/122/simian-brawler",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/f/df2ed9f3-50b1-493b-9c14-0f8ddb4d8c57.webp",
+    "rarity": "Common",
+    "card_type": "Creature \u2014 Ape Warrior"
+  },
+  {
+    "id": "ae586221-c13c-4f4e-83ae-9b1ab0aeae61",
+    "title": "Sound the Call",
+    "scryfall_uri": "https://scryfall.com/card/csp/123/sound-the-call",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/e/ae586221-c13c-4f4e-83ae-9b1ab0aeae61.webp",
+    "rarity": "Common",
+    "card_type": "Sorcery"
+  },
+  {
+    "id": "8aa585b7-cf7e-4f04-9490-1e6c53631647",
+    "title": "Steam Spitter",
+    "scryfall_uri": "https://scryfall.com/card/csp/124/steam-spitter",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/a/8aa585b7-cf7e-4f04-9490-1e6c53631647.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Spider"
+  },
+  {
+    "id": "aa51adee-b343-4a03-8fa0-0d86244db5b7",
+    "title": "Surging Might",
+    "scryfall_uri": "https://scryfall.com/card/csp/125/surging-might",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/a/aa51adee-b343-4a03-8fa0-0d86244db5b7.webp",
+    "rarity": "Common",
+    "card_type": "Enchantment \u2014 Aura"
+  },
+  {
+    "id": "d925746c-4bba-4d50-aeee-3a3bfd165a2e",
+    "title": "Blizzard Specter",
+    "scryfall_uri": "https://scryfall.com/card/csp/126/blizzard-specter",
+    "img_uri": "https://cards.scryfall.io/grid/front/d/9/d925746c-4bba-4d50-aeee-3a3bfd165a2e.webp",
+    "rarity": "Uncommon",
+    "card_type": "Snow Creature \u2014 Specter"
+  },
+  {
+    "id": "a26cf431-b79b-4619-9d19-bc4557f2f9bf",
+    "title": "Deepfire Elemental",
+    "scryfall_uri": "https://scryfall.com/card/csp/127/deepfire-elemental",
+    "img_uri": "https://cards.scryfall.io/grid/front/a/2/a26cf431-b79b-4619-9d19-bc4557f2f9bf.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elemental"
+  },
+  {
+    "id": "0072cf13-284b-4fb8-ab2c-b2e15388a30a",
+    "title": "Diamond Faerie",
+    "scryfall_uri": "https://scryfall.com/card/csp/128/diamond-faerie",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/0/0072cf13-284b-4fb8-ab2c-b2e15388a30a.webp",
+    "rarity": "Rare",
+    "card_type": "Snow Creature \u2014 Faerie"
+  },
+  {
+    "id": "3570143b-183b-4ae2-8806-3d0c4cd7406e",
+    "title": "Garza Zol, Plague Queen",
+    "scryfall_uri": "https://scryfall.com/card/csp/129/garza-zol-plague-queen",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/5/3570143b-183b-4ae2-8806-3d0c4cd7406e.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Creature \u2014 Vampire Noble"
+  },
+  {
+    "id": "ce582ff6-6a21-418d-b72c-4402a43be7dc",
+    "title": "Juniper Order Ranger",
+    "scryfall_uri": "https://scryfall.com/card/csp/130/juniper-order-ranger",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/e/ce582ff6-6a21-418d-b72c-4402a43be7dc.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Human Knight Ranger"
+  },
+  {
+    "id": "9257bb20-de32-460c-96cf-375acb6a0b1d",
+    "title": "Sek'Kuar, Deathkeeper",
+    "scryfall_uri": "https://scryfall.com/card/csp/131/sekkuar-deathkeeper",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/2/9257bb20-de32-460c-96cf-375acb6a0b1d.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Creature \u2014 Orc Shaman"
+  },
+  {
+    "id": "6d32955b-cbf6-429b-9513-17ca75d4ec2c",
+    "title": "Tamanoa",
+    "scryfall_uri": "https://scryfall.com/card/csp/132/tamanoa",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/d/6d32955b-cbf6-429b-9513-17ca75d4ec2c.webp",
+    "rarity": "Rare",
+    "card_type": "Creature \u2014 Spirit"
+  },
+  {
+    "id": "6da89cfe-274f-452d-a5ca-b034534898c7",
+    "title": "Vanish into Memory",
+    "scryfall_uri": "https://scryfall.com/card/csp/133/vanish-into-memory",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/d/6da89cfe-274f-452d-a5ca-b034534898c7.webp",
+    "rarity": "Uncommon",
+    "card_type": "Instant"
+  },
+  {
+    "id": "b63632a0-1493-4a72-917c-aae1600c6230",
+    "title": "Wilderness Elemental",
+    "scryfall_uri": "https://scryfall.com/card/csp/134/wilderness-elemental",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/6/b63632a0-1493-4a72-917c-aae1600c6230.webp",
+    "rarity": "Uncommon",
+    "card_type": "Creature \u2014 Elemental"
+  },
+  {
+    "id": "4b1255e9-c0b8-4757-a857-b27a99dd4930",
+    "title": "Zur the Enchanter",
+    "scryfall_uri": "https://scryfall.com/card/csp/135/zur-the-enchanter",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/b/4b1255e9-c0b8-4757-a857-b27a99dd4930.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Creature \u2014 Human Wizard"
+  },
+  {
+    "id": "cdd5015e-fe31-42e3-923d-44b9cdece273",
+    "title": "Coldsteel Heart",
+    "scryfall_uri": "https://scryfall.com/card/csp/136/coldsteel-heart",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/d/cdd5015e-fe31-42e3-923d-44b9cdece273.webp",
+    "rarity": "Uncommon",
+    "card_type": "Snow Artifact"
+  },
+  {
+    "id": "7118c2e0-04d6-4a71-8ffd-b9365b154050",
+    "title": "Jester's Scepter",
+    "scryfall_uri": "https://scryfall.com/card/csp/137/jesters-scepter",
+    "img_uri": "https://cards.scryfall.io/grid/front/7/1/7118c2e0-04d6-4a71-8ffd-b9365b154050.webp",
+    "rarity": "Rare",
+    "card_type": "Artifact"
+  },
+  {
+    "id": "8a720448-017f-4f4a-9501-678245eaed17",
+    "title": "Mishra's Bauble",
+    "scryfall_uri": "https://scryfall.com/card/csp/138/mishras-bauble",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/a/8a720448-017f-4f4a-9501-678245eaed17.webp",
+    "rarity": "Uncommon",
+    "card_type": "Artifact"
+  },
+  {
+    "id": "49ff9859-92a4-4732-94bf-6c02b0a57338",
+    "title": "Phyrexian Ironfoot",
+    "scryfall_uri": "https://scryfall.com/card/csp/139/phyrexian-ironfoot",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/9/49ff9859-92a4-4732-94bf-6c02b0a57338.webp",
+    "rarity": "Uncommon",
+    "card_type": "Snow Artifact Creature \u2014 Phyrexian Construct"
+  },
+  {
+    "id": "9f3cf3d3-101e-4649-9495-8a95507d0283",
+    "title": "Phyrexian Snowcrusher",
+    "scryfall_uri": "https://scryfall.com/card/csp/140/phyrexian-snowcrusher",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/f/9f3cf3d3-101e-4649-9495-8a95507d0283.webp",
+    "rarity": "Uncommon",
+    "card_type": "Snow Artifact Creature \u2014 Phyrexian Juggernaut"
+  },
+  {
+    "id": "9d4325ea-2e84-4871-a8d6-a42b1d3d6765",
+    "title": "Phyrexian Soulgorger",
+    "scryfall_uri": "https://scryfall.com/card/csp/141/phyrexian-soulgorger",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/d/9d4325ea-2e84-4871-a8d6-a42b1d3d6765.webp",
+    "rarity": "Rare",
+    "card_type": "Snow Artifact Creature \u2014 Phyrexian Construct"
+  },
+  {
+    "id": "31412335-110c-449a-9c2f-bff8763a6504",
+    "title": "Thrumming Stone",
+    "scryfall_uri": "https://scryfall.com/card/csp/142/thrumming-stone",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/1/31412335-110c-449a-9c2f-bff8763a6504.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Artifact"
+  },
+  {
+    "id": "609b15f6-e65b-46d6-95e8-dc39f25d7efa",
+    "title": "Arctic Flats",
+    "scryfall_uri": "https://scryfall.com/card/csp/143/arctic-flats",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/0/609b15f6-e65b-46d6-95e8-dc39f25d7efa.webp",
+    "rarity": "Uncommon",
+    "card_type": "Snow Land"
+  },
+  {
+    "id": "3f2f8396-72ab-4387-9276-987836427107",
+    "title": "Boreal Shelf",
+    "scryfall_uri": "https://scryfall.com/card/csp/144/boreal-shelf",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/f/3f2f8396-72ab-4387-9276-987836427107.webp",
+    "rarity": "Uncommon",
+    "card_type": "Snow Land"
+  },
+  {
+    "id": "92409c3a-fb1a-4205-9fe1-0f5affc7b21d",
+    "title": "Dark Depths",
+    "scryfall_uri": "https://scryfall.com/card/csp/145/dark-depths",
+    "img_uri": "https://cards.scryfall.io/grid/front/9/2/92409c3a-fb1a-4205-9fe1-0f5affc7b21d.webp",
+    "rarity": "Rare",
+    "card_type": "Legendary Snow Land"
+  },
+  {
+    "id": "e9320033-d8d7-4a01-80db-60de222040e6",
+    "title": "Frost Marsh",
+    "scryfall_uri": "https://scryfall.com/card/csp/146/frost-marsh",
+    "img_uri": "https://cards.scryfall.io/grid/front/e/9/e9320033-d8d7-4a01-80db-60de222040e6.webp",
+    "rarity": "Uncommon",
+    "card_type": "Snow Land"
+  },
+  {
+    "id": "38bcd111-0830-4fc0-a113-37eb306fb1a0",
+    "title": "Highland Weald",
+    "scryfall_uri": "https://scryfall.com/card/csp/147/highland-weald",
+    "img_uri": "https://cards.scryfall.io/grid/front/3/8/38bcd111-0830-4fc0-a113-37eb306fb1a0.webp",
+    "rarity": "Uncommon",
+    "card_type": "Snow Land"
+  },
+  {
+    "id": "2d8f7396-23d3-48e2-8686-2b59ccbfc7e5",
+    "title": "Mouth of Ronom",
+    "scryfall_uri": "https://scryfall.com/card/csp/148/mouth-of-ronom",
+    "img_uri": "https://cards.scryfall.io/grid/front/2/d/2d8f7396-23d3-48e2-8686-2b59ccbfc7e5.webp",
+    "rarity": "Uncommon",
+    "card_type": "Snow Land"
+  },
+  {
+    "id": "19e95422-c6fe-4750-916b-43bf22ae193a",
+    "title": "Scrying Sheets",
+    "scryfall_uri": "https://scryfall.com/card/csp/149/scrying-sheets",
+    "img_uri": "https://cards.scryfall.io/grid/front/1/9/19e95422-c6fe-4750-916b-43bf22ae193a.webp",
+    "rarity": "Rare",
+    "card_type": "Snow Land"
+  },
+  {
+    "id": "4bd8fe2c-2297-4e19-8a87-01eb99b8c6dc",
+    "title": "Tresserhorn Sinks",
+    "scryfall_uri": "https://scryfall.com/card/csp/150/tresserhorn-sinks",
+    "img_uri": "https://cards.scryfall.io/grid/front/4/b/4bd8fe2c-2297-4e19-8a87-01eb99b8c6dc.webp",
+    "rarity": "Uncommon",
+    "card_type": "Snow Land"
+  },
+  {
+    "id": "b1e3a010-dae3-41b6-8dd8-e31d14c3ac4a",
+    "title": "Snow-Covered Plains",
+    "scryfall_uri": "https://scryfall.com/card/csp/151/snow-covered-plains",
+    "img_uri": "https://cards.scryfall.io/grid/front/b/1/b1e3a010-dae3-41b6-8dd8-e31d14c3ac4a.webp",
+    "rarity": "Common",
+    "card_type": "Basic Snow Land \u2014 Plains"
+  },
+  {
+    "id": "6abf0692-07d1-4b72-af06-93d0e338589d",
+    "title": "Snow-Covered Island",
+    "scryfall_uri": "https://scryfall.com/card/csp/152/snow-covered-island",
+    "img_uri": "https://cards.scryfall.io/grid/front/6/a/6abf0692-07d1-4b72-af06-93d0e338589d.webp",
+    "rarity": "Common",
+    "card_type": "Basic Snow Land \u2014 Island"
+  },
+  {
+    "id": "c4dacaf1-09b8-42bb-8064-990190fdaf81",
+    "title": "Snow-Covered Swamp",
+    "scryfall_uri": "https://scryfall.com/card/csp/153/snow-covered-swamp",
+    "img_uri": "https://cards.scryfall.io/grid/front/c/4/c4dacaf1-09b8-42bb-8064-990190fdaf81.webp",
+    "rarity": "Common",
+    "card_type": "Basic Snow Land \u2014 Swamp"
+  },
+  {
+    "id": "0dc9a6d1-a1ca-4b8f-894d-71c2a9933f79",
+    "title": "Snow-Covered Mountain",
+    "scryfall_uri": "https://scryfall.com/card/csp/154/snow-covered-mountain",
+    "img_uri": "https://cards.scryfall.io/grid/front/0/d/0dc9a6d1-a1ca-4b8f-894d-71c2a9933f79.webp",
+    "rarity": "Common",
+    "card_type": "Basic Snow Land \u2014 Mountain"
+  },
+  {
+    "id": "838c915d-8153-43c2-b513-dfbe4e9388a5",
+    "title": "Snow-Covered Forest",
+    "scryfall_uri": "https://scryfall.com/card/csp/155/snow-covered-forest",
+    "img_uri": "https://cards.scryfall.io/grid/front/8/3/838c915d-8153-43c2-b513-dfbe4e9388a5.webp",
+    "rarity": "Common",
+    "card_type": "Basic Snow Land \u2014 Forest"
+  }
+]
