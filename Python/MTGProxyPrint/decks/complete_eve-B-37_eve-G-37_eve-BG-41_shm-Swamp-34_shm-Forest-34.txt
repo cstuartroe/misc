@@ -7,7 +7,7 @@ Deck
 1 Swamp (SHM) 290
 1 Swamp (SHM) 290
 1 Swamp (SHM) 290
-1 Swamp (SHM) 291
+1 Swamp (SHM) 290
 1 Swamp (SHM) 291
 1 Swamp (SHM) 291
 1 Swamp (SHM) 291
@@ -50,6 +50,7 @@ Deck
 1 Forest (SHM) 299
 1 Forest (SHM) 299
 1 Forest (SHM) 299
+1 Forest (SHM) 299
 1 Forest (SHM) 300
 1 Forest (SHM) 300
 1 Forest (SHM) 300
@@ -58,7 +59,6 @@ Deck
 1 Forest (SHM) 300
 1 Forest (SHM) 300
 1 Forest (SHM) 300
-1 Forest (SHM) 301
 1 Forest (SHM) 301
 1 Forest (SHM) 301
 1 Forest (SHM) 301

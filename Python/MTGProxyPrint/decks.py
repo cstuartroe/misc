@@ -1,4 +1,5 @@
 import math
+import os
 import random
 
 from PIL import Image
@@ -26,7 +27,10 @@ COLOR_LANDS = {
 def subsets_deck(set_colors: dict[tuple[str, str], int | None], basic_lands: dict[tuple[str, str], int | None], seed: int = SEED, skip_planeswalkers: bool = True) -> tuple[str, list[Card]]:
     random.seed(seed)
 
-    title = str(seed).zfill(4)
+    if all(count is None for count in set_colors.values()):
+        title = "complete"
+    else:
+        title = str(seed).zfill(4)
 
     sets = {}
     deck: list[Card] = []
@@ -49,12 +53,13 @@ def subsets_deck(set_colors: dict[tuple[str, str], int | None], basic_lands: dic
             else:
                 raise ValueError
 
-        random.shuffle(rarity_weighted)
-
-        if count is None:
+        if count is None or count >= len(rarity_weighted):
+            deck += rarity_weighted
             count = len(rarity_weighted)
+        else:
+            random.shuffle(rarity_weighted)
+            deck += rarity_weighted[:count]
 
-        deck += rarity_weighted[:count]
         title += f"_{set_id}-{color}-{count}"
 
         random.seed(deck[-1].title)
@@ -97,7 +102,7 @@ def weighted_set(set_id: str, include_basic_lands: bool = False) -> tuple[str, l
         else:
             deck.append(card)
 
-    return set_id + "_weighted", deck
+    return "weighted_" + set_id, deck
 
 
 def set_basic_lands(set_id: str, copies: int = 10) -> tuple[str, list[Card]]:
@@ -108,7 +113,7 @@ def set_basic_lands(set_id: str, copies: int = 10) -> tuple[str, list[Card]]:
         if card.card_type.startswith("Basic"):
             deck += [card]*copies
 
-    return set_id + "_basic_lands", deck
+    return "basic_lands_" + set_id, deck
 
 
 def deck_to_image(title: str, deck: list[Card]):
@@ -143,14 +148,11 @@ def generate_quick_decks():
     decks: list[tuple[str, list[Card]]] = []
 
     for color in "BGRUW":
-        decks.append(subsets_deck(
-            {("10e", color): 38},
-            {("10e", COLOR_LANDS[color]): 22},
-        ))
-        decks.append(subsets_deck(
-            {("lrw", color): 38},
-            {("lrw", COLOR_LANDS[color]): 22},
-        ))
+        for set_id in ["10e", "lrw"]:
+            decks.append(subsets_deck(
+                {(set_id, color): 38},
+                {(set_id, COLOR_LANDS[color]): 22},
+            ))
 
     for shadowmoor_color_pair in ["UW", "BU", "BR", "GR", "GW"]:
         decks.append(subsets_deck(
@@ -194,10 +196,6 @@ def generate_complete_decks():
                 {(set_id, color): None},
                 {(set_id, COLOR_LANDS[color]): None},
             ))
-            decks.append(subsets_deck(
-                {(set_id, color): None},
-                {(set_id, COLOR_LANDS[color]): None},
-            ))
 
     for shadowmoor_color_pair in ["UW", "BU", "BR", "GR", "GW"]:
         decks.append(subsets_deck(
@@ -236,14 +234,11 @@ def generate_drafting_decks():
     decks: list[tuple[str, list[Card]]] = []
 
     for color in "BGRUW":
-        decks.append(subsets_deck(
-            {("10e", color): 54, ("10e", ""): 6},
-            {},
-        ))
-        decks.append(subsets_deck(
-            {("lrw", color): 54, ("lrw", ""): 6},
-            {},
-        ))
+        for set_id in ["10e", "lrw"]:
+            decks.append(subsets_deck(
+                {(set_id, color): 54, (set_id, ""): 6},
+                {},
+            ))
 
     for shadowmoor_color_pair in ["UW", "BU", "BR", "GR", "GW"]:
         decks.append(subsets_deck(
@@ -313,6 +308,10 @@ def my_cards():
 
 
 if __name__ == "__main__":
+    for file in os.listdir(path="decks"):
+        if file != ".gitkeep":
+            os.unlink(f"decks/{file}")
+
     generate_quick_decks()
     generate_complete_decks()
     generate_drafting_decks()

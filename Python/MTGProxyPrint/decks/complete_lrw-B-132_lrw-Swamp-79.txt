@@ -150,7 +150,6 @@ Deck
 1 Swamp (LRW) 290
 1 Swamp (LRW) 290
 1 Swamp (LRW) 290
-1 Swamp (LRW) 290
 1 Swamp (LRW) 291
 1 Swamp (LRW) 291
 1 Swamp (LRW) 291
@@ -171,6 +170,7 @@ Deck
 1 Swamp (LRW) 291
 1 Swamp (LRW) 291
 1 Swamp (LRW) 291
+1 Swamp (LRW) 292
 1 Swamp (LRW) 292
 1 Swamp (LRW) 292
 1 Swamp (LRW) 292

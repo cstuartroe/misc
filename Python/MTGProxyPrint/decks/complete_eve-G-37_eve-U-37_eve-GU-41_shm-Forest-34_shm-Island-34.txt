@@ -7,7 +7,6 @@ Deck
 1 Island (SHM) 286
 1 Island (SHM) 286
 1 Island (SHM) 286
-1 Island (SHM) 286
 1 Island (SHM) 287
 1 Island (SHM) 287
 1 Island (SHM) 287
@@ -16,6 +15,7 @@ Deck
 1 Island (SHM) 287
 1 Island (SHM) 287
 1 Island (SHM) 287
+1 Island (SHM) 288
 1 Island (SHM) 288
 1 Island (SHM) 288
 1 Island (SHM) 288
@@ -40,6 +40,8 @@ Deck
 1 Forest (SHM) 298
 1 Forest (SHM) 298
 1 Forest (SHM) 298
+1 Forest (SHM) 298
+1 Forest (SHM) 298
 1 Forest (SHM) 299
 1 Forest (SHM) 299
 1 Forest (SHM) 299
@@ -57,8 +59,6 @@ Deck
 1 Forest (SHM) 300
 1 Forest (SHM) 300
 1 Forest (SHM) 300
-1 Forest (SHM) 300
-1 Forest (SHM) 301
 1 Forest (SHM) 301
 1 Forest (SHM) 301
 1 Forest (SHM) 301

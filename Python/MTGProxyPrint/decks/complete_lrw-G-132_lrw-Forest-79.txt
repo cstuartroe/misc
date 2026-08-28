@@ -190,7 +190,7 @@ Deck
 1 Forest (LRW) 300
 1 Forest (LRW) 300
 1 Forest (LRW) 300
-1 Forest (LRW) 300
+1 Forest (LRW) 301
 1 Forest (LRW) 301
 1 Forest (LRW) 301
 1 Forest (LRW) 301
