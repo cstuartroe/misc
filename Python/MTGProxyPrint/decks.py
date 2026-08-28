@@ -24,13 +24,10 @@ COLOR_LANDS = {
 }
 
 
-def subsets_deck(set_colors: dict[tuple[str, str], int | None], basic_lands: dict[tuple[str, str], int | None], seed: int = SEED, skip_planeswalkers: bool = True) -> tuple[str, list[Card]]:
+def subsets_deck(prefix: str, set_colors: dict[tuple[str, str], int | None], basic_lands: dict[tuple[str, str], int | None], seed: int = SEED, skip_planeswalkers: bool = True) -> tuple[str, list[Card]]:
     random.seed(seed)
 
-    if all(count is None for count in set_colors.values()):
-        title = "complete"
-    else:
-        title = str(seed).zfill(4)
+    title = prefix
 
     sets = {}
     deck: list[Card] = []
@@ -146,16 +143,19 @@ def generate_quick_decks():
     """60-card decks for quick play without doing any selection."""
 
     decks: list[tuple[str, list[Card]]] = []
+    prefix = "quick"
 
     for color in "BGRUW":
         for set_id in ["10e", "lrw"]:
             decks.append(subsets_deck(
+                prefix,
                 {(set_id, color): 38},
                 {(set_id, COLOR_LANDS[color]): 22},
             ))
 
     for shadowmoor_color_pair in ["UW", "BU", "BR", "GR", "GW"]:
         decks.append(subsets_deck(
+                prefix,
             {
                 ("shm", shadowmoor_color_pair[0]): 10,
                 ("shm", shadowmoor_color_pair[1]): 10,
@@ -169,6 +169,7 @@ def generate_quick_decks():
 
     for eventide_color_pair in ["BW", "RU", "BG", "RW", "GU"]:
         decks.append(subsets_deck(
+                prefix,
             {
                 ("eve", eventide_color_pair[0]): 10,
                 ("eve", eventide_color_pair[1]): 10,
@@ -189,16 +190,19 @@ def generate_complete_decks():
     """Decks containing all cards of given color(s) in sets."""
 
     decks: list[tuple[str, list[Card]]] = []
+    prefix = "complete"
 
     for color in "BGRUW":
         for set_id in ["10e", "lrw"]:
             decks.append(subsets_deck(
+                prefix,
                 {(set_id, color): None},
                 {(set_id, COLOR_LANDS[color]): None},
             ))
 
     for shadowmoor_color_pair in ["UW", "BU", "BR", "GR", "GW"]:
         decks.append(subsets_deck(
+                prefix,
             {
                 ("shm", shadowmoor_color_pair[0]): None,
                 ("shm", shadowmoor_color_pair[1]): None,
@@ -212,6 +216,7 @@ def generate_complete_decks():
 
     for eventide_color_pair in ["BW", "RU", "BG", "RW", "GU"]:
         decks.append(subsets_deck(
+                prefix,
             {
                 ("eve", eventide_color_pair[0]): None,
                 ("eve", eventide_color_pair[1]): None,
@@ -232,16 +237,19 @@ def generate_drafting_decks():
     """60-card decks with no basic lands, with the intention that drafters will build a deck out of the drafted cards."""
 
     decks: list[tuple[str, list[Card]]] = []
+    prefix = "colordraft"
 
     for color in "BGRUW":
         for set_id in ["10e", "lrw"]:
             decks.append(subsets_deck(
+                prefix,
                 {(set_id, color): 54, (set_id, ""): 6},
                 {},
             ))
 
     for shadowmoor_color_pair in ["UW", "BU", "BR", "GR", "GW"]:
         decks.append(subsets_deck(
+                prefix,
             {
                 ("shm", shadowmoor_color_pair[0]): 10,
                 ("eve", shadowmoor_color_pair[0]): 10,
@@ -252,6 +260,7 @@ def generate_drafting_decks():
             {},
         ))
         decks.append(subsets_deck(
+                prefix,
             {
                 ("shm", shadowmoor_color_pair[0]): 15,
                 ("shm", shadowmoor_color_pair[1]): 15,
@@ -263,6 +272,7 @@ def generate_drafting_decks():
 
     for eventide_color_pair in ["BW", "RU", "BG", "RW", "GU"]:
         decks.append(subsets_deck(
+                prefix,
             {
                 ("shm", eventide_color_pair[0]): 10,
                 ("eve", eventide_color_pair[0]): 10,
@@ -273,6 +283,7 @@ def generate_drafting_decks():
             {}
         ))
         decks.append(subsets_deck(
+                prefix,
             {
                 ("eve", eventide_color_pair[0]): 15,
                 ("eve", eventide_color_pair[1]): 15,
