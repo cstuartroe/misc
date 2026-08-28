@@ -1,0 +1,192 @@
+Deck
+1 Plains (SHM) 282
+1 Plains (SHM) 282
+1 Plains (SHM) 282
+1 Plains (SHM) 282
+1 Plains (SHM) 282
+1 Plains (SHM) 282
+1 Plains (SHM) 282
+1 Plains (SHM) 282
+1 Plains (SHM) 282
+1 Plains (SHM) 282
+1 Plains (SHM) 282
+1 Plains (SHM) 283
+1 Plains (SHM) 283
+1 Plains (SHM) 283
+1 Plains (SHM) 283
+1 Plains (SHM) 283
+1 Plains (SHM) 283
+1 Plains (SHM) 283
+1 Plains (SHM) 283
+1 Plains (SHM) 283
+1 Plains (SHM) 283
+1 Plains (SHM) 284
+1 Plains (SHM) 284
+1 Plains (SHM) 284
+1 Plains (SHM) 284
+1 Plains (SHM) 284
+1 Plains (SHM) 284
+1 Plains (SHM) 284
+1 Plains (SHM) 284
+1 Plains (SHM) 284
+1 Plains (SHM) 284
+1 Plains (SHM) 284
+1 Plains (SHM) 285
+1 Plains (SHM) 285
+1 Plains (SHM) 285
+1 Plains (SHM) 285
+1 Plains (SHM) 285
+1 Plains (SHM) 285
+1 Plains (SHM) 285
+1 Plains (SHM) 285
+1 Plains (SHM) 285
+1 Plains (SHM) 285
+1 Plains (SHM) 285
+1 Mountain (SHM) 294
+1 Mountain (SHM) 294
+1 Mountain (SHM) 294
+1 Mountain (SHM) 294
+1 Mountain (SHM) 294
+1 Mountain (SHM) 294
+1 Mountain (SHM) 294
+1 Mountain (SHM) 294
+1 Mountain (SHM) 294
+1 Mountain (SHM) 295
+1 Mountain (SHM) 295
+1 Mountain (SHM) 295
+1 Mountain (SHM) 295
+1 Mountain (SHM) 295
+1 Mountain (SHM) 295
+1 Mountain (SHM) 295
+1 Mountain (SHM) 295
+1 Mountain (SHM) 296
+1 Mountain (SHM) 296
+1 Mountain (SHM) 296
+1 Mountain (SHM) 296
+1 Mountain (SHM) 296
+1 Mountain (SHM) 296
+1 Mountain (SHM) 296
+1 Mountain (SHM) 296
+1 Mountain (SHM) 297
+1 Mountain (SHM) 297
+1 Mountain (SHM) 297
+1 Mountain (SHM) 297
+1 Mountain (SHM) 297
+1 Mountain (SHM) 297
+1 Mountain (SHM) 297
+1 Mountain (SHM) 297
+1 Archon of Justice (EVE) 1
+1 Ballynock Trapper (EVE) 2
+1 Ballynock Trapper (EVE) 2
+1 Ballynock Trapper (EVE) 2
+1 Ballynock Trapper (EVE) 2
+1 Cenn's Enlistment (EVE) 3
+1 Cenn's Enlistment (EVE) 3
+1 Cenn's Enlistment (EVE) 3
+1 Cenn's Enlistment (EVE) 3
+1 Endless Horizons (EVE) 4
+1 Endure (EVE) 5
+1 Endure (EVE) 5
+1 Flickerwisp (EVE) 6
+1 Flickerwisp (EVE) 6
+1 Hallowed Burial (EVE) 7
+1 Kithkin Spellduster (EVE) 8
+1 Kithkin Spellduster (EVE) 8
+1 Kithkin Spellduster (EVE) 8
+1 Kithkin Spellduster (EVE) 8
+1 Kithkin Zealot (EVE) 9
+1 Kithkin Zealot (EVE) 9
+1 Kithkin Zealot (EVE) 9
+1 Kithkin Zealot (EVE) 9
+1 Light from Within (EVE) 10
+1 Loyal Gyrfalcon (EVE) 11
+1 Loyal Gyrfalcon (EVE) 11
+1 Patrol Signaler (EVE) 12
+1 Patrol Signaler (EVE) 12
+1 Recumbent Bliss (EVE) 13
+1 Recumbent Bliss (EVE) 13
+1 Recumbent Bliss (EVE) 13
+1 Recumbent Bliss (EVE) 13
+1 Spirit of the Hearth (EVE) 14
+1 Springjack Shepherd (EVE) 15
+1 Springjack Shepherd (EVE) 15
+1 Suture Spirit (EVE) 16
+1 Suture Spirit (EVE) 16
+1 Chaotic Backlash (EVE) 49
+1 Chaotic Backlash (EVE) 49
+1 Cinder Pyromancer (EVE) 50
+1 Cinder Pyromancer (EVE) 50
+1 Cinder Pyromancer (EVE) 50
+1 Cinder Pyromancer (EVE) 50
+1 Duergar Cave-Guard (EVE) 51
+1 Duergar Cave-Guard (EVE) 51
+1 Fiery Bombardment (EVE) 52
+1 Flame Jab (EVE) 53
+1 Flame Jab (EVE) 53
+1 Flame Jab (EVE) 53
+1 Flame Jab (EVE) 53
+1 Hatchet Bully (EVE) 54
+1 Hatchet Bully (EVE) 54
+1 Hateflayer (EVE) 55
+1 Heartlash Cinder (EVE) 56
+1 Heartlash Cinder (EVE) 56
+1 Heartlash Cinder (EVE) 56
+1 Heartlash Cinder (EVE) 56
+1 Hotheaded Giant (EVE) 57
+1 Hotheaded Giant (EVE) 57
+1 Hotheaded Giant (EVE) 57
+1 Hotheaded Giant (EVE) 57
+1 Impelled Giant (EVE) 58
+1 Impelled Giant (EVE) 58
+1 Outrage Shaman (EVE) 59
+1 Outrage Shaman (EVE) 59
+1 Puncture Blast (EVE) 60
+1 Puncture Blast (EVE) 60
+1 Puncture Blast (EVE) 60
+1 Puncture Blast (EVE) 60
+1 Rekindled Flame (EVE) 61
+1 Stigma Lasher (EVE) 62
+1 Thunderblust (EVE) 63
+1 Unwilling Recruit (EVE) 64
+1 Unwilling Recruit (EVE) 64
+1 Balefire Liege (EVE) 132
+1 Battlegate Mimic (EVE) 133
+1 Battlegate Mimic (EVE) 133
+1 Battlegate Mimic (EVE) 133
+1 Battlegate Mimic (EVE) 133
+1 Belligerent Hatchling (EVE) 134
+1 Belligerent Hatchling (EVE) 134
+1 Double Cleave (EVE) 135
+1 Double Cleave (EVE) 135
+1 Double Cleave (EVE) 135
+1 Double Cleave (EVE) 135
+1 Duergar Assailant (EVE) 136
+1 Duergar Assailant (EVE) 136
+1 Duergar Assailant (EVE) 136
+1 Duergar Assailant (EVE) 136
+1 Duergar Hedge-Mage (EVE) 137
+1 Duergar Hedge-Mage (EVE) 137
+1 Duergar Mine-Captain (EVE) 138
+1 Duergar Mine-Captain (EVE) 138
+1 Figure of Destiny (EVE) 139
+1 Fire at Will (EVE) 140
+1 Fire at Will (EVE) 140
+1 Fire at Will (EVE) 140
+1 Fire at Will (EVE) 140
+1 Hearthfire Hobgoblin (EVE) 141
+1 Hearthfire Hobgoblin (EVE) 141
+1 Hobgoblin Dragoon (EVE) 142
+1 Hobgoblin Dragoon (EVE) 142
+1 Hobgoblin Dragoon (EVE) 142
+1 Hobgoblin Dragoon (EVE) 142
+1 Moonhold (EVE) 143
+1 Moonhold (EVE) 143
+1 Nobilis of War (EVE) 144
+1 Rise of the Hobgoblins (EVE) 145
+1 Scourge of the Nobilis (EVE) 146
+1 Scourge of the Nobilis (EVE) 146
+1 Scourge of the Nobilis (EVE) 146
+1 Scourge of the Nobilis (EVE) 146
+1 Spitemare (EVE) 147
+1 Spitemare (EVE) 147
+1 Waves of Aggression (EVE) 148

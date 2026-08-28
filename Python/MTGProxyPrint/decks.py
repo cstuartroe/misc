@@ -23,8 +23,10 @@ COLOR_LANDS = {
 }
 
 
-def subsets_deck(set_colors: dict[tuple[str, str], int], basic_lands: dict[tuple[str, str], int], seed: int = SEED, skip_planeswalkers: bool = True) -> tuple[str, list[Card]]:
+def subsets_deck(set_colors: dict[tuple[str, str], int | None], basic_lands: dict[tuple[str, str], int | None], seed: int = SEED, skip_planeswalkers: bool = True) -> tuple[str, list[Card]]:
     random.seed(seed)
+
+    title = str(seed).zfill(4)
 
     sets = {}
     deck: list[Card] = []
@@ -49,11 +51,18 @@ def subsets_deck(set_colors: dict[tuple[str, str], int], basic_lands: dict[tuple
 
         random.shuffle(rarity_weighted)
 
+        if count is None:
+            count = len(rarity_weighted)
+
         deck += rarity_weighted[:count]
+        title += f"_{set_id}-{color}-{count}"
 
         random.seed(deck[-1].title)
 
     for (set_id, land_name), count in basic_lands.items():
+        if count is None:
+            count = round(len(deck)*.58/len(basic_lands))
+
         if set_id not in sets:
             sets[set_id] = load_set(set_id)
 
@@ -65,15 +74,9 @@ def subsets_deck(set_colors: dict[tuple[str, str], int], basic_lands: dict[tuple
         random.shuffle(multiples)
         deck += multiples[:count]
 
-    deck.sort(key=lambda card: (MY_SETS.index(card.set_id), card.order))
-
-    title = str(seed).zfill(4)
-
-    for (set_id, color), count in set_colors.items():
-        title += f"_{set_id}-{color}-{count}"
-
-    for (set_id, land_name), count in basic_lands.items():
         title += f"_{set_id}-{land_name}-{count}"
+
+    deck.sort(key=lambda card: (MY_SETS.index(card.set_id), card.order))
 
     return title, deck
 
@@ -178,6 +181,52 @@ def generate_quick_decks():
         deck_to_txt(title, deck)
 
 
+def generate_complete_decks():
+    """Decks containing all cards of given color(s) in sets."""
+
+    decks: list[tuple[str, list[Card]]] = []
+
+    for color in "BGRUW":
+        decks.append(subsets_deck(
+            {("10e", color): None},
+            {("10e", COLOR_LANDS[color]): None},
+        ))
+        decks.append(subsets_deck(
+            {("lrw", color): None},
+            {("lrw", COLOR_LANDS[color]): None},
+        ))
+
+    for shadowmoor_color_pair in ["UW", "BU", "BR", "GR", "GW"]:
+        decks.append(subsets_deck(
+            {
+                ("shm", shadowmoor_color_pair[0]): None,
+                ("shm", shadowmoor_color_pair[1]): None,
+                ("shm", shadowmoor_color_pair): None,
+            },
+            {
+                ("shm", COLOR_LANDS[shadowmoor_color_pair[0]]): None,
+                ("shm", COLOR_LANDS[shadowmoor_color_pair[1]]): None,
+            },
+        ))
+
+    for eventide_color_pair in ["BW", "RU", "BG", "RW", "GU"]:
+        decks.append(subsets_deck(
+            {
+                ("eve", eventide_color_pair[0]): None,
+                ("eve", eventide_color_pair[1]): None,
+                ("eve", eventide_color_pair): None,
+            },
+            {
+                ("shm", COLOR_LANDS[eventide_color_pair[0]]): None,
+                ("shm", COLOR_LANDS[eventide_color_pair[1]]): None,
+            },
+        ))
+
+    for title, deck in decks:
+        # deck_to_image(title, deck)
+        deck_to_txt(title, deck)
+
+
 def generate_drafting_decks():
     """60-card decks with no basic lands, with the intention that drafters will build a deck out of the drafted cards."""
 
@@ -262,6 +311,7 @@ def my_cards():
 
 if __name__ == "__main__":
     generate_quick_decks()
+    generate_complete_decks()
     generate_drafting_decks()
     generate_weighted_sets()
     my_cards()
