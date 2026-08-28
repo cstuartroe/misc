@@ -150,6 +150,8 @@ Deck
 1 Forest (LRW) 298
 1 Forest (LRW) 298
 1 Forest (LRW) 298
+1 Forest (LRW) 298
+1 Forest (LRW) 299
 1 Forest (LRW) 299
 1 Forest (LRW) 299
 1 Forest (LRW) 299

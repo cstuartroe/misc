@@ -244,6 +244,7 @@ Deck
 1 Swamp (SHM) 292
 1 Swamp (SHM) 292
 1 Swamp (SHM) 292
+1 Swamp (SHM) 292
 1 Swamp (SHM) 293
 1 Swamp (SHM) 293
 1 Swamp (SHM) 293
@@ -258,6 +259,7 @@ Deck
 1 Swamp (SHM) 293
 1 Swamp (SHM) 293
 1 Swamp (SHM) 293
+1 Swamp (SHM) 293
 1 Mountain (SHM) 294
 1 Mountain (SHM) 294
 1 Mountain (SHM) 294
@@ -273,13 +275,6 @@ Deck
 1 Mountain (SHM) 294
 1 Mountain (SHM) 294
 1 Mountain (SHM) 294
-1 Mountain (SHM) 294
-1 Mountain (SHM) 294
-1 Mountain (SHM) 294
-1 Mountain (SHM) 295
-1 Mountain (SHM) 295
-1 Mountain (SHM) 295
-1 Mountain (SHM) 295
 1 Mountain (SHM) 295
 1 Mountain (SHM) 295
 1 Mountain (SHM) 295
@@ -310,14 +305,6 @@ Deck
 1 Mountain (SHM) 296
 1 Mountain (SHM) 296
 1 Mountain (SHM) 296
-1 Mountain (SHM) 296
-1 Mountain (SHM) 296
-1 Mountain (SHM) 296
-1 Mountain (SHM) 296
-1 Mountain (SHM) 297
-1 Mountain (SHM) 297
-1 Mountain (SHM) 297
-1 Mountain (SHM) 297
 1 Mountain (SHM) 297
 1 Mountain (SHM) 297
 1 Mountain (SHM) 297

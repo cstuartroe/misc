@@ -215,14 +215,6 @@ Deck
 1 Plains (SHM) 282
 1 Plains (SHM) 282
 1 Plains (SHM) 282
-1 Plains (SHM) 282
-1 Plains (SHM) 282
-1 Plains (SHM) 282
-1 Plains (SHM) 282
-1 Plains (SHM) 283
-1 Plains (SHM) 283
-1 Plains (SHM) 283
-1 Plains (SHM) 283
 1 Plains (SHM) 283
 1 Plains (SHM) 283
 1 Plains (SHM) 283
@@ -253,13 +245,6 @@ Deck
 1 Plains (SHM) 284
 1 Plains (SHM) 284
 1 Plains (SHM) 284
-1 Plains (SHM) 284
-1 Plains (SHM) 284
-1 Plains (SHM) 284
-1 Plains (SHM) 284
-1 Plains (SHM) 285
-1 Plains (SHM) 285
-1 Plains (SHM) 285
 1 Plains (SHM) 285
 1 Plains (SHM) 285
 1 Plains (SHM) 285
@@ -319,6 +304,8 @@ Deck
 1 Forest (SHM) 300
 1 Forest (SHM) 300
 1 Forest (SHM) 300
+1 Forest (SHM) 300
+1 Forest (SHM) 301
 1 Forest (SHM) 301
 1 Forest (SHM) 301
 1 Forest (SHM) 301

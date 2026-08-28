@@ -174,6 +174,7 @@ Deck
 1 Swamp (10E) 372
 1 Swamp (10E) 372
 1 Swamp (10E) 372
+1 Swamp (10E) 372
 1 Swamp (10E) 373
 1 Swamp (10E) 373
 1 Swamp (10E) 373
@@ -197,6 +198,8 @@ Deck
 1 Swamp (10E) 373
 1 Swamp (10E) 373
 1 Swamp (10E) 373
+1 Swamp (10E) 374
+1 Swamp (10E) 374
 1 Swamp (10E) 374
 1 Swamp (10E) 374
 1 Swamp (10E) 374

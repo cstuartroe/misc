@@ -197,6 +197,7 @@ Deck
 1 Island (10E) 369
 1 Island (10E) 369
 1 Island (10E) 369
+1 Island (10E) 369
 1 Island (10E) 370
 1 Island (10E) 370
 1 Island (10E) 370
@@ -219,6 +220,8 @@ Deck
 1 Island (10E) 370
 1 Island (10E) 370
 1 Island (10E) 370
+1 Island (10E) 370
+1 Island (10E) 371
 1 Island (10E) 371
 1 Island (10E) 371
 1 Island (10E) 371

@@ -173,6 +173,8 @@ Deck
 1 Forest (10E) 380
 1 Forest (10E) 380
 1 Forest (10E) 380
+1 Forest (10E) 380
+1 Forest (10E) 380
 1 Forest (10E) 381
 1 Forest (10E) 381
 1 Forest (10E) 381
@@ -219,6 +221,7 @@ Deck
 1 Forest (10E) 382
 1 Forest (10E) 382
 1 Forest (10E) 382
+1 Forest (10E) 383
 1 Forest (10E) 383
 1 Forest (10E) 383
 1 Forest (10E) 383

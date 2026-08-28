@@ -59,9 +59,11 @@ def subsets_deck(set_colors: dict[tuple[str, str], int | None], basic_lands: dic
 
         random.seed(deck[-1].title)
 
+    deck_size_without_land = len(deck)
+
     for (set_id, land_name), count in basic_lands.items():
         if count is None:
-            count = round(len(deck)*.58/len(basic_lands))
+            count = round(deck_size_without_land*.6/len(basic_lands))
 
         if set_id not in sets:
             sets[set_id] = load_set(set_id)
@@ -187,14 +189,15 @@ def generate_complete_decks():
     decks: list[tuple[str, list[Card]]] = []
 
     for color in "BGRUW":
-        decks.append(subsets_deck(
-            {("10e", color): None},
-            {("10e", COLOR_LANDS[color]): None},
-        ))
-        decks.append(subsets_deck(
-            {("lrw", color): None},
-            {("lrw", COLOR_LANDS[color]): None},
-        ))
+        for set_id in ["10e", "lrw"]:
+            decks.append(subsets_deck(
+                {(set_id, color): None},
+                {(set_id, COLOR_LANDS[color]): None},
+            ))
+            decks.append(subsets_deck(
+                {(set_id, color): None},
+                {(set_id, COLOR_LANDS[color]): None},
+            ))
 
     for shadowmoor_color_pair in ["UW", "BU", "BR", "GR", "GW"]:
         decks.append(subsets_deck(
