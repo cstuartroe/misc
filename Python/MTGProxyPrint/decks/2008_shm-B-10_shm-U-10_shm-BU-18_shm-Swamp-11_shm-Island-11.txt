@@ -1,0 +1,61 @@
+Deck
+1 Briarberry Cohort (SHM) 30
+1 Consign to Dream (SHM) 32
+1 Drowner Initiate (SHM) 36
+1 Ghastly Discovery (SHM) 39
+1 Leech Bonder (SHM) 43
+1 Merrow Wavebreakers (SHM) 44
+1 Merrow Wavebreakers (SHM) 44
+1 Parapet Watchers (SHM) 45
+1 River Kelpie (SHM) 49
+1 Sinking Feeling (SHM) 51
+1 Ashenmoor Cohort (SHM) 56
+1 Cinderbones (SHM) 59
+1 Corrosive Mentor (SHM) 61
+1 Corrosive Mentor (SHM) 61
+1 Crowd of Cinders (SHM) 63
+1 Dusk Urchins (SHM) 65
+1 Faerie Macabre (SHM) 66
+1 Smolder Initiate (SHM) 78
+1 Splitting Headache (SHM) 79
+1 Torture (SHM) 80
+1 Dream Salvage (SHM) 160
+1 Fate Transfer (SHM) 161
+1 Fate Transfer (SHM) 161
+1 Gravelgill Axeshark (SHM) 164
+1 Memory Sluice (SHM) 170
+1 Merrow Grimeblotter (SHM) 171
+1 Merrow Grimeblotter (SHM) 171
+1 Oona, Queen of the Fae (SHM) 172
+1 Oona's Gatewarden (SHM) 173
+1 Oona's Gatewarden (SHM) 173
+1 Oona's Gatewarden (SHM) 173
+1 River's Grasp (SHM) 174
+1 Scarscale Ritual (SHM) 175
+1 Scarscale Ritual (SHM) 175
+1 Torpor Dust (SHM) 177
+1 Wanderbrine Rootcutters (SHM) 178
+1 Wanderbrine Rootcutters (SHM) 178
+1 Wasp Lancer (SHM) 179
+1 Island (SHM) 286
+1 Island (SHM) 286
+1 Island (SHM) 287
+1 Island (SHM) 287
+1 Island (SHM) 287
+1 Island (SHM) 288
+1 Island (SHM) 288
+1 Island (SHM) 288
+1 Island (SHM) 289
+1 Island (SHM) 289
+1 Island (SHM) 289
+1 Swamp (SHM) 290
+1 Swamp (SHM) 290
+1 Swamp (SHM) 291
+1 Swamp (SHM) 291
+1 Swamp (SHM) 291
+1 Swamp (SHM) 292
+1 Swamp (SHM) 292
+1 Swamp (SHM) 292
+1 Swamp (SHM) 293
+1 Swamp (SHM) 293
+1 Swamp (SHM) 293

@@ -14,6 +14,15 @@ CARD_HEIGHT = 680
 SEED = 2008
 
 
+COLOR_LANDS = {
+    "B": "Swamp",
+    "G": "Forest",
+    "R": "Mountain",
+    "U": "Island",
+    "W": "Plains",
+}
+
+
 def subsets_deck(set_colors: dict[tuple[str, str], int], basic_lands: dict[tuple[str, str], int], seed: int = SEED, skip_planeswalkers: bool = True) -> tuple[str, list[Card]]:
     random.seed(seed)
 
@@ -123,7 +132,55 @@ def deck_to_txt(title: str, deck: list[Card]):
     print(f"Wrote deck text {title}.txt")
 
 
-if __name__ == "__main__":
+def generate_quick_decks():
+    """60-card decks for quick play without doing any selection."""
+
+    decks: list[tuple[str, list[Card]]] = []
+
+    for color in "BGRUW":
+        decks.append(subsets_deck(
+            {("10e", color): 38},
+            {("10e", COLOR_LANDS[color]): 22},
+        ))
+        decks.append(subsets_deck(
+            {("lrw", color): 38},
+            {("lrw", COLOR_LANDS[color]): 22},
+        ))
+
+    for shadowmoor_color_pair in ["UW", "BU", "BR", "GR", "GW"]:
+        decks.append(subsets_deck(
+            {
+                ("shm", shadowmoor_color_pair[0]): 10,
+                ("shm", shadowmoor_color_pair[1]): 10,
+                ("shm", shadowmoor_color_pair): 18,
+            },
+            {
+                ("shm", COLOR_LANDS[shadowmoor_color_pair[0]]): 11,
+                ("shm", COLOR_LANDS[shadowmoor_color_pair[1]]): 11,
+            },
+        ))
+
+    for eventide_color_pair in ["BW", "RU", "BG", "RW", "GU"]:
+        decks.append(subsets_deck(
+            {
+                ("eve", eventide_color_pair[0]): 10,
+                ("eve", eventide_color_pair[1]): 10,
+                ("eve", eventide_color_pair): 18,
+            },
+            {
+                ("shm", COLOR_LANDS[eventide_color_pair[0]]): 11,
+                ("shm", COLOR_LANDS[eventide_color_pair[1]]): 11,
+            },
+        ))
+
+    for title, deck in decks:
+        # deck_to_image(title, deck)
+        deck_to_txt(title, deck)
+
+
+def generate_drafting_decks():
+    """60-card decks with no basic lands, with the intention that drafters will build a deck out of the drafted cards."""
+
     decks: list[tuple[str, list[Card]]] = []
 
     for color in "BGRUW":
@@ -179,20 +236,32 @@ if __name__ == "__main__":
         ))
 
     for title, deck in decks:
-        deck_to_image(title, deck)
+        # deck_to_image(title, deck)
         deck_to_txt(title, deck)
+
+
+def generate_weighted_sets():
+    """4-2-1 weighted drafting cubes for all sets."""
 
     for set_id in MY_SETS:
         title, deck = weighted_set(set_id)
         deck_to_txt(title, deck)
-        deck_to_image(title, deck)
+        # deck_to_image(title, deck)
 
         title, deck = set_basic_lands(set_id)
         if deck:
             deck_to_txt(title, deck)
-            deck_to_image(title, deck)
+            # deck_to_image(title, deck)
 
+
+def my_cards():
     my_cards = load_my_cards()
     deck_to_txt("my_cards", my_cards)
-    deck_to_image("my_cards", my_cards)
+    # deck_to_image("my_cards", my_cards)
 
+
+if __name__ == "__main__":
+    generate_quick_decks()
+    generate_drafting_decks()
+    generate_weighted_sets()
+    my_cards()

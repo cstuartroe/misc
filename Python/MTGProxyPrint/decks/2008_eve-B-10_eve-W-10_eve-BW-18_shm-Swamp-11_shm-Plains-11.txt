@@ -1,0 +1,61 @@
+Deck
+1 Plains (SHM) 282
+1 Plains (SHM) 282
+1 Plains (SHM) 283
+1 Plains (SHM) 283
+1 Plains (SHM) 283
+1 Plains (SHM) 284
+1 Plains (SHM) 284
+1 Plains (SHM) 284
+1 Plains (SHM) 285
+1 Plains (SHM) 285
+1 Plains (SHM) 285
+1 Swamp (SHM) 290
+1 Swamp (SHM) 290
+1 Swamp (SHM) 291
+1 Swamp (SHM) 291
+1 Swamp (SHM) 291
+1 Swamp (SHM) 292
+1 Swamp (SHM) 292
+1 Swamp (SHM) 292
+1 Swamp (SHM) 293
+1 Swamp (SHM) 293
+1 Swamp (SHM) 293
+1 Cenn's Enlistment (EVE) 3
+1 Flickerwisp (EVE) 6
+1 Hallowed Burial (EVE) 7
+1 Kithkin Spellduster (EVE) 8
+1 Kithkin Spellduster (EVE) 8
+1 Light from Within (EVE) 10
+1 Patrol Signaler (EVE) 12
+1 Recumbent Bliss (EVE) 13
+1 Recumbent Bliss (EVE) 13
+1 Springjack Shepherd (EVE) 15
+1 Ashling, the Extinguisher (EVE) 33
+1 Creakwood Ghoul (EVE) 34
+1 Nightmare Incursion (EVE) 40
+1 Raven's Crime (EVE) 41
+1 Smoldering Butcher (EVE) 42
+1 Smoldering Butcher (EVE) 42
+1 Soul Reap (EVE) 44
+1 Soul Reap (EVE) 44
+1 Syphon Life (EVE) 46
+1 Talara's Bane (EVE) 47
+1 Batwing Brume (EVE) 81
+1 Beckon Apparition (EVE) 82
+1 Bloodied Ghost (EVE) 83
+1 Cauldron Haze (EVE) 84
+1 Divinity of Pride (EVE) 86
+1 Edge of the Divinity (EVE) 87
+1 Evershrike (EVE) 88
+1 Gwyllion Hedge-Mage (EVE) 89
+1 Harvest Gwyllion (EVE) 90
+1 Nightsky Mimic (EVE) 91
+1 Nightsky Mimic (EVE) 91
+1 Nip Gwyllion (EVE) 92
+1 Nip Gwyllion (EVE) 92
+1 Nip Gwyllion (EVE) 92
+1 Restless Apparition (EVE) 94
+1 Stillmoon Cavalier (EVE) 95
+1 Unmake (EVE) 96
+1 Voracious Hatchling (EVE) 97

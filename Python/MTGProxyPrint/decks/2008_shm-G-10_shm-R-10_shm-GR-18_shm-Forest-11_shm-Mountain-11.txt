@@ -1,0 +1,61 @@
+Deck
+1 Bloodmark Mentor (SHM) 83
+1 Bloodmark Mentor (SHM) 83
+1 Bloodshed Fever (SHM) 84
+1 Bloodshed Fever (SHM) 84
+1 Boggart Arsonists (SHM) 85
+1 Deep-Slumber Titan (SHM) 89
+1 Ember Gale (SHM) 91
+1 Furystoke Giant (SHM) 93
+1 Intimidator Initiate (SHM) 96
+1 Mudbrawler Cohort (SHM) 100
+1 Devoted Druid (SHM) 110
+1 Flourishing Defenses (SHM) 114
+1 Foxfire Oak (SHM) 115
+1 Gleeful Sabotage (SHM) 116
+1 Gleeful Sabotage (SHM) 116
+1 Gloomwidow's Feast (SHM) 118
+1 Howl of the Night Pack (SHM) 119
+1 Toil to Renown (SHM) 130
+1 Viridescent Wisps (SHM) 132
+1 Wildslayer Elves (SHM) 133
+1 Boartusk Liege (SHM) 202
+1 Giantbaiting (SHM) 207
+1 Giantbaiting (SHM) 207
+1 Guttural Response (SHM) 208
+1 Morselhoarder (SHM) 212
+1 Morselhoarder (SHM) 212
+1 Mudbrawler Raiders (SHM) 213
+1 Mudbrawler Raiders (SHM) 213
+1 Runes of the Deus (SHM) 215
+1 Runes of the Deus (SHM) 215
+1 Scuzzback Scrapper (SHM) 217
+1 Scuzzback Scrapper (SHM) 217
+1 Tattermunge Duo (SHM) 218
+1 Tattermunge Duo (SHM) 218
+1 Tattermunge Duo (SHM) 218
+1 Tattermunge Witch (SHM) 220
+1 Tattermunge Witch (SHM) 220
+1 Vexing Shusher (SHM) 222
+1 Mountain (SHM) 294
+1 Mountain (SHM) 294
+1 Mountain (SHM) 294
+1 Mountain (SHM) 295
+1 Mountain (SHM) 295
+1 Mountain (SHM) 296
+1 Mountain (SHM) 296
+1 Mountain (SHM) 296
+1 Mountain (SHM) 297
+1 Mountain (SHM) 297
+1 Mountain (SHM) 297
+1 Forest (SHM) 298
+1 Forest (SHM) 298
+1 Forest (SHM) 298
+1 Forest (SHM) 299
+1 Forest (SHM) 299
+1 Forest (SHM) 300
+1 Forest (SHM) 300
+1 Forest (SHM) 300
+1 Forest (SHM) 301
+1 Forest (SHM) 301
+1 Forest (SHM) 301

@@ -1,0 +1,61 @@
+Deck
+1 Assassinate (10E) 128
+1 Beacon of Unrest (10E) 129
+1 Bog Wraith (10E) 130
+1 Contaminated Bond (10E) 132
+1 Cruel Edict (10E) 133
+1 Deathmark (10E) 134
+1 Diabolic Tutor (10E) 135
+1 Distress (10E) 136
+1 Dross Crocodile (10E) 138
+1 Essence Drain (10E) 141
+1 Festering Goblin (10E) 143
+1 Head Games (10E) 148
+1 Highway Robber (10E) 150
+1 Looming Shade (10E) 153
+1 Lord of the Undead (10E) 155
+1 Mass of Ghouls (10E) 156
+1 Megrim (10E) 157
+1 Midnight Ritual (10E) 158
+1 Nekrataal (10E) 163
+1 No Rest for the Wicked (10E) 165
+1 Phage the Untouchable (10E) 166
+1 Rain of Tears (10E) 170
+1 Ravenous Rats (10E) 171
+1 Ravenous Rats (10E) 171
+1 Recover (10E) 172
+1 Relentless Rats (10E) 173
+1 Scathe Zombies (10E) 175
+1 Scathe Zombies (10E) 175
+1 Severed Legion (10E) 177
+1 Severed Legion (10E) 177
+1 Sleeper Agent (10E) 178
+1 Spineless Thug (10E) 180
+1 Spineless Thug (10E) 180
+1 Stronghold Discipline (10E) 181
+1 Stronghold Discipline (10E) 181
+1 Terror (10E) 182
+1 Terror (10E) 182
+1 Unholy Strength (10E) 185
+1 Swamp (10E) 372
+1 Swamp (10E) 372
+1 Swamp (10E) 372
+1 Swamp (10E) 372
+1 Swamp (10E) 372
+1 Swamp (10E) 372
+1 Swamp (10E) 373
+1 Swamp (10E) 373
+1 Swamp (10E) 373
+1 Swamp (10E) 373
+1 Swamp (10E) 374
+1 Swamp (10E) 374
+1 Swamp (10E) 374
+1 Swamp (10E) 374
+1 Swamp (10E) 374
+1 Swamp (10E) 374
+1 Swamp (10E) 375
+1 Swamp (10E) 375
+1 Swamp (10E) 375
+1 Swamp (10E) 375
+1 Swamp (10E) 375
+1 Swamp (10E) 375
