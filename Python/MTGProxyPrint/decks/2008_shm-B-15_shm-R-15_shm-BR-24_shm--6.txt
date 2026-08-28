@@ -1,0 +1,61 @@
+Deck
+1 Aphotic Wisps (SHM) 55
+1 Ashenmoor Cohort (SHM) 56
+1 Ashenmoor Cohort (SHM) 56
+1 Cinderbones (SHM) 59
+1 Corrosive Mentor (SHM) 61
+1 Corrosive Mentor (SHM) 61
+1 Crowd of Cinders (SHM) 63
+1 Crowd of Cinders (SHM) 63
+1 Dusk Urchins (SHM) 65
+1 Faerie Macabre (SHM) 66
+1 Incremental Blight (SHM) 70
+1 Smolder Initiate (SHM) 78
+1 Smolder Initiate (SHM) 78
+1 Splitting Headache (SHM) 79
+1 Torture (SHM) 80
+1 Blistering Dieflyn (SHM) 82
+1 Blistering Dieflyn (SHM) 82
+1 Bloodmark Mentor (SHM) 83
+1 Bloodmark Mentor (SHM) 83
+1 Boggart Arsonists (SHM) 85
+1 Burn Trail (SHM) 86
+1 Cragganwick Cremator (SHM) 87
+1 Crimson Wisps (SHM) 88
+1 Crimson Wisps (SHM) 88
+1 Flame Javelin (SHM) 92
+1 Knollspine Dragon (SHM) 98
+1 Power of Fire (SHM) 101
+1 Rage Reflection (SHM) 104
+1 Wild Swing (SHM) 108
+1 Wild Swing (SHM) 108
+1 Ashenmoor Gouger (SHM) 180
+1 Cultbrand Cinder (SHM) 182
+1 Din of the Fireherd (SHM) 184
+1 Emberstrike Duo (SHM) 185
+1 Emberstrike Duo (SHM) 185
+1 Fists of the Demigod (SHM) 187
+1 Kulrath Knight (SHM) 190
+1 Manaforge Cinder (SHM) 191
+1 Manaforge Cinder (SHM) 191
+1 Murderous Redcap (SHM) 192
+1 Poison the Well (SHM) 193
+1 Poison the Well (SHM) 193
+1 Scar (SHM) 194
+1 Scar (SHM) 194
+1 Scar (SHM) 194
+1 Sootstoke Kindler (SHM) 195
+1 Sootstoke Kindler (SHM) 195
+1 Sootwalkers (SHM) 196
+1 Sootwalkers (SHM) 196
+1 Sootwalkers (SHM) 196
+1 Spiteflame Witch (SHM) 197
+1 Traitor's Roar (SHM) 200
+1 Traitor's Roar (SHM) 200
+1 Tyrannize (SHM) 201
+1 Gnarled Effigy (SHM) 251
+1 Pili-Pala (SHM) 258
+1 Scrapbasket (SHM) 262
+1 Umbral Mantle (SHM) 267
+1 Watchwing Scarecrow (SHM) 268
+1 Wingrattle Scarecrow (SHM) 270

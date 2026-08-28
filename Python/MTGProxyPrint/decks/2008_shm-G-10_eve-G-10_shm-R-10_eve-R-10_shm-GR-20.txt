@@ -1,0 +1,61 @@
+Deck
+1 Bloodshed Fever (SHM) 84
+1 Boggart Arsonists (SHM) 85
+1 Burn Trail (SHM) 86
+1 Crimson Wisps (SHM) 88
+1 Ember Gale (SHM) 91
+1 Horde of Boggarts (SHM) 94
+1 Inescapable Brute (SHM) 95
+1 Intimidator Initiate (SHM) 96
+1 Pyre Charger (SHM) 103
+1 Rage Reflection (SHM) 104
+1 Devoted Druid (SHM) 110
+1 Flourishing Defenses (SHM) 114
+1 Foxfire Oak (SHM) 115
+1 Gleeful Sabotage (SHM) 116
+1 Gleeful Sabotage (SHM) 116
+1 Gloomwidow's Feast (SHM) 118
+1 Howl of the Night Pack (SHM) 119
+1 Toil to Renown (SHM) 130
+1 Viridescent Wisps (SHM) 132
+1 Wildslayer Elves (SHM) 133
+1 Boartusk Liege (SHM) 202
+1 Deus of Calamity (SHM) 204
+1 Firespout (SHM) 205
+1 Fossil Find (SHM) 206
+1 Giantbaiting (SHM) 207
+1 Loamdragger Giant (SHM) 210
+1 Loamdragger Giant (SHM) 210
+1 Loamdragger Giant (SHM) 210
+1 Manamorphose (SHM) 211
+1 Manamorphose (SHM) 211
+1 Morselhoarder (SHM) 212
+1 Mudbrawler Raiders (SHM) 213
+1 Rosheen Meanderer (SHM) 214
+1 Runes of the Deus (SHM) 215
+1 Scuzzback Scrapper (SHM) 217
+1 Scuzzback Scrapper (SHM) 217
+1 Tattermunge Duo (SHM) 218
+1 Tattermunge Duo (SHM) 218
+1 Tattermunge Maniac (SHM) 219
+1 Wort, the Raidmother (SHM) 223
+1 Chaotic Backlash (EVE) 49
+1 Cinder Pyromancer (EVE) 50
+1 Duergar Cave-Guard (EVE) 51
+1 Hatchet Bully (EVE) 54
+1 Hateflayer (EVE) 55
+1 Heartlash Cinder (EVE) 56
+1 Outrage Shaman (EVE) 59
+1 Puncture Blast (EVE) 60
+1 Rekindled Flame (EVE) 61
+1 Thunderblust (EVE) 63
+1 Aerie Ouphes (EVE) 65
+1 Aerie Ouphes (EVE) 65
+1 Marshdrinker Giant (EVE) 69
+1 Monstrify (EVE) 70
+1 Monstrify (EVE) 70
+1 Monstrify (EVE) 70
+1 Swirling Spriggan (EVE) 76
+1 Tilling Treefolk (EVE) 78
+1 Tilling Treefolk (EVE) 78
+1 Wickerbough Elder (EVE) 80

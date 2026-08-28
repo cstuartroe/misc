@@ -1,41 +1,10 @@
-import dataclasses
 import json
 
 import bs4
 import requests
 import tqdm
 
-MY_SETS = [
-    "csp",
-    "tsp",
-    "plc",
-    "fut",
-    "10e",
-    "lrw",
-    "mor",
-    "shm",
-    "eve",
-]
-
-
-@dataclasses.dataclass
-class Card:
-    id: str
-    title: str
-    scryfall_uri: str
-    img_uri: str
-    rarity: str = None
-    card_type: str = None
-
-    def to_json(self):
-        return {
-            "id": self.id,
-            "title": self.title,
-            "scryfall_uri": self.scryfall_uri,
-            "img_uri": self.img_uri,
-            "rarity": self.rarity,
-            "card_type": self.card_type,
-        }
+from shared import Card, MY_SETS
 
 
 def scrape_gallery(set_id: str) -> list[Card]:
@@ -71,6 +40,8 @@ def scrape_gallery(set_id: str) -> list[Card]:
             cards.append(Card(
                 id=card_grid_item["data-card-id"],
                 title=card_grid_item.a.span.text.strip(),
+                set_id=set_id,
+                order=len(cards) + 1,
                 scryfall_uri=card_grid_item.a["href"],
                 img_uri=card_grid_item.img["src"].split("?")[0],
             ))
@@ -78,13 +49,105 @@ def scrape_gallery(set_id: str) -> list[Card]:
     return cards
 
 
-def get_rarity(cards: list[Card]) -> None:
+def get_additional_metadata(cards: list[Card]) -> None:
     for card in tqdm.tqdm(cards):
         card_res = requests.get(card.scryfall_uri)
         card_soup = bs4.BeautifulSoup(card_res.content, features="html.parser")
 
         card.card_type = card_soup.find("p", {"class": "card-text-type-line"}).text.strip()
         card.rarity = card_soup.find("span", {"class": "prints-current-set-details"}).text.split("·")[1].strip()
+
+        if "Land" in card.card_type:
+            card.color = "L"
+
+        else:
+            cost_div = card_soup.find("span", {"class": "card-text-mana-cost"})
+            if cost_div is None:
+                print(f"Card '{card.title}' has no cost")
+                symbols = []
+            else:
+                symbols = cost_div.find_all("abbr")
+
+            colors = set()
+            for symbol in symbols:
+                sclass = symbol["class"]
+
+                if sclass in (
+                        ['card-symbol', 'card-symbol-0'],
+                        ['card-symbol', 'card-symbol-1'],
+                        ['card-symbol', 'card-symbol-2'],
+                        ['card-symbol', 'card-symbol-3'],
+                        ['card-symbol', 'card-symbol-4'],
+                        ['card-symbol', 'card-symbol-5'],
+                        ['card-symbol', 'card-symbol-6'],
+                        ['card-symbol', 'card-symbol-7'],
+                        ['card-symbol', 'card-symbol-8'],
+                        ['card-symbol', 'card-symbol-9'],
+                        ['card-symbol', 'card-symbol-X'],
+                ):
+                    pass
+
+                elif sclass == ['card-symbol', 'card-symbol-B']:
+                    colors.add("B")
+                elif sclass == ['card-symbol', 'card-symbol-G']:
+                    colors.add("G")
+                elif sclass == ['card-symbol', 'card-symbol-R']:
+                    colors.add("R")
+                elif sclass == ['card-symbol', 'card-symbol-U']:
+                    colors.add("U")
+                elif sclass == ['card-symbol', 'card-symbol-W']:
+                    colors.add("W")
+
+                elif sclass == ['card-symbol', 'card-symbol-2B']:
+                    colors.add("B")
+                elif sclass == ['card-symbol', 'card-symbol-2G']:
+                    colors.add("G")
+                elif sclass == ['card-symbol', 'card-symbol-2R']:
+                    colors.add("R")
+                elif sclass == ['card-symbol', 'card-symbol-2U']:
+                    colors.add("U")
+                elif sclass == ['card-symbol', 'card-symbol-2W']:
+                    colors.add("W")
+
+                elif sclass == ['card-symbol', 'card-symbol-WU']:
+                    colors.add("W")
+                    colors.add("U")
+                elif sclass == ['card-symbol', 'card-symbol-UB']:
+                    colors.add("U")
+                    colors.add("B")
+                elif sclass == ['card-symbol', 'card-symbol-BR']:
+                    colors.add("B")
+                    colors.add("R")
+                elif sclass == ['card-symbol', 'card-symbol-RG']:
+                    colors.add("R")
+                    colors.add("G")
+                elif sclass == ['card-symbol', 'card-symbol-GW']:
+                    colors.add("G")
+                    colors.add("W")
+                elif sclass == ['card-symbol', 'card-symbol-WU']:
+                    colors.add("W")
+                    colors.add("U")
+
+                elif sclass == ['card-symbol', 'card-symbol-WB']:
+                    colors.add("W")
+                    colors.add("B")
+                elif sclass == ['card-symbol', 'card-symbol-UR']:
+                    colors.add("U")
+                    colors.add("R")
+                elif sclass == ['card-symbol', 'card-symbol-BG']:
+                    colors.add("B")
+                    colors.add("G")
+                elif sclass == ['card-symbol', 'card-symbol-RW']:
+                    colors.add("R")
+                    colors.add("W")
+                elif sclass == ['card-symbol', 'card-symbol-GU']:
+                    colors.add("G")
+                    colors.add("U")
+
+                else:
+                    raise ValueError(f"Unknown class: {sclass}")
+
+            card.color = ''.join(sorted(list(colors)))
 
 
 def download_images(cards: list[Card]) -> None:
@@ -98,7 +161,7 @@ if __name__ == "__main__":
     for set_id in MY_SETS:
         print(set_id)
         cards = scrape_gallery(set_id)
-        get_rarity(cards)
+        get_additional_metadata(cards)
         with open(f"set_json/{set_id}.json", "w") as fh:
             json.dump([c.to_json() for c in cards], fh, indent=2)
 

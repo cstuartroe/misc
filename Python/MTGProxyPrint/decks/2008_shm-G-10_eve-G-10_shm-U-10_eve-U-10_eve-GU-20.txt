@@ -1,0 +1,61 @@
+Deck
+1 Cerulean Wisps (SHM) 31
+1 Cerulean Wisps (SHM) 31
+1 Consign to Dream (SHM) 32
+1 Deepchannel Mentor (SHM) 35
+1 Flow of Ideas (SHM) 38
+1 Isleback Spawn (SHM) 40
+1 Kinscaer Harpoonist (SHM) 41
+1 Merrow Wavebreakers (SHM) 44
+1 River Kelpie (SHM) 49
+1 Sinking Feeling (SHM) 51
+1 Devoted Druid (SHM) 110
+1 Flourishing Defenses (SHM) 114
+1 Foxfire Oak (SHM) 115
+1 Gleeful Sabotage (SHM) 116
+1 Gleeful Sabotage (SHM) 116
+1 Gloomwidow's Feast (SHM) 118
+1 Howl of the Night Pack (SHM) 119
+1 Toil to Renown (SHM) 130
+1 Viridescent Wisps (SHM) 132
+1 Wildslayer Elves (SHM) 133
+1 Banishing Knack (EVE) 17
+1 Cache Raiders (EVE) 18
+1 Indigo Faerie (EVE) 24
+1 Inundate (EVE) 25
+1 Merrow Levitator (EVE) 26
+1 Razorfin Abolisher (EVE) 28
+1 Talonrend (EVE) 30
+1 Wake Thrasher (EVE) 31
+1 Wilderness Hypnotist (EVE) 32
+1 Wilderness Hypnotist (EVE) 32
+1 Aerie Ouphes (EVE) 65
+1 Aerie Ouphes (EVE) 65
+1 Marshdrinker Giant (EVE) 69
+1 Monstrify (EVE) 70
+1 Monstrify (EVE) 70
+1 Monstrify (EVE) 70
+1 Swirling Spriggan (EVE) 76
+1 Tilling Treefolk (EVE) 78
+1 Tilling Treefolk (EVE) 78
+1 Wickerbough Elder (EVE) 80
+1 Fable of Wolf and Owl (EVE) 150
+1 Favor of the Overbeing (EVE) 151
+1 Favor of the Overbeing (EVE) 151
+1 Grazing Kelpie (EVE) 153
+1 Groundling Pouncer (EVE) 154
+1 Invert the Skies (EVE) 155
+1 Selkie Hedge-Mage (EVE) 158
+1 Selkie Hedge-Mage (EVE) 158
+1 Slippery Bogle (EVE) 160
+1 Slippery Bogle (EVE) 160
+1 Slippery Bogle (EVE) 160
+1 Snakeform (EVE) 161
+1 Snakeform (EVE) 161
+1 Snakeform (EVE) 161
+1 Snakeform (EVE) 161
+1 Spitting Image (EVE) 162
+1 Trapjaw Kelpie (EVE) 164
+1 Trapjaw Kelpie (EVE) 164
+1 Wistful Selkie (EVE) 165
+1 Wistful Selkie (EVE) 165

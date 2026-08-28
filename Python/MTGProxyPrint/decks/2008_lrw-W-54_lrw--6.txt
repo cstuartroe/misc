@@ -1,0 +1,61 @@
+Deck
+1 Arbiter of Knollridge (LRW) 2
+1 Avian Changeling (LRW) 4
+1 Battle Mastery (LRW) 5
+1 Brigid, Hero of Kinsbaile (LRW) 6
+1 Burrenton Forge-Tender (LRW) 7
+1 Burrenton Forge-Tender (LRW) 7
+1 Cenn's Heir (LRW) 8
+1 Cenn's Heir (LRW) 8
+1 Dawnfluke (LRW) 12
+1 Dawnfluke (LRW) 12
+1 Entangling Trap (LRW) 13
+1 Entangling Trap (LRW) 13
+1 Goldmeadow Dodger (LRW) 16
+1 Goldmeadow Dodger (LRW) 16
+1 Goldmeadow Harrier (LRW) 17
+1 Goldmeadow Stalwart (LRW) 18
+1 Goldmeadow Stalwart (LRW) 18
+1 Harpoon Sniper (LRW) 19
+1 Hillcomber Giant (LRW) 20
+1 Hillcomber Giant (LRW) 20
+1 Hillcomber Giant (LRW) 20
+1 Judge of Currents (LRW) 22
+1 Kinsbaile Balloonist (LRW) 23
+1 Kinsbaile Skirmisher (LRW) 24
+1 Kinsbaile Skirmisher (LRW) 24
+1 Kithkin Greatheart (LRW) 25
+1 Kithkin Greatheart (LRW) 25
+1 Kithkin Greatheart (LRW) 25
+1 Kithkin Harbinger (LRW) 26
+1 Kithkin Harbinger (LRW) 26
+1 Kithkin Healer (LRW) 27
+1 Kithkin Healer (LRW) 27
+1 Lairwatch Giant (LRW) 29
+1 Militia's Pride (LRW) 30
+1 Mirror Entity (LRW) 31
+1 Neck Snap (LRW) 32
+1 Oaken Brawler (LRW) 33
+1 Oblivion Ring (LRW) 34
+1 Oblivion Ring (LRW) 34
+1 Oblivion Ring (LRW) 34
+1 Pollen Lullaby (LRW) 36
+1 Pollen Lullaby (LRW) 36
+1 Sentry Oak (LRW) 38
+1 Shields of Velis Vel (LRW) 39
+1 Soaring Hope (LRW) 40
+1 Springjack Knight (LRW) 41
+1 Surge of Thoughtweft (LRW) 43
+1 Surge of Thoughtweft (LRW) 43
+1 Triclopean Sight (LRW) 45
+1 Triclopean Sight (LRW) 45
+1 Wellgabber Apothecary (LRW) 47
+1 Wellgabber Apothecary (LRW) 47
+1 Wispmare (LRW) 48
+1 Wizened Cenn (LRW) 49
+1 Runed Stalactite (LRW) 260
+1 Springleaf Drum (LRW) 261
+1 Springleaf Drum (LRW) 261
+1 Thousand-Year Elixir (LRW) 263
+1 Wanderer's Twig (LRW) 265
+1 Wanderer's Twig (LRW) 265

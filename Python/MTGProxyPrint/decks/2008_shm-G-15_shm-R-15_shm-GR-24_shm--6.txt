@@ -1,0 +1,61 @@
+Deck
+1 Blistering Dieflyn (SHM) 82
+1 Boggart Arsonists (SHM) 85
+1 Boggart Arsonists (SHM) 85
+1 Burn Trail (SHM) 86
+1 Burn Trail (SHM) 86
+1 Furystoke Giant (SHM) 93
+1 Horde of Boggarts (SHM) 94
+1 Jaws of Stone (SHM) 97
+1 Mudbrawler Cohort (SHM) 100
+1 Mudbrawler Cohort (SHM) 100
+1 Mudbrawler Cohort (SHM) 100
+1 Power of Fire (SHM) 101
+1 Rustrazor Butcher (SHM) 105
+1 Smash to Smithereens (SHM) 107
+1 Smash to Smithereens (SHM) 107
+1 Crabapple Cohort (SHM) 109
+1 Devoted Druid (SHM) 110
+1 Devoted Druid (SHM) 110
+1 Flourishing Defenses (SHM) 114
+1 Foxfire Oak (SHM) 115
+1 Gleeful Sabotage (SHM) 116
+1 Gleeful Sabotage (SHM) 116
+1 Gloomwidow (SHM) 117
+1 Gloomwidow's Feast (SHM) 118
+1 Howl of the Night Pack (SHM) 119
+1 Nurturer Initiate (SHM) 124
+1 Toil to Renown (SHM) 130
+1 Tower Above (SHM) 131
+1 Viridescent Wisps (SHM) 132
+1 Wildslayer Elves (SHM) 133
+1 Deus of Calamity (SHM) 204
+1 Firespout (SHM) 205
+1 Firespout (SHM) 205
+1 Fossil Find (SHM) 206
+1 Giantbaiting (SHM) 207
+1 Giantbaiting (SHM) 207
+1 Impromptu Raid (SHM) 209
+1 Loamdragger Giant (SHM) 210
+1 Loamdragger Giant (SHM) 210
+1 Loamdragger Giant (SHM) 210
+1 Manamorphose (SHM) 211
+1 Manamorphose (SHM) 211
+1 Manamorphose (SHM) 211
+1 Morselhoarder (SHM) 212
+1 Mudbrawler Raiders (SHM) 213
+1 Mudbrawler Raiders (SHM) 213
+1 Runes of the Deus (SHM) 215
+1 Scuzzback Marauders (SHM) 216
+1 Scuzzback Scrapper (SHM) 217
+1 Scuzzback Scrapper (SHM) 217
+1 Scuzzback Scrapper (SHM) 217
+1 Tattermunge Duo (SHM) 218
+1 Tattermunge Duo (SHM) 218
+1 Valleymaker (SHM) 221
+1 Blazethorn Scarecrow (SHM) 246
+1 Chainbreaker (SHM) 249
+1 Grim Poppet (SHM) 252
+1 Heap Doll (SHM) 253
+1 Scrapbasket (SHM) 262
+1 Watchwing Scarecrow (SHM) 268

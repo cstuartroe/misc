@@ -1,0 +1,201 @@
+Deck
+1 Helium Squirter (DIS) 26
+1 Writ of Passage (DIS) 37
+1 Frozen Solid (CSP) 35
+1 Krovikan Mist (CSP) 38
+1 Drifter il-Dal (TSP) 59
+1 Fathom Seer (TSP) 62
+1 Mystical Teachings (TSP) 69
+1 Snapback (TSP) 78
+1 Feebleness (TSP) 110
+1 Mana Skimmer (TSP) 117
+1 Strangling Soot (TSP) 132
+1 Durkwood Baloth (TSP) 193
+1 Glass Asp (TSP) 197
+1 Havenwood Wurm (TSP) 199
+1 Herd Gnarr (TSP) 200
+1 Molder (TSP) 206
+1 Penumbra Spider (TSP) 210
+1 Scarwood Treefolk (TSP) 214
+1 Thrill of the Hunt (TSP) 229
+1 Ghost Tactician (PLC) 6
+1 Heroes Remembered (PLC) 7
+1 Sunlance (PLC) 31
+1 Aquamorph Entity (PLC) 33
+1 Shaper Parasite (PLC) 46
+1 Gossamer Phantasm (PLC) 55
+1 Riptide Pilferer (PLC) 60
+1 Brain Gorgers (PLC) 65
+1 Cradle to Grave (PLC) 67
+1 Midnight Charm (PLC) 74
+1 Evolution Charm (PLC) 127
+1 Mire Boa (PLC) 135
+1 Uktabi Drake (PLC) 141
+1 Utopia Vow (PLC) 142
+1 Urborg, Tomb of Yawgmoth (PLC) 165
+1 Aven Augur (FUT) 32
+1 Leaden Fists (FUT) 38
+1 Augur of Skulls (FUT) 63
+1 Ichor Slick (FUT) 68
+1 Kavu Primarch (FUT) 128
+1 Llanowar Augur (FUT) 129
+1 Petrified Plating (FUT) 133
+1 Quiet Disrepair (FUT) 134
+1 Wrap in Vigor (FUT) 141
+1 Ancestor's Chosen (10E) 1
+1 Angelic Blessing (10E) 3
+1 Condemn (10E) 13
+1 Aven Windreader (10E) 69
+1 Cancel (10E) 71
+1 Crafty Pathmage (10E) 77
+1 Dehydration (10E) 78
+1 Peek (10E) 94
+1 Persuasion (10E) 95
+1 Shimmering Wings (10E) 107
+1 Snapping Drake (10E) 110
+1 Twincast (10E) 120
+1 Afflict (10E) 125
+1 Consume Spirit (10E) 131
+1 Contaminated Bond (10E) 132
+1 Dross Crocodile (10E) 138
+1 Drudge Skeletons (10E) 139
+1 Essence Drain (10E) 141
+1 Fear (10E) 142
+1 Festering Goblin (10E) 143
+1 Gravedigger (10E) 146
+1 Highway Robber (10E) 150
+1 Nightmare (10E) 164
+1 Ravenous Rats (10E) 171
+1 Recover (10E) 172
+1 Severed Legion (10E) 177
+1 Underworld Dreams (10E) 184
+1 Vampire Bats (10E) 186
+1 Goblin Elite Infantry (10E) 206
+1 Goblin Piker (10E) 209
+1 Hill Giant (10E) 212
+1 Incinerate (10E) 213
+1 Lava Axe (10E) 215
+1 Prodigal Pyromancer (10E) 221
+1 Viashino Runner (10E) 245
+1 Aggressive Urge (10E) 250
+1 Civic Wayfinder (10E) 255
+1 Commune with Nature (10E) 256
+1 Elvish Piper (10E) 262
+1 Giant Growth (10E) 266
+1 Giant Spider (10E) 267
+1 Grizzly Bears (10E) 268
+1 Hunted Wumpus (10E) 269
+1 Llanowar Elves (10E) 274
+1 Might Weaver (10E) 278
+1 Natural Spring (10E) 281
+1 Overrun (10E) 284
+1 Rampant Growth (10E) 288
+1 Rootwalla (10E) 293
+1 Seedborn Muse (10E) 296
+1 Spined Wurm (10E) 298
+1 Stalking Tiger (10E) 299
+1 Tangle Spider (10E) 303
+1 Treetop Bracers (10E) 304
+1 Angel's Feather (10E) 311
+1 Demon's Horn (10E) 320
+1 Kraken's Eye (10E) 329
+1 Platinum Angel (10E) 339
+1 Mulldrifter (LRW) 76
+1 Boggart Birth Rite (LRW) 101
+1 Boggart Harbinger (LRW) 102
+1 Boggart Mob (LRW) 104
+1 Exiled Boggart (LRW) 109
+1 Facevaulter (LRW) 111
+1 Fodder Launch (LRW) 114
+1 Ghostly Changeling (LRW) 116
+1 Hoarder's Greed (LRW) 117
+1 Hornet Harasser (LRW) 118
+1 Mad Auntie (LRW) 123
+1 Marsh Flitter (LRW) 125
+1 Spiderwig Boggart (LRW) 141
+1 Squeaking Pie Sneak (LRW) 142
+1 Warren Pilferers (LRW) 146
+1 Adder-Staff Boggart (LRW) 148
+1 Boggart Shenanigans (LRW) 155
+1 Goatnapper (LRW) 172
+1 Lowland Oaf (LRW) 184
+1 Mudbutton Torchrunner (LRW) 185
+1 Tar Pitcher (LRW) 193
+1 Tarfire (LRW) 194
+1 Changeling Titan (LRW) 200
+1 Shimmering Grotto (LRW) 273
+1 Barrenton Medic (SHM) 4
+1 Boon Reflection (SHM) 5
+1 Goldenglow Moth (SHM) 6
+1 Mistmeadow Skulk (SHM) 14
+1 Woeleecher (SHM) 27
+1 Briarberry Cohort (SHM) 30
+1 Cerulean Wisps (SHM) 31
+1 Consign to Dream (SHM) 32
+1 Flow of Ideas (SHM) 38
+1 Knacksaw Clique (SHM) 42
+1 Prismwake Merrow (SHM) 46
+1 Whimwader (SHM) 54
+1 Blowfly Infestation (SHM) 58
+1 Cinderbones (SHM) 59
+1 Crowd of Cinders (SHM) 63
+1 Smolder Initiate (SHM) 78
+1 Blistering Dieflyn (SHM) 82
+1 Boggart Arsonists (SHM) 85
+1 Crimson Wisps (SHM) 88
+1 Ember Gale (SHM) 91
+1 Flame Javelin (SHM) 92
+1 Power of Fire (SHM) 101
+1 Smash to Smithereens (SHM) 107
+1 Crabapple Cohort (SHM) 109
+1 Drove of Elves (SHM) 112
+1 Gloomwidow's Feast (SHM) 118
+1 Juvenile Gloomwidow (SHM) 121
+1 Roughshod Mentor (SHM) 128
+1 Viridescent Wisps (SHM) 132
+1 Curse of Chains (SHM) 139
+1 Plumeveil (SHM) 145
+1 Somnomancer (SHM) 149
+1 Steel of the Godhead (SHM) 150
+1 Thistledown Duo (SHM) 152
+1 Turn to Mist (SHM) 155
+1 Dream Salvage (SHM) 160
+1 Gravelgill Axeshark (SHM) 164
+1 Helm of the Ghastlord (SHM) 166
+1 Scarscale Ritual (SHM) 175
+1 Torpor Dust (SHM) 177
+1 Cultbrand Cinder (SHM) 182
+1 Emberstrike Duo (SHM) 185
+1 Kulrath Knight (SHM) 190
+1 Sootstoke Kindler (SHM) 195
+1 Boggart Ram-Gang (SHM) 203
+1 Giantbaiting (SHM) 207
+1 Manamorphose (SHM) 211
+1 Morselhoarder (SHM) 212
+1 Tattermunge Maniac (SHM) 219
+1 Vexing Shusher (SHM) 222
+1 Mercy Killing (SHM) 231
+1 Shield of the Oversoul (SHM) 242
+1 Blazethorn Scarecrow (SHM) 246
+1 Blight Sickle (SHM) 247
+1 Elsewhere Flask (SHM) 250
+1 Revelsong Horn (SHM) 261
+1 Wingrattle Scarecrow (SHM) 270
+1 Dream Thief (EVE) 20
+1 Rekindled Flame (EVE) 61
+1 Duskdale Wurm (EVE) 67
+1 Clout of the Dominus (EVE) 99
+1 Crackleburr (EVE) 100
+1 Crag Puca (EVE) 101
+1 Inside Out (EVE) 103
+1 Mindwrack Liege (EVE) 104
+1 Noggle Bandit (EVE) 106
+1 Noggle Hedge-Mage (EVE) 108
+1 Nucklavee (EVE) 110
+1 Riverfall Mimic (EVE) 111
+1 Shrewd Hatchling (EVE) 112
+1 Stream Hopper (EVE) 113
+1 Fire at Will (EVE) 140
+1 Cascade Bluffs (EVE) 175
+1 Cancel (ALA) 33
+1 Manaplasm (ALA) 138

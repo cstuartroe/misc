@@ -1,0 +1,61 @@
+Deck
+1 Ashling, the Extinguisher (EVE) 33
+1 Creakwood Ghoul (EVE) 34
+1 Creakwood Ghoul (EVE) 34
+1 Lingering Tormentor (EVE) 36
+1 Nightmare Incursion (EVE) 40
+1 Raven's Crime (EVE) 41
+1 Raven's Crime (EVE) 41
+1 Smoldering Butcher (EVE) 42
+1 Smoldering Butcher (EVE) 42
+1 Soot Imp (EVE) 43
+1 Soul Reap (EVE) 44
+1 Soul Reap (EVE) 44
+1 Syphon Life (EVE) 46
+1 Talara's Bane (EVE) 47
+1 Umbra Stalker (EVE) 48
+1 Aerie Ouphes (EVE) 65
+1 Duskdale Wurm (EVE) 67
+1 Marshdrinker Giant (EVE) 69
+1 Monstrify (EVE) 70
+1 Monstrify (EVE) 70
+1 Monstrify (EVE) 70
+1 Nettle Sentinel (EVE) 71
+1 Nettle Sentinel (EVE) 71
+1 Phosphorescent Feast (EVE) 72
+1 Regal Force (EVE) 74
+1 Savage Conception (EVE) 75
+1 Tilling Treefolk (EVE) 78
+1 Tilling Treefolk (EVE) 78
+1 Wickerbough Elder (EVE) 80
+1 Wickerbough Elder (EVE) 80
+1 Canker Abomination (EVE) 115
+1 Canker Abomination (EVE) 115
+1 Cankerous Thirst (EVE) 116
+1 Creakwood Liege (EVE) 117
+1 Desecrator Hag (EVE) 119
+1 Desecrator Hag (EVE) 119
+1 Drain the Well (EVE) 121
+1 Drain the Well (EVE) 121
+1 Drain the Well (EVE) 121
+1 Gift of the Deity (EVE) 122
+1 Gift of the Deity (EVE) 122
+1 Hag Hedge-Mage (EVE) 123
+1 Noxious Hatchling (EVE) 124
+1 Odious Trow (EVE) 125
+1 Odious Trow (EVE) 125
+1 Quillspike (EVE) 126
+1 Rendclaw Trow (EVE) 127
+1 Rendclaw Trow (EVE) 127
+1 Rendclaw Trow (EVE) 127
+1 Sapling of Colfenor (EVE) 128
+1 Stalker Hag (EVE) 129
+1 Stalker Hag (EVE) 129
+1 Woodlurker Mimic (EVE) 130
+1 Woodlurker Mimic (EVE) 130
+1 Antler Skulkin (EVE) 167
+1 Fang Skulkin (EVE) 168
+1 Jawbone Skulkin (EVE) 170
+1 Scarecrone (EVE) 172
+1 Shell Skulkin (EVE) 173
+1 Ward of Bones (EVE) 174

@@ -1,0 +1,61 @@
+Deck
+1 Armored Ascension (SHM) 2
+1 Armored Ascension (SHM) 2
+1 Inquisitor's Snare (SHM) 8
+1 Last Breath (SHM) 11
+1 Mine Excavation (SHM) 13
+1 Mine Excavation (SHM) 13
+1 Niveous Wisps (SHM) 15
+1 Niveous Wisps (SHM) 15
+1 Pale Wayfarer (SHM) 17
+1 Resplendent Mentor (SHM) 19
+1 Rune-Cervin Rider (SHM) 20
+1 Safehold Sentry (SHM) 22
+1 Strip Bare (SHM) 24
+1 Strip Bare (SHM) 24
+1 Woeleecher (SHM) 27
+1 Biting Tether (SHM) 29
+1 Briarberry Cohort (SHM) 30
+1 Briarberry Cohort (SHM) 30
+1 Consign to Dream (SHM) 32
+1 Deepchannel Mentor (SHM) 35
+1 Drowner Initiate (SHM) 36
+1 Drowner Initiate (SHM) 36
+1 Faerie Swarm (SHM) 37
+1 Ghastly Discovery (SHM) 39
+1 Ghastly Discovery (SHM) 39
+1 Merrow Wavebreakers (SHM) 44
+1 Sinking Feeling (SHM) 51
+1 Sinking Feeling (SHM) 51
+1 Spell Syphon (SHM) 52
+1 Thought Reflection (SHM) 53
+1 Aethertow (SHM) 136
+1 Barrenton Cragtreads (SHM) 138
+1 Barrenton Cragtreads (SHM) 138
+1 Barrenton Cragtreads (SHM) 138
+1 Curse of Chains (SHM) 139
+1 Curse of Chains (SHM) 139
+1 Glamer Spinners (SHM) 141
+1 Glamer Spinners (SHM) 141
+1 Plumeveil (SHM) 145
+1 Puresight Merrow (SHM) 146
+1 Repel Intruders (SHM) 147
+1 Silkbind Faerie (SHM) 148
+1 Silkbind Faerie (SHM) 148
+1 Silkbind Faerie (SHM) 148
+1 Silkbind Faerie (SHM) 148
+1 Somnomancer (SHM) 149
+1 Somnomancer (SHM) 149
+1 Steel of the Godhead (SHM) 150
+1 Thistledown Duo (SHM) 152
+1 Thistledown Duo (SHM) 152
+1 Thistledown Liege (SHM) 153
+1 Turn to Mist (SHM) 155
+1 Turn to Mist (SHM) 155
+1 Zealous Guardian (SHM) 157
+1 Blazethorn Scarecrow (SHM) 246
+1 Blazethorn Scarecrow (SHM) 246
+1 Chainbreaker (SHM) 249
+1 Lockjaw Snapper (SHM) 255
+1 Pili-Pala (SHM) 258
+1 Watchwing Scarecrow (SHM) 268

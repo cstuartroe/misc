@@ -1,0 +1,61 @@
+Deck
+1 Cerulean Wisps (SHM) 31
+1 Counterbore (SHM) 33
+1 Cursecatcher (SHM) 34
+1 Flow of Ideas (SHM) 38
+1 Ghastly Discovery (SHM) 39
+1 Leech Bonder (SHM) 43
+1 Parapet Watchers (SHM) 45
+1 Savor the Moment (SHM) 50
+1 Whimwader (SHM) 54
+1 Whimwader (SHM) 54
+1 Ashenmoor Cohort (SHM) 56
+1 Cinderbones (SHM) 59
+1 Corrosive Mentor (SHM) 61
+1 Corrosive Mentor (SHM) 61
+1 Crowd of Cinders (SHM) 63
+1 Dusk Urchins (SHM) 65
+1 Faerie Macabre (SHM) 66
+1 Smolder Initiate (SHM) 78
+1 Splitting Headache (SHM) 79
+1 Torture (SHM) 80
+1 Cemetery Puca (SHM) 158
+1 Dream Salvage (SHM) 160
+1 Fate Transfer (SHM) 161
+1 Gravelgill Axeshark (SHM) 164
+1 Gravelgill Duo (SHM) 165
+1 Gravelgill Duo (SHM) 165
+1 Gravelgill Duo (SHM) 165
+1 Inkfathom Infiltrator (SHM) 167
+1 Merrow Grimeblotter (SHM) 171
+1 Oona, Queen of the Fae (SHM) 172
+1 Oona's Gatewarden (SHM) 173
+1 River's Grasp (SHM) 174
+1 Scarscale Ritual (SHM) 175
+1 Scarscale Ritual (SHM) 175
+1 Scarscale Ritual (SHM) 175
+1 Sygg, River Cutthroat (SHM) 176
+1 Torpor Dust (SHM) 177
+1 Torpor Dust (SHM) 177
+1 Wanderbrine Rootcutters (SHM) 178
+1 Wasp Lancer (SHM) 179
+1 Banishing Knack (EVE) 17
+1 Banishing Knack (EVE) 17
+1 Dream Thief (EVE) 20
+1 Idle Thoughts (EVE) 23
+1 Indigo Faerie (EVE) 24
+1 Merrow Levitator (EVE) 26
+1 Merrow Levitator (EVE) 26
+1 Oona's Grace (EVE) 27
+1 Razorfin Abolisher (EVE) 28
+1 Wilderness Hypnotist (EVE) 32
+1 Crumbling Ashes (EVE) 35
+1 Merrow Bonegnawer (EVE) 37
+1 Merrow Bonegnawer (EVE) 37
+1 Needle Specter (EVE) 39
+1 Nightmare Incursion (EVE) 40
+1 Raven's Crime (EVE) 41
+1 Smoldering Butcher (EVE) 42
+1 Soot Imp (EVE) 43
+1 Syphon Life (EVE) 46
+1 Umbra Stalker (EVE) 48

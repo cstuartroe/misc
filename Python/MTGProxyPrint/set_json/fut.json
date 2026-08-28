@@ -2,1441 +2,1981 @@
   {
     "id": "2bf69645-d1f1-4836-bdc3-76874abcfd5f",
     "title": "Angel of Salvation",
+    "set_id": "fut",
+    "order": 1,
     "scryfall_uri": "https://scryfall.com/card/fut/1/angel-of-salvation",
     "img_uri": "https://cards.scryfall.io/grid/front/2/b/2bf69645-d1f1-4836-bdc3-76874abcfd5f.webp",
     "rarity": "Rare",
-    "card_type": "Creature \u2014 Angel"
+    "card_type": "Creature \u2014 Angel",
+    "color": "W"
   },
   {
     "id": "1c1fdf86-22aa-4c18-a971-8ff1fd8b3de1",
     "title": "Augur il-Vec",
+    "set_id": "fut",
+    "order": 2,
     "scryfall_uri": "https://scryfall.com/card/fut/2/augur-il-vec",
     "img_uri": "https://cards.scryfall.io/grid/front/1/c/1c1fdf86-22aa-4c18-a971-8ff1fd8b3de1.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Human Cleric"
+    "card_type": "Creature \u2014 Human Cleric",
+    "color": "W"
   },
   {
     "id": "12220d53-3356-4541-aa43-a0de6ed3f7d0",
     "title": "Barren Glory",
+    "set_id": "fut",
+    "order": 3,
     "scryfall_uri": "https://scryfall.com/card/fut/3/barren-glory",
     "img_uri": "https://cards.scryfall.io/grid/front/1/2/12220d53-3356-4541-aa43-a0de6ed3f7d0.webp",
     "rarity": "Rare",
-    "card_type": "Enchantment"
+    "card_type": "Enchantment",
+    "color": "W"
   },
   {
     "id": "cb6989fd-05cf-4169-96c0-37c556454b92",
     "title": "Chronomantic Escape",
+    "set_id": "fut",
+    "order": 4,
     "scryfall_uri": "https://scryfall.com/card/fut/4/chronomantic-escape",
     "img_uri": "https://cards.scryfall.io/grid/front/c/b/cb6989fd-05cf-4169-96c0-37c556454b92.webp",
     "rarity": "Uncommon",
-    "card_type": "Sorcery"
+    "card_type": "Sorcery",
+    "color": "W"
   },
   {
     "id": "1d2c8f6f-8dcd-4b47-bc79-9657824cf1b7",
     "title": "Dust of Moments",
+    "set_id": "fut",
+    "order": 5,
     "scryfall_uri": "https://scryfall.com/card/fut/5/dust-of-moments",
     "img_uri": "https://cards.scryfall.io/grid/front/1/d/1d2c8f6f-8dcd-4b47-bc79-9657824cf1b7.webp",
     "rarity": "Uncommon",
-    "card_type": "Instant"
+    "card_type": "Instant",
+    "color": "W"
   },
   {
     "id": "f704cd76-dca8-4526-b03f-7e3753d8fbb5",
     "title": "Even the Odds",
+    "set_id": "fut",
+    "order": 6,
     "scryfall_uri": "https://scryfall.com/card/fut/6/even-the-odds",
     "img_uri": "https://cards.scryfall.io/grid/front/f/7/f704cd76-dca8-4526-b03f-7e3753d8fbb5.webp",
     "rarity": "Uncommon",
-    "card_type": "Instant"
+    "card_type": "Instant",
+    "color": "W"
   },
   {
     "id": "d7b5231b-aed9-4b88-aba5-43e57a705dc5",
     "title": "Gift of Granite",
+    "set_id": "fut",
+    "order": 7,
     "scryfall_uri": "https://scryfall.com/card/fut/7/gift-of-granite",
     "img_uri": "https://cards.scryfall.io/grid/front/d/7/d7b5231b-aed9-4b88-aba5-43e57a705dc5.webp",
     "rarity": "Common",
-    "card_type": "Enchantment \u2014 Aura"
+    "card_type": "Enchantment \u2014 Aura",
+    "color": "W"
   },
   {
     "id": "bca127ef-349e-4380-875d-49c14fa03b18",
     "title": "Intervention Pact",
+    "set_id": "fut",
+    "order": 8,
     "scryfall_uri": "https://scryfall.com/card/fut/8/intervention-pact",
     "img_uri": "https://cards.scryfall.io/grid/front/b/c/bca127ef-349e-4380-875d-49c14fa03b18.webp",
     "rarity": "Rare",
-    "card_type": "Color Indicator: White\n          Instant"
+    "card_type": "Color Indicator: White\n          Instant",
+    "color": ""
   },
   {
     "id": "46b0f9cb-f848-460e-94cc-d85b23133d6e",
     "title": "Judge Unworthy",
+    "set_id": "fut",
+    "order": 9,
     "scryfall_uri": "https://scryfall.com/card/fut/9/judge-unworthy",
     "img_uri": "https://cards.scryfall.io/grid/front/4/6/46b0f9cb-f848-460e-94cc-d85b23133d6e.webp",
     "rarity": "Common",
-    "card_type": "Instant"
+    "card_type": "Instant",
+    "color": "W"
   },
   {
     "id": "84b23129-25b2-4870-9462-ab12718ae7be",
     "title": "Knight of Sursi",
+    "set_id": "fut",
+    "order": 10,
     "scryfall_uri": "https://scryfall.com/card/fut/10/knight-of-sursi",
     "img_uri": "https://cards.scryfall.io/grid/front/8/4/84b23129-25b2-4870-9462-ab12718ae7be.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Human Knight"
+    "card_type": "Creature \u2014 Human Knight",
+    "color": "W"
   },
   {
     "id": "834bfc49-9411-4a0f-b79b-d0d35f898952",
     "title": "Lost Auramancers",
+    "set_id": "fut",
+    "order": 11,
     "scryfall_uri": "https://scryfall.com/card/fut/11/lost-auramancers",
     "img_uri": "https://cards.scryfall.io/grid/front/8/3/834bfc49-9411-4a0f-b79b-d0d35f898952.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Human Wizard"
+    "card_type": "Creature \u2014 Human Wizard",
+    "color": "W"
   },
   {
     "id": "20dcdda9-66a2-401f-9e1b-5603f771f56f",
     "title": "Magus of the Moat",
+    "set_id": "fut",
+    "order": 12,
     "scryfall_uri": "https://scryfall.com/card/fut/12/magus-of-the-moat",
     "img_uri": "https://cards.scryfall.io/grid/front/2/0/20dcdda9-66a2-401f-9e1b-5603f771f56f.webp",
     "rarity": "Rare",
-    "card_type": "Creature \u2014 Human Wizard"
+    "card_type": "Creature \u2014 Human Wizard",
+    "color": "W"
   },
   {
     "id": "920d7f7e-8df3-4465-be07-83cb340cffc1",
     "title": "Marshaling Cry",
+    "set_id": "fut",
+    "order": 13,
     "scryfall_uri": "https://scryfall.com/card/fut/13/marshaling-cry",
     "img_uri": "https://cards.scryfall.io/grid/front/9/2/920d7f7e-8df3-4465-be07-83cb340cffc1.webp",
     "rarity": "Common",
-    "card_type": "Sorcery"
+    "card_type": "Sorcery",
+    "color": "W"
   },
   {
     "id": "823bdf79-998f-4d7c-834d-7a474cfa895e",
     "title": "Saltskitter",
+    "set_id": "fut",
+    "order": 14,
     "scryfall_uri": "https://scryfall.com/card/fut/14/saltskitter",
     "img_uri": "https://cards.scryfall.io/grid/front/8/2/823bdf79-998f-4d7c-834d-7a474cfa895e.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Wurm"
+    "card_type": "Creature \u2014 Wurm",
+    "color": "W"
   },
   {
     "id": "7de6aeea-0144-4148-b7a6-47b703f64af9",
     "title": "Samite Censer-Bearer",
+    "set_id": "fut",
+    "order": 15,
     "scryfall_uri": "https://scryfall.com/card/fut/15/samite-censer-bearer",
     "img_uri": "https://cards.scryfall.io/grid/front/7/d/7de6aeea-0144-4148-b7a6-47b703f64af9.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Human Rebel Cleric"
+    "card_type": "Creature \u2014 Human Rebel Cleric",
+    "color": "W"
   },
   {
     "id": "e6639e3d-b0c4-4c08-83d5-f3fc58fac9b2",
     "title": "Scout's Warning",
+    "set_id": "fut",
+    "order": 16,
     "scryfall_uri": "https://scryfall.com/card/fut/16/scouts-warning",
     "img_uri": "https://cards.scryfall.io/grid/front/e/6/e6639e3d-b0c4-4c08-83d5-f3fc58fac9b2.webp",
     "rarity": "Rare",
-    "card_type": "Instant"
+    "card_type": "Instant",
+    "color": "W"
   },
   {
     "id": "ec0d6477-9c50-4196-a04f-da73b5a07e01",
     "title": "Spirit en-Dal",
+    "set_id": "fut",
+    "order": 17,
     "scryfall_uri": "https://scryfall.com/card/fut/17/spirit-en-dal",
     "img_uri": "https://cards.scryfall.io/grid/front/e/c/ec0d6477-9c50-4196-a04f-da73b5a07e01.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Spirit"
+    "card_type": "Creature \u2014 Spirit",
+    "color": "W"
   },
   {
     "id": "5b8ede8a-5317-4662-b964-a9bd202a4aab",
     "title": "Aven Mindcensor",
+    "set_id": "fut",
+    "order": 18,
     "scryfall_uri": "https://scryfall.com/card/fut/18/aven-mindcensor",
     "img_uri": "https://cards.scryfall.io/grid/front/5/b/5b8ede8a-5317-4662-b964-a9bd202a4aab.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Bird Wizard"
+    "card_type": "Creature \u2014 Bird Wizard",
+    "color": "W"
   },
   {
     "id": "f6ccfe28-ec08-4751-b65c-c40b2bafa955",
     "title": "Blade of the Sixth Pride",
+    "set_id": "fut",
+    "order": 19,
     "scryfall_uri": "https://scryfall.com/card/fut/19/blade-of-the-sixth-pride",
     "img_uri": "https://cards.scryfall.io/grid/front/f/6/f6ccfe28-ec08-4751-b65c-c40b2bafa955.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Cat Rebel"
+    "card_type": "Creature \u2014 Cat Rebel",
+    "color": "W"
   },
   {
     "id": "6e8a6e04-ce3b-4025-92ba-8980022b8038",
     "title": "Bound in Silence",
+    "set_id": "fut",
+    "order": 20,
     "scryfall_uri": "https://scryfall.com/card/fut/20/bound-in-silence",
     "img_uri": "https://cards.scryfall.io/grid/front/6/e/6e8a6e04-ce3b-4025-92ba-8980022b8038.webp",
     "rarity": "Uncommon",
-    "card_type": "Kindred Enchantment \u2014 Rebel Aura"
+    "card_type": "Kindred Enchantment \u2014 Rebel Aura",
+    "color": "W"
   },
   {
     "id": "2f208f3d-ad21-477a-9e9b-de19afd536b0",
     "title": "Daybreak Coronet",
+    "set_id": "fut",
+    "order": 21,
     "scryfall_uri": "https://scryfall.com/card/fut/21/daybreak-coronet",
     "img_uri": "https://cards.scryfall.io/grid/front/2/f/2f208f3d-ad21-477a-9e9b-de19afd536b0.webp",
     "rarity": "Rare",
-    "card_type": "Enchantment \u2014 Aura"
+    "card_type": "Enchantment \u2014 Aura",
+    "color": "W"
   },
   {
     "id": "99c0eb4c-c8f1-40cf-ae0a-a413432b4c5f",
     "title": "Goldmeadow Lookout",
+    "set_id": "fut",
+    "order": 22,
     "scryfall_uri": "https://scryfall.com/card/fut/22/goldmeadow-lookout",
     "img_uri": "https://cards.scryfall.io/grid/front/9/9/99c0eb4c-c8f1-40cf-ae0a-a413432b4c5f.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Kithkin Spellshaper"
+    "card_type": "Creature \u2014 Kithkin Spellshaper",
+    "color": "W"
   },
   {
     "id": "bb02f692-80a9-4740-afde-cb4792d24774",
     "title": "Imperial Mask",
+    "set_id": "fut",
+    "order": 23,
     "scryfall_uri": "https://scryfall.com/card/fut/23/imperial-mask",
     "img_uri": "https://cards.scryfall.io/grid/front/b/b/bb02f692-80a9-4740-afde-cb4792d24774.webp",
     "rarity": "Rare",
-    "card_type": "Enchantment"
+    "card_type": "Enchantment",
+    "color": "W"
   },
   {
     "id": "cd700719-2f65-4fd5-b3aa-3e9402560c79",
     "title": "Lucent Liminid",
+    "set_id": "fut",
+    "order": 24,
     "scryfall_uri": "https://scryfall.com/card/fut/24/lucent-liminid",
     "img_uri": "https://cards.scryfall.io/grid/front/c/d/cd700719-2f65-4fd5-b3aa-3e9402560c79.webp",
     "rarity": "Common",
-    "card_type": "Enchantment Creature \u2014 Elemental"
+    "card_type": "Enchantment Creature \u2014 Elemental",
+    "color": "W"
   },
   {
     "id": "772bf1a3-ab2d-4fe6-830b-1c5ef8f5dc07",
     "title": "Lumithread Field",
+    "set_id": "fut",
+    "order": 25,
     "scryfall_uri": "https://scryfall.com/card/fut/25/lumithread-field",
     "img_uri": "https://cards.scryfall.io/grid/front/7/7/772bf1a3-ab2d-4fe6-830b-1c5ef8f5dc07.webp",
     "rarity": "Common",
-    "card_type": "Enchantment"
+    "card_type": "Enchantment",
+    "color": "W"
   },
   {
     "id": "d9cdb51f-c785-47d1-b23c-de74eeb22a31",
     "title": "Lymph Sliver",
+    "set_id": "fut",
+    "order": 26,
     "scryfall_uri": "https://scryfall.com/card/fut/26/lymph-sliver",
     "img_uri": "https://cards.scryfall.io/grid/front/d/9/d9cdb51f-c785-47d1-b23c-de74eeb22a31.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Sliver"
+    "card_type": "Creature \u2014 Sliver",
+    "color": "W"
   },
   {
     "id": "f1b45f8f-8f41-426d-b773-1e8cdfbff6f8",
     "title": "Mistmeadow Skulk",
+    "set_id": "fut",
+    "order": 27,
     "scryfall_uri": "https://scryfall.com/card/fut/27/mistmeadow-skulk",
     "img_uri": "https://cards.scryfall.io/grid/front/f/1/f1b45f8f-8f41-426d-b773-1e8cdfbff6f8.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Kithkin Rogue"
+    "card_type": "Creature \u2014 Kithkin Rogue",
+    "color": "W"
   },
   {
     "id": "7a9a3aeb-a316-4b1e-927b-36c3f999f2c3",
     "title": "Oriss, Samite Guardian",
+    "set_id": "fut",
+    "order": 28,
     "scryfall_uri": "https://scryfall.com/card/fut/28/oriss-samite-guardian",
     "img_uri": "https://cards.scryfall.io/grid/front/7/a/7a9a3aeb-a316-4b1e-927b-36c3f999f2c3.webp",
     "rarity": "Rare",
-    "card_type": "Legendary Creature \u2014 Human Cleric"
+    "card_type": "Legendary Creature \u2014 Human Cleric",
+    "color": "W"
   },
   {
     "id": "4edfd70c-2923-4813-bf14-04194518163c",
     "title": "Patrician's Scorn",
+    "set_id": "fut",
+    "order": 29,
     "scryfall_uri": "https://scryfall.com/card/fut/29/patricians-scorn",
     "img_uri": "https://cards.scryfall.io/grid/front/4/e/4edfd70c-2923-4813-bf14-04194518163c.webp",
     "rarity": "Common",
-    "card_type": "Instant"
+    "card_type": "Instant",
+    "color": "W"
   },
   {
     "id": "250ee8d2-6f03-44a5-8f4c-ced4eaa4cdea",
     "title": "Ramosian Revivalist",
+    "set_id": "fut",
+    "order": 30,
     "scryfall_uri": "https://scryfall.com/card/fut/30/ramosian-revivalist",
     "img_uri": "https://cards.scryfall.io/grid/front/2/5/250ee8d2-6f03-44a5-8f4c-ced4eaa4cdea.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Human Rebel Cleric"
+    "card_type": "Creature \u2014 Human Rebel Cleric",
+    "color": "W"
   },
   {
     "id": "2092edca-cdc9-47e2-9c0c-e73c5a657777",
     "title": "Seht's Tiger",
+    "set_id": "fut",
+    "order": 31,
     "scryfall_uri": "https://scryfall.com/card/fut/31/sehts-tiger",
     "img_uri": "https://cards.scryfall.io/grid/front/2/0/2092edca-cdc9-47e2-9c0c-e73c5a657777.webp",
     "rarity": "Rare",
-    "card_type": "Creature \u2014 Cat"
+    "card_type": "Creature \u2014 Cat",
+    "color": "W"
   },
   {
     "id": "c7599618-cbd9-4013-b0a5-4ba77fd52ab4",
     "title": "Aven Augur",
+    "set_id": "fut",
+    "order": 32,
     "scryfall_uri": "https://scryfall.com/card/fut/32/aven-augur",
     "img_uri": "https://cards.scryfall.io/grid/front/c/7/c7599618-cbd9-4013-b0a5-4ba77fd52ab4.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Bird Wizard"
+    "card_type": "Creature \u2014 Bird Wizard",
+    "color": "U"
   },
   {
     "id": "727f9f4b-a8b6-47bd-9830-e69d118fe671",
     "title": "Cloudseeder",
+    "set_id": "fut",
+    "order": 33,
     "scryfall_uri": "https://scryfall.com/card/fut/33/cloudseeder",
     "img_uri": "https://cards.scryfall.io/grid/front/7/2/727f9f4b-a8b6-47bd-9830-e69d118fe671.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Faerie Spellshaper"
+    "card_type": "Creature \u2014 Faerie Spellshaper",
+    "color": "U"
   },
   {
     "id": "6a51026a-ae3c-4fa1-ac1e-96d44ae55b82",
     "title": "Cryptic Annelid",
+    "set_id": "fut",
+    "order": 34,
     "scryfall_uri": "https://scryfall.com/card/fut/34/cryptic-annelid",
     "img_uri": "https://cards.scryfall.io/grid/front/6/a/6a51026a-ae3c-4fa1-ac1e-96d44ae55b82.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Worm Beast"
+    "card_type": "Creature \u2014 Worm Beast",
+    "color": "U"
   },
   {
     "id": "e821d337-4bc5-4401-ac9b-34adf4012b73",
     "title": "Delay",
+    "set_id": "fut",
+    "order": 35,
     "scryfall_uri": "https://scryfall.com/card/fut/35/delay",
     "img_uri": "https://cards.scryfall.io/grid/front/e/8/e821d337-4bc5-4401-ac9b-34adf4012b73.webp",
     "rarity": "Uncommon",
-    "card_type": "Instant"
+    "card_type": "Instant",
+    "color": "U"
   },
   {
     "id": "c0bd95b5-1e90-41c5-8a9f-f3009f3f504a",
     "title": "Foresee",
+    "set_id": "fut",
+    "order": 36,
     "scryfall_uri": "https://scryfall.com/card/fut/36/foresee",
     "img_uri": "https://cards.scryfall.io/grid/front/c/0/c0bd95b5-1e90-41c5-8a9f-f3009f3f504a.webp",
     "rarity": "Common",
-    "card_type": "Sorcery"
+    "card_type": "Sorcery",
+    "color": "U"
   },
   {
     "id": "5fa2e4b5-aec8-43e0-9ef3-d9cbe1072f18",
     "title": "Infiltrator il-Kor",
+    "set_id": "fut",
+    "order": 37,
     "scryfall_uri": "https://scryfall.com/card/fut/37/infiltrator-il-kor",
     "img_uri": "https://cards.scryfall.io/grid/front/5/f/5fa2e4b5-aec8-43e0-9ef3-d9cbe1072f18.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Kor Rogue"
+    "card_type": "Creature \u2014 Kor Rogue",
+    "color": "U"
   },
   {
     "id": "be497544-bbf0-472d-adf6-ff1fd1951370",
     "title": "Leaden Fists",
+    "set_id": "fut",
+    "order": 38,
     "scryfall_uri": "https://scryfall.com/card/fut/38/leaden-fists",
     "img_uri": "https://cards.scryfall.io/grid/front/b/e/be497544-bbf0-472d-adf6-ff1fd1951370.webp",
     "rarity": "Common",
-    "card_type": "Enchantment \u2014 Aura"
+    "card_type": "Enchantment \u2014 Aura",
+    "color": "U"
   },
   {
     "id": "9c102f29-6f3f-4f97-8177-4307586bd1b2",
     "title": "Maelstrom Djinn",
+    "set_id": "fut",
+    "order": 39,
     "scryfall_uri": "https://scryfall.com/card/fut/39/maelstrom-djinn",
     "img_uri": "https://cards.scryfall.io/grid/front/9/c/9c102f29-6f3f-4f97-8177-4307586bd1b2.webp",
     "rarity": "Rare",
-    "card_type": "Creature \u2014 Djinn"
+    "card_type": "Creature \u2014 Djinn",
+    "color": "U"
   },
   {
     "id": "7025e614-7d08-4915-a985-3b876f1bdd1c",
     "title": "Magus of the Future",
+    "set_id": "fut",
+    "order": 40,
     "scryfall_uri": "https://scryfall.com/card/fut/40/magus-of-the-future",
     "img_uri": "https://cards.scryfall.io/grid/front/7/0/7025e614-7d08-4915-a985-3b876f1bdd1c.webp",
     "rarity": "Rare",
-    "card_type": "Creature \u2014 Human Wizard"
+    "card_type": "Creature \u2014 Human Wizard",
+    "color": "U"
   },
   {
     "id": "92adfcb4-6a0a-46f9-a171-bfa9fade2156",
     "title": "Mystic Speculation",
+    "set_id": "fut",
+    "order": 41,
     "scryfall_uri": "https://scryfall.com/card/fut/41/mystic-speculation",
     "img_uri": "https://cards.scryfall.io/grid/front/9/2/92adfcb4-6a0a-46f9-a171-bfa9fade2156.webp",
     "rarity": "Uncommon",
-    "card_type": "Sorcery"
+    "card_type": "Sorcery",
+    "color": "U"
   },
   {
     "id": "cca467a2-a2b3-4bdf-9d60-62979f675347",
     "title": "Pact of Negation",
+    "set_id": "fut",
+    "order": 42,
     "scryfall_uri": "https://scryfall.com/card/fut/42/pact-of-negation",
     "img_uri": "https://cards.scryfall.io/grid/front/c/c/cca467a2-a2b3-4bdf-9d60-62979f675347.webp",
     "rarity": "Rare",
-    "card_type": "Color Indicator: Blue\n          Instant"
+    "card_type": "Color Indicator: Blue\n          Instant",
+    "color": ""
   },
   {
     "id": "8e6d881a-f7b1-471f-bc0b-64a79bb491c9",
     "title": "Reality Strobe",
+    "set_id": "fut",
+    "order": 43,
     "scryfall_uri": "https://scryfall.com/card/fut/43/reality-strobe",
     "img_uri": "https://cards.scryfall.io/grid/front/8/e/8e6d881a-f7b1-471f-bc0b-64a79bb491c9.webp",
     "rarity": "Uncommon",
-    "card_type": "Sorcery"
+    "card_type": "Sorcery",
+    "color": "U"
   },
   {
     "id": "78366049-4613-4cd1-aab0-308996926563",
     "title": "Take Possession",
+    "set_id": "fut",
+    "order": 44,
     "scryfall_uri": "https://scryfall.com/card/fut/44/take-possession",
     "img_uri": "https://cards.scryfall.io/grid/front/7/8/78366049-4613-4cd1-aab0-308996926563.webp",
     "rarity": "Rare",
-    "card_type": "Enchantment \u2014 Aura"
+    "card_type": "Enchantment \u2014 Aura",
+    "color": "U"
   },
   {
     "id": "06111178-685d-4bda-8325-1db142d5801c",
     "title": "Unblinking Bleb",
+    "set_id": "fut",
+    "order": 45,
     "scryfall_uri": "https://scryfall.com/card/fut/45/unblinking-bleb",
     "img_uri": "https://cards.scryfall.io/grid/front/0/6/06111178-685d-4bda-8325-1db142d5801c.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Illusion"
+    "card_type": "Creature \u2014 Illusion",
+    "color": "U"
   },
   {
     "id": "0e84fc99-4045-4518-b588-512a675f2933",
     "title": "Venser, Shaper Savant",
+    "set_id": "fut",
+    "order": 46,
     "scryfall_uri": "https://scryfall.com/card/fut/46/venser-shaper-savant",
     "img_uri": "https://cards.scryfall.io/grid/front/0/e/0e84fc99-4045-4518-b588-512a675f2933.webp",
     "rarity": "Rare",
-    "card_type": "Legendary Creature \u2014 Human Wizard"
+    "card_type": "Legendary Creature \u2014 Human Wizard",
+    "color": "U"
   },
   {
     "id": "fbedfc40-7c2f-4a6e-8157-219cafca3548",
     "title": "Venser's Diffusion",
+    "set_id": "fut",
+    "order": 47,
     "scryfall_uri": "https://scryfall.com/card/fut/47/vensers-diffusion",
     "img_uri": "https://cards.scryfall.io/grid/front/f/b/fbedfc40-7c2f-4a6e-8157-219cafca3548.webp",
     "rarity": "Common",
-    "card_type": "Instant"
+    "card_type": "Instant",
+    "color": "U"
   },
   {
     "id": "47e6e715-abd8-4ff9-a8aa-8f4b929b0283",
     "title": "Arcanum Wings",
+    "set_id": "fut",
+    "order": 48,
     "scryfall_uri": "https://scryfall.com/card/fut/48/arcanum-wings",
     "img_uri": "https://cards.scryfall.io/grid/front/4/7/47e6e715-abd8-4ff9-a8aa-8f4b929b0283.webp",
     "rarity": "Uncommon",
-    "card_type": "Enchantment \u2014 Aura"
+    "card_type": "Enchantment \u2014 Aura",
+    "color": "U"
   },
   {
     "id": "6b26ee7b-de1a-4a39-9580-89941c3d0f21",
     "title": "Blind Phantasm",
+    "set_id": "fut",
+    "order": 49,
     "scryfall_uri": "https://scryfall.com/card/fut/49/blind-phantasm",
     "img_uri": "https://cards.scryfall.io/grid/front/6/b/6b26ee7b-de1a-4a39-9580-89941c3d0f21.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Illusion"
+    "card_type": "Creature \u2014 Illusion",
+    "color": "U"
   },
   {
     "id": "76ced470-97c3-4683-b97f-9ebb8c3fbd11",
     "title": "Bonded Fetch",
+    "set_id": "fut",
+    "order": 50,
     "scryfall_uri": "https://scryfall.com/card/fut/50/bonded-fetch",
     "img_uri": "https://cards.scryfall.io/grid/front/7/6/76ced470-97c3-4683-b97f-9ebb8c3fbd11.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Homunculus"
+    "card_type": "Creature \u2014 Homunculus",
+    "color": "U"
   },
   {
     "id": "799538af-e497-457b-b096-ee6f342f51b5",
     "title": "Linessa, Zephyr Mage",
+    "set_id": "fut",
+    "order": 51,
     "scryfall_uri": "https://scryfall.com/card/fut/51/linessa-zephyr-mage",
     "img_uri": "https://cards.scryfall.io/grid/front/7/9/799538af-e497-457b-b096-ee6f342f51b5.webp",
     "rarity": "Rare",
-    "card_type": "Legendary Creature \u2014 Human Wizard"
+    "card_type": "Legendary Creature \u2014 Human Wizard",
+    "color": "U"
   },
   {
     "id": "4e946be1-4ed6-4e2c-9782-3f630f8a8e1f",
     "title": "Logic Knot",
+    "set_id": "fut",
+    "order": 52,
     "scryfall_uri": "https://scryfall.com/card/fut/52/logic-knot",
     "img_uri": "https://cards.scryfall.io/grid/front/4/e/4e946be1-4ed6-4e2c-9782-3f630f8a8e1f.webp",
     "rarity": "Common",
-    "card_type": "Instant"
+    "card_type": "Instant",
+    "color": "U"
   },
   {
     "id": "b8bf083e-d0ec-4df9-a17a-8a28ad13d594",
     "title": "Mesmeric Sliver",
+    "set_id": "fut",
+    "order": 53,
     "scryfall_uri": "https://scryfall.com/card/fut/53/mesmeric-sliver",
     "img_uri": "https://cards.scryfall.io/grid/front/b/8/b8bf083e-d0ec-4df9-a17a-8a28ad13d594.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Sliver"
+    "card_type": "Creature \u2014 Sliver",
+    "color": "U"
   },
   {
     "id": "f76b3746-2e2c-4560-a2d2-e7b5b92833b2",
     "title": "Narcomoeba",
+    "set_id": "fut",
+    "order": 54,
     "scryfall_uri": "https://scryfall.com/card/fut/54/narcomoeba",
     "img_uri": "https://cards.scryfall.io/grid/front/f/7/f76b3746-2e2c-4560-a2d2-e7b5b92833b2.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Illusion"
+    "card_type": "Creature \u2014 Illusion",
+    "color": "U"
   },
   {
     "id": "3dab4f64-2a91-409a-b83b-45b22afd22ff",
     "title": "Nix",
+    "set_id": "fut",
+    "order": 55,
     "scryfall_uri": "https://scryfall.com/card/fut/55/nix",
     "img_uri": "https://cards.scryfall.io/grid/front/3/d/3dab4f64-2a91-409a-b83b-45b22afd22ff.webp",
     "rarity": "Rare",
-    "card_type": "Instant"
+    "card_type": "Instant",
+    "color": "U"
   },
   {
     "id": "77a425d3-a0b7-4d8d-8013-a27c59758b28",
     "title": "Sarcomite Myr",
+    "set_id": "fut",
+    "order": 56,
     "scryfall_uri": "https://scryfall.com/card/fut/56/sarcomite-myr",
     "img_uri": "https://cards.scryfall.io/grid/front/7/7/77a425d3-a0b7-4d8d-8013-a27c59758b28.webp",
     "rarity": "Common",
-    "card_type": "Artifact Creature \u2014 Phyrexian Myr"
+    "card_type": "Artifact Creature \u2014 Phyrexian Myr",
+    "color": "U"
   },
   {
     "id": "061d2f8f-1166-4579-9609-d8ba5db79172",
     "title": "Second Wind",
+    "set_id": "fut",
+    "order": 57,
     "scryfall_uri": "https://scryfall.com/card/fut/57/second-wind",
     "img_uri": "https://cards.scryfall.io/grid/front/0/6/061d2f8f-1166-4579-9609-d8ba5db79172.webp",
     "rarity": "Uncommon",
-    "card_type": "Enchantment \u2014 Aura"
+    "card_type": "Enchantment \u2014 Aura",
+    "color": "U"
   },
   {
     "id": "48cb3fa8-555f-4df6-994e-cf01896f7470",
     "title": "Shapeshifter's Marrow",
+    "set_id": "fut",
+    "order": 58,
     "scryfall_uri": "https://scryfall.com/card/fut/58/shapeshifters-marrow",
     "img_uri": "https://cards.scryfall.io/grid/front/4/8/48cb3fa8-555f-4df6-994e-cf01896f7470.webp",
     "rarity": "Rare",
-    "card_type": "Enchantment"
+    "card_type": "Enchantment",
+    "color": "U"
   },
   {
     "id": "79cc73ea-3f07-4d11-9961-dc31ac598b73",
     "title": "Spellweaver Volute",
+    "set_id": "fut",
+    "order": 59,
     "scryfall_uri": "https://scryfall.com/card/fut/59/spellweaver-volute",
     "img_uri": "https://cards.scryfall.io/grid/front/7/9/79cc73ea-3f07-4d11-9961-dc31ac598b73.webp",
     "rarity": "Rare",
-    "card_type": "Enchantment \u2014 Aura"
+    "card_type": "Enchantment \u2014 Aura",
+    "color": "U"
   },
   {
     "id": "0808b800-9f5f-42ef-8cd0-c04e64945adf",
     "title": "Spin into Myth",
+    "set_id": "fut",
+    "order": 60,
     "scryfall_uri": "https://scryfall.com/card/fut/60/spin-into-myth",
     "img_uri": "https://cards.scryfall.io/grid/front/0/8/0808b800-9f5f-42ef-8cd0-c04e64945adf.webp",
     "rarity": "Uncommon",
-    "card_type": "Instant"
+    "card_type": "Instant",
+    "color": "U"
   },
   {
     "id": "496eb37d-5c8f-4dd7-a0a7-3ed1bd2210d6",
     "title": "Vedalken Aethermage",
+    "set_id": "fut",
+    "order": 61,
     "scryfall_uri": "https://scryfall.com/card/fut/61/vedalken-aethermage",
     "img_uri": "https://cards.scryfall.io/grid/front/4/9/496eb37d-5c8f-4dd7-a0a7-3ed1bd2210d6.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Vedalken Wizard"
+    "card_type": "Creature \u2014 Vedalken Wizard",
+    "color": "U"
   },
   {
     "id": "111ddb99-08a4-4349-a246-d19de32527e2",
     "title": "Whip-Spine Drake",
+    "set_id": "fut",
+    "order": 62,
     "scryfall_uri": "https://scryfall.com/card/fut/62/whip-spine-drake",
     "img_uri": "https://cards.scryfall.io/grid/front/1/1/111ddb99-08a4-4349-a246-d19de32527e2.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Drake"
+    "card_type": "Creature \u2014 Drake",
+    "color": "U"
   },
   {
     "id": "945404d5-9e44-45e7-84fd-5f8c893e7d27",
     "title": "Augur of Skulls",
+    "set_id": "fut",
+    "order": 63,
     "scryfall_uri": "https://scryfall.com/card/fut/63/augur-of-skulls",
     "img_uri": "https://cards.scryfall.io/grid/front/9/4/945404d5-9e44-45e7-84fd-5f8c893e7d27.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Skeleton Wizard"
+    "card_type": "Creature \u2014 Skeleton Wizard",
+    "color": "B"
   },
   {
     "id": "192bc089-696d-41b4-a02f-d7dc166feedd",
     "title": "Cutthroat il-Dal",
+    "set_id": "fut",
+    "order": 64,
     "scryfall_uri": "https://scryfall.com/card/fut/64/cutthroat-il-dal",
     "img_uri": "https://cards.scryfall.io/grid/front/1/9/192bc089-696d-41b4-a02f-d7dc166feedd.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Human Rogue"
+    "card_type": "Creature \u2014 Human Rogue",
+    "color": "B"
   },
   {
     "id": "2c34e6aa-0414-45ba-b6eb-1ac4255d7de8",
     "title": "Festering March",
+    "set_id": "fut",
+    "order": 65,
     "scryfall_uri": "https://scryfall.com/card/fut/65/festering-march",
     "img_uri": "https://cards.scryfall.io/grid/front/2/c/2c34e6aa-0414-45ba-b6eb-1ac4255d7de8.webp",
     "rarity": "Uncommon",
-    "card_type": "Sorcery"
+    "card_type": "Sorcery",
+    "color": "B"
   },
   {
     "id": "d4839a0b-47db-4464-9e9a-0e976d468106",
     "title": "Gibbering Descent",
+    "set_id": "fut",
+    "order": 66,
     "scryfall_uri": "https://scryfall.com/card/fut/66/gibbering-descent",
     "img_uri": "https://cards.scryfall.io/grid/front/d/4/d4839a0b-47db-4464-9e9a-0e976d468106.webp",
     "rarity": "Rare",
-    "card_type": "Enchantment"
+    "card_type": "Enchantment",
+    "color": "B"
   },
   {
     "id": "e1d301f6-1ae2-4e26-a736-e59c7a8f2198",
     "title": "Grave Peril",
+    "set_id": "fut",
+    "order": 67,
     "scryfall_uri": "https://scryfall.com/card/fut/67/grave-peril",
     "img_uri": "https://cards.scryfall.io/grid/front/e/1/e1d301f6-1ae2-4e26-a736-e59c7a8f2198.webp",
     "rarity": "Common",
-    "card_type": "Enchantment"
+    "card_type": "Enchantment",
+    "color": "B"
   },
   {
     "id": "34603c3e-1078-48ca-9350-7d90c290b721",
     "title": "Ichor Slick",
+    "set_id": "fut",
+    "order": 68,
     "scryfall_uri": "https://scryfall.com/card/fut/68/ichor-slick",
     "img_uri": "https://cards.scryfall.io/grid/front/3/4/34603c3e-1078-48ca-9350-7d90c290b721.webp",
     "rarity": "Common",
-    "card_type": "Sorcery"
+    "card_type": "Sorcery",
+    "color": "B"
   },
   {
     "id": "4dfff4a8-43ae-41d4-acca-998234f9df35",
     "title": "Lost Hours",
+    "set_id": "fut",
+    "order": 69,
     "scryfall_uri": "https://scryfall.com/card/fut/69/lost-hours",
     "img_uri": "https://cards.scryfall.io/grid/front/4/d/4dfff4a8-43ae-41d4-acca-998234f9df35.webp",
     "rarity": "Common",
-    "card_type": "Sorcery"
+    "card_type": "Sorcery",
+    "color": "B"
   },
   {
     "id": "1005a22c-491b-4969-befb-406c42fcec68",
     "title": "Magus of the Abyss",
+    "set_id": "fut",
+    "order": 70,
     "scryfall_uri": "https://scryfall.com/card/fut/70/magus-of-the-abyss",
     "img_uri": "https://cards.scryfall.io/grid/front/1/0/1005a22c-491b-4969-befb-406c42fcec68.webp",
     "rarity": "Rare",
-    "card_type": "Creature \u2014 Human Wizard"
+    "card_type": "Creature \u2014 Human Wizard",
+    "color": "B"
   },
   {
     "id": "d6438a3b-6acb-4b49-8a46-9db80811d17c",
     "title": "Minions' Murmurs",
+    "set_id": "fut",
+    "order": 71,
     "scryfall_uri": "https://scryfall.com/card/fut/71/minions-murmurs",
     "img_uri": "https://cards.scryfall.io/grid/front/d/6/d6438a3b-6acb-4b49-8a46-9db80811d17c.webp",
     "rarity": "Uncommon",
-    "card_type": "Sorcery"
+    "card_type": "Sorcery",
+    "color": "B"
   },
   {
     "id": "11a431fa-e98c-434a-9138-b4bcc86edde8",
     "title": "Nihilith",
+    "set_id": "fut",
+    "order": 72,
     "scryfall_uri": "https://scryfall.com/card/fut/72/nihilith",
     "img_uri": "https://cards.scryfall.io/grid/front/1/1/11a431fa-e98c-434a-9138-b4bcc86edde8.webp",
     "rarity": "Rare",
-    "card_type": "Creature \u2014 Horror"
+    "card_type": "Creature \u2014 Horror",
+    "color": "B"
   },
   {
     "id": "0cd5486b-c6f4-4cfc-9590-8ffc78b48b0a",
     "title": "Oblivion Crown",
+    "set_id": "fut",
+    "order": 73,
     "scryfall_uri": "https://scryfall.com/card/fut/73/oblivion-crown",
     "img_uri": "https://cards.scryfall.io/grid/front/0/c/0cd5486b-c6f4-4cfc-9590-8ffc78b48b0a.webp",
     "rarity": "Common",
-    "card_type": "Enchantment \u2014 Aura"
+    "card_type": "Enchantment \u2014 Aura",
+    "color": "B"
   },
   {
     "id": "0911fb8b-d27a-4afc-9114-212f3e090393",
     "title": "Pooling Venom",
+    "set_id": "fut",
+    "order": 74,
     "scryfall_uri": "https://scryfall.com/card/fut/74/pooling-venom",
     "img_uri": "https://cards.scryfall.io/grid/front/0/9/0911fb8b-d27a-4afc-9114-212f3e090393.webp",
     "rarity": "Uncommon",
-    "card_type": "Enchantment \u2014 Aura"
+    "card_type": "Enchantment \u2014 Aura",
+    "color": "B"
   },
   {
     "id": "14e82edf-8acc-4024-bb88-f727f632b061",
     "title": "Putrid Cyclops",
+    "set_id": "fut",
+    "order": 75,
     "scryfall_uri": "https://scryfall.com/card/fut/75/putrid-cyclops",
     "img_uri": "https://cards.scryfall.io/grid/front/1/4/14e82edf-8acc-4024-bb88-f727f632b061.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Zombie Cyclops"
+    "card_type": "Creature \u2014 Zombie Cyclops",
+    "color": "B"
   },
   {
     "id": "e6faa406-aa7a-49ce-a42e-00e98f3fb74e",
     "title": "Shimian Specter",
+    "set_id": "fut",
+    "order": 76,
     "scryfall_uri": "https://scryfall.com/card/fut/76/shimian-specter",
     "img_uri": "https://cards.scryfall.io/grid/front/e/6/e6faa406-aa7a-49ce-a42e-00e98f3fb74e.webp",
     "rarity": "Rare",
-    "card_type": "Creature \u2014 Specter"
+    "card_type": "Creature \u2014 Specter",
+    "color": "B"
   },
   {
     "id": "4e783332-ea4e-4330-ba91-d23e5a58a7eb",
     "title": "Skirk Ridge Exhumer",
+    "set_id": "fut",
+    "order": 77,
     "scryfall_uri": "https://scryfall.com/card/fut/77/skirk-ridge-exhumer",
     "img_uri": "https://cards.scryfall.io/grid/front/4/e/4e783332-ea4e-4330-ba91-d23e5a58a7eb.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Zombie Spellshaper"
+    "card_type": "Creature \u2014 Zombie Spellshaper",
+    "color": "B"
   },
   {
     "id": "42696fdb-de1f-44ae-bef3-b6af068958d0",
     "title": "Slaughter Pact",
+    "set_id": "fut",
+    "order": 78,
     "scryfall_uri": "https://scryfall.com/card/fut/78/slaughter-pact",
     "img_uri": "https://cards.scryfall.io/grid/front/4/2/42696fdb-de1f-44ae-bef3-b6af068958d0.webp",
     "rarity": "Rare",
-    "card_type": "Color Indicator: Black\n          Instant"
+    "card_type": "Color Indicator: Black\n          Instant",
+    "color": ""
   },
   {
     "id": "6006922b-20f8-4f38-9522-9851541a6de5",
     "title": "Stronghold Rats",
+    "set_id": "fut",
+    "order": 79,
     "scryfall_uri": "https://scryfall.com/card/fut/79/stronghold-rats",
     "img_uri": "https://cards.scryfall.io/grid/front/6/0/6006922b-20f8-4f38-9522-9851541a6de5.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Rat"
+    "card_type": "Creature \u2014 Rat",
+    "color": "B"
   },
   {
     "id": "2879e7a1-0256-4116-be22-7c9972e4ce0b",
     "title": "Bitter Ordeal",
+    "set_id": "fut",
+    "order": 80,
     "scryfall_uri": "https://scryfall.com/card/fut/80/bitter-ordeal",
     "img_uri": "https://cards.scryfall.io/grid/front/2/8/2879e7a1-0256-4116-be22-7c9972e4ce0b.webp",
     "rarity": "Rare",
-    "card_type": "Sorcery"
+    "card_type": "Sorcery",
+    "color": "B"
   },
   {
     "id": "52c44610-6d4b-4c14-839f-2c085badec90",
     "title": "Bridge from Below",
+    "set_id": "fut",
+    "order": 81,
     "scryfall_uri": "https://scryfall.com/card/fut/81/bridge-from-below",
     "img_uri": "https://cards.scryfall.io/grid/front/5/2/52c44610-6d4b-4c14-839f-2c085badec90.webp",
     "rarity": "Rare",
-    "card_type": "Enchantment"
+    "card_type": "Enchantment",
+    "color": "B"
   },
   {
     "id": "8cddafc8-57d6-456e-af58-4b7f45e195d5",
     "title": "Death Rattle",
+    "set_id": "fut",
+    "order": 82,
     "scryfall_uri": "https://scryfall.com/card/fut/82/death-rattle",
     "img_uri": "https://cards.scryfall.io/grid/front/8/c/8cddafc8-57d6-456e-af58-4b7f45e195d5.webp",
     "rarity": "Common",
-    "card_type": "Instant"
+    "card_type": "Instant",
+    "color": "B"
   },
   {
     "id": "b66cc281-3fa9-4d7b-a32b-41c0a93059ba",
     "title": "Deepcavern Imp",
+    "set_id": "fut",
+    "order": 83,
     "scryfall_uri": "https://scryfall.com/card/fut/83/deepcavern-imp",
     "img_uri": "https://cards.scryfall.io/grid/front/b/6/b66cc281-3fa9-4d7b-a32b-41c0a93059ba.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Imp Rebel"
+    "card_type": "Creature \u2014 Imp Rebel",
+    "color": "B"
   },
   {
     "id": "08e1a646-6925-4a53-a99c-8951af016a7a",
     "title": "Fleshwrither",
+    "set_id": "fut",
+    "order": 84,
     "scryfall_uri": "https://scryfall.com/card/fut/84/fleshwrither",
     "img_uri": "https://cards.scryfall.io/grid/front/0/8/08e1a646-6925-4a53-a99c-8951af016a7a.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Horror"
+    "card_type": "Creature \u2014 Horror",
+    "color": "B"
   },
   {
     "id": "d796119a-f1eb-4de9-a9ca-d322017e9c5e",
     "title": "Frenzy Sliver",
+    "set_id": "fut",
+    "order": 85,
     "scryfall_uri": "https://scryfall.com/card/fut/85/frenzy-sliver",
     "img_uri": "https://cards.scryfall.io/grid/front/d/7/d796119a-f1eb-4de9-a9ca-d322017e9c5e.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Sliver"
+    "card_type": "Creature \u2014 Sliver",
+    "color": "B"
   },
   {
     "id": "0f0a08a8-bbb9-4816-b03c-af4d729fce45",
     "title": "Grave Scrabbler",
+    "set_id": "fut",
+    "order": 86,
     "scryfall_uri": "https://scryfall.com/card/fut/86/grave-scrabbler",
     "img_uri": "https://cards.scryfall.io/grid/front/0/f/0f0a08a8-bbb9-4816-b03c-af4d729fce45.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Zombie"
+    "card_type": "Creature \u2014 Zombie",
+    "color": "B"
   },
   {
     "id": "32f1f022-da7f-49a4-881d-b3a2c54c38eb",
     "title": "Korlash, Heir to Blackblade",
+    "set_id": "fut",
+    "order": 87,
     "scryfall_uri": "https://scryfall.com/card/fut/87/korlash-heir-to-blackblade",
     "img_uri": "https://cards.scryfall.io/grid/front/3/2/32f1f022-da7f-49a4-881d-b3a2c54c38eb.webp",
     "rarity": "Rare",
-    "card_type": "Legendary Creature \u2014 Zombie Warrior"
+    "card_type": "Legendary Creature \u2014 Zombie Warrior",
+    "color": "B"
   },
   {
     "id": "20c3f515-de7d-41eb-8ba0-532f4c13ac39",
     "title": "Mass of Ghouls",
+    "set_id": "fut",
+    "order": 88,
     "scryfall_uri": "https://scryfall.com/card/fut/88/mass-of-ghouls",
     "img_uri": "https://cards.scryfall.io/grid/front/2/0/20c3f515-de7d-41eb-8ba0-532f4c13ac39.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Zombie Warrior"
+    "card_type": "Creature \u2014 Zombie Warrior",
+    "color": "B"
   },
   {
     "id": "93b47606-82d1-402c-b1c6-591457b10d86",
     "title": "Snake Cult Initiation",
+    "set_id": "fut",
+    "order": 89,
     "scryfall_uri": "https://scryfall.com/card/fut/89/snake-cult-initiation",
     "img_uri": "https://cards.scryfall.io/grid/front/9/3/93b47606-82d1-402c-b1c6-591457b10d86.webp",
     "rarity": "Uncommon",
-    "card_type": "Enchantment \u2014 Aura"
+    "card_type": "Enchantment \u2014 Aura",
+    "color": "B"
   },
   {
     "id": "672e2815-bbcc-4338-a8ba-9aa97142ea69",
     "title": "Street Wraith",
+    "set_id": "fut",
+    "order": 90,
     "scryfall_uri": "https://scryfall.com/card/fut/90/street-wraith",
     "img_uri": "https://cards.scryfall.io/grid/front/6/7/672e2815-bbcc-4338-a8ba-9aa97142ea69.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Wraith"
+    "card_type": "Creature \u2014 Wraith",
+    "color": "B"
   },
   {
     "id": "8bd55a11-8658-4b92-9151-d6173a11991a",
     "title": "Tombstalker",
+    "set_id": "fut",
+    "order": 91,
     "scryfall_uri": "https://scryfall.com/card/fut/91/tombstalker",
     "img_uri": "https://cards.scryfall.io/grid/front/8/b/8bd55a11-8658-4b92-9151-d6173a11991a.webp",
     "rarity": "Rare",
-    "card_type": "Creature \u2014 Demon"
+    "card_type": "Creature \u2014 Demon",
+    "color": "B"
   },
   {
     "id": "651c7735-088d-495b-a58f-69abf4cac197",
     "title": "Witch's Mist",
+    "set_id": "fut",
+    "order": 92,
     "scryfall_uri": "https://scryfall.com/card/fut/92/witchs-mist",
     "img_uri": "https://cards.scryfall.io/grid/front/6/5/651c7735-088d-495b-a58f-69abf4cac197.webp",
     "rarity": "Uncommon",
-    "card_type": "Enchantment"
+    "card_type": "Enchantment",
+    "color": "B"
   },
   {
     "id": "ff6ba6a5-942d-44ff-87a9-3febf0b7e39b",
     "title": "Yixlid Jailer",
+    "set_id": "fut",
+    "order": 93,
     "scryfall_uri": "https://scryfall.com/card/fut/93/yixlid-jailer",
     "img_uri": "https://cards.scryfall.io/grid/front/f/f/ff6ba6a5-942d-44ff-87a9-3febf0b7e39b.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Zombie Wizard"
+    "card_type": "Creature \u2014 Zombie Wizard",
+    "color": "B"
   },
   {
     "id": "4d1c04fb-213f-4be1-9bba-94c737826bf8",
     "title": "Arc Blade",
+    "set_id": "fut",
+    "order": 94,
     "scryfall_uri": "https://scryfall.com/card/fut/94/arc-blade",
     "img_uri": "https://cards.scryfall.io/grid/front/4/d/4d1c04fb-213f-4be1-9bba-94c737826bf8.webp",
     "rarity": "Uncommon",
-    "card_type": "Sorcery"
+    "card_type": "Sorcery",
+    "color": "R"
   },
   {
     "id": "44814464-e5b6-46c6-ac2e-d7234add43f4",
     "title": "Bogardan Lancer",
+    "set_id": "fut",
+    "order": 95,
     "scryfall_uri": "https://scryfall.com/card/fut/95/bogardan-lancer",
     "img_uri": "https://cards.scryfall.io/grid/front/4/4/44814464-e5b6-46c6-ac2e-d7234add43f4.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Human Knight"
+    "card_type": "Creature \u2014 Human Knight",
+    "color": "R"
   },
   {
     "id": "ae256118-3a7c-4b6e-b716-ba1ddfb4fb85",
     "title": "Char-Rumbler",
+    "set_id": "fut",
+    "order": 96,
     "scryfall_uri": "https://scryfall.com/card/fut/96/char-rumbler",
     "img_uri": "https://cards.scryfall.io/grid/front/a/e/ae256118-3a7c-4b6e-b716-ba1ddfb4fb85.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Elemental"
+    "card_type": "Creature \u2014 Elemental",
+    "color": "R"
   },
   {
     "id": "cc78dbef-315c-4f9b-8a1a-76a62a941182",
     "title": "Emberwilde Augur",
+    "set_id": "fut",
+    "order": 97,
     "scryfall_uri": "https://scryfall.com/card/fut/97/emberwilde-augur",
     "img_uri": "https://cards.scryfall.io/grid/front/c/c/cc78dbef-315c-4f9b-8a1a-76a62a941182.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Goblin Shaman"
+    "card_type": "Creature \u2014 Goblin Shaman",
+    "color": "R"
   },
   {
     "id": "930ff9ec-6b97-445e-b274-7c8c5fe0c0fc",
     "title": "Fatal Attraction",
+    "set_id": "fut",
+    "order": 98,
     "scryfall_uri": "https://scryfall.com/card/fut/98/fatal-attraction",
     "img_uri": "https://cards.scryfall.io/grid/front/9/3/930ff9ec-6b97-445e-b274-7c8c5fe0c0fc.webp",
     "rarity": "Common",
-    "card_type": "Enchantment \u2014 Aura"
+    "card_type": "Enchantment \u2014 Aura",
+    "color": "R"
   },
   {
     "id": "8af5c695-d0f4-4ea7-bc12-f3a24d5b6a11",
     "title": "Gathan Raiders",
+    "set_id": "fut",
+    "order": 99,
     "scryfall_uri": "https://scryfall.com/card/fut/99/gathan-raiders",
     "img_uri": "https://cards.scryfall.io/grid/front/8/a/8af5c695-d0f4-4ea7-bc12-f3a24d5b6a11.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Human Warrior"
+    "card_type": "Creature \u2014 Human Warrior",
+    "color": "R"
   },
   {
     "id": "846134c0-5a8d-4ccb-8451-db29b70be3f5",
     "title": "Haze of Rage",
+    "set_id": "fut",
+    "order": 100,
     "scryfall_uri": "https://scryfall.com/card/fut/100/haze-of-rage",
     "img_uri": "https://cards.scryfall.io/grid/front/8/4/846134c0-5a8d-4ccb-8451-db29b70be3f5.webp",
     "rarity": "Uncommon",
-    "card_type": "Sorcery"
+    "card_type": "Sorcery",
+    "color": "R"
   },
   {
     "id": "c06a4443-6851-4873-8fb8-2ef76c9d6d2c",
     "title": "Magus of the Moon",
+    "set_id": "fut",
+    "order": 101,
     "scryfall_uri": "https://scryfall.com/card/fut/101/magus-of-the-moon",
     "img_uri": "https://cards.scryfall.io/grid/front/c/0/c06a4443-6851-4873-8fb8-2ef76c9d6d2c.webp",
     "rarity": "Rare",
-    "card_type": "Creature \u2014 Human Wizard"
+    "card_type": "Creature \u2014 Human Wizard",
+    "color": "R"
   },
   {
     "id": "31e0713c-dbf4-4403-ae69-58fd483e2481",
     "title": "Molten Disaster",
+    "set_id": "fut",
+    "order": 102,
     "scryfall_uri": "https://scryfall.com/card/fut/102/molten-disaster",
     "img_uri": "https://cards.scryfall.io/grid/front/3/1/31e0713c-dbf4-4403-ae69-58fd483e2481.webp",
     "rarity": "Rare",
-    "card_type": "Sorcery"
+    "card_type": "Sorcery",
+    "color": "R"
   },
   {
     "id": "8f332ef3-335a-494d-a90f-61a9e9834ccd",
     "title": "Pact of the Titan",
+    "set_id": "fut",
+    "order": 103,
     "scryfall_uri": "https://scryfall.com/card/fut/103/pact-of-the-titan",
     "img_uri": "https://cards.scryfall.io/grid/front/8/f/8f332ef3-335a-494d-a90f-61a9e9834ccd.webp",
     "rarity": "Rare",
-    "card_type": "Color Indicator: Red\n          Instant"
+    "card_type": "Color Indicator: Red\n          Instant",
+    "color": ""
   },
   {
     "id": "456c4d8b-1dec-42ca-af89-4c40545261bb",
     "title": "Pyromancer's Swath",
+    "set_id": "fut",
+    "order": 104,
     "scryfall_uri": "https://scryfall.com/card/fut/104/pyromancers-swath",
     "img_uri": "https://cards.scryfall.io/grid/front/4/5/456c4d8b-1dec-42ca-af89-4c40545261bb.webp",
     "rarity": "Rare",
-    "card_type": "Enchantment"
+    "card_type": "Enchantment",
+    "color": "R"
   },
   {
     "id": "338be9e2-c0b8-4b69-b7b6-6ba9927a3a4d",
     "title": "Riddle of Lightning",
+    "set_id": "fut",
+    "order": 105,
     "scryfall_uri": "https://scryfall.com/card/fut/105/riddle-of-lightning",
     "img_uri": "https://cards.scryfall.io/grid/front/3/3/338be9e2-c0b8-4b69-b7b6-6ba9927a3a4d.webp",
     "rarity": "Common",
-    "card_type": "Instant"
+    "card_type": "Instant",
+    "color": "R"
   },
   {
     "id": "670c1a05-0dd2-4535-aa7f-ed33bbe92681",
     "title": "Rift Elemental",
+    "set_id": "fut",
+    "order": 106,
     "scryfall_uri": "https://scryfall.com/card/fut/106/rift-elemental",
     "img_uri": "https://cards.scryfall.io/grid/front/6/7/670c1a05-0dd2-4535-aa7f-ed33bbe92681.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Elemental"
+    "card_type": "Creature \u2014 Elemental",
+    "color": "R"
   },
   {
     "id": "bede410a-8b5c-48c0-8f5d-d8bd17e0b86b",
     "title": "Scourge of Kher Ridges",
+    "set_id": "fut",
+    "order": 107,
     "scryfall_uri": "https://scryfall.com/card/fut/107/scourge-of-kher-ridges",
     "img_uri": "https://cards.scryfall.io/grid/front/b/e/bede410a-8b5c-48c0-8f5d-d8bd17e0b86b.webp",
     "rarity": "Rare",
-    "card_type": "Creature \u2014 Dragon"
+    "card_type": "Creature \u2014 Dragon",
+    "color": "R"
   },
   {
     "id": "75d3e0ff-7738-4f5e-b35a-b9494095ab9f",
     "title": "Shivan Sand-Mage",
+    "set_id": "fut",
+    "order": 108,
     "scryfall_uri": "https://scryfall.com/card/fut/108/shivan-sand-mage",
     "img_uri": "https://cards.scryfall.io/grid/front/7/5/75d3e0ff-7738-4f5e-b35a-b9494095ab9f.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Lizard Shaman"
+    "card_type": "Creature \u2014 Lizard Shaman",
+    "color": "R"
   },
   {
     "id": "91431126-05b3-4c2e-aff7-41c2866265f6",
     "title": "Sparkspitter",
+    "set_id": "fut",
+    "order": 109,
     "scryfall_uri": "https://scryfall.com/card/fut/109/sparkspitter",
     "img_uri": "https://cards.scryfall.io/grid/front/9/1/91431126-05b3-4c2e-aff7-41c2866265f6.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Elemental Spellshaper"
+    "card_type": "Creature \u2014 Elemental Spellshaper",
+    "color": "R"
   },
   {
     "id": "b930b146-d132-454f-b35d-4a247c14c054",
     "title": "Bloodshot Trainee",
+    "set_id": "fut",
+    "order": 110,
     "scryfall_uri": "https://scryfall.com/card/fut/110/bloodshot-trainee",
     "img_uri": "https://cards.scryfall.io/grid/front/b/9/b930b146-d132-454f-b35d-4a247c14c054.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Goblin Warrior"
+    "card_type": "Creature \u2014 Goblin Warrior",
+    "color": "R"
   },
   {
     "id": "179bec14-2e22-43eb-8854-b70a97dd023b",
     "title": "Boldwyr Intimidator",
+    "set_id": "fut",
+    "order": 111,
     "scryfall_uri": "https://scryfall.com/card/fut/111/boldwyr-intimidator",
     "img_uri": "https://cards.scryfall.io/grid/front/1/7/179bec14-2e22-43eb-8854-b70a97dd023b.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Giant Warrior"
+    "card_type": "Creature \u2014 Giant Warrior",
+    "color": "R"
   },
   {
     "id": "03ab2a41-315b-439c-b02c-f12335fc903a",
     "title": "Emblem of the Warmind",
+    "set_id": "fut",
+    "order": 112,
     "scryfall_uri": "https://scryfall.com/card/fut/112/emblem-of-the-warmind",
     "img_uri": "https://cards.scryfall.io/grid/front/0/3/03ab2a41-315b-439c-b02c-f12335fc903a.webp",
     "rarity": "Uncommon",
-    "card_type": "Enchantment \u2014 Aura"
+    "card_type": "Enchantment \u2014 Aura",
+    "color": "R"
   },
   {
     "id": "f3969cc7-92b9-45cd-9a4f-d94c2178a04d",
     "title": "Flowstone Embrace",
+    "set_id": "fut",
+    "order": 113,
     "scryfall_uri": "https://scryfall.com/card/fut/113/flowstone-embrace",
     "img_uri": "https://cards.scryfall.io/grid/front/f/3/f3969cc7-92b9-45cd-9a4f-d94c2178a04d.webp",
     "rarity": "Common",
-    "card_type": "Enchantment \u2014 Aura"
+    "card_type": "Enchantment \u2014 Aura",
+    "color": "R"
   },
   {
     "id": "8216b3f3-b9b6-4d90-a624-c1b9b7bdf953",
     "title": "Fomori Nomad",
+    "set_id": "fut",
+    "order": 114,
     "scryfall_uri": "https://scryfall.com/card/fut/114/fomori-nomad",
     "img_uri": "https://cards.scryfall.io/grid/front/8/2/8216b3f3-b9b6-4d90-a624-c1b9b7bdf953.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Nomad Giant"
+    "card_type": "Creature \u2014 Nomad Giant",
+    "color": "R"
   },
   {
     "id": "a60475e5-0d37-4af0-b717-da4c8dea45ac",
     "title": "Ghostfire",
+    "set_id": "fut",
+    "order": 115,
     "scryfall_uri": "https://scryfall.com/card/fut/115/ghostfire",
     "img_uri": "https://cards.scryfall.io/grid/front/a/6/a60475e5-0d37-4af0-b717-da4c8dea45ac.webp",
     "rarity": "Common",
-    "card_type": "Instant"
+    "card_type": "Instant",
+    "color": "R"
   },
   {
     "id": "31716a43-2522-46ff-a9a4-b6952cd41f11",
     "title": "Grinning Ignus",
+    "set_id": "fut",
+    "order": 116,
     "scryfall_uri": "https://scryfall.com/card/fut/116/grinning-ignus",
     "img_uri": "https://cards.scryfall.io/grid/front/3/1/31716a43-2522-46ff-a9a4-b6952cd41f11.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Elemental"
+    "card_type": "Creature \u2014 Elemental",
+    "color": "R"
   },
   {
     "id": "3b41cef7-bb16-4d89-9900-dc6d1f5200f0",
     "title": "Henchfiend of Ukor",
+    "set_id": "fut",
+    "order": 117,
     "scryfall_uri": "https://scryfall.com/card/fut/117/henchfiend-of-ukor",
     "img_uri": "https://cards.scryfall.io/grid/front/3/b/3b41cef7-bb16-4d89-9900-dc6d1f5200f0.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Ogre"
+    "card_type": "Creature \u2014 Ogre",
+    "color": "R"
   },
   {
     "id": "0c876479-5040-4d36-b43a-54d7fc9160c1",
     "title": "Homing Sliver",
+    "set_id": "fut",
+    "order": 118,
     "scryfall_uri": "https://scryfall.com/card/fut/118/homing-sliver",
     "img_uri": "https://cards.scryfall.io/grid/front/0/c/0c876479-5040-4d36-b43a-54d7fc9160c1.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Sliver"
+    "card_type": "Creature \u2014 Sliver",
+    "color": "R"
   },
   {
     "id": "cee5e9e3-e3ae-4e1b-a8fb-48c523631105",
     "title": "Shah of Naar Isle",
+    "set_id": "fut",
+    "order": 119,
     "scryfall_uri": "https://scryfall.com/card/fut/119/shah-of-naar-isle",
     "img_uri": "https://cards.scryfall.io/grid/front/c/e/cee5e9e3-e3ae-4e1b-a8fb-48c523631105.webp",
     "rarity": "Rare",
-    "card_type": "Creature \u2014 Efreet"
+    "card_type": "Creature \u2014 Efreet",
+    "color": "R"
   },
   {
     "id": "4b232c36-bff1-4f5e-98a6-ce6a98591aa6",
     "title": "Skizzik Surger",
+    "set_id": "fut",
+    "order": 120,
     "scryfall_uri": "https://scryfall.com/card/fut/120/skizzik-surger",
     "img_uri": "https://cards.scryfall.io/grid/front/4/b/4b232c36-bff1-4f5e-98a6-ce6a98591aa6.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Elemental"
+    "card_type": "Creature \u2014 Elemental",
+    "color": "R"
   },
   {
     "id": "007ce039-def1-4039-a0a0-ba72e8872dc5",
     "title": "Steamflogger Boss",
+    "set_id": "fut",
+    "order": 121,
     "scryfall_uri": "https://scryfall.com/card/fut/121/steamflogger-boss",
     "img_uri": "https://cards.scryfall.io/grid/front/0/0/007ce039-def1-4039-a0a0-ba72e8872dc5.webp",
     "rarity": "Rare",
-    "card_type": "Creature \u2014 Goblin Rigger"
+    "card_type": "Creature \u2014 Goblin Rigger",
+    "color": "R"
   },
   {
     "id": "1b2db053-3da0-4c3a-9b36-0eff6477540d",
     "title": "Storm Entity",
+    "set_id": "fut",
+    "order": 122,
     "scryfall_uri": "https://scryfall.com/card/fut/122/storm-entity",
     "img_uri": "https://cards.scryfall.io/grid/front/1/b/1b2db053-3da0-4c3a-9b36-0eff6477540d.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Elemental"
+    "card_type": "Creature \u2014 Elemental",
+    "color": "R"
   },
   {
     "id": "0b06bd73-c45a-4560-bd8d-413608c5f89e",
     "title": "Tarox Bladewing",
+    "set_id": "fut",
+    "order": 123,
     "scryfall_uri": "https://scryfall.com/card/fut/123/tarox-bladewing",
     "img_uri": "https://cards.scryfall.io/grid/front/0/b/0b06bd73-c45a-4560-bd8d-413608c5f89e.webp",
     "rarity": "Rare",
-    "card_type": "Legendary Creature \u2014 Dragon"
+    "card_type": "Legendary Creature \u2014 Dragon",
+    "color": "R"
   },
   {
     "id": "88a85be1-9de5-4f96-9fd1-15f3f17c4bea",
     "title": "Thunderblade Charge",
+    "set_id": "fut",
+    "order": 124,
     "scryfall_uri": "https://scryfall.com/card/fut/124/thunderblade-charge",
     "img_uri": "https://cards.scryfall.io/grid/front/8/8/88a85be1-9de5-4f96-9fd1-15f3f17c4bea.webp",
     "rarity": "Rare",
-    "card_type": "Sorcery"
+    "card_type": "Sorcery",
+    "color": "R"
   },
   {
     "id": "f2b2fa14-b08b-4cb9-bd77-c9da1dfa91d4",
     "title": "Cyclical Evolution",
+    "set_id": "fut",
+    "order": 125,
     "scryfall_uri": "https://scryfall.com/card/fut/125/cyclical-evolution",
     "img_uri": "https://cards.scryfall.io/grid/front/f/2/f2b2fa14-b08b-4cb9-bd77-c9da1dfa91d4.webp",
     "rarity": "Uncommon",
-    "card_type": "Sorcery"
+    "card_type": "Sorcery",
+    "color": "G"
   },
   {
     "id": "b344511d-631e-4f1d-9d7d-d7c89a473d1b",
     "title": "Force of Savagery",
+    "set_id": "fut",
+    "order": 126,
     "scryfall_uri": "https://scryfall.com/card/fut/126/force-of-savagery",
     "img_uri": "https://cards.scryfall.io/grid/front/b/3/b344511d-631e-4f1d-9d7d-d7c89a473d1b.webp",
     "rarity": "Rare",
-    "card_type": "Creature \u2014 Elemental"
+    "card_type": "Creature \u2014 Elemental",
+    "color": "G"
   },
   {
     "id": "a2216497-ce38-41fe-bde9-e8066df36d60",
     "title": "Heartwood Storyteller",
+    "set_id": "fut",
+    "order": 127,
     "scryfall_uri": "https://scryfall.com/card/fut/127/heartwood-storyteller",
     "img_uri": "https://cards.scryfall.io/grid/front/a/2/a2216497-ce38-41fe-bde9-e8066df36d60.webp",
     "rarity": "Rare",
-    "card_type": "Creature \u2014 Treefolk"
+    "card_type": "Creature \u2014 Treefolk",
+    "color": "G"
   },
   {
     "id": "d19216a1-4fe2-496e-9ef4-6ac652e5b7ca",
     "title": "Kavu Primarch",
+    "set_id": "fut",
+    "order": 128,
     "scryfall_uri": "https://scryfall.com/card/fut/128/kavu-primarch",
     "img_uri": "https://cards.scryfall.io/grid/front/d/1/d19216a1-4fe2-496e-9ef4-6ac652e5b7ca.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Kavu"
+    "card_type": "Creature \u2014 Kavu",
+    "color": "G"
   },
   {
     "id": "1c8c9473-97f4-4875-8f06-d3a70d4cbe6d",
     "title": "Llanowar Augur",
+    "set_id": "fut",
+    "order": 129,
     "scryfall_uri": "https://scryfall.com/card/fut/129/llanowar-augur",
     "img_uri": "https://cards.scryfall.io/grid/front/1/c/1c8c9473-97f4-4875-8f06-d3a70d4cbe6d.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Elf Shaman"
+    "card_type": "Creature \u2014 Elf Shaman",
+    "color": "G"
   },
   {
     "id": "bf831ed3-d3ae-43ac-82ca-4984c05dde86",
     "title": "Llanowar Empath",
+    "set_id": "fut",
+    "order": 130,
     "scryfall_uri": "https://scryfall.com/card/fut/130/llanowar-empath",
     "img_uri": "https://cards.scryfall.io/grid/front/b/f/bf831ed3-d3ae-43ac-82ca-4984c05dde86.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Elf Shaman"
+    "card_type": "Creature \u2014 Elf Shaman",
+    "color": "G"
   },
   {
     "id": "b23f0074-40ad-4057-a672-42ed4f9564c0",
     "title": "Llanowar Mentor",
+    "set_id": "fut",
+    "order": 131,
     "scryfall_uri": "https://scryfall.com/card/fut/131/llanowar-mentor",
     "img_uri": "https://cards.scryfall.io/grid/front/b/2/b23f0074-40ad-4057-a672-42ed4f9564c0.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Elf Spellshaper"
+    "card_type": "Creature \u2014 Elf Spellshaper",
+    "color": "G"
   },
   {
     "id": "03a9453c-09b2-4dbb-969a-369f5e78a90f",
     "title": "Magus of the Vineyard",
+    "set_id": "fut",
+    "order": 132,
     "scryfall_uri": "https://scryfall.com/card/fut/132/magus-of-the-vineyard",
     "img_uri": "https://cards.scryfall.io/grid/front/0/3/03a9453c-09b2-4dbb-969a-369f5e78a90f.webp",
     "rarity": "Rare",
-    "card_type": "Creature \u2014 Human Wizard"
+    "card_type": "Creature \u2014 Human Wizard",
+    "color": "G"
   },
   {
     "id": "1195c459-5e06-4f4e-aa6e-58fefa712684",
     "title": "Petrified Plating",
+    "set_id": "fut",
+    "order": 133,
     "scryfall_uri": "https://scryfall.com/card/fut/133/petrified-plating",
     "img_uri": "https://cards.scryfall.io/grid/front/1/1/1195c459-5e06-4f4e-aa6e-58fefa712684.webp",
     "rarity": "Common",
-    "card_type": "Enchantment \u2014 Aura"
+    "card_type": "Enchantment \u2014 Aura",
+    "color": "G"
   },
   {
     "id": "541ce95e-5102-44fb-b74d-7469331ca9cc",
     "title": "Quiet Disrepair",
+    "set_id": "fut",
+    "order": 134,
     "scryfall_uri": "https://scryfall.com/card/fut/134/quiet-disrepair",
     "img_uri": "https://cards.scryfall.io/grid/front/5/4/541ce95e-5102-44fb-b74d-7469331ca9cc.webp",
     "rarity": "Common",
-    "card_type": "Enchantment \u2014 Aura"
+    "card_type": "Enchantment \u2014 Aura",
+    "color": "G"
   },
   {
     "id": "5e09949e-c8cd-4bb4-9ed4-699abbc7ad3c",
     "title": "Ravaging Riftwurm",
+    "set_id": "fut",
+    "order": 135,
     "scryfall_uri": "https://scryfall.com/card/fut/135/ravaging-riftwurm",
     "img_uri": "https://cards.scryfall.io/grid/front/5/e/5e09949e-c8cd-4bb4-9ed4-699abbc7ad3c.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Wurm"
+    "card_type": "Creature \u2014 Wurm",
+    "color": "G"
   },
   {
     "id": "847dbbbc-e069-4a90-bc47-c28418bb8540",
     "title": "Riftsweeper",
+    "set_id": "fut",
+    "order": 136,
     "scryfall_uri": "https://scryfall.com/card/fut/136/riftsweeper",
     "img_uri": "https://cards.scryfall.io/grid/front/8/4/847dbbbc-e069-4a90-bc47-c28418bb8540.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Elf Shaman"
+    "card_type": "Creature \u2014 Elf Shaman",
+    "color": "G"
   },
   {
     "id": "811458c7-dcdc-43ef-8c3e-a90e21ce315e",
     "title": "Rites of Flourishing",
+    "set_id": "fut",
+    "order": 137,
     "scryfall_uri": "https://scryfall.com/card/fut/137/rites-of-flourishing",
     "img_uri": "https://cards.scryfall.io/grid/front/8/1/811458c7-dcdc-43ef-8c3e-a90e21ce315e.webp",
     "rarity": "Rare",
-    "card_type": "Enchantment"
+    "card_type": "Enchantment",
+    "color": "G"
   },
   {
     "id": "0b915355-4e98-44df-81bd-961a3d3c86b8",
     "title": "Sprout Swarm",
+    "set_id": "fut",
+    "order": 138,
     "scryfall_uri": "https://scryfall.com/card/fut/138/sprout-swarm",
     "img_uri": "https://cards.scryfall.io/grid/front/0/b/0b915355-4e98-44df-81bd-961a3d3c86b8.webp",
     "rarity": "Common",
-    "card_type": "Instant"
+    "card_type": "Instant",
+    "color": "G"
   },
   {
     "id": "948b026c-cfce-462b-afb6-7a383bd121de",
     "title": "Summoner's Pact",
+    "set_id": "fut",
+    "order": 139,
     "scryfall_uri": "https://scryfall.com/card/fut/139/summoners-pact",
     "img_uri": "https://cards.scryfall.io/grid/front/9/4/948b026c-cfce-462b-afb6-7a383bd121de.webp",
     "rarity": "Rare",
-    "card_type": "Color Indicator: Green\n          Instant"
+    "card_type": "Color Indicator: Green\n          Instant",
+    "color": ""
   },
   {
     "id": "b9d3d285-8327-4dba-911b-ff03b186f6b8",
     "title": "Utopia Mycon",
+    "set_id": "fut",
+    "order": 140,
     "scryfall_uri": "https://scryfall.com/card/fut/140/utopia-mycon",
     "img_uri": "https://cards.scryfall.io/grid/front/b/9/b9d3d285-8327-4dba-911b-ff03b186f6b8.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Fungus"
+    "card_type": "Creature \u2014 Fungus",
+    "color": "G"
   },
   {
     "id": "070d438a-ce68-480b-bdfc-1fc3e151e5f8",
     "title": "Wrap in Vigor",
+    "set_id": "fut",
+    "order": 141,
     "scryfall_uri": "https://scryfall.com/card/fut/141/wrap-in-vigor",
     "img_uri": "https://cards.scryfall.io/grid/front/0/7/070d438a-ce68-480b-bdfc-1fc3e151e5f8.webp",
     "rarity": "Common",
-    "card_type": "Instant"
+    "card_type": "Instant",
+    "color": "G"
   },
   {
     "id": "1a74fcde-7685-402c-9b2a-245aa75d75c1",
     "title": "Baru, Fist of Krosa",
+    "set_id": "fut",
+    "order": 142,
     "scryfall_uri": "https://scryfall.com/card/fut/142/baru-fist-of-krosa",
     "img_uri": "https://cards.scryfall.io/grid/front/1/a/1a74fcde-7685-402c-9b2a-245aa75d75c1.webp",
     "rarity": "Rare",
-    "card_type": "Legendary Creature \u2014 Human Druid"
+    "card_type": "Legendary Creature \u2014 Human Druid",
+    "color": "G"
   },
   {
     "id": "5807814f-7b18-431a-8031-898ff70ad69f",
     "title": "Centaur Omenreader",
+    "set_id": "fut",
+    "order": 143,
     "scryfall_uri": "https://scryfall.com/card/fut/143/centaur-omenreader",
     "img_uri": "https://cards.scryfall.io/grid/front/5/8/5807814f-7b18-431a-8031-898ff70ad69f.webp",
     "rarity": "Uncommon",
-    "card_type": "Snow Creature \u2014 Centaur Shaman"
+    "card_type": "Snow Creature \u2014 Centaur Shaman",
+    "color": "G"
   },
   {
     "id": "03998e86-ef67-4329-b106-61252f3f532a",
     "title": "Edge of Autumn",
+    "set_id": "fut",
+    "order": 144,
     "scryfall_uri": "https://scryfall.com/card/fut/144/edge-of-autumn",
     "img_uri": "https://cards.scryfall.io/grid/front/0/3/03998e86-ef67-4329-b106-61252f3f532a.webp",
     "rarity": "Common",
-    "card_type": "Sorcery"
+    "card_type": "Sorcery",
+    "color": "G"
   },
   {
     "id": "3c5136f8-1616-4463-8aa7-122cde6dcddb",
     "title": "Imperiosaur",
+    "set_id": "fut",
+    "order": 145,
     "scryfall_uri": "https://scryfall.com/card/fut/145/imperiosaur",
     "img_uri": "https://cards.scryfall.io/grid/front/3/c/3c5136f8-1616-4463-8aa7-122cde6dcddb.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Dinosaur"
+    "card_type": "Creature \u2014 Dinosaur",
+    "color": "G"
   },
   {
     "id": "4091524c-569c-4668-b18a-7f869b1169f3",
     "title": "Muraganda Petroglyphs",
+    "set_id": "fut",
+    "order": 146,
     "scryfall_uri": "https://scryfall.com/card/fut/146/muraganda-petroglyphs",
     "img_uri": "https://cards.scryfall.io/grid/front/4/0/4091524c-569c-4668-b18a-7f869b1169f3.webp",
     "rarity": "Rare",
-    "card_type": "Enchantment"
+    "card_type": "Enchantment",
+    "color": "G"
   },
   {
     "id": "4ef863d2-1e11-41cc-90d5-008bf6234565",
     "title": "Nacatl War-Pride",
+    "set_id": "fut",
+    "order": 147,
     "scryfall_uri": "https://scryfall.com/card/fut/147/nacatl-war-pride",
     "img_uri": "https://cards.scryfall.io/grid/front/4/e/4ef863d2-1e11-41cc-90d5-008bf6234565.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Cat Warrior"
+    "card_type": "Creature \u2014 Cat Warrior",
+    "color": "G"
   },
   {
     "id": "88b18b70-f656-4426-a3e5-69cf61fdaad1",
     "title": "Nessian Courser",
+    "set_id": "fut",
+    "order": 148,
     "scryfall_uri": "https://scryfall.com/card/fut/148/nessian-courser",
     "img_uri": "https://cards.scryfall.io/grid/front/8/8/88b18b70-f656-4426-a3e5-69cf61fdaad1.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Centaur Warrior"
+    "card_type": "Creature \u2014 Centaur Warrior",
+    "color": "G"
   },
   {
     "id": "7ca13d7a-0f60-4de6-9455-aea454cb2e46",
     "title": "Phosphorescent Feast",
+    "set_id": "fut",
+    "order": 149,
     "scryfall_uri": "https://scryfall.com/card/fut/149/phosphorescent-feast",
     "img_uri": "https://cards.scryfall.io/grid/front/7/c/7ca13d7a-0f60-4de6-9455-aea454cb2e46.webp",
     "rarity": "Uncommon",
-    "card_type": "Sorcery"
+    "card_type": "Sorcery",
+    "color": "G"
   },
   {
     "id": "335c3aa3-af89-44ce-955a-69e12d83175f",
     "title": "Quagnoth",
+    "set_id": "fut",
+    "order": 150,
     "scryfall_uri": "https://scryfall.com/card/fut/150/quagnoth",
     "img_uri": "https://cards.scryfall.io/grid/front/3/3/335c3aa3-af89-44ce-955a-69e12d83175f.webp",
     "rarity": "Rare",
-    "card_type": "Creature \u2014 Beast"
+    "card_type": "Creature \u2014 Beast",
+    "color": "G"
   },
   {
     "id": "231eb017-2945-4915-8032-c09894e88d49",
     "title": "Spellwild Ouphe",
+    "set_id": "fut",
+    "order": 151,
     "scryfall_uri": "https://scryfall.com/card/fut/151/spellwild-ouphe",
     "img_uri": "https://cards.scryfall.io/grid/front/2/3/231eb017-2945-4915-8032-c09894e88d49.webp",
     "rarity": "Uncommon",
-    "card_type": "Creature \u2014 Ouphe"
+    "card_type": "Creature \u2014 Ouphe",
+    "color": "G"
   },
   {
     "id": "cdc8f3f3-4ff4-4943-8ae0-c1af78a5ae16",
     "title": "Sporoloth Ancient",
+    "set_id": "fut",
+    "order": 152,
     "scryfall_uri": "https://scryfall.com/card/fut/152/sporoloth-ancient",
     "img_uri": "https://cards.scryfall.io/grid/front/c/d/cdc8f3f3-4ff4-4943-8ae0-c1af78a5ae16.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Fungus"
+    "card_type": "Creature \u2014 Fungus",
+    "color": "G"
   },
   {
     "id": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
     "title": "Tarmogoyf",
+    "set_id": "fut",
+    "order": 153,
     "scryfall_uri": "https://scryfall.com/card/fut/153/tarmogoyf",
     "img_uri": "https://cards.scryfall.io/grid/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.webp",
     "rarity": "Rare",
-    "card_type": "Creature \u2014 Lhurgoyf"
+    "card_type": "Creature \u2014 Lhurgoyf",
+    "color": "G"
   },
   {
     "id": "783a50a0-9394-4d97-856f-21eb126a0018",
     "title": "Thornweald Archer",
+    "set_id": "fut",
+    "order": 154,
     "scryfall_uri": "https://scryfall.com/card/fut/154/thornweald-archer",
     "img_uri": "https://cards.scryfall.io/grid/front/7/8/783a50a0-9394-4d97-856f-21eb126a0018.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Elf Archer"
+    "card_type": "Creature \u2014 Elf Archer",
+    "color": "G"
   },
   {
     "id": "66de9c95-e590-4b0d-a2d7-886d7a488a10",
     "title": "Virulent Sliver",
+    "set_id": "fut",
+    "order": 155,
     "scryfall_uri": "https://scryfall.com/card/fut/155/virulent-sliver",
     "img_uri": "https://cards.scryfall.io/grid/front/6/6/66de9c95-e590-4b0d-a2d7-886d7a488a10.webp",
     "rarity": "Common",
-    "card_type": "Creature \u2014 Sliver"
+    "card_type": "Creature \u2014 Sliver",
+    "color": "G"
   },
   {
     "id": "ec73e1ba-b543-4c64-aa89-164eef1d15d6",
     "title": "Glittering Wish",
+    "set_id": "fut",
+    "order": 156,
     "scryfall_uri": "https://scryfall.com/card/fut/156/glittering-wish",
     "img_uri": "https://cards.scryfall.io/grid/front/e/c/ec73e1ba-b543-4c64-aa89-164eef1d15d6.webp",
     "rarity": "Rare",
-    "card_type": "Sorcery"
+    "card_type": "Sorcery",
+    "color": "GW"
   },
   {
     "id": "1f437128-3a87-4958-97d0-3940d8761cba",
     "title": "Jhoira of the Ghitu",
+    "set_id": "fut",
+    "order": 157,
     "scryfall_uri": "https://scryfall.com/card/fut/157/jhoira-of-the-ghitu",
     "img_uri": "https://cards.scryfall.io/grid/front/1/f/1f437128-3a87-4958-97d0-3940d8761cba.webp",
     "rarity": "Rare",
-    "card_type": "Legendary Creature \u2014 Human Wizard"
+    "card_type": "Legendary Creature \u2014 Human Wizard",
+    "color": "RU"
   },
   {
     "id": "8bd37a04-87b1-42ad-b3e2-f17cd8998f9d",
     "title": "Sliver Legion",
+    "set_id": "fut",
+    "order": 158,
     "scryfall_uri": "https://scryfall.com/card/fut/158/sliver-legion",
     "img_uri": "https://cards.scryfall.io/grid/front/8/b/8bd37a04-87b1-42ad-b3e2-f17cd8998f9d.webp",
     "rarity": "Rare",
-    "card_type": "Legendary Creature \u2014 Sliver"
+    "card_type": "Legendary Creature \u2014 Sliver",
+    "color": "BGRUW"
   },
   {
     "id": "d2cb3bdf-dff5-4285-ad67-ae7ca84c9fbc",
     "title": "Akroma's Memorial",
+    "set_id": "fut",
+    "order": 159,
     "scryfall_uri": "https://scryfall.com/card/fut/159/akromas-memorial",
     "img_uri": "https://cards.scryfall.io/grid/front/d/2/d2cb3bdf-dff5-4285-ad67-ae7ca84c9fbc.webp",
     "rarity": "Rare",
-    "card_type": "Legendary Artifact"
+    "card_type": "Legendary Artifact",
+    "color": ""
   },
   {
     "id": "b893ab56-44a6-4b3c-bb3e-6deec298cbce",
     "title": "Cloud Key",
+    "set_id": "fut",
+    "order": 160,
     "scryfall_uri": "https://scryfall.com/card/fut/160/cloud-key",
     "img_uri": "https://cards.scryfall.io/grid/front/b/8/b893ab56-44a6-4b3c-bb3e-6deec298cbce.webp",
     "rarity": "Rare",
-    "card_type": "Artifact"
+    "card_type": "Artifact",
+    "color": ""
   },
   {
     "id": "7a7c98b0-d64d-4d0a-b284-1187a8e7095e",
     "title": "Coalition Relic",
+    "set_id": "fut",
+    "order": 161,
     "scryfall_uri": "https://scryfall.com/card/fut/161/coalition-relic",
     "img_uri": "https://cards.scryfall.io/grid/front/7/a/7a7c98b0-d64d-4d0a-b284-1187a8e7095e.webp",
     "rarity": "Rare",
-    "card_type": "Artifact"
+    "card_type": "Artifact",
+    "color": ""
   },
   {
     "id": "7971f6a6-c26c-4f8f-8de7-afc40563967d",
     "title": "Epochrasite",
+    "set_id": "fut",
+    "order": 162,
     "scryfall_uri": "https://scryfall.com/card/fut/162/epochrasite",
     "img_uri": "https://cards.scryfall.io/grid/front/7/9/7971f6a6-c26c-4f8f-8de7-afc40563967d.webp",
     "rarity": "Rare",
-    "card_type": "Artifact Creature \u2014 Construct"
+    "card_type": "Artifact Creature \u2014 Construct",
+    "color": ""
   },
   {
     "id": "b242b7dd-a632-4024-a69a-179a63fb93a8",
     "title": "Sliversmith",
+    "set_id": "fut",
+    "order": 163,
     "scryfall_uri": "https://scryfall.com/card/fut/163/sliversmith",
     "img_uri": "https://cards.scryfall.io/grid/front/b/2/b242b7dd-a632-4024-a69a-179a63fb93a8.webp",
     "rarity": "Uncommon",
-    "card_type": "Artifact Creature \u2014 Spellshaper"
+    "card_type": "Artifact Creature \u2014 Spellshaper",
+    "color": ""
   },
   {
     "id": "6efa61f0-c7bd-49e2-9d66-bf15ad0e9d03",
     "title": "Soultether Golem",
+    "set_id": "fut",
+    "order": 164,
     "scryfall_uri": "https://scryfall.com/card/fut/164/soultether-golem",
     "img_uri": "https://cards.scryfall.io/grid/front/6/e/6efa61f0-c7bd-49e2-9d66-bf15ad0e9d03.webp",
     "rarity": "Uncommon",
-    "card_type": "Artifact Creature \u2014 Golem"
+    "card_type": "Artifact Creature \u2014 Golem",
+    "color": ""
   },
   {
     "id": "e9f13705-6ede-4c29-a2b4-a082bf69e9c5",
     "title": "Sword of the Meek",
+    "set_id": "fut",
+    "order": 165,
     "scryfall_uri": "https://scryfall.com/card/fut/165/sword-of-the-meek",
     "img_uri": "https://cards.scryfall.io/grid/front/e/9/e9f13705-6ede-4c29-a2b4-a082bf69e9c5.webp",
     "rarity": "Uncommon",
-    "card_type": "Artifact \u2014 Equipment"
+    "card_type": "Artifact \u2014 Equipment",
+    "color": ""
   },
   {
     "id": "3705d3e4-317e-460d-b16e-e57238a19070",
     "title": "Veilstone Amulet",
+    "set_id": "fut",
+    "order": 166,
     "scryfall_uri": "https://scryfall.com/card/fut/166/veilstone-amulet",
     "img_uri": "https://cards.scryfall.io/grid/front/3/7/3705d3e4-317e-460d-b16e-e57238a19070.webp",
     "rarity": "Rare",
-    "card_type": "Artifact"
+    "card_type": "Artifact",
+    "color": ""
   },
   {
     "id": "e77eaaa0-40f9-40e4-b0ba-5a8addd764d3",
     "title": "Darksteel Garrison",
+    "set_id": "fut",
+    "order": 167,
     "scryfall_uri": "https://scryfall.com/card/fut/167/darksteel-garrison",
     "img_uri": "https://cards.scryfall.io/grid/front/e/7/e77eaaa0-40f9-40e4-b0ba-5a8addd764d3.webp",
     "rarity": "Rare",
-    "card_type": "Artifact \u2014 Fortification"
+    "card_type": "Artifact \u2014 Fortification",
+    "color": ""
   },
   {
     "id": "dc6040b6-cf02-4f7e-a275-177c3a6415aa",
     "title": "Whetwheel",
+    "set_id": "fut",
+    "order": 168,
     "scryfall_uri": "https://scryfall.com/card/fut/168/whetwheel",
     "img_uri": "https://cards.scryfall.io/grid/front/d/c/dc6040b6-cf02-4f7e-a275-177c3a6415aa.webp",
     "rarity": "Rare",
-    "card_type": "Artifact"
+    "card_type": "Artifact",
+    "color": ""
   },
   {
     "id": "8f7f06e8-d8ee-435c-965c-8e1302a8ec10",
     "title": "Dakmor Salvage",
+    "set_id": "fut",
+    "order": 169,
     "scryfall_uri": "https://scryfall.com/card/fut/169/dakmor-salvage",
     "img_uri": "https://cards.scryfall.io/grid/front/8/f/8f7f06e8-d8ee-435c-965c-8e1302a8ec10.webp",
     "rarity": "Uncommon",
-    "card_type": "Land"
+    "card_type": "Land",
+    "color": "L"
   },
   {
     "id": "3a6d546d-df98-4cb4-a68b-2a0c8bac5a72",
     "title": "Keldon Megaliths",
+    "set_id": "fut",
+    "order": 170,
     "scryfall_uri": "https://scryfall.com/card/fut/170/keldon-megaliths",
     "img_uri": "https://cards.scryfall.io/grid/front/3/a/3a6d546d-df98-4cb4-a68b-2a0c8bac5a72.webp",
     "rarity": "Uncommon",
-    "card_type": "Land"
+    "card_type": "Land",
+    "color": "L"
   },
   {
     "id": "04d07c6b-1afa-4321-b4f9-f22e81a0b818",
     "title": "Llanowar Reborn",
+    "set_id": "fut",
+    "order": 171,
     "scryfall_uri": "https://scryfall.com/card/fut/171/llanowar-reborn",
     "img_uri": "https://cards.scryfall.io/grid/front/0/4/04d07c6b-1afa-4321-b4f9-f22e81a0b818.webp",
     "rarity": "Uncommon",
-    "card_type": "Land"
+    "card_type": "Land",
+    "color": "L"
   },
   {
     "id": "18bde721-8fa0-4f69-9909-b4864929e676",
     "title": "New Benalia",
+    "set_id": "fut",
+    "order": 172,
     "scryfall_uri": "https://scryfall.com/card/fut/172/new-benalia",
     "img_uri": "https://cards.scryfall.io/grid/front/1/8/18bde721-8fa0-4f69-9909-b4864929e676.webp",
     "rarity": "Uncommon",
-    "card_type": "Land"
+    "card_type": "Land",
+    "color": "L"
   },
   {
     "id": "a9e80f06-ea05-4151-920f-7ddc88952169",
     "title": "Tolaria West",
+    "set_id": "fut",
+    "order": 173,
     "scryfall_uri": "https://scryfall.com/card/fut/173/tolaria-west",
     "img_uri": "https://cards.scryfall.io/grid/front/a/9/a9e80f06-ea05-4151-920f-7ddc88952169.webp",
     "rarity": "Uncommon",
-    "card_type": "Land"
+    "card_type": "Land",
+    "color": "L"
   },
   {
     "id": "8cee476d-42e1-4997-87af-73e18f542167",
     "title": "Dryad Arbor",
+    "set_id": "fut",
+    "order": 174,
     "scryfall_uri": "https://scryfall.com/card/fut/174/dryad-arbor",
     "img_uri": "https://cards.scryfall.io/grid/front/8/c/8cee476d-42e1-4997-87af-73e18f542167.webp",
     "rarity": "Uncommon",
-    "card_type": "Color Indicator: Green\n          Land Creature \u2014 Forest Dryad"
+    "card_type": "Color Indicator: Green\n          Land Creature \u2014 Forest Dryad",
+    "color": "L"
   },
   {
     "id": "81e7d329-ef6a-45f3-82b6-37a3606c00bc",
     "title": "Graven Cairns",
+    "set_id": "fut",
+    "order": 175,
     "scryfall_uri": "https://scryfall.com/card/fut/175/graven-cairns",
     "img_uri": "https://cards.scryfall.io/grid/front/8/1/81e7d329-ef6a-45f3-82b6-37a3606c00bc.webp",
     "rarity": "Rare",
-    "card_type": "Land"
+    "card_type": "Land",
+    "color": "L"
   },
   {
     "id": "e0b4d4b1-6e25-4c4b-a21a-1b7b1c1d6452",
     "title": "Grove of the Burnwillows",
+    "set_id": "fut",
+    "order": 176,
     "scryfall_uri": "https://scryfall.com/card/fut/176/grove-of-the-burnwillows",
     "img_uri": "https://cards.scryfall.io/grid/front/e/0/e0b4d4b1-6e25-4c4b-a21a-1b7b1c1d6452.webp",
     "rarity": "Rare",
-    "card_type": "Land"
+    "card_type": "Land",
+    "color": "L"
   },
   {
     "id": "d5dfc25d-a17b-4ead-9484-e8a18b8fa176",
     "title": "Horizon Canopy",
+    "set_id": "fut",
+    "order": 177,
     "scryfall_uri": "https://scryfall.com/card/fut/177/horizon-canopy",
     "img_uri": "https://cards.scryfall.io/grid/front/d/5/d5dfc25d-a17b-4ead-9484-e8a18b8fa176.webp",
     "rarity": "Rare",
-    "card_type": "Land"
+    "card_type": "Land",
+    "color": "L"
   },
   {
     "id": "80d1f953-9403-4e0a-b8e1-3f7d928a2834",
     "title": "Nimbus Maze",
+    "set_id": "fut",
+    "order": 178,
     "scryfall_uri": "https://scryfall.com/card/fut/178/nimbus-maze",
     "img_uri": "https://cards.scryfall.io/grid/front/8/0/80d1f953-9403-4e0a-b8e1-3f7d928a2834.webp",
     "rarity": "Rare",
-    "card_type": "Land"
+    "card_type": "Land",
+    "color": "L"
   },
   {
     "id": "8d5b2058-99fc-4d9b-9e3d-056fa3fd1244",
     "title": "River of Tears",
+    "set_id": "fut",
+    "order": 179,
     "scryfall_uri": "https://scryfall.com/card/fut/179/river-of-tears",
     "img_uri": "https://cards.scryfall.io/grid/front/8/d/8d5b2058-99fc-4d9b-9e3d-056fa3fd1244.webp",
     "rarity": "Rare",
-    "card_type": "Land"
+    "card_type": "Land",
+    "color": "L"
   },
   {
     "id": "c1db30e1-31df-44b9-930a-02428bd5ce47",
     "title": "Zoetic Cavern",
+    "set_id": "fut",
+    "order": 180,
     "scryfall_uri": "https://scryfall.com/card/fut/180/zoetic-cavern",
     "img_uri": "https://cards.scryfall.io/grid/front/c/1/c1db30e1-31df-44b9-930a-02428bd5ce47.webp",
     "rarity": "Uncommon",
-    "card_type": "Land"
+    "card_type": "Land",
+    "color": "L"
   }
 ]
