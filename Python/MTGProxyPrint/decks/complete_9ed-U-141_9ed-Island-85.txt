@@ -1,0 +1,227 @@
+Deck
+1 Air Elemental (9ED) 58
+1 Air Elemental (9ED) 58
+1 Annex (9ED) 59
+1 Annex (9ED) 59
+1 Archivist (9ED) 60
+1 Aven Fisher (9ED) 61
+1 Aven Fisher (9ED) 61
+1 Aven Fisher (9ED) 61
+1 Aven Fisher (9ED) 61
+1 Aven Windreader (9ED) 62
+1 Aven Windreader (9ED) 62
+1 Aven Windreader (9ED) 62
+1 Aven Windreader (9ED) 62
+1 Azure Drake (9ED) 63
+1 Azure Drake (9ED) 63
+1 Baleful Stare (9ED) 64
+1 Baleful Stare (9ED) 64
+1 Battle of Wits (9ED) 65
+1 Boomerang (9ED) 66
+1 Boomerang (9ED) 66
+1 Boomerang (9ED) 66
+1 Boomerang (9ED) 66
+1 Clone (9ED) 67
+1 Confiscate (9ED) 68
+1 Confiscate (9ED) 68
+1 Counsel of the Soratami (9ED) 69
+1 Counsel of the Soratami (9ED) 69
+1 Counsel of the Soratami (9ED) 69
+1 Counsel of the Soratami (9ED) 69
+1 Cowardice (9ED) 70
+1 Crafty Pathmage (9ED) 71
+1 Crafty Pathmage (9ED) 71
+1 Crafty Pathmage (9ED) 71
+1 Crafty Pathmage (9ED) 71
+1 Daring Apprentice (9ED) 72
+1 Dehydration (9ED) 73
+1 Dehydration (9ED) 73
+1 Dehydration (9ED) 73
+1 Dehydration (9ED) 73
+1 Dream Prowler (9ED) 74
+1 Dream Prowler (9ED) 74
+1 Evacuation (9ED) 75
+1 Exhaustion (9ED) 76
+1 Exhaustion (9ED) 76
+1 Fishliver Oil (9ED) 77
+1 Fishliver Oil (9ED) 77
+1 Fishliver Oil (9ED) 77
+1 Fishliver Oil (9ED) 77
+1 Fleeting Image (9ED) 78
+1 Flight (9ED) 79
+1 Flight (9ED) 79
+1 Flight (9ED) 79
+1 Flight (9ED) 79
+1 Fugitive Wizard (9ED) 80
+1 Fugitive Wizard (9ED) 80
+1 Fugitive Wizard (9ED) 80
+1 Fugitive Wizard (9ED) 80
+1 Horned Turtle (9ED) 81
+1 Horned Turtle (9ED) 81
+1 Horned Turtle (9ED) 81
+1 Horned Turtle (9ED) 81
+1 Imaginary Pet (9ED) 82
+1 Levitation (9ED) 83
+1 Levitation (9ED) 83
+1 Lumengrid Warden (9ED) 84
+1 Lumengrid Warden (9ED) 84
+1 Lumengrid Warden (9ED) 84
+1 Lumengrid Warden (9ED) 84
+1 Mahamoti Djinn (9ED) 85
+1 Mana Leak (9ED) 86
+1 Mana Leak (9ED) 86
+1 Mana Leak (9ED) 86
+1 Mana Leak (9ED) 86
+1 Mind Bend (9ED) 87
+1 Phantom Warrior (9ED) 88
+1 Phantom Warrior (9ED) 88
+1 Plagiarize (9ED) 89
+1 Polymorph (9ED) 90
+1 Puppeteer (9ED) 91
+1 Puppeteer (9ED) 91
+1 Reminisce (9ED) 92
+1 Reminisce (9ED) 92
+1 Remove Soul (9ED) 93
+1 Remove Soul (9ED) 93
+1 Remove Soul (9ED) 93
+1 Remove Soul (9ED) 93
+1 Rewind (9ED) 94
+1 Rewind (9ED) 94
+1 Sage Aven (9ED) 95
+1 Sage Aven (9ED) 95
+1 Sage Aven (9ED) 95
+1 Sage Aven (9ED) 95
+1 Sea Monster (9ED) 96
+1 Sea Monster (9ED) 96
+1 Sea Monster (9ED) 96
+1 Sea Monster (9ED) 96
+1 Sea's Claim (9ED) 97
+1 Sea's Claim (9ED) 97
+1 Sea's Claim (9ED) 97
+1 Sea's Claim (9ED) 97
+1 Sift (9ED) 98
+1 Sift (9ED) 98
+1 Sift (9ED) 98
+1 Sift (9ED) 98
+1 Sleight of Hand (9ED) 99
+1 Sleight of Hand (9ED) 99
+1 Sleight of Hand (9ED) 99
+1 Sleight of Hand (9ED) 99
+1 Storm Crow (9ED) 100
+1 Storm Crow (9ED) 100
+1 Storm Crow (9ED) 100
+1 Storm Crow (9ED) 100
+1 Telepathy (9ED) 101
+1 Telepathy (9ED) 101
+1 Temporal Adept (9ED) 102
+1 Thieving Magpie (9ED) 103
+1 Thieving Magpie (9ED) 103
+1 Thought Courier (9ED) 104
+1 Thought Courier (9ED) 104
+1 Tidal Kraken (9ED) 105
+1 Tidings (9ED) 106
+1 Tidings (9ED) 106
+1 Time Ebb (9ED) 107
+1 Time Ebb (9ED) 107
+1 Time Ebb (9ED) 107
+1 Time Ebb (9ED) 107
+1 Trade Routes (9ED) 108
+1 Traumatize (9ED) 109
+1 Treasure Trove (9ED) 110
+1 Treasure Trove (9ED) 110
+1 Wanderguard Sentry (9ED) 111
+1 Wanderguard Sentry (9ED) 111
+1 Wanderguard Sentry (9ED) 111
+1 Wanderguard Sentry (9ED) 111
+1 Wind Drake (9ED) 112
+1 Wind Drake (9ED) 112
+1 Wind Drake (9ED) 112
+1 Wind Drake (9ED) 112
+1 Withering Gaze (9ED) 113
+1 Withering Gaze (9ED) 113
+1 Zur's Weirding (9ED) 114
+1 Island (9ED) 335
+1 Island (9ED) 335
+1 Island (9ED) 335
+1 Island (9ED) 335
+1 Island (9ED) 335
+1 Island (9ED) 335
+1 Island (9ED) 335
+1 Island (9ED) 335
+1 Island (9ED) 335
+1 Island (9ED) 335
+1 Island (9ED) 335
+1 Island (9ED) 335
+1 Island (9ED) 335
+1 Island (9ED) 335
+1 Island (9ED) 335
+1 Island (9ED) 335
+1 Island (9ED) 335
+1 Island (9ED) 335
+1 Island (9ED) 335
+1 Island (9ED) 335
+1 Island (9ED) 335
+1 Island (9ED) 335
+1 Island (9ED) 336
+1 Island (9ED) 336
+1 Island (9ED) 336
+1 Island (9ED) 336
+1 Island (9ED) 336
+1 Island (9ED) 336
+1 Island (9ED) 336
+1 Island (9ED) 336
+1 Island (9ED) 336
+1 Island (9ED) 336
+1 Island (9ED) 336
+1 Island (9ED) 336
+1 Island (9ED) 336
+1 Island (9ED) 336
+1 Island (9ED) 336
+1 Island (9ED) 336
+1 Island (9ED) 336
+1 Island (9ED) 336
+1 Island (9ED) 336
+1 Island (9ED) 336
+1 Island (9ED) 336
+1 Island (9ED) 336
+1 Island (9ED) 337
+1 Island (9ED) 337
+1 Island (9ED) 337
+1 Island (9ED) 337
+1 Island (9ED) 337
+1 Island (9ED) 337
+1 Island (9ED) 337
+1 Island (9ED) 337
+1 Island (9ED) 337
+1 Island (9ED) 337
+1 Island (9ED) 337
+1 Island (9ED) 337
+1 Island (9ED) 337
+1 Island (9ED) 337
+1 Island (9ED) 337
+1 Island (9ED) 337
+1 Island (9ED) 337
+1 Island (9ED) 337
+1 Island (9ED) 337
+1 Island (9ED) 338
+1 Island (9ED) 338
+1 Island (9ED) 338
+1 Island (9ED) 338
+1 Island (9ED) 338
+1 Island (9ED) 338
+1 Island (9ED) 338
+1 Island (9ED) 338
+1 Island (9ED) 338
+1 Island (9ED) 338
+1 Island (9ED) 338
+1 Island (9ED) 338
+1 Island (9ED) 338
+1 Island (9ED) 338
+1 Island (9ED) 338
+1 Island (9ED) 338
+1 Island (9ED) 338
+1 Island (9ED) 338
+1 Island (9ED) 338
+1 Island (9ED) 338
+1 Island (9ED) 338
+1 Island (9ED) 338

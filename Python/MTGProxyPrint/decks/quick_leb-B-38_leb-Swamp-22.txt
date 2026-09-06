@@ -1,0 +1,61 @@
+Deck
+1 Bog Wraith (LEB) 96
+1 Cursed Land (LEB) 98
+1 Dark Ritual (LEB) 99
+1 Dark Ritual (LEB) 99
+1 Dark Ritual (LEB) 99
+1 Deathgrip (LEB) 101
+1 Deathlace (LEB) 102
+1 Drain Life (LEB) 106
+1 Drudge Skeletons (LEB) 107
+1 Evil Presence (LEB) 108
+1 Evil Presence (LEB) 108
+1 Frozen Shade (LEB) 110
+1 Frozen Shade (LEB) 110
+1 Frozen Shade (LEB) 110
+1 Frozen Shade (LEB) 110
+1 Gloom (LEB) 111
+1 Howl from Beyond (LEB) 112
+1 Hypnotic Specter (LEB) 113
+1 Paralyze (LEB) 120
+1 Paralyze (LEB) 120
+1 Paralyze (LEB) 120
+1 Pestilence (LEB) 121
+1 Pestilence (LEB) 121
+1 Plague Rats (LEB) 122
+1 Plague Rats (LEB) 122
+1 Raise Dead (LEB) 123
+1 Raise Dead (LEB) 123
+1 Sacrifice (LEB) 125
+1 Scathe Zombies (LEB) 126
+1 Scavenging Ghoul (LEB) 127
+1 Simulacrum (LEB) 129
+1 Simulacrum (LEB) 129
+1 Sinkhole (LEB) 130
+1 Terror (LEB) 131
+1 Wall of Bone (LEB) 133
+1 Warp Artifact (LEB) 134
+1 Weakness (LEB) 135
+1 Weakness (LEB) 135
+1 Swamp (LEB) 294
+1 Swamp (LEB) 294
+1 Swamp (LEB) 294
+1 Swamp (LEB) 294
+1 Swamp (LEB) 294
+1 Swamp (LEB) 294
+1 Swamp (LEB) 294
+1 Swamp (LEB) 295
+1 Swamp (LEB) 295
+1 Swamp (LEB) 295
+1 Swamp (LEB) 295
+1 Swamp (LEB) 295
+1 Swamp (LEB) 295
+1 Swamp (LEB) 295
+1 Swamp (LEB) 296
+1 Swamp (LEB) 296
+1 Swamp (LEB) 296
+1 Swamp (LEB) 296
+1 Swamp (LEB) 296
+1 Swamp (LEB) 296
+1 Swamp (LEB) 296
+1 Swamp (LEB) 296

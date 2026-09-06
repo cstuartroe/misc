@@ -1,0 +1,61 @@
+Deck
+1 Intervention Pact (FUT) 8
+1 Arc Blade (FUT) 94
+1 Arc Blade (FUT) 94
+1 Bogardan Lancer (FUT) 95
+1 Bogardan Lancer (FUT) 95
+1 Bogardan Lancer (FUT) 95
+1 Bogardan Lancer (FUT) 95
+1 Char-Rumbler (FUT) 96
+1 Emberwilde Augur (FUT) 97
+1 Emberwilde Augur (FUT) 97
+1 Emberwilde Augur (FUT) 97
+1 Fatal Attraction (FUT) 98
+1 Fatal Attraction (FUT) 98
+1 Fatal Attraction (FUT) 98
+1 Gathan Raiders (FUT) 99
+1 Gathan Raiders (FUT) 99
+1 Haze of Rage (FUT) 100
+1 Haze of Rage (FUT) 100
+1 Molten Disaster (FUT) 102
+1 Pact of the Titan (FUT) 103
+1 Pyromancer's Swath (FUT) 104
+1 Riddle of Lightning (FUT) 105
+1 Riddle of Lightning (FUT) 105
+1 Riddle of Lightning (FUT) 105
+1 Rift Elemental (FUT) 106
+1 Rift Elemental (FUT) 106
+1 Rift Elemental (FUT) 106
+1 Scourge of Kher Ridges (FUT) 107
+1 Sparkspitter (FUT) 109
+1 Bloodshot Trainee (FUT) 110
+1 Bloodshot Trainee (FUT) 110
+1 Boldwyr Intimidator (FUT) 111
+1 Boldwyr Intimidator (FUT) 111
+1 Emblem of the Warmind (FUT) 112
+1 Flowstone Embrace (FUT) 113
+1 Flowstone Embrace (FUT) 113
+1 Fomori Nomad (FUT) 114
+1 Fomori Nomad (FUT) 114
+1 Ghostfire (FUT) 115
+1 Ghostfire (FUT) 115
+1 Ghostfire (FUT) 115
+1 Grinning Ignus (FUT) 116
+1 Grinning Ignus (FUT) 116
+1 Grinning Ignus (FUT) 116
+1 Henchfiend of Ukor (FUT) 117
+1 Henchfiend of Ukor (FUT) 117
+1 Henchfiend of Ukor (FUT) 117
+1 Henchfiend of Ukor (FUT) 117
+1 Homing Sliver (FUT) 118
+1 Homing Sliver (FUT) 118
+1 Homing Sliver (FUT) 118
+1 Homing Sliver (FUT) 118
+1 Steamflogger Boss (FUT) 121
+1 Storm Entity (FUT) 122
+1 Tarox Bladewing (FUT) 123
+1 Thunderblade Charge (FUT) 124
+1 Cloud Key (FUT) 160
+1 Sliversmith (FUT) 163
+1 Sliversmith (FUT) 163
+1 Sword of the Meek (FUT) 165

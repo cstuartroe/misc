@@ -1,0 +1,123 @@
+Deck
+1 Island (TSP) 286
+1 Island (TSP) 286
+1 Island (TSP) 286
+1 Island (TSP) 286
+1 Island (TSP) 286
+1 Island (TSP) 286
+1 Island (TSP) 286
+1 Island (TSP) 286
+1 Island (TSP) 286
+1 Island (TSP) 286
+1 Island (TSP) 286
+1 Island (TSP) 286
+1 Island (TSP) 287
+1 Island (TSP) 287
+1 Island (TSP) 287
+1 Island (TSP) 287
+1 Island (TSP) 287
+1 Island (TSP) 287
+1 Island (TSP) 287
+1 Island (TSP) 287
+1 Island (TSP) 287
+1 Island (TSP) 287
+1 Island (TSP) 287
+1 Island (TSP) 288
+1 Island (TSP) 288
+1 Island (TSP) 288
+1 Island (TSP) 288
+1 Island (TSP) 288
+1 Island (TSP) 288
+1 Island (TSP) 288
+1 Island (TSP) 288
+1 Island (TSP) 288
+1 Island (TSP) 288
+1 Island (TSP) 288
+1 Island (TSP) 289
+1 Island (TSP) 289
+1 Island (TSP) 289
+1 Island (TSP) 289
+1 Island (TSP) 289
+1 Island (TSP) 289
+1 Island (TSP) 289
+1 Island (TSP) 289
+1 Island (TSP) 289
+1 Island (TSP) 289
+1 Island (TSP) 289
+1 Island (TSP) 289
+1 Aven Augur (FUT) 32
+1 Aven Augur (FUT) 32
+1 Aven Augur (FUT) 32
+1 Aven Augur (FUT) 32
+1 Cloudseeder (FUT) 33
+1 Cloudseeder (FUT) 33
+1 Cryptic Annelid (FUT) 34
+1 Cryptic Annelid (FUT) 34
+1 Delay (FUT) 35
+1 Delay (FUT) 35
+1 Foresee (FUT) 36
+1 Foresee (FUT) 36
+1 Foresee (FUT) 36
+1 Foresee (FUT) 36
+1 Infiltrator il-Kor (FUT) 37
+1 Infiltrator il-Kor (FUT) 37
+1 Infiltrator il-Kor (FUT) 37
+1 Infiltrator il-Kor (FUT) 37
+1 Leaden Fists (FUT) 38
+1 Leaden Fists (FUT) 38
+1 Leaden Fists (FUT) 38
+1 Leaden Fists (FUT) 38
+1 Maelstrom Djinn (FUT) 39
+1 Magus of the Future (FUT) 40
+1 Mystic Speculation (FUT) 41
+1 Mystic Speculation (FUT) 41
+1 Reality Strobe (FUT) 43
+1 Reality Strobe (FUT) 43
+1 Take Possession (FUT) 44
+1 Unblinking Bleb (FUT) 45
+1 Unblinking Bleb (FUT) 45
+1 Unblinking Bleb (FUT) 45
+1 Unblinking Bleb (FUT) 45
+1 Venser, Shaper Savant (FUT) 46
+1 Venser's Diffusion (FUT) 47
+1 Venser's Diffusion (FUT) 47
+1 Venser's Diffusion (FUT) 47
+1 Venser's Diffusion (FUT) 47
+1 Arcanum Wings (FUT) 48
+1 Arcanum Wings (FUT) 48
+1 Blind Phantasm (FUT) 49
+1 Blind Phantasm (FUT) 49
+1 Blind Phantasm (FUT) 49
+1 Blind Phantasm (FUT) 49
+1 Bonded Fetch (FUT) 50
+1 Bonded Fetch (FUT) 50
+1 Linessa, Zephyr Mage (FUT) 51
+1 Logic Knot (FUT) 52
+1 Logic Knot (FUT) 52
+1 Logic Knot (FUT) 52
+1 Logic Knot (FUT) 52
+1 Mesmeric Sliver (FUT) 53
+1 Mesmeric Sliver (FUT) 53
+1 Mesmeric Sliver (FUT) 53
+1 Mesmeric Sliver (FUT) 53
+1 Narcomoeba (FUT) 54
+1 Narcomoeba (FUT) 54
+1 Nix (FUT) 55
+1 Sarcomite Myr (FUT) 56
+1 Sarcomite Myr (FUT) 56
+1 Sarcomite Myr (FUT) 56
+1 Sarcomite Myr (FUT) 56
+1 Second Wind (FUT) 57
+1 Second Wind (FUT) 57
+1 Shapeshifter's Marrow (FUT) 58
+1 Spellweaver Volute (FUT) 59
+1 Spin into Myth (FUT) 60
+1 Spin into Myth (FUT) 60
+1 Vedalken Aethermage (FUT) 61
+1 Vedalken Aethermage (FUT) 61
+1 Vedalken Aethermage (FUT) 61
+1 Vedalken Aethermage (FUT) 61
+1 Whip-Spine Drake (FUT) 62
+1 Whip-Spine Drake (FUT) 62
+1 Whip-Spine Drake (FUT) 62
+1 Whip-Spine Drake (FUT) 62

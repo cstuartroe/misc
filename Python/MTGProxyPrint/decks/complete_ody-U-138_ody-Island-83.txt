@@ -1,0 +1,222 @@
+Deck
+1 Aboshan, Cephalid Emperor (ODY) 58
+1 Aboshan's Desire (ODY) 59
+1 Aboshan's Desire (ODY) 59
+1 Aboshan's Desire (ODY) 59
+1 Aboshan's Desire (ODY) 59
+1 Aether Burst (ODY) 60
+1 Aether Burst (ODY) 60
+1 Aether Burst (ODY) 60
+1 Aether Burst (ODY) 60
+1 Amugaba (ODY) 61
+1 Aura Graft (ODY) 62
+1 Aura Graft (ODY) 62
+1 Aven Fisher (ODY) 63
+1 Aven Fisher (ODY) 63
+1 Aven Fisher (ODY) 63
+1 Aven Fisher (ODY) 63
+1 Aven Smokeweaver (ODY) 64
+1 Aven Smokeweaver (ODY) 64
+1 Aven Windreader (ODY) 65
+1 Aven Windreader (ODY) 65
+1 Aven Windreader (ODY) 65
+1 Aven Windreader (ODY) 65
+1 Balshan Beguiler (ODY) 66
+1 Balshan Beguiler (ODY) 66
+1 Balshan Griffin (ODY) 67
+1 Balshan Griffin (ODY) 67
+1 Bamboozle (ODY) 68
+1 Bamboozle (ODY) 68
+1 Battle of Wits (ODY) 69
+1 Careful Study (ODY) 70
+1 Careful Study (ODY) 70
+1 Careful Study (ODY) 70
+1 Careful Study (ODY) 70
+1 Cephalid Broker (ODY) 71
+1 Cephalid Broker (ODY) 71
+1 Cephalid Looter (ODY) 72
+1 Cephalid Looter (ODY) 72
+1 Cephalid Looter (ODY) 72
+1 Cephalid Looter (ODY) 72
+1 Cephalid Retainer (ODY) 73
+1 Cephalid Scout (ODY) 74
+1 Cephalid Scout (ODY) 74
+1 Cephalid Scout (ODY) 74
+1 Cephalid Scout (ODY) 74
+1 Cephalid Shrine (ODY) 75
+1 Chamber of Manipulation (ODY) 76
+1 Chamber of Manipulation (ODY) 76
+1 Cognivore (ODY) 77
+1 Concentrate (ODY) 78
+1 Concentrate (ODY) 78
+1 Cultural Exchange (ODY) 79
+1 Deluge (ODY) 80
+1 Deluge (ODY) 80
+1 Dematerialize (ODY) 81
+1 Dematerialize (ODY) 81
+1 Dematerialize (ODY) 81
+1 Dematerialize (ODY) 81
+1 Divert (ODY) 82
+1 Dreamwinder (ODY) 83
+1 Dreamwinder (ODY) 83
+1 Dreamwinder (ODY) 83
+1 Dreamwinder (ODY) 83
+1 Escape Artist (ODY) 84
+1 Escape Artist (ODY) 84
+1 Escape Artist (ODY) 84
+1 Escape Artist (ODY) 84
+1 Extract (ODY) 85
+1 Fervent Denial (ODY) 86
+1 Fervent Denial (ODY) 86
+1 Immobilizing Ink (ODY) 87
+1 Immobilizing Ink (ODY) 87
+1 Immobilizing Ink (ODY) 87
+1 Immobilizing Ink (ODY) 87
+1 Laquatus's Creativity (ODY) 88
+1 Laquatus's Creativity (ODY) 88
+1 Patron Wizard (ODY) 89
+1 Pedantic Learning (ODY) 90
+1 Peek (ODY) 91
+1 Peek (ODY) 91
+1 Peek (ODY) 91
+1 Peek (ODY) 91
+1 Persuasion (ODY) 92
+1 Phantom Whelp (ODY) 93
+1 Phantom Whelp (ODY) 93
+1 Phantom Whelp (ODY) 93
+1 Phantom Whelp (ODY) 93
+1 Predict (ODY) 94
+1 Predict (ODY) 94
+1 Psionic Gift (ODY) 95
+1 Psionic Gift (ODY) 95
+1 Psionic Gift (ODY) 95
+1 Psionic Gift (ODY) 95
+1 Pulsating Illusion (ODY) 96
+1 Pulsating Illusion (ODY) 96
+1 Puppeteer (ODY) 97
+1 Puppeteer (ODY) 97
+1 Repel (ODY) 98
+1 Repel (ODY) 98
+1 Repel (ODY) 98
+1 Repel (ODY) 98
+1 Rites of Refusal (ODY) 99
+1 Rites of Refusal (ODY) 99
+1 Rites of Refusal (ODY) 99
+1 Rites of Refusal (ODY) 99
+1 Scrivener (ODY) 100
+1 Scrivener (ODY) 100
+1 Scrivener (ODY) 100
+1 Scrivener (ODY) 100
+1 Shifty Doppelganger (ODY) 101
+1 Standstill (ODY) 102
+1 Standstill (ODY) 102
+1 Syncopate (ODY) 103
+1 Syncopate (ODY) 103
+1 Syncopate (ODY) 103
+1 Syncopate (ODY) 103
+1 Think Tank (ODY) 104
+1 Think Tank (ODY) 104
+1 Thought Devourer (ODY) 105
+1 Thought Eater (ODY) 106
+1 Thought Eater (ODY) 106
+1 Thought Nibbler (ODY) 107
+1 Thought Nibbler (ODY) 107
+1 Thought Nibbler (ODY) 107
+1 Thought Nibbler (ODY) 107
+1 Time Stretch (ODY) 108
+1 Touch of Invisibility (ODY) 109
+1 Touch of Invisibility (ODY) 109
+1 Touch of Invisibility (ODY) 109
+1 Touch of Invisibility (ODY) 109
+1 Traumatize (ODY) 110
+1 Treetop Sentinel (ODY) 111
+1 Treetop Sentinel (ODY) 111
+1 Unifying Theory (ODY) 112
+1 Upheaval (ODY) 113
+1 Words of Wisdom (ODY) 114
+1 Words of Wisdom (ODY) 114
+1 Words of Wisdom (ODY) 114
+1 Words of Wisdom (ODY) 114
+1 Island (ODY) 335
+1 Island (ODY) 335
+1 Island (ODY) 335
+1 Island (ODY) 335
+1 Island (ODY) 335
+1 Island (ODY) 335
+1 Island (ODY) 335
+1 Island (ODY) 335
+1 Island (ODY) 335
+1 Island (ODY) 335
+1 Island (ODY) 335
+1 Island (ODY) 335
+1 Island (ODY) 335
+1 Island (ODY) 335
+1 Island (ODY) 335
+1 Island (ODY) 335
+1 Island (ODY) 335
+1 Island (ODY) 335
+1 Island (ODY) 335
+1 Island (ODY) 335
+1 Island (ODY) 335
+1 Island (ODY) 336
+1 Island (ODY) 336
+1 Island (ODY) 336
+1 Island (ODY) 336
+1 Island (ODY) 336
+1 Island (ODY) 336
+1 Island (ODY) 336
+1 Island (ODY) 336
+1 Island (ODY) 336
+1 Island (ODY) 336
+1 Island (ODY) 336
+1 Island (ODY) 336
+1 Island (ODY) 336
+1 Island (ODY) 336
+1 Island (ODY) 336
+1 Island (ODY) 336
+1 Island (ODY) 336
+1 Island (ODY) 336
+1 Island (ODY) 336
+1 Island (ODY) 336
+1 Island (ODY) 337
+1 Island (ODY) 337
+1 Island (ODY) 337
+1 Island (ODY) 337
+1 Island (ODY) 337
+1 Island (ODY) 337
+1 Island (ODY) 337
+1 Island (ODY) 337
+1 Island (ODY) 337
+1 Island (ODY) 337
+1 Island (ODY) 337
+1 Island (ODY) 337
+1 Island (ODY) 337
+1 Island (ODY) 337
+1 Island (ODY) 337
+1 Island (ODY) 337
+1 Island (ODY) 337
+1 Island (ODY) 337
+1 Island (ODY) 337
+1 Island (ODY) 337
+1 Island (ODY) 337
+1 Island (ODY) 338
+1 Island (ODY) 338
+1 Island (ODY) 338
+1 Island (ODY) 338
+1 Island (ODY) 338
+1 Island (ODY) 338
+1 Island (ODY) 338
+1 Island (ODY) 338
+1 Island (ODY) 338
+1 Island (ODY) 338
+1 Island (ODY) 338
+1 Island (ODY) 338
+1 Island (ODY) 338
+1 Island (ODY) 338
+1 Island (ODY) 338
+1 Island (ODY) 338
+1 Island (ODY) 338
+1 Island (ODY) 338
+1 Island (ODY) 338
+1 Island (ODY) 338
+1 Island (ODY) 338

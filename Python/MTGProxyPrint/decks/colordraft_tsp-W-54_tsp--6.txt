@@ -1,0 +1,61 @@
+Deck
+1 Amrou Scout (TSP) 1
+1 Amrou Scout (TSP) 1
+1 Amrou Seekers (TSP) 2
+1 Benalish Cavalry (TSP) 4
+1 Benalish Cavalry (TSP) 4
+1 Benalish Cavalry (TSP) 4
+1 Castle Raptors (TSP) 5
+1 Cavalry Master (TSP) 6
+1 Children of Korlis (TSP) 8
+1 Children of Korlis (TSP) 8
+1 Cloudchaser Kestrel (TSP) 10
+1 D'Avenant Healer (TSP) 11
+1 D'Avenant Healer (TSP) 11
+1 Detainment Spell (TSP) 12
+1 Detainment Spell (TSP) 12
+1 Divine Congregation (TSP) 13
+1 Divine Congregation (TSP) 13
+1 Divine Congregation (TSP) 13
+1 Divine Congregation (TSP) 13
+1 Errant Doomsayers (TSP) 15
+1 Errant Doomsayers (TSP) 15
+1 Flickering Spirit (TSP) 17
+1 Foriysian Interceptor (TSP) 18
+1 Foriysian Interceptor (TSP) 18
+1 Foriysian Interceptor (TSP) 18
+1 Fortify (TSP) 19
+1 Fortify (TSP) 19
+1 Gaze of Justice (TSP) 20
+1 Gaze of Justice (TSP) 20
+1 Gaze of Justice (TSP) 20
+1 Griffin Guide (TSP) 21
+1 Griffin Guide (TSP) 21
+1 Gustcloak Cavalier (TSP) 22
+1 Gustcloak Cavalier (TSP) 22
+1 Icatian Crier (TSP) 23
+1 Ivory Giant (TSP) 24
+1 Ivory Giant (TSP) 24
+1 Ivory Giant (TSP) 24
+1 Ivory Giant (TSP) 24
+1 Magus of the Disk (TSP) 27
+1 Momentary Blink (TSP) 29
+1 Momentary Blink (TSP) 29
+1 Outrider en-Kor (TSP) 31
+1 Pentarch Ward (TSP) 33
+1 Plated Pegasus (TSP) 34
+1 Pull from Eternity (TSP) 35
+1 Sidewinder Sliver (TSP) 41
+1 Sidewinder Sliver (TSP) 41
+1 Sidewinder Sliver (TSP) 41
+1 Temporal Isolation (TSP) 43
+1 Tivadar of Thorn (TSP) 44
+1 Watcher Sliver (TSP) 45
+1 Watcher Sliver (TSP) 45
+1 Zealot il-Vec (TSP) 47
+1 Living End (TSP) 115
+1 Hypergenesis (TSP) 201
+1 Chromatic Star (TSP) 251
+1 Clockwork Hydra (TSP) 253
+1 Locket of Yesterdays (TSP) 258
+1 Thunder Totem (TSP) 265

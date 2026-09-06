@@ -1,0 +1,61 @@
+Deck
+1 Auntie's Snitch (MOR) 57
+1 Bitterblossom (MOR) 58
+1 Blightsoil Druid (MOR) 59
+1 Blightsoil Druid (MOR) 59
+1 Blightsoil Druid (MOR) 59
+1 Blightsoil Druid (MOR) 59
+1 Fendeep Summoner (MOR) 61
+1 Festercreep (MOR) 62
+1 Festercreep (MOR) 62
+1 Festercreep (MOR) 62
+1 Final-Sting Faerie (MOR) 63
+1 Final-Sting Faerie (MOR) 63
+1 Final-Sting Faerie (MOR) 63
+1 Frogtosser Banneret (MOR) 64
+1 Frogtosser Banneret (MOR) 64
+1 Frogtosser Banneret (MOR) 64
+1 Maralen of the Mornsong (MOR) 65
+1 Moonglove Changeling (MOR) 67
+1 Moonglove Changeling (MOR) 67
+1 Moonglove Changeling (MOR) 67
+1 Moonglove Changeling (MOR) 67
+1 Morsel Theft (MOR) 68
+1 Morsel Theft (MOR) 68
+1 Morsel Theft (MOR) 68
+1 Nightshade Schemers (MOR) 69
+1 Nightshade Schemers (MOR) 69
+1 Noggin Whack (MOR) 70
+1 Noggin Whack (MOR) 70
+1 Offalsnout (MOR) 71
+1 Offalsnout (MOR) 71
+1 Oona's Blackguard (MOR) 72
+1 Oona's Blackguard (MOR) 72
+1 Pack's Disdain (MOR) 73
+1 Pack's Disdain (MOR) 73
+1 Pack's Disdain (MOR) 73
+1 Pack's Disdain (MOR) 73
+1 Prickly Boggart (MOR) 74
+1 Prickly Boggart (MOR) 74
+1 Prickly Boggart (MOR) 74
+1 Prickly Boggart (MOR) 74
+1 Pulling Teeth (MOR) 75
+1 Scarblade Elite (MOR) 77
+1 Squeaking Pie Grubfellows (MOR) 78
+1 Squeaking Pie Grubfellows (MOR) 78
+1 Squeaking Pie Grubfellows (MOR) 78
+1 Squeaking Pie Grubfellows (MOR) 78
+1 Stinkdrinker Bandit (MOR) 80
+1 Violet Pall (MOR) 81
+1 Violet Pall (MOR) 81
+1 Violet Pall (MOR) 81
+1 Violet Pall (MOR) 81
+1 Warren Weirding (MOR) 82
+1 Weed-Pruner Poplar (MOR) 83
+1 Weirding Shaman (MOR) 84
+1 Cloak and Dagger (MOR) 141
+1 Diviner's Wand (MOR) 142
+1 Diviner's Wand (MOR) 142
+1 Door of Destinies (MOR) 143
+1 Thornbite Staff (MOR) 145
+1 Veteran's Armaments (MOR) 146

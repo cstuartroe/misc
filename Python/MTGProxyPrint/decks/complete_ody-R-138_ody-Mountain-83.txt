@@ -1,0 +1,222 @@
+Deck
+1 Acceptable Losses (ODY) 172
+1 Acceptable Losses (ODY) 172
+1 Acceptable Losses (ODY) 172
+1 Acceptable Losses (ODY) 172
+1 Anarchist (ODY) 173
+1 Anarchist (ODY) 173
+1 Anarchist (ODY) 173
+1 Anarchist (ODY) 173
+1 Ashen Firebeast (ODY) 174
+1 Barbarian Lunatic (ODY) 175
+1 Barbarian Lunatic (ODY) 175
+1 Barbarian Lunatic (ODY) 175
+1 Barbarian Lunatic (ODY) 175
+1 Bash to Bits (ODY) 176
+1 Bash to Bits (ODY) 176
+1 Battle Strain (ODY) 177
+1 Battle Strain (ODY) 177
+1 Blazing Salvo (ODY) 178
+1 Blazing Salvo (ODY) 178
+1 Blazing Salvo (ODY) 178
+1 Blazing Salvo (ODY) 178
+1 Bomb Squad (ODY) 179
+1 Burning Sands (ODY) 180
+1 Chainflinger (ODY) 181
+1 Chainflinger (ODY) 181
+1 Chainflinger (ODY) 181
+1 Chainflinger (ODY) 181
+1 Chance Encounter (ODY) 182
+1 Demolish (ODY) 183
+1 Demolish (ODY) 183
+1 Demoralize (ODY) 184
+1 Demoralize (ODY) 184
+1 Demoralize (ODY) 184
+1 Demoralize (ODY) 184
+1 Dwarven Grunt (ODY) 185
+1 Dwarven Grunt (ODY) 185
+1 Dwarven Grunt (ODY) 185
+1 Dwarven Grunt (ODY) 185
+1 Dwarven Recruiter (ODY) 186
+1 Dwarven Recruiter (ODY) 186
+1 Dwarven Shrine (ODY) 187
+1 Dwarven Strike Force (ODY) 188
+1 Dwarven Strike Force (ODY) 188
+1 Earth Rift (ODY) 189
+1 Earth Rift (ODY) 189
+1 Earth Rift (ODY) 189
+1 Earth Rift (ODY) 189
+1 Ember Beast (ODY) 190
+1 Ember Beast (ODY) 190
+1 Ember Beast (ODY) 190
+1 Ember Beast (ODY) 190
+1 Engulfing Flames (ODY) 191
+1 Engulfing Flames (ODY) 191
+1 Epicenter (ODY) 192
+1 Firebolt (ODY) 193
+1 Firebolt (ODY) 193
+1 Firebolt (ODY) 193
+1 Firebolt (ODY) 193
+1 Flame Burst (ODY) 194
+1 Flame Burst (ODY) 194
+1 Flame Burst (ODY) 194
+1 Flame Burst (ODY) 194
+1 Frenetic Ogre (ODY) 195
+1 Frenetic Ogre (ODY) 195
+1 Halberdier (ODY) 196
+1 Halberdier (ODY) 196
+1 Halberdier (ODY) 196
+1 Halberdier (ODY) 196
+1 Impulsive Maneuvers (ODY) 197
+1 Kamahl, Pit Fighter (ODY) 198
+1 Kamahl's Desire (ODY) 199
+1 Kamahl's Desire (ODY) 199
+1 Kamahl's Desire (ODY) 199
+1 Kamahl's Desire (ODY) 199
+1 Lava Blister (ODY) 200
+1 Lava Blister (ODY) 200
+1 Liquid Fire (ODY) 201
+1 Liquid Fire (ODY) 201
+1 Mad Dog (ODY) 202
+1 Mad Dog (ODY) 202
+1 Mad Dog (ODY) 202
+1 Mad Dog (ODY) 202
+1 Magma Vein (ODY) 203
+1 Magma Vein (ODY) 203
+1 Magnivore (ODY) 204
+1 Mine Layer (ODY) 205
+1 Minotaur Explorer (ODY) 206
+1 Minotaur Explorer (ODY) 206
+1 Molten Influence (ODY) 207
+1 Mudhole (ODY) 208
+1 Need for Speed (ODY) 209
+1 Obstinate Familiar (ODY) 210
+1 Pardic Firecat (ODY) 211
+1 Pardic Firecat (ODY) 211
+1 Pardic Firecat (ODY) 211
+1 Pardic Firecat (ODY) 211
+1 Pardic Miner (ODY) 212
+1 Pardic Swordsmith (ODY) 213
+1 Pardic Swordsmith (ODY) 213
+1 Pardic Swordsmith (ODY) 213
+1 Pardic Swordsmith (ODY) 213
+1 Price of Glory (ODY) 214
+1 Price of Glory (ODY) 214
+1 Reckless Charge (ODY) 215
+1 Reckless Charge (ODY) 215
+1 Reckless Charge (ODY) 215
+1 Reckless Charge (ODY) 215
+1 Recoup (ODY) 216
+1 Recoup (ODY) 216
+1 Rites of Initiation (ODY) 217
+1 Rites of Initiation (ODY) 217
+1 Rites of Initiation (ODY) 217
+1 Rites of Initiation (ODY) 217
+1 Savage Firecat (ODY) 218
+1 Scorching Missile (ODY) 219
+1 Scorching Missile (ODY) 219
+1 Scorching Missile (ODY) 219
+1 Scorching Missile (ODY) 219
+1 Seize the Day (ODY) 220
+1 Shower of Coals (ODY) 221
+1 Shower of Coals (ODY) 221
+1 Spark Mage (ODY) 222
+1 Spark Mage (ODY) 222
+1 Steam Vines (ODY) 223
+1 Steam Vines (ODY) 223
+1 Thermal Blast (ODY) 224
+1 Thermal Blast (ODY) 224
+1 Thermal Blast (ODY) 224
+1 Thermal Blast (ODY) 224
+1 Tremble (ODY) 225
+1 Tremble (ODY) 225
+1 Tremble (ODY) 225
+1 Tremble (ODY) 225
+1 Volcanic Spray (ODY) 226
+1 Volcanic Spray (ODY) 226
+1 Volley of Boulders (ODY) 227
+1 Whipkeeper (ODY) 228
+1 Whipkeeper (ODY) 228
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346

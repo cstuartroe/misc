@@ -3,17 +3,92 @@ import dataclasses
 
 
 MY_SETS = [
+    "leb",
+    "arn",
+    "atq",
+    "leg",
+    "drk",
+    "fem",
+    "chr",
+
+    # Ice Age block
+    "ice",
+    "hml",
+    "all",
+
+    # Mirage block
+    "mir",
+    "vis",
+    "wth",
+
+    "por",
+
+    # Tempest block
+    "tmp",
+    "sth",
+    "exo",
+
+    # Odyssey block
+    "ody",
+    "tor",
+    "jud",
+
+    # Mirrodin block
+    "mrd",
+    "dst",
+    "5dn",
+
+    # Kamigawa block
+    "chk",
+    "bok",
+    "sok",
+
+    "9ed",
+
+    # Ravnica block
+    "rav",
+    "gpt",
     "dis",
+
     "csp",
+
+    # Time Spiral block
     "tsp",
     "plc",
     "fut",
+
     "10e",
+
+    # Lorwyn-Shadowmoor block
     "lrw",
     "mor",
     "shm",
     "eve",
+
+    # Alara block
     "ala",
+    "con",
+    "arb",
+
+    # Zendikar block
+    "zen",
+    "wwk",
+    "roe",
+
+    # Scars of Mirrodin block
+    "som",
+    "mbs",
+    "nph",
+
+    # Innistrad block
+    "isd",
+    "dka",
+    "avr",
+
+    # Return to Ravnica block
+    "rtr",
+    "gtc",
+    "dgm",
 ]
 
 

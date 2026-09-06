@@ -1,0 +1,409 @@
+Deck
+1 Abeyance (WTH) 1
+1 Alabaster Dragon (WTH) 2
+1 Alms (WTH) 3
+1 Alms (WTH) 3
+1 Alms (WTH) 3
+1 Alms (WTH) 3
+1 Angelic Renewal (WTH) 4
+1 Angelic Renewal (WTH) 4
+1 Angelic Renewal (WTH) 4
+1 Angelic Renewal (WTH) 4
+1 Ardent Militia (WTH) 5
+1 Ardent Militia (WTH) 5
+1 Ardent Militia (WTH) 5
+1 Ardent Militia (WTH) 5
+1 Argivian Find (WTH) 6
+1 Argivian Find (WTH) 6
+1 Aura of Silence (WTH) 7
+1 Aura of Silence (WTH) 7
+1 Benalish Infantry (WTH) 8
+1 Benalish Infantry (WTH) 8
+1 Benalish Infantry (WTH) 8
+1 Benalish Infantry (WTH) 8
+1 Benalish Knight (WTH) 9
+1 Benalish Knight (WTH) 9
+1 Benalish Knight (WTH) 9
+1 Benalish Knight (WTH) 9
+1 Benalish Missionary (WTH) 10
+1 Benalish Missionary (WTH) 10
+1 Benalish Missionary (WTH) 10
+1 Benalish Missionary (WTH) 10
+1 Debt of Loyalty (WTH) 11
+1 Duskrider Falcon (WTH) 12
+1 Duskrider Falcon (WTH) 12
+1 Duskrider Falcon (WTH) 12
+1 Duskrider Falcon (WTH) 12
+1 Empyrial Armor (WTH) 13
+1 Empyrial Armor (WTH) 13
+1 Empyrial Armor (WTH) 13
+1 Empyrial Armor (WTH) 13
+1 Foriysian Brigade (WTH) 14
+1 Foriysian Brigade (WTH) 14
+1 Gerrard's Wisdom (WTH) 15
+1 Gerrard's Wisdom (WTH) 15
+1 Guided Strike (WTH) 16
+1 Guided Strike (WTH) 16
+1 Guided Strike (WTH) 16
+1 Guided Strike (WTH) 16
+1 Heavy Ballista (WTH) 17
+1 Heavy Ballista (WTH) 17
+1 Heavy Ballista (WTH) 17
+1 Heavy Ballista (WTH) 17
+1 Inner Sanctum (WTH) 18
+1 Kithkin Armor (WTH) 19
+1 Kithkin Armor (WTH) 19
+1 Kithkin Armor (WTH) 19
+1 Kithkin Armor (WTH) 19
+1 Master of Arms (WTH) 20
+1 Master of Arms (WTH) 20
+1 Mistmoon Griffin (WTH) 21
+1 Mistmoon Griffin (WTH) 21
+1 Peacekeeper (WTH) 22
+1 Revered Unicorn (WTH) 23
+1 Revered Unicorn (WTH) 23
+1 Serenity (WTH) 24
+1 Serra's Blessing (WTH) 25
+1 Serra's Blessing (WTH) 25
+1 Soul Shepherd (WTH) 26
+1 Soul Shepherd (WTH) 26
+1 Soul Shepherd (WTH) 26
+1 Soul Shepherd (WTH) 26
+1 Southern Paladin (WTH) 27
+1 Tariff (WTH) 28
+1 Volunteer Reserves (WTH) 29
+1 Volunteer Reserves (WTH) 29
+1 Abduction (WTH) 30
+1 Abduction (WTH) 30
+1 Abjure (WTH) 31
+1 Abjure (WTH) 31
+1 Abjure (WTH) 31
+1 Abjure (WTH) 31
+1 Ancestral Knowledge (WTH) 32
+1 Apathy (WTH) 33
+1 Apathy (WTH) 33
+1 Apathy (WTH) 33
+1 Apathy (WTH) 33
+1 Argivian Restoration (WTH) 34
+1 Argivian Restoration (WTH) 34
+1 Avizoa (WTH) 35
+1 Cloud Djinn (WTH) 36
+1 Cloud Djinn (WTH) 36
+1 Disrupt (WTH) 37
+1 Disrupt (WTH) 37
+1 Disrupt (WTH) 37
+1 Disrupt (WTH) 37
+1 Ertai's Familiar (WTH) 38
+1 Flux (WTH) 39
+1 Flux (WTH) 39
+1 Flux (WTH) 39
+1 Flux (WTH) 39
+1 Fog Elemental (WTH) 40
+1 Fog Elemental (WTH) 40
+1 Fog Elemental (WTH) 40
+1 Fog Elemental (WTH) 40
+1 Mana Chains (WTH) 41
+1 Mana Chains (WTH) 41
+1 Mana Chains (WTH) 41
+1 Mana Chains (WTH) 41
+1 Manta Ray (WTH) 42
+1 Manta Ray (WTH) 42
+1 Manta Ray (WTH) 42
+1 Manta Ray (WTH) 42
+1 Merfolk Traders (WTH) 43
+1 Merfolk Traders (WTH) 43
+1 Merfolk Traders (WTH) 43
+1 Merfolk Traders (WTH) 43
+1 Noble Benefactor (WTH) 44
+1 Noble Benefactor (WTH) 44
+1 Ophidian (WTH) 45
+1 Ophidian (WTH) 45
+1 Ophidian (WTH) 45
+1 Ophidian (WTH) 45
+1 Paradigm Shift (WTH) 46
+1 Pendrell Mists (WTH) 47
+1 Phantom Warrior (WTH) 48
+1 Phantom Warrior (WTH) 48
+1 Phantom Wings (WTH) 49
+1 Phantom Wings (WTH) 49
+1 Phantom Wings (WTH) 49
+1 Phantom Wings (WTH) 49
+1 Psychic Vortex (WTH) 50
+1 Relearn (WTH) 51
+1 Relearn (WTH) 51
+1 Sage Owl (WTH) 52
+1 Sage Owl (WTH) 52
+1 Sage Owl (WTH) 52
+1 Sage Owl (WTH) 52
+1 Teferi's Veil (WTH) 53
+1 Teferi's Veil (WTH) 53
+1 Timid Drake (WTH) 54
+1 Timid Drake (WTH) 54
+1 Tolarian Drake (WTH) 55
+1 Tolarian Drake (WTH) 55
+1 Tolarian Drake (WTH) 55
+1 Tolarian Drake (WTH) 55
+1 Tolarian Entrancer (WTH) 56
+1 Tolarian Serpent (WTH) 57
+1 Vodalian Illusionist (WTH) 58
+1 Vodalian Illusionist (WTH) 58
+1 Abyssal Gatekeeper (WTH) 59
+1 Abyssal Gatekeeper (WTH) 59
+1 Abyssal Gatekeeper (WTH) 59
+1 Abyssal Gatekeeper (WTH) 59
+1 Agonizing Memories (WTH) 60
+1 Agonizing Memories (WTH) 60
+1 Barrow Ghoul (WTH) 61
+1 Barrow Ghoul (WTH) 61
+1 Barrow Ghoul (WTH) 61
+1 Barrow Ghoul (WTH) 61
+1 Bone Dancer (WTH) 62
+1 Buried Alive (WTH) 63
+1 Buried Alive (WTH) 63
+1 Circling Vultures (WTH) 64
+1 Circling Vultures (WTH) 64
+1 Coils of the Medusa (WTH) 65
+1 Coils of the Medusa (WTH) 65
+1 Coils of the Medusa (WTH) 65
+1 Coils of the Medusa (WTH) 65
+1 Doomsday (WTH) 66
+1 Fatal Blow (WTH) 67
+1 Fatal Blow (WTH) 67
+1 Fatal Blow (WTH) 67
+1 Fatal Blow (WTH) 67
+1 Festering Evil (WTH) 68
+1 Festering Evil (WTH) 68
+1 Fledgling Djinn (WTH) 69
+1 Fledgling Djinn (WTH) 69
+1 Fledgling Djinn (WTH) 69
+1 Fledgling Djinn (WTH) 69
+1 Gallowbraid (WTH) 70
+1 Haunting Misery (WTH) 71
+1 Haunting Misery (WTH) 71
+1 Haunting Misery (WTH) 71
+1 Haunting Misery (WTH) 71
+1 Hidden Horror (WTH) 72
+1 Hidden Horror (WTH) 72
+1 Infernal Tribute (WTH) 73
+1 Mischievous Poltergeist (WTH) 74
+1 Mischievous Poltergeist (WTH) 74
+1 Morinfen (WTH) 75
+1 Necratog (WTH) 76
+1 Necratog (WTH) 76
+1 Odylic Wraith (WTH) 77
+1 Odylic Wraith (WTH) 77
+1 Razortooth Rats (WTH) 78
+1 Razortooth Rats (WTH) 78
+1 Razortooth Rats (WTH) 78
+1 Razortooth Rats (WTH) 78
+1 Shadow Rider (WTH) 79
+1 Shadow Rider (WTH) 79
+1 Shadow Rider (WTH) 79
+1 Shadow Rider (WTH) 79
+1 Shattered Crypt (WTH) 80
+1 Shattered Crypt (WTH) 80
+1 Shattered Crypt (WTH) 80
+1 Shattered Crypt (WTH) 80
+1 Spinning Darkness (WTH) 81
+1 Spinning Darkness (WTH) 81
+1 Spinning Darkness (WTH) 81
+1 Spinning Darkness (WTH) 81
+1 Strands of Night (WTH) 82
+1 Strands of Night (WTH) 82
+1 Tendrils of Despair (WTH) 83
+1 Tendrils of Despair (WTH) 83
+1 Tendrils of Despair (WTH) 83
+1 Tendrils of Despair (WTH) 83
+1 Urborg Justice (WTH) 84
+1 Urborg Stalker (WTH) 85
+1 Wave of Terror (WTH) 86
+1 Zombie Scavengers (WTH) 87
+1 Zombie Scavengers (WTH) 87
+1 Zombie Scavengers (WTH) 87
+1 Zombie Scavengers (WTH) 87
+1 Aether Flash (WTH) 88
+1 Aether Flash (WTH) 88
+1 Betrothed of Fire (WTH) 89
+1 Betrothed of Fire (WTH) 89
+1 Betrothed of Fire (WTH) 89
+1 Betrothed of Fire (WTH) 89
+1 Bloodrock Cyclops (WTH) 90
+1 Bloodrock Cyclops (WTH) 90
+1 Bloodrock Cyclops (WTH) 90
+1 Bloodrock Cyclops (WTH) 90
+1 Bogardan Firefiend (WTH) 91
+1 Bogardan Firefiend (WTH) 91
+1 Bogardan Firefiend (WTH) 91
+1 Bogardan Firefiend (WTH) 91
+1 Boiling Blood (WTH) 92
+1 Boiling Blood (WTH) 92
+1 Boiling Blood (WTH) 92
+1 Boiling Blood (WTH) 92
+1 Cinder Giant (WTH) 93
+1 Cinder Giant (WTH) 93
+1 Cinder Wall (WTH) 94
+1 Cinder Wall (WTH) 94
+1 Cinder Wall (WTH) 94
+1 Cinder Wall (WTH) 94
+1 Cone of Flame (WTH) 95
+1 Cone of Flame (WTH) 95
+1 Desperate Gambit (WTH) 96
+1 Desperate Gambit (WTH) 96
+1 Dwarven Berserker (WTH) 97
+1 Dwarven Berserker (WTH) 97
+1 Dwarven Berserker (WTH) 97
+1 Dwarven Berserker (WTH) 97
+1 Dwarven Thaumaturgist (WTH) 98
+1 Fervor (WTH) 99
+1 Fire Whip (WTH) 100
+1 Fire Whip (WTH) 100
+1 Fire Whip (WTH) 100
+1 Fire Whip (WTH) 100
+1 Firestorm (WTH) 101
+1 Fit of Rage (WTH) 102
+1 Fit of Rage (WTH) 102
+1 Fit of Rage (WTH) 102
+1 Fit of Rage (WTH) 102
+1 Goblin Bomb (WTH) 103
+1 Goblin Grenadiers (WTH) 104
+1 Goblin Grenadiers (WTH) 104
+1 Goblin Vandal (WTH) 105
+1 Goblin Vandal (WTH) 105
+1 Goblin Vandal (WTH) 105
+1 Goblin Vandal (WTH) 105
+1 Heart of Bogardan (WTH) 106
+1 Heat Stroke (WTH) 107
+1 Hurloon Shaman (WTH) 108
+1 Hurloon Shaman (WTH) 108
+1 Lava Hounds (WTH) 109
+1 Lava Hounds (WTH) 109
+1 Lava Storm (WTH) 110
+1 Lava Storm (WTH) 110
+1 Lava Storm (WTH) 110
+1 Lava Storm (WTH) 110
+1 Maraxus of Keld (WTH) 111
+1 Orcish Settlers (WTH) 112
+1 Orcish Settlers (WTH) 112
+1 Roc Hatchling (WTH) 113
+1 Roc Hatchling (WTH) 113
+1 Sawtooth Ogre (WTH) 114
+1 Sawtooth Ogre (WTH) 114
+1 Sawtooth Ogre (WTH) 114
+1 Sawtooth Ogre (WTH) 114
+1 Thunderbolt (WTH) 115
+1 Thunderbolt (WTH) 115
+1 Thunderbolt (WTH) 115
+1 Thunderbolt (WTH) 115
+1 Thundermare (WTH) 116
+1 Aboroth (WTH) 117
+1 Arctic Wolves (WTH) 118
+1 Arctic Wolves (WTH) 118
+1 Barishi (WTH) 119
+1 Barishi (WTH) 119
+1 Blossoming Wreath (WTH) 120
+1 Blossoming Wreath (WTH) 120
+1 Blossoming Wreath (WTH) 120
+1 Blossoming Wreath (WTH) 120
+1 Briar Shield (WTH) 121
+1 Briar Shield (WTH) 121
+1 Briar Shield (WTH) 121
+1 Briar Shield (WTH) 121
+1 Call of the Wild (WTH) 122
+1 Choking Vines (WTH) 123
+1 Choking Vines (WTH) 123
+1 Choking Vines (WTH) 123
+1 Choking Vines (WTH) 123
+1 Dense Foliage (WTH) 124
+1 Downdraft (WTH) 125
+1 Downdraft (WTH) 125
+1 Fallow Wurm (WTH) 126
+1 Fallow Wurm (WTH) 126
+1 Familiar Ground (WTH) 127
+1 Familiar Ground (WTH) 127
+1 Fungus Elemental (WTH) 128
+1 Gaea's Blessing (WTH) 129
+1 Gaea's Blessing (WTH) 129
+1 Harvest Wurm (WTH) 130
+1 Harvest Wurm (WTH) 130
+1 Harvest Wurm (WTH) 130
+1 Harvest Wurm (WTH) 130
+1 Liege of the Hollows (WTH) 131
+1 Llanowar Behemoth (WTH) 132
+1 Llanowar Behemoth (WTH) 132
+1 Llanowar Druid (WTH) 133
+1 Llanowar Druid (WTH) 133
+1 Llanowar Druid (WTH) 133
+1 Llanowar Druid (WTH) 133
+1 Llanowar Sentinel (WTH) 134
+1 Llanowar Sentinel (WTH) 134
+1 Llanowar Sentinel (WTH) 134
+1 Llanowar Sentinel (WTH) 134
+1 Mwonvuli Ooze (WTH) 135
+1 Nature's Kiss (WTH) 136
+1 Nature's Kiss (WTH) 136
+1 Nature's Kiss (WTH) 136
+1 Nature's Kiss (WTH) 136
+1 Nature's Resurgence (WTH) 137
+1 Redwood Treefolk (WTH) 138
+1 Redwood Treefolk (WTH) 138
+1 Redwood Treefolk (WTH) 138
+1 Redwood Treefolk (WTH) 138
+1 Rogue Elephant (WTH) 139
+1 Rogue Elephant (WTH) 139
+1 Rogue Elephant (WTH) 139
+1 Rogue Elephant (WTH) 139
+1 Striped Bears (WTH) 140
+1 Striped Bears (WTH) 140
+1 Striped Bears (WTH) 140
+1 Striped Bears (WTH) 140
+1 Sylvan Hierophant (WTH) 141
+1 Sylvan Hierophant (WTH) 141
+1 Tranquil Grove (WTH) 142
+1 Uktabi Efreet (WTH) 143
+1 Uktabi Efreet (WTH) 143
+1 Uktabi Efreet (WTH) 143
+1 Uktabi Efreet (WTH) 143
+1 Veteran Explorer (WTH) 144
+1 Veteran Explorer (WTH) 144
+1 Vitalize (WTH) 145
+1 Vitalize (WTH) 145
+1 Vitalize (WTH) 145
+1 Vitalize (WTH) 145
+1 Bubble Matrix (WTH) 146
+1 Bösium Strip (WTH) 147
+1 Chimeric Sphere (WTH) 148
+1 Chimeric Sphere (WTH) 148
+1 Dingus Staff (WTH) 149
+1 Dingus Staff (WTH) 149
+1 Jabari's Banner (WTH) 150
+1 Jabari's Banner (WTH) 150
+1 Jangling Automaton (WTH) 151
+1 Jangling Automaton (WTH) 151
+1 Jangling Automaton (WTH) 151
+1 Jangling Automaton (WTH) 151
+1 Mana Web (WTH) 152
+1 Mind Stone (WTH) 153
+1 Mind Stone (WTH) 153
+1 Mind Stone (WTH) 153
+1 Mind Stone (WTH) 153
+1 Null Rod (WTH) 154
+1 Phyrexian Furnace (WTH) 155
+1 Phyrexian Furnace (WTH) 155
+1 Serrated Biskelion (WTH) 156
+1 Serrated Biskelion (WTH) 156
+1 Steel Golem (WTH) 157
+1 Steel Golem (WTH) 157
+1 Straw Golem (WTH) 158
+1 Straw Golem (WTH) 158
+1 Thran Forge (WTH) 159
+1 Thran Forge (WTH) 159
+1 Thran Tome (WTH) 160
+1 Touchstone (WTH) 161
+1 Touchstone (WTH) 161
+1 Well of Knowledge (WTH) 162
+1 Xanthic Statue (WTH) 163
+1 Gemstone Mine (WTH) 164
+1 Gemstone Mine (WTH) 164
+1 Lotus Vale (WTH) 165
+1 Scorched Ruins (WTH) 166
+1 Winding Canyons (WTH) 167

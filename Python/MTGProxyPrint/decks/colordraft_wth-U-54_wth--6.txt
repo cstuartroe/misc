@@ -1,0 +1,61 @@
+Deck
+1 Abduction (WTH) 30
+1 Abduction (WTH) 30
+1 Abjure (WTH) 31
+1 Abjure (WTH) 31
+1 Abjure (WTH) 31
+1 Abjure (WTH) 31
+1 Apathy (WTH) 33
+1 Apathy (WTH) 33
+1 Apathy (WTH) 33
+1 Apathy (WTH) 33
+1 Argivian Restoration (WTH) 34
+1 Argivian Restoration (WTH) 34
+1 Avizoa (WTH) 35
+1 Cloud Djinn (WTH) 36
+1 Disrupt (WTH) 37
+1 Disrupt (WTH) 37
+1 Ertai's Familiar (WTH) 38
+1 Flux (WTH) 39
+1 Flux (WTH) 39
+1 Flux (WTH) 39
+1 Fog Elemental (WTH) 40
+1 Fog Elemental (WTH) 40
+1 Fog Elemental (WTH) 40
+1 Fog Elemental (WTH) 40
+1 Mana Chains (WTH) 41
+1 Mana Chains (WTH) 41
+1 Mana Chains (WTH) 41
+1 Mana Chains (WTH) 41
+1 Manta Ray (WTH) 42
+1 Merfolk Traders (WTH) 43
+1 Merfolk Traders (WTH) 43
+1 Merfolk Traders (WTH) 43
+1 Merfolk Traders (WTH) 43
+1 Noble Benefactor (WTH) 44
+1 Ophidian (WTH) 45
+1 Ophidian (WTH) 45
+1 Ophidian (WTH) 45
+1 Pendrell Mists (WTH) 47
+1 Phantom Wings (WTH) 49
+1 Phantom Wings (WTH) 49
+1 Phantom Wings (WTH) 49
+1 Psychic Vortex (WTH) 50
+1 Relearn (WTH) 51
+1 Relearn (WTH) 51
+1 Sage Owl (WTH) 52
+1 Sage Owl (WTH) 52
+1 Sage Owl (WTH) 52
+1 Teferi's Veil (WTH) 53
+1 Timid Drake (WTH) 54
+1 Timid Drake (WTH) 54
+1 Tolarian Drake (WTH) 55
+1 Tolarian Drake (WTH) 55
+1 Vodalian Illusionist (WTH) 58
+1 Vodalian Illusionist (WTH) 58
+1 Chimeric Sphere (WTH) 148
+1 Dingus Staff (WTH) 149
+1 Mana Web (WTH) 152
+1 Mind Stone (WTH) 153
+1 Phyrexian Furnace (WTH) 155
+1 Xanthic Statue (WTH) 163

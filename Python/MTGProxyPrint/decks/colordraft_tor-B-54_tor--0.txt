@@ -1,0 +1,55 @@
+Deck
+1 Boneshard Slasher (TOR) 50
+1 Cabal Ritual (TOR) 51
+1 Cabal Ritual (TOR) 51
+1 Cabal Ritual (TOR) 51
+1 Cabal Surgeon (TOR) 52
+1 Cabal Surgeon (TOR) 52
+1 Cabal Torturer (TOR) 53
+1 Cabal Torturer (TOR) 53
+1 Cabal Torturer (TOR) 53
+1 Cabal Torturer (TOR) 53
+1 Carrion Rats (TOR) 54
+1 Carrion Rats (TOR) 54
+1 Crippling Fatigue (TOR) 58
+1 Crippling Fatigue (TOR) 58
+1 Crippling Fatigue (TOR) 58
+1 Faceless Butcher (TOR) 60
+1 Faceless Butcher (TOR) 60
+1 Gravegouger (TOR) 62
+1 Gravegouger (TOR) 62
+1 Grotesque Hybrid (TOR) 63
+1 Grotesque Hybrid (TOR) 63
+1 Hypnox (TOR) 64
+1 Ichorid (TOR) 65
+1 Laquatus's Champion (TOR) 67
+1 Last Laugh (TOR) 68
+1 Mesmeric Fiend (TOR) 69
+1 Mortal Combat (TOR) 71
+1 Mortiphobia (TOR) 72
+1 Nantuko Shade (TOR) 74
+1 Organ Grinder (TOR) 75
+1 Organ Grinder (TOR) 75
+1 Organ Grinder (TOR) 75
+1 Psychotic Haze (TOR) 76
+1 Psychotic Haze (TOR) 76
+1 Psychotic Haze (TOR) 76
+1 Putrid Imp (TOR) 77
+1 Putrid Imp (TOR) 77
+1 Putrid Imp (TOR) 77
+1 Putrid Imp (TOR) 77
+1 Restless Dreams (TOR) 79
+1 Sengir Vampire (TOR) 80
+1 Shade's Form (TOR) 81
+1 Shade's Form (TOR) 81
+1 Shade's Form (TOR) 81
+1 Shambling Swarm (TOR) 82
+1 Sickening Dreams (TOR) 83
+1 Sickening Dreams (TOR) 83
+1 Soul Scourge (TOR) 85
+1 Strength of Lunacy (TOR) 86
+1 Strength of Lunacy (TOR) 86
+1 Unhinge (TOR) 87
+1 Unhinge (TOR) 87
+1 Waste Away (TOR) 88
+1 Zombie Trailblazer (TOR) 89

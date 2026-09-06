@@ -1,4 +1,5 @@
 import json
+import os.path
 
 import bs4
 import requests
@@ -83,6 +84,10 @@ def get_additional_metadata(cards: list[Card]) -> None:
                         ['card-symbol', 'card-symbol-7'],
                         ['card-symbol', 'card-symbol-8'],
                         ['card-symbol', 'card-symbol-9'],
+                        ['card-symbol', 'card-symbol-10'],
+                        ['card-symbol', 'card-symbol-11'],
+                        ['card-symbol', 'card-symbol-12'],
+                        ['card-symbol', 'card-symbol-15'],
                         ['card-symbol', 'card-symbol-X'],
                 ):
                     pass
@@ -145,7 +150,7 @@ def get_additional_metadata(cards: list[Card]) -> None:
                     colors.add("U")
 
                 else:
-                    raise ValueError(f"Unknown class: {sclass}")
+                    raise ValueError(f"Unknown class on card {card.title}: {sclass}")
 
             card.color = ''.join(sorted(list(colors)))
 
@@ -159,10 +164,14 @@ def download_images(cards: list[Card]) -> None:
 
 if __name__ == "__main__":
     for set_id in MY_SETS:
+        filepath = f"set_json/{set_id}.json"
+        if os.path.exists(filepath):
+            continue
+
         print(set_id)
         cards = scrape_gallery(set_id)
         get_additional_metadata(cards)
-        with open(f"set_json/{set_id}.json", "w") as fh:
+        with open(filepath, "w") as fh:
             json.dump([c.to_json() for c in cards], fh, indent=2)
 
-        download_images(cards)
+        # download_images(cards)

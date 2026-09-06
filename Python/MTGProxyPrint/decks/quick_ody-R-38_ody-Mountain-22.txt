@@ -1,0 +1,61 @@
+Deck
+1 Ashen Firebeast (ODY) 174
+1 Barbarian Lunatic (ODY) 175
+1 Barbarian Lunatic (ODY) 175
+1 Bash to Bits (ODY) 176
+1 Chainflinger (ODY) 181
+1 Chance Encounter (ODY) 182
+1 Dwarven Grunt (ODY) 185
+1 Dwarven Recruiter (ODY) 186
+1 Dwarven Strike Force (ODY) 188
+1 Earth Rift (ODY) 189
+1 Earth Rift (ODY) 189
+1 Engulfing Flames (ODY) 191
+1 Epicenter (ODY) 192
+1 Firebolt (ODY) 193
+1 Flame Burst (ODY) 194
+1 Flame Burst (ODY) 194
+1 Frenetic Ogre (ODY) 195
+1 Halberdier (ODY) 196
+1 Lava Blister (ODY) 200
+1 Liquid Fire (ODY) 201
+1 Mad Dog (ODY) 202
+1 Magma Vein (ODY) 203
+1 Mine Layer (ODY) 205
+1 Minotaur Explorer (ODY) 206
+1 Molten Influence (ODY) 207
+1 Pardic Firecat (ODY) 211
+1 Pardic Firecat (ODY) 211
+1 Pardic Swordsmith (ODY) 213
+1 Pardic Swordsmith (ODY) 213
+1 Rites of Initiation (ODY) 217
+1 Savage Firecat (ODY) 218
+1 Scorching Missile (ODY) 219
+1 Scorching Missile (ODY) 219
+1 Steam Vines (ODY) 223
+1 Thermal Blast (ODY) 224
+1 Thermal Blast (ODY) 224
+1 Thermal Blast (ODY) 224
+1 Tremble (ODY) 225
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346

@@ -23,6 +23,48 @@ COLOR_LANDS = {
     "W": "Plains",
 }
 
+COLOR_SNOW_LANDS = {
+    "B": "Snow-Covered Swamp",
+    "G": "Snow-Covered Forest",
+    "R": "Snow-Covered Mountain",
+    "U": "Snow-Covered Island",
+    "W": "Snow-Covered Plains",
+}
+
+
+MONOCOLOR_SETS = [
+    "leb",
+    "arn",
+    "drk",
+    "mir",
+    "vis",
+    "wth",
+    "ody",
+    "tor",
+    "jud",
+    "9ed",
+    "csp",
+    "tsp",
+    "plc",
+    "fut",
+    "10e",
+    "lrw",
+    "mor",
+]
+
+
+BASIC_LAND_FALLBACKS = {
+    "arn": "leb",
+    "drk": "leb",
+    "vis": "mir",
+    "wth": "mir",
+    "tor": "ody",
+    "jud": "ody",
+    "plc": "tsp",
+    "fut": "tsp",
+    "mor": "lrw",
+}
+
 
 def subsets_deck(prefix: str, set_colors: dict[tuple[str, str], int | None], basic_lands: dict[tuple[str, str], int | None], seed: int = SEED, skip_planeswalkers: bool = True) -> tuple[str, list[Card]]:
     random.seed(seed)
@@ -71,6 +113,10 @@ def subsets_deck(prefix: str, set_colors: dict[tuple[str, str], int | None], bas
             sets[set_id] = load_set(set_id)
 
         land_cards = [card for card in sets[set_id] if card.title == land_name]
+
+        if len(land_cards) == 0:
+            raise ValueError(f"Set {set_id} has no basic lands")
+
         multiples = []
         for _ in range(math.ceil(count/len(land_cards))):
             multiples += land_cards
@@ -146,11 +192,14 @@ def generate_quick_decks():
     prefix = "quick"
 
     for color in "BGRUW":
-        for set_id in ["10e", "lrw"]:
+        for set_id in MONOCOLOR_SETS:
+            land_set_id = BASIC_LAND_FALLBACKS.get(set_id, set_id)
+            land_names = COLOR_SNOW_LANDS if land_set_id == "csp" else COLOR_LANDS
+
             decks.append(subsets_deck(
                 prefix,
                 {(set_id, color): 38},
-                {(set_id, COLOR_LANDS[color]): 22},
+                {(land_set_id, land_names[color]): 22},
             ))
 
     for shadowmoor_color_pair in ["UW", "BU", "BR", "GR", "GW"]:
@@ -193,11 +242,14 @@ def generate_complete_decks():
     prefix = "complete"
 
     for color in "BGRUW":
-        for set_id in ["10e", "lrw"]:
+        for set_id in MONOCOLOR_SETS:
+            land_set_id = BASIC_LAND_FALLBACKS.get(set_id, set_id)
+            land_names = COLOR_SNOW_LANDS if land_set_id == "csp" else COLOR_LANDS
+
             decks.append(subsets_deck(
                 prefix,
                 {(set_id, color): None},
-                {(set_id, COLOR_LANDS[color]): None},
+                {(land_set_id, land_names[color]): None},
             ))
 
     for shadowmoor_color_pair in ["UW", "BU", "BR", "GR", "GW"]:
@@ -240,7 +292,7 @@ def generate_drafting_decks():
     prefix = "colordraft"
 
     for color in "BGRUW":
-        for set_id in ["10e", "lrw"]:
+        for set_id in MONOCOLOR_SETS:
             decks.append(subsets_deck(
                 prefix,
                 {(set_id, color): 54, (set_id, ""): 6},

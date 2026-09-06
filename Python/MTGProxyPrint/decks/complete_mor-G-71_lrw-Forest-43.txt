@@ -1,0 +1,115 @@
+Deck
+1 Forest (LRW) 298
+1 Forest (LRW) 298
+1 Forest (LRW) 298
+1 Forest (LRW) 298
+1 Forest (LRW) 298
+1 Forest (LRW) 298
+1 Forest (LRW) 298
+1 Forest (LRW) 298
+1 Forest (LRW) 298
+1 Forest (LRW) 298
+1 Forest (LRW) 298
+1 Forest (LRW) 299
+1 Forest (LRW) 299
+1 Forest (LRW) 299
+1 Forest (LRW) 299
+1 Forest (LRW) 299
+1 Forest (LRW) 299
+1 Forest (LRW) 299
+1 Forest (LRW) 299
+1 Forest (LRW) 299
+1 Forest (LRW) 299
+1 Forest (LRW) 299
+1 Forest (LRW) 300
+1 Forest (LRW) 300
+1 Forest (LRW) 300
+1 Forest (LRW) 300
+1 Forest (LRW) 300
+1 Forest (LRW) 300
+1 Forest (LRW) 300
+1 Forest (LRW) 300
+1 Forest (LRW) 300
+1 Forest (LRW) 300
+1 Forest (LRW) 301
+1 Forest (LRW) 301
+1 Forest (LRW) 301
+1 Forest (LRW) 301
+1 Forest (LRW) 301
+1 Forest (LRW) 301
+1 Forest (LRW) 301
+1 Forest (LRW) 301
+1 Forest (LRW) 301
+1 Forest (LRW) 301
+1 Forest (LRW) 301
+1 Ambassador Oak (MOR) 113
+1 Ambassador Oak (MOR) 113
+1 Ambassador Oak (MOR) 113
+1 Ambassador Oak (MOR) 113
+1 Bosk Banneret (MOR) 114
+1 Bosk Banneret (MOR) 114
+1 Bosk Banneret (MOR) 114
+1 Bosk Banneret (MOR) 114
+1 Bramblewood Paragon (MOR) 115
+1 Bramblewood Paragon (MOR) 115
+1 Chameleon Colossus (MOR) 116
+1 Cream of the Crop (MOR) 117
+1 Deglamer (MOR) 118
+1 Deglamer (MOR) 118
+1 Deglamer (MOR) 118
+1 Deglamer (MOR) 118
+1 Earthbrawn (MOR) 119
+1 Earthbrawn (MOR) 119
+1 Earthbrawn (MOR) 119
+1 Earthbrawn (MOR) 119
+1 Elvish Warrior (MOR) 120
+1 Elvish Warrior (MOR) 120
+1 Elvish Warrior (MOR) 120
+1 Elvish Warrior (MOR) 120
+1 Everbark Shaman (MOR) 121
+1 Everbark Shaman (MOR) 121
+1 Everbark Shaman (MOR) 121
+1 Everbark Shaman (MOR) 121
+1 Fertilid (MOR) 122
+1 Fertilid (MOR) 122
+1 Fertilid (MOR) 122
+1 Fertilid (MOR) 122
+1 Game-Trail Changeling (MOR) 123
+1 Game-Trail Changeling (MOR) 123
+1 Game-Trail Changeling (MOR) 123
+1 Game-Trail Changeling (MOR) 123
+1 Gilt-Leaf Archdruid (MOR) 124
+1 Greatbow Doyen (MOR) 125
+1 Heritage Druid (MOR) 126
+1 Heritage Druid (MOR) 126
+1 Hunting Triad (MOR) 127
+1 Hunting Triad (MOR) 127
+1 Leaf-Crowned Elder (MOR) 128
+1 Luminescent Rain (MOR) 129
+1 Luminescent Rain (MOR) 129
+1 Luminescent Rain (MOR) 129
+1 Luminescent Rain (MOR) 129
+1 Lys Alana Bowmaster (MOR) 130
+1 Lys Alana Bowmaster (MOR) 130
+1 Lys Alana Bowmaster (MOR) 130
+1 Lys Alana Bowmaster (MOR) 130
+1 Orchard Warden (MOR) 131
+1 Orchard Warden (MOR) 131
+1 Reach of Branches (MOR) 132
+1 Recross the Paths (MOR) 133
+1 Recross the Paths (MOR) 133
+1 Reins of the Vinesteed (MOR) 134
+1 Reins of the Vinesteed (MOR) 134
+1 Reins of the Vinesteed (MOR) 134
+1 Reins of the Vinesteed (MOR) 134
+1 Rhys the Exiled (MOR) 135
+1 Scapeshift (MOR) 136
+1 Unstoppable Ash (MOR) 137
+1 Walker of the Grove (MOR) 138
+1 Walker of the Grove (MOR) 138
+1 Winnower Patrol (MOR) 139
+1 Winnower Patrol (MOR) 139
+1 Winnower Patrol (MOR) 139
+1 Winnower Patrol (MOR) 139
+1 Wolf-Skull Shaman (MOR) 140
+1 Wolf-Skull Shaman (MOR) 140

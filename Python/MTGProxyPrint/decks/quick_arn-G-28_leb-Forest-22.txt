@@ -1,0 +1,51 @@
+Deck
+1 Forest (LEB) 300
+1 Forest (LEB) 300
+1 Forest (LEB) 300
+1 Forest (LEB) 300
+1 Forest (LEB) 300
+1 Forest (LEB) 300
+1 Forest (LEB) 301
+1 Forest (LEB) 301
+1 Forest (LEB) 301
+1 Forest (LEB) 301
+1 Forest (LEB) 301
+1 Forest (LEB) 301
+1 Forest (LEB) 301
+1 Forest (LEB) 301
+1 Forest (LEB) 302
+1 Forest (LEB) 302
+1 Forest (LEB) 302
+1 Forest (LEB) 302
+1 Forest (LEB) 302
+1 Forest (LEB) 302
+1 Forest (LEB) 302
+1 Forest (LEB) 302
+1 Cyclone (ARN) 45
+1 Cyclone (ARN) 45
+1 Desert Twister (ARN) 46
+1 Desert Twister (ARN) 46
+1 Drop of Honey (ARN) 47
+1 Erhnam Djinn (ARN) 48
+1 Ghazbán Ogre (ARN) 49
+1 Ghazbán Ogre (ARN) 49
+1 Ghazbán Ogre (ARN) 49
+1 Ghazbán Ogre (ARN) 49
+1 Ifh-Bíff Efreet (ARN) 50
+1 Metamorphosis (ARN) 51
+1 Metamorphosis (ARN) 51
+1 Metamorphosis (ARN) 51
+1 Metamorphosis (ARN) 51
+1 Nafs Asp (ARN) 52
+1 Nafs Asp (ARN) 52
+1 Nafs Asp (ARN) 52
+1 Nafs Asp (ARN) 52
+1 Sandstorm (ARN) 53
+1 Sandstorm (ARN) 53
+1 Sandstorm (ARN) 53
+1 Sandstorm (ARN) 53
+1 Singing Tree (ARN) 54
+1 Wyluli Wolf (ARN) 55
+1 Wyluli Wolf (ARN) 55
+1 Wyluli Wolf (ARN) 55
+1 Wyluli Wolf (ARN) 55

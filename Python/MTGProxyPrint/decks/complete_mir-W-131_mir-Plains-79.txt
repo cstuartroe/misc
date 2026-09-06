@@ -1,0 +1,211 @@
+Deck
+1 Afterlife (MIR) 1
+1 Afterlife (MIR) 1
+1 Alarum (MIR) 2
+1 Alarum (MIR) 2
+1 Alarum (MIR) 2
+1 Alarum (MIR) 2
+1 Auspicious Ancestor (MIR) 3
+1 Benevolent Unicorn (MIR) 4
+1 Benevolent Unicorn (MIR) 4
+1 Benevolent Unicorn (MIR) 4
+1 Benevolent Unicorn (MIR) 4
+1 Blinding Light (MIR) 5
+1 Blinding Light (MIR) 5
+1 Celestial Dawn (MIR) 6
+1 Civic Guildmage (MIR) 7
+1 Civic Guildmage (MIR) 7
+1 Civic Guildmage (MIR) 7
+1 Civic Guildmage (MIR) 7
+1 Dazzling Beauty (MIR) 8
+1 Dazzling Beauty (MIR) 8
+1 Dazzling Beauty (MIR) 8
+1 Dazzling Beauty (MIR) 8
+1 Disempower (MIR) 9
+1 Disempower (MIR) 9
+1 Disempower (MIR) 9
+1 Disempower (MIR) 9
+1 Disenchant (MIR) 10
+1 Disenchant (MIR) 10
+1 Disenchant (MIR) 10
+1 Disenchant (MIR) 10
+1 Divine Offering (MIR) 11
+1 Divine Offering (MIR) 11
+1 Divine Offering (MIR) 11
+1 Divine Offering (MIR) 11
+1 Divine Retribution (MIR) 12
+1 Ekundu Griffin (MIR) 13
+1 Ekundu Griffin (MIR) 13
+1 Ekundu Griffin (MIR) 13
+1 Ekundu Griffin (MIR) 13
+1 Enlightened Tutor (MIR) 14
+1 Enlightened Tutor (MIR) 14
+1 Ethereal Champion (MIR) 15
+1 Favorable Destiny (MIR) 16
+1 Favorable Destiny (MIR) 16
+1 Femeref Healer (MIR) 17
+1 Femeref Healer (MIR) 17
+1 Femeref Healer (MIR) 17
+1 Femeref Healer (MIR) 17
+1 Femeref Knight (MIR) 18
+1 Femeref Knight (MIR) 18
+1 Femeref Knight (MIR) 18
+1 Femeref Knight (MIR) 18
+1 Femeref Scouts (MIR) 19
+1 Femeref Scouts (MIR) 19
+1 Femeref Scouts (MIR) 19
+1 Femeref Scouts (MIR) 19
+1 Healing Salve (MIR) 20
+1 Healing Salve (MIR) 20
+1 Healing Salve (MIR) 20
+1 Healing Salve (MIR) 20
+1 Illumination (MIR) 21
+1 Illumination (MIR) 21
+1 Iron Tusk Elephant (MIR) 22
+1 Iron Tusk Elephant (MIR) 22
+1 Ivory Charm (MIR) 23
+1 Ivory Charm (MIR) 23
+1 Ivory Charm (MIR) 23
+1 Ivory Charm (MIR) 23
+1 Jabari's Influence (MIR) 24
+1 Mangara's Blessing (MIR) 25
+1 Mangara's Blessing (MIR) 25
+1 Mangara's Equity (MIR) 26
+1 Mangara's Equity (MIR) 26
+1 Melesse Spirit (MIR) 27
+1 Melesse Spirit (MIR) 27
+1 Mtenda Griffin (MIR) 28
+1 Mtenda Griffin (MIR) 28
+1 Mtenda Herder (MIR) 29
+1 Mtenda Herder (MIR) 29
+1 Mtenda Herder (MIR) 29
+1 Mtenda Herder (MIR) 29
+1 Noble Elephant (MIR) 30
+1 Noble Elephant (MIR) 30
+1 Noble Elephant (MIR) 30
+1 Noble Elephant (MIR) 30
+1 Null Chamber (MIR) 31
+1 Pacifism (MIR) 32
+1 Pacifism (MIR) 32
+1 Pacifism (MIR) 32
+1 Pacifism (MIR) 32
+1 Pearl Dragon (MIR) 33
+1 Prismatic Circle (MIR) 34
+1 Prismatic Circle (MIR) 34
+1 Prismatic Circle (MIR) 34
+1 Prismatic Circle (MIR) 34
+1 Rashida Scalebane (MIR) 35
+1 Ritual of Steel (MIR) 36
+1 Ritual of Steel (MIR) 36
+1 Ritual of Steel (MIR) 36
+1 Ritual of Steel (MIR) 36
+1 Sacred Mesa (MIR) 37
+1 Shadowbane (MIR) 38
+1 Shadowbane (MIR) 38
+1 Sidar Jabari (MIR) 39
+1 Soul Echo (MIR) 40
+1 Spectral Guardian (MIR) 41
+1 Sunweb (MIR) 42
+1 Teremko Griffin (MIR) 43
+1 Teremko Griffin (MIR) 43
+1 Teremko Griffin (MIR) 43
+1 Teremko Griffin (MIR) 43
+1 Unyaro Griffin (MIR) 44
+1 Unyaro Griffin (MIR) 44
+1 Vigilant Martyr (MIR) 45
+1 Vigilant Martyr (MIR) 45
+1 Wall of Resistance (MIR) 46
+1 Wall of Resistance (MIR) 46
+1 Wall of Resistance (MIR) 46
+1 Wall of Resistance (MIR) 46
+1 Ward of Lights (MIR) 47
+1 Ward of Lights (MIR) 47
+1 Ward of Lights (MIR) 47
+1 Ward of Lights (MIR) 47
+1 Yare (MIR) 48
+1 Zhalfirin Commander (MIR) 49
+1 Zhalfirin Commander (MIR) 49
+1 Zhalfirin Knight (MIR) 50
+1 Zhalfirin Knight (MIR) 50
+1 Zhalfirin Knight (MIR) 50
+1 Zhalfirin Knight (MIR) 50
+1 Zuberi, Golden Feather (MIR) 51
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Plains (MIR) 334

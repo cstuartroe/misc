@@ -1,0 +1,61 @@
+Deck
+1 Forest (LEB) 300
+1 Forest (LEB) 300
+1 Forest (LEB) 300
+1 Forest (LEB) 300
+1 Forest (LEB) 300
+1 Forest (LEB) 300
+1 Forest (LEB) 300
+1 Forest (LEB) 301
+1 Forest (LEB) 301
+1 Forest (LEB) 301
+1 Forest (LEB) 301
+1 Forest (LEB) 301
+1 Forest (LEB) 301
+1 Forest (LEB) 301
+1 Forest (LEB) 302
+1 Forest (LEB) 302
+1 Forest (LEB) 302
+1 Forest (LEB) 302
+1 Forest (LEB) 302
+1 Forest (LEB) 302
+1 Forest (LEB) 302
+1 Forest (LEB) 302
+1 Carnivorous Plant (DRK) 75
+1 Carnivorous Plant (DRK) 75
+1 Carnivorous Plant (DRK) 75
+1 Elves of Deep Shadow (DRK) 76
+1 Elves of Deep Shadow (DRK) 76
+1 Gaea's Touch (DRK) 77
+1 Gaea's Touch (DRK) 77
+1 Hidden Path (DRK) 78
+1 Land Leeches (DRK) 79
+1 Land Leeches (DRK) 79
+1 Land Leeches (DRK) 79
+1 Land Leeches (DRK) 79
+1 Lurker (DRK) 80
+1 Marsh Viper (DRK) 81
+1 Marsh Viper (DRK) 81
+1 Marsh Viper (DRK) 81
+1 Marsh Viper (DRK) 81
+1 Niall Silvain (DRK) 82
+1 People of the Woods (DRK) 83
+1 People of the Woods (DRK) 83
+1 Savaen Elves (DRK) 84
+1 Savaen Elves (DRK) 84
+1 Scarwood Bandits (DRK) 85
+1 Scarwood Hag (DRK) 86
+1 Scarwood Hag (DRK) 86
+1 Scavenger Folk (DRK) 87
+1 Scavenger Folk (DRK) 87
+1 Scavenger Folk (DRK) 87
+1 Scavenger Folk (DRK) 87
+1 Spitting Slug (DRK) 88
+1 Tracker (DRK) 89
+1 Venom (DRK) 90
+1 Venom (DRK) 90
+1 Venom (DRK) 90
+1 Venom (DRK) 90
+1 Whippoorwill (DRK) 91
+1 Whippoorwill (DRK) 91
+1 Wormwood Treefolk (DRK) 92

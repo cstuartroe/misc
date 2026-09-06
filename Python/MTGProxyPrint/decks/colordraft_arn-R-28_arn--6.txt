@@ -1,0 +1,35 @@
+Deck
+1 Aladdin (ARN) 34
+1 Ali Baba (ARN) 35
+1 Ali Baba (ARN) 35
+1 Ali from Cairo (ARN) 36
+1 Bird Maiden (ARN) 37
+1 Bird Maiden (ARN) 37
+1 Bird Maiden (ARN) 37
+1 Bird Maiden (ARN) 37
+1 Desert Nomads (ARN) 38
+1 Desert Nomads (ARN) 38
+1 Desert Nomads (ARN) 38
+1 Desert Nomads (ARN) 38
+1 Hurr Jackal (ARN) 39
+1 Hurr Jackal (ARN) 39
+1 Hurr Jackal (ARN) 39
+1 Hurr Jackal (ARN) 39
+1 Kird Ape (ARN) 40
+1 Kird Ape (ARN) 40
+1 Kird Ape (ARN) 40
+1 Kird Ape (ARN) 40
+1 Magnetic Mountain (ARN) 41
+1 Magnetic Mountain (ARN) 41
+1 Mijae Djinn (ARN) 42
+1 Rukh Egg (ARN) 43
+1 Rukh Egg (ARN) 43
+1 Rukh Egg (ARN) 43
+1 Rukh Egg (ARN) 43
+1 Ydwen Efreet (ARN) 44
+1 City in a Bottle (ARN) 60
+1 Ebony Horse (ARN) 62
+1 Flying Carpet (ARN) 63
+1 Jandor's Ring (ARN) 64
+1 Jeweled Bird (ARN) 66
+1 Ring of Ma'rûf (ARN) 68

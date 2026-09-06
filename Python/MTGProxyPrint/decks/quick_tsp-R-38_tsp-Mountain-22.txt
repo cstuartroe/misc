@@ -1,0 +1,61 @@
+Deck
+1 Ancient Grudge (TSP) 143
+1 Barbed Shocker (TSP) 144
+1 Basalt Gargoyle (TSP) 145
+1 Basalt Gargoyle (TSP) 145
+1 Blazing Blade Askari (TSP) 146
+1 Bogardan Rager (TSP) 148
+1 Bonesplitter Sliver (TSP) 149
+1 Bonesplitter Sliver (TSP) 149
+1 Coal Stoker (TSP) 150
+1 Conflagrate (TSP) 151
+1 Empty the Warrens (TSP) 152
+1 Firemaw Kavu (TSP) 153
+1 Flamecore Elemental (TSP) 154
+1 Flamecore Elemental (TSP) 154
+1 Flamecore Elemental (TSP) 154
+1 Flowstone Channeler (TSP) 155
+1 Flowstone Channeler (TSP) 155
+1 Ghitu Firebreathing (TSP) 158
+1 Goblin Skycutter (TSP) 159
+1 Grapeshot (TSP) 160
+1 Grapeshot (TSP) 160
+1 Ground Rift (TSP) 162
+1 Ground Rift (TSP) 162
+1 Ignite Memories (TSP) 164
+1 Ironclaw Buzzardiers (TSP) 165
+1 Keldon Halberdier (TSP) 167
+1 Keldon Halberdier (TSP) 167
+1 Keldon Halberdier (TSP) 167
+1 Keldon Halberdier (TSP) 167
+1 Orcish Cannonade (TSP) 172
+1 Pardic Dragon (TSP) 173
+1 Plunder (TSP) 174
+1 Rift Bolt (TSP) 176
+1 Rift Bolt (TSP) 176
+1 Sudden Shock (TSP) 179
+1 Tectonic Fiend (TSP) 181
+1 Two-Headed Sliver (TSP) 183
+1 Viashino Bladescout (TSP) 185
+1 Mountain (TSP) 294
+1 Mountain (TSP) 294
+1 Mountain (TSP) 294
+1 Mountain (TSP) 294
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297

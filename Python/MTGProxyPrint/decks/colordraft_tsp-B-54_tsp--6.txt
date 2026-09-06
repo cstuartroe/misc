@@ -1,0 +1,61 @@
+Deck
+1 Restore Balance (TSP) 38
+1 Assassinate (TSP) 95
+1 Assassinate (TSP) 95
+1 Basal Sliver (TSP) 96
+1 Call to the Netherworld (TSP) 97
+1 Call to the Netherworld (TSP) 97
+1 Call to the Netherworld (TSP) 97
+1 Corpulent Corpse (TSP) 98
+1 Cyclopean Giant (TSP) 100
+1 Dark Withering (TSP) 101
+1 Dark Withering (TSP) 101
+1 Deathspore Thallid (TSP) 102
+1 Dread Return (TSP) 104
+1 Dread Return (TSP) 104
+1 Drudge Reavers (TSP) 105
+1 Evil Eye of Urborg (TSP) 107
+1 Evil Eye of Urborg (TSP) 107
+1 Faceless Devourer (TSP) 108
+1 Faceless Devourer (TSP) 108
+1 Fallen Ideal (TSP) 109
+1 Feebleness (TSP) 110
+1 Feebleness (TSP) 110
+1 Haunting Hymn (TSP) 112
+1 Liege of the Pit (TSP) 113
+1 Magus of the Mirror (TSP) 116
+1 Mana Skimmer (TSP) 117
+1 Mana Skimmer (TSP) 117
+1 Mana Skimmer (TSP) 117
+1 Mindlash Sliver (TSP) 118
+1 Mindlash Sliver (TSP) 118
+1 Mindstab (TSP) 119
+1 Mindstab (TSP) 119
+1 Mindstab (TSP) 119
+1 Mindstab (TSP) 119
+1 Nether Traitor (TSP) 120
+1 Phthisis (TSP) 122
+1 Pit Keeper (TSP) 123
+1 Pit Keeper (TSP) 123
+1 Pit Keeper (TSP) 123
+1 Pit Keeper (TSP) 123
+1 Psychotic Episode (TSP) 126
+1 Sangrophage (TSP) 127
+1 Sengir Nosferatu (TSP) 128
+1 Skulking Knight (TSP) 130
+1 Skulking Knight (TSP) 130
+1 Strangling Soot (TSP) 132
+1 Strangling Soot (TSP) 132
+1 Tendrils of Corruption (TSP) 136
+1 Tendrils of Corruption (TSP) 136
+1 Traitor's Clutch (TSP) 137
+1 Trespasser il-Vec (TSP) 138
+1 Urborg Syphon-Mage (TSP) 139
+1 Urborg Syphon-Mage (TSP) 139
+1 Vampiric Sliver (TSP) 140
+1 Viscid Lemures (TSP) 141
+1 Lotus Bloom (TSP) 259
+1 Phyrexian Totem (TSP) 261
+1 Prismatic Lens (TSP) 262
+1 Sarpadian Empires, Vol. VII (TSP) 263
+1 Stuffy Doll (TSP) 264

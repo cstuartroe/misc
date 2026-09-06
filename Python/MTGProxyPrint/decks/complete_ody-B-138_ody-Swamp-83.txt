@@ -1,0 +1,222 @@
+Deck
+1 Afflict (ODY) 115
+1 Afflict (ODY) 115
+1 Afflict (ODY) 115
+1 Afflict (ODY) 115
+1 Bloodcurdler (ODY) 116
+1 Braids, Cabal Minion (ODY) 117
+1 Buried Alive (ODY) 118
+1 Buried Alive (ODY) 118
+1 Cabal Inquisitor (ODY) 119
+1 Cabal Inquisitor (ODY) 119
+1 Cabal Inquisitor (ODY) 119
+1 Cabal Inquisitor (ODY) 119
+1 Cabal Patriarch (ODY) 120
+1 Cabal Shrine (ODY) 121
+1 Caustic Tar (ODY) 122
+1 Caustic Tar (ODY) 122
+1 Childhood Horror (ODY) 123
+1 Childhood Horror (ODY) 123
+1 Coffin Purge (ODY) 124
+1 Coffin Purge (ODY) 124
+1 Coffin Purge (ODY) 124
+1 Coffin Purge (ODY) 124
+1 Crypt Creeper (ODY) 125
+1 Crypt Creeper (ODY) 125
+1 Crypt Creeper (ODY) 125
+1 Crypt Creeper (ODY) 125
+1 Cursed Monstrosity (ODY) 126
+1 Decaying Soil (ODY) 127
+1 Decompose (ODY) 128
+1 Decompose (ODY) 128
+1 Diabolic Tutor (ODY) 129
+1 Diabolic Tutor (ODY) 129
+1 Dirty Wererat (ODY) 130
+1 Dirty Wererat (ODY) 130
+1 Dirty Wererat (ODY) 130
+1 Dirty Wererat (ODY) 130
+1 Dusk Imp (ODY) 131
+1 Dusk Imp (ODY) 131
+1 Dusk Imp (ODY) 131
+1 Dusk Imp (ODY) 131
+1 Entomb (ODY) 132
+1 Execute (ODY) 133
+1 Execute (ODY) 133
+1 Face of Fear (ODY) 134
+1 Face of Fear (ODY) 134
+1 Famished Ghoul (ODY) 135
+1 Famished Ghoul (ODY) 135
+1 Filthy Cur (ODY) 136
+1 Filthy Cur (ODY) 136
+1 Filthy Cur (ODY) 136
+1 Filthy Cur (ODY) 136
+1 Fledgling Imp (ODY) 137
+1 Fledgling Imp (ODY) 137
+1 Fledgling Imp (ODY) 137
+1 Fledgling Imp (ODY) 137
+1 Frightcrawler (ODY) 138
+1 Frightcrawler (ODY) 138
+1 Frightcrawler (ODY) 138
+1 Frightcrawler (ODY) 138
+1 Ghastly Demise (ODY) 139
+1 Ghastly Demise (ODY) 139
+1 Ghastly Demise (ODY) 139
+1 Ghastly Demise (ODY) 139
+1 Gravedigger (ODY) 140
+1 Gravedigger (ODY) 140
+1 Gravedigger (ODY) 140
+1 Gravedigger (ODY) 140
+1 Gravestorm (ODY) 141
+1 Haunting Echoes (ODY) 142
+1 Hint of Insanity (ODY) 143
+1 Infected Vermin (ODY) 144
+1 Infected Vermin (ODY) 144
+1 Innocent Blood (ODY) 145
+1 Innocent Blood (ODY) 145
+1 Innocent Blood (ODY) 145
+1 Innocent Blood (ODY) 145
+1 Last Rites (ODY) 146
+1 Last Rites (ODY) 146
+1 Last Rites (ODY) 146
+1 Last Rites (ODY) 146
+1 Malevolent Awakening (ODY) 147
+1 Malevolent Awakening (ODY) 147
+1 Mind Burst (ODY) 148
+1 Mind Burst (ODY) 148
+1 Mind Burst (ODY) 148
+1 Mind Burst (ODY) 148
+1 Mindslicer (ODY) 149
+1 Morbid Hunger (ODY) 150
+1 Morbid Hunger (ODY) 150
+1 Morbid Hunger (ODY) 150
+1 Morbid Hunger (ODY) 150
+1 Morgue Theft (ODY) 151
+1 Morgue Theft (ODY) 151
+1 Morgue Theft (ODY) 151
+1 Morgue Theft (ODY) 151
+1 Mortivore (ODY) 152
+1 Nefarious Lich (ODY) 153
+1 Overeager Apprentice (ODY) 154
+1 Overeager Apprentice (ODY) 154
+1 Overeager Apprentice (ODY) 154
+1 Overeager Apprentice (ODY) 154
+1 Painbringer (ODY) 155
+1 Painbringer (ODY) 155
+1 Patriarch's Desire (ODY) 156
+1 Patriarch's Desire (ODY) 156
+1 Patriarch's Desire (ODY) 156
+1 Patriarch's Desire (ODY) 156
+1 Repentant Vampire (ODY) 157
+1 Rotting Giant (ODY) 158
+1 Rotting Giant (ODY) 158
+1 Sadistic Hypnotist (ODY) 159
+1 Sadistic Hypnotist (ODY) 159
+1 Screams of the Damned (ODY) 160
+1 Screams of the Damned (ODY) 160
+1 Skeletal Scrying (ODY) 161
+1 Skeletal Scrying (ODY) 161
+1 Skull Fracture (ODY) 162
+1 Skull Fracture (ODY) 162
+1 Stalking Bloodsucker (ODY) 163
+1 Tainted Pact (ODY) 164
+1 Tombfire (ODY) 165
+1 Traveling Plague (ODY) 166
+1 Whispering Shade (ODY) 167
+1 Whispering Shade (ODY) 167
+1 Whispering Shade (ODY) 167
+1 Whispering Shade (ODY) 167
+1 Zombie Assassin (ODY) 168
+1 Zombie Assassin (ODY) 168
+1 Zombie Assassin (ODY) 168
+1 Zombie Assassin (ODY) 168
+1 Zombie Cannibal (ODY) 169
+1 Zombie Cannibal (ODY) 169
+1 Zombie Cannibal (ODY) 169
+1 Zombie Cannibal (ODY) 169
+1 Zombie Infestation (ODY) 170
+1 Zombie Infestation (ODY) 170
+1 Zombify (ODY) 171
+1 Zombify (ODY) 171
+1 Swamp (ODY) 339
+1 Swamp (ODY) 339
+1 Swamp (ODY) 339
+1 Swamp (ODY) 339
+1 Swamp (ODY) 339
+1 Swamp (ODY) 339
+1 Swamp (ODY) 339
+1 Swamp (ODY) 339
+1 Swamp (ODY) 339
+1 Swamp (ODY) 339
+1 Swamp (ODY) 339
+1 Swamp (ODY) 339
+1 Swamp (ODY) 339
+1 Swamp (ODY) 339
+1 Swamp (ODY) 339
+1 Swamp (ODY) 339
+1 Swamp (ODY) 339
+1 Swamp (ODY) 339
+1 Swamp (ODY) 339
+1 Swamp (ODY) 339
+1 Swamp (ODY) 339
+1 Swamp (ODY) 340
+1 Swamp (ODY) 340
+1 Swamp (ODY) 340
+1 Swamp (ODY) 340
+1 Swamp (ODY) 340
+1 Swamp (ODY) 340
+1 Swamp (ODY) 340
+1 Swamp (ODY) 340
+1 Swamp (ODY) 340
+1 Swamp (ODY) 340
+1 Swamp (ODY) 340
+1 Swamp (ODY) 340
+1 Swamp (ODY) 340
+1 Swamp (ODY) 340
+1 Swamp (ODY) 340
+1 Swamp (ODY) 340
+1 Swamp (ODY) 340
+1 Swamp (ODY) 340
+1 Swamp (ODY) 340
+1 Swamp (ODY) 340
+1 Swamp (ODY) 340
+1 Swamp (ODY) 341
+1 Swamp (ODY) 341
+1 Swamp (ODY) 341
+1 Swamp (ODY) 341
+1 Swamp (ODY) 341
+1 Swamp (ODY) 341
+1 Swamp (ODY) 341
+1 Swamp (ODY) 341
+1 Swamp (ODY) 341
+1 Swamp (ODY) 341
+1 Swamp (ODY) 341
+1 Swamp (ODY) 341
+1 Swamp (ODY) 341
+1 Swamp (ODY) 341
+1 Swamp (ODY) 341
+1 Swamp (ODY) 341
+1 Swamp (ODY) 341
+1 Swamp (ODY) 341
+1 Swamp (ODY) 341
+1 Swamp (ODY) 341
+1 Swamp (ODY) 342
+1 Swamp (ODY) 342
+1 Swamp (ODY) 342
+1 Swamp (ODY) 342
+1 Swamp (ODY) 342
+1 Swamp (ODY) 342
+1 Swamp (ODY) 342
+1 Swamp (ODY) 342
+1 Swamp (ODY) 342
+1 Swamp (ODY) 342
+1 Swamp (ODY) 342
+1 Swamp (ODY) 342
+1 Swamp (ODY) 342
+1 Swamp (ODY) 342
+1 Swamp (ODY) 342
+1 Swamp (ODY) 342
+1 Swamp (ODY) 342
+1 Swamp (ODY) 342
+1 Swamp (ODY) 342
+1 Swamp (ODY) 342
+1 Swamp (ODY) 342

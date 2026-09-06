@@ -1,0 +1,61 @@
+Deck
+1 Aspect of Wolf (LEB) 185
+1 Birds of Paradise (LEB) 187
+1 Camouflage (LEB) 188
+1 Camouflage (LEB) 188
+1 Cockatrice (LEB) 190
+1 Craw Wurm (LEB) 191
+1 Craw Wurm (LEB) 191
+1 Craw Wurm (LEB) 191
+1 Elvish Archers (LEB) 192
+1 Fog (LEB) 194
+1 Fog (LEB) 194
+1 Giant Growth (LEB) 198
+1 Giant Growth (LEB) 198
+1 Giant Spider (LEB) 199
+1 Grizzly Bears (LEB) 200
+1 Grizzly Bears (LEB) 200
+1 Ice Storm (LEB) 202
+1 Ice Storm (LEB) 202
+1 Instill Energy (LEB) 203
+1 Instill Energy (LEB) 203
+1 Ironroot Treefolk (LEB) 204
+1 Ironroot Treefolk (LEB) 204
+1 Ironroot Treefolk (LEB) 204
+1 Kudzu (LEB) 205
+1 Ley Druid (LEB) 206
+1 Llanowar Elves (LEB) 211
+1 Llanowar Elves (LEB) 211
+1 Lure (LEB) 212
+1 Lure (LEB) 212
+1 Regeneration (LEB) 214
+1 Regeneration (LEB) 214
+1 Regeneration (LEB) 214
+1 Regeneration (LEB) 214
+1 Regrowth (LEB) 215
+1 Scryb Sprites (LEB) 216
+1 Scryb Sprites (LEB) 216
+1 Scryb Sprites (LEB) 216
+1 Scryb Sprites (LEB) 216
+1 Stream of Life (LEB) 218
+1 Stream of Life (LEB) 218
+1 Timber Wolves (LEB) 220
+1 Tranquility (LEB) 221
+1 Tranquility (LEB) 221
+1 Tranquility (LEB) 221
+1 Tsunami (LEB) 222
+1 Wall of Wood (LEB) 226
+1 Wall of Wood (LEB) 226
+1 Wall of Wood (LEB) 226
+1 Wanderlust (LEB) 227
+1 War Mammoth (LEB) 228
+1 War Mammoth (LEB) 228
+1 Web (LEB) 229
+1 Wild Growth (LEB) 230
+1 Wild Growth (LEB) 230
+1 Basalt Monolith (LEB) 232
+1 Celestial Prism (LEB) 235
+1 Disrupting Scepter (LEB) 243
+1 Glasses of Urza (LEB) 246
+1 Icy Manipulator (LEB) 249
+1 The Hive (LEB) 273

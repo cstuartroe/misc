@@ -1,0 +1,61 @@
+Deck
+1 Disintegrate (LEB) 141
+1 Dwarven Demolition Team (LEB) 143
+1 Dwarven Demolition Team (LEB) 143
+1 Dwarven Warriors (LEB) 144
+1 Dwarven Warriors (LEB) 144
+1 Earth Elemental (LEB) 145
+1 Earthbind (LEB) 146
+1 False Orders (LEB) 148
+1 Fire Elemental (LEB) 149
+1 Fireball (LEB) 150
+1 Fireball (LEB) 150
+1 Flashfires (LEB) 152
+1 Flashfires (LEB) 152
+1 Fork (LEB) 153
+1 Goblin Balloon Brigade (LEB) 154
+1 Goblin King (LEB) 155
+1 Gray Ogre (LEB) 157
+1 Gray Ogre (LEB) 157
+1 Ironclaw Orcs (LEB) 160
+1 Ironclaw Orcs (LEB) 160
+1 Ironclaw Orcs (LEB) 160
+1 Keldon Warlord (LEB) 161
+1 Lightning Bolt (LEB) 162
+1 Lightning Bolt (LEB) 162
+1 Mana Flare (LEB) 163
+1 Mons's Goblin Raiders (LEB) 165
+1 Mons's Goblin Raiders (LEB) 165
+1 Orcish Oriflamme (LEB) 167
+1 Raging River (LEB) 169
+1 Red Elemental Blast (LEB) 170
+1 Rock Hydra (LEB) 172
+1 Sedge Troll (LEB) 173
+1 Shatter (LEB) 174
+1 Stone Giant (LEB) 177
+1 Tunnel (LEB) 179
+1 Two-Headed Giant of Foriys (LEB) 180
+1 Uthden Troll (LEB) 181
+1 Wall of Fire (LEB) 182
+1 Mountain (LEB) 297
+1 Mountain (LEB) 297
+1 Mountain (LEB) 297
+1 Mountain (LEB) 297
+1 Mountain (LEB) 297
+1 Mountain (LEB) 297
+1 Mountain (LEB) 297
+1 Mountain (LEB) 297
+1 Mountain (LEB) 298
+1 Mountain (LEB) 298
+1 Mountain (LEB) 298
+1 Mountain (LEB) 298
+1 Mountain (LEB) 298
+1 Mountain (LEB) 298
+1 Mountain (LEB) 298
+1 Mountain (LEB) 299
+1 Mountain (LEB) 299
+1 Mountain (LEB) 299
+1 Mountain (LEB) 299
+1 Mountain (LEB) 299
+1 Mountain (LEB) 299
+1 Mountain (LEB) 299

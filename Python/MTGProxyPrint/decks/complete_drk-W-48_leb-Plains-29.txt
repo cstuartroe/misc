@@ -1,0 +1,78 @@
+Deck
+1 Plains (LEB) 288
+1 Plains (LEB) 288
+1 Plains (LEB) 288
+1 Plains (LEB) 288
+1 Plains (LEB) 288
+1 Plains (LEB) 288
+1 Plains (LEB) 288
+1 Plains (LEB) 288
+1 Plains (LEB) 288
+1 Plains (LEB) 288
+1 Plains (LEB) 289
+1 Plains (LEB) 289
+1 Plains (LEB) 289
+1 Plains (LEB) 289
+1 Plains (LEB) 289
+1 Plains (LEB) 289
+1 Plains (LEB) 289
+1 Plains (LEB) 289
+1 Plains (LEB) 289
+1 Plains (LEB) 290
+1 Plains (LEB) 290
+1 Plains (LEB) 290
+1 Plains (LEB) 290
+1 Plains (LEB) 290
+1 Plains (LEB) 290
+1 Plains (LEB) 290
+1 Plains (LEB) 290
+1 Plains (LEB) 290
+1 Plains (LEB) 290
+1 Angry Mob (DRK) 1
+1 Angry Mob (DRK) 1
+1 Blood of the Martyr (DRK) 2
+1 Blood of the Martyr (DRK) 2
+1 Brainwash (DRK) 3
+1 Brainwash (DRK) 3
+1 Brainwash (DRK) 3
+1 Brainwash (DRK) 3
+1 Cleansing (DRK) 4
+1 Dust to Dust (DRK) 5
+1 Dust to Dust (DRK) 5
+1 Dust to Dust (DRK) 5
+1 Dust to Dust (DRK) 5
+1 Exorcist (DRK) 6
+1 Fasting (DRK) 7
+1 Fasting (DRK) 7
+1 Festival (DRK) 8
+1 Festival (DRK) 8
+1 Festival (DRK) 8
+1 Festival (DRK) 8
+1 Fire and Brimstone (DRK) 9
+1 Fire and Brimstone (DRK) 9
+1 Holy Light (DRK) 10
+1 Holy Light (DRK) 10
+1 Holy Light (DRK) 10
+1 Holy Light (DRK) 10
+1 Knights of Thorn (DRK) 11
+1 Martyr's Cry (DRK) 12
+1 Miracle Worker (DRK) 13
+1 Miracle Worker (DRK) 13
+1 Miracle Worker (DRK) 13
+1 Miracle Worker (DRK) 13
+1 Morale (DRK) 14
+1 Morale (DRK) 14
+1 Morale (DRK) 14
+1 Morale (DRK) 14
+1 Pikemen (DRK) 15
+1 Pikemen (DRK) 15
+1 Pikemen (DRK) 15
+1 Pikemen (DRK) 15
+1 Preacher (DRK) 16
+1 Squire (DRK) 17
+1 Squire (DRK) 17
+1 Squire (DRK) 17
+1 Squire (DRK) 17
+1 Tivadar's Crusade (DRK) 18
+1 Tivadar's Crusade (DRK) 18
+1 Witch Hunter (DRK) 19

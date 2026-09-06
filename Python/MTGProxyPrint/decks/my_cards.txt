@@ -1,4 +1,15 @@
 Deck
+1 Foul Imp (9ED) 132
+1 Hollow Dogs (9ED) 139
+1 Nekrataal (9ED) 149
+1 Phyrexian Gargantua (9ED) 153
+1 Raise Dead (9ED) 156
+1 Serpent Warrior (9ED) 162
+1 Unholy Strength (9ED) 168
+1 Phyrexian Hulk (9ED) 306
+1 Tanglebloom (9ED) 311
+1 Terraformer (RAV) 70
+1 Vedalken Dismisser (RAV) 73
 1 Helium Squirter (DIS) 26
 1 Writ of Passage (DIS) 37
 1 Frozen Solid (CSP) 35

@@ -1,0 +1,37 @@
+Deck
+1 Balthor the Defiled (JUD) 61
+1 Cabal Therapy (JUD) 62
+1 Cabal Therapy (JUD) 62
+1 Cabal Trainee (JUD) 63
+1 Cabal Trainee (JUD) 63
+1 Cabal Trainee (JUD) 63
+1 Cabal Trainee (JUD) 63
+1 Death Wish (JUD) 64
+1 Earsplitting Rats (JUD) 65
+1 Earsplitting Rats (JUD) 65
+1 Earsplitting Rats (JUD) 65
+1 Earsplitting Rats (JUD) 65
+1 Filth (JUD) 66
+1 Filth (JUD) 66
+1 Grave Consequences (JUD) 67
+1 Grave Consequences (JUD) 67
+1 Guiltfeeder (JUD) 68
+1 Masked Gorgon (JUD) 69
+1 Morality Shift (JUD) 70
+1 Rats' Feast (JUD) 71
+1 Rats' Feast (JUD) 71
+1 Rats' Feast (JUD) 71
+1 Rats' Feast (JUD) 71
+1 Stitch Together (JUD) 72
+1 Stitch Together (JUD) 72
+1 Sutured Ghoul (JUD) 73
+1 Toxic Stench (JUD) 74
+1 Toxic Stench (JUD) 74
+1 Toxic Stench (JUD) 74
+1 Toxic Stench (JUD) 74
+1 Treacherous Vampire (JUD) 75
+1 Treacherous Vampire (JUD) 75
+1 Treacherous Werewolf (JUD) 76
+1 Treacherous Werewolf (JUD) 76
+1 Treacherous Werewolf (JUD) 76
+1 Treacherous Werewolf (JUD) 76

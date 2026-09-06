@@ -85,4 +85,5 @@ if __name__ == "__main__":
         cards = [card for card in my_cards if card.set_id == set_id]
         stats = get_stats(cards)
         stats.id = f"my_cards:{set_id}"
-        print_stats(stats)
+        if len(cards) > 0:
+            print_stats(stats)

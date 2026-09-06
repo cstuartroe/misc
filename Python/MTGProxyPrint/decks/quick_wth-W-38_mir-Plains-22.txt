@@ -1,0 +1,61 @@
+Deck
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 331
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 332
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 333
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Plains (MIR) 334
+1 Abeyance (WTH) 1
+1 Alabaster Dragon (WTH) 2
+1 Alms (WTH) 3
+1 Alms (WTH) 3
+1 Alms (WTH) 3
+1 Alms (WTH) 3
+1 Angelic Renewal (WTH) 4
+1 Angelic Renewal (WTH) 4
+1 Ardent Militia (WTH) 5
+1 Ardent Militia (WTH) 5
+1 Argivian Find (WTH) 6
+1 Benalish Infantry (WTH) 8
+1 Benalish Infantry (WTH) 8
+1 Benalish Knight (WTH) 9
+1 Benalish Knight (WTH) 9
+1 Benalish Knight (WTH) 9
+1 Benalish Missionary (WTH) 10
+1 Benalish Missionary (WTH) 10
+1 Debt of Loyalty (WTH) 11
+1 Duskrider Falcon (WTH) 12
+1 Duskrider Falcon (WTH) 12
+1 Duskrider Falcon (WTH) 12
+1 Empyrial Armor (WTH) 13
+1 Empyrial Armor (WTH) 13
+1 Foriysian Brigade (WTH) 14
+1 Gerrard's Wisdom (WTH) 15
+1 Guided Strike (WTH) 16
+1 Heavy Ballista (WTH) 17
+1 Inner Sanctum (WTH) 18
+1 Master of Arms (WTH) 20
+1 Mistmoon Griffin (WTH) 21
+1 Revered Unicorn (WTH) 23
+1 Serenity (WTH) 24
+1 Serra's Blessing (WTH) 25
+1 Serra's Blessing (WTH) 25
+1 Soul Shepherd (WTH) 26
+1 Volunteer Reserves (WTH) 29
+1 Volunteer Reserves (WTH) 29

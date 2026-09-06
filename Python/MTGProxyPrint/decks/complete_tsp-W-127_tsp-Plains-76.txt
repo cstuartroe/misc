@@ -1,0 +1,204 @@
+Deck
+1 Amrou Scout (TSP) 1
+1 Amrou Scout (TSP) 1
+1 Amrou Scout (TSP) 1
+1 Amrou Scout (TSP) 1
+1 Amrou Seekers (TSP) 2
+1 Amrou Seekers (TSP) 2
+1 Amrou Seekers (TSP) 2
+1 Amrou Seekers (TSP) 2
+1 Angel's Grace (TSP) 3
+1 Benalish Cavalry (TSP) 4
+1 Benalish Cavalry (TSP) 4
+1 Benalish Cavalry (TSP) 4
+1 Benalish Cavalry (TSP) 4
+1 Castle Raptors (TSP) 5
+1 Castle Raptors (TSP) 5
+1 Castle Raptors (TSP) 5
+1 Castle Raptors (TSP) 5
+1 Cavalry Master (TSP) 6
+1 Cavalry Master (TSP) 6
+1 Celestial Crusader (TSP) 7
+1 Celestial Crusader (TSP) 7
+1 Children of Korlis (TSP) 8
+1 Children of Korlis (TSP) 8
+1 Children of Korlis (TSP) 8
+1 Children of Korlis (TSP) 8
+1 Chronosavant (TSP) 9
+1 Cloudchaser Kestrel (TSP) 10
+1 Cloudchaser Kestrel (TSP) 10
+1 Cloudchaser Kestrel (TSP) 10
+1 Cloudchaser Kestrel (TSP) 10
+1 D'Avenant Healer (TSP) 11
+1 D'Avenant Healer (TSP) 11
+1 D'Avenant Healer (TSP) 11
+1 D'Avenant Healer (TSP) 11
+1 Detainment Spell (TSP) 12
+1 Detainment Spell (TSP) 12
+1 Detainment Spell (TSP) 12
+1 Detainment Spell (TSP) 12
+1 Divine Congregation (TSP) 13
+1 Divine Congregation (TSP) 13
+1 Divine Congregation (TSP) 13
+1 Divine Congregation (TSP) 13
+1 Duskrider Peregrine (TSP) 14
+1 Duskrider Peregrine (TSP) 14
+1 Errant Doomsayers (TSP) 15
+1 Errant Doomsayers (TSP) 15
+1 Errant Doomsayers (TSP) 15
+1 Errant Doomsayers (TSP) 15
+1 Evangelize (TSP) 16
+1 Flickering Spirit (TSP) 17
+1 Flickering Spirit (TSP) 17
+1 Flickering Spirit (TSP) 17
+1 Flickering Spirit (TSP) 17
+1 Foriysian Interceptor (TSP) 18
+1 Foriysian Interceptor (TSP) 18
+1 Foriysian Interceptor (TSP) 18
+1 Foriysian Interceptor (TSP) 18
+1 Fortify (TSP) 19
+1 Fortify (TSP) 19
+1 Fortify (TSP) 19
+1 Fortify (TSP) 19
+1 Gaze of Justice (TSP) 20
+1 Gaze of Justice (TSP) 20
+1 Gaze of Justice (TSP) 20
+1 Gaze of Justice (TSP) 20
+1 Griffin Guide (TSP) 21
+1 Griffin Guide (TSP) 21
+1 Gustcloak Cavalier (TSP) 22
+1 Gustcloak Cavalier (TSP) 22
+1 Icatian Crier (TSP) 23
+1 Icatian Crier (TSP) 23
+1 Icatian Crier (TSP) 23
+1 Icatian Crier (TSP) 23
+1 Ivory Giant (TSP) 24
+1 Ivory Giant (TSP) 24
+1 Ivory Giant (TSP) 24
+1 Ivory Giant (TSP) 24
+1 Jedit's Dragoons (TSP) 25
+1 Jedit's Dragoons (TSP) 25
+1 Jedit's Dragoons (TSP) 25
+1 Jedit's Dragoons (TSP) 25
+1 Knight of the Holy Nimbus (TSP) 26
+1 Knight of the Holy Nimbus (TSP) 26
+1 Magus of the Disk (TSP) 27
+1 Mangara of Corondor (TSP) 28
+1 Momentary Blink (TSP) 29
+1 Momentary Blink (TSP) 29
+1 Momentary Blink (TSP) 29
+1 Momentary Blink (TSP) 29
+1 Opal Guardian (TSP) 30
+1 Outrider en-Kor (TSP) 31
+1 Outrider en-Kor (TSP) 31
+1 Pentarch Paladin (TSP) 32
+1 Pentarch Ward (TSP) 33
+1 Pentarch Ward (TSP) 33
+1 Pentarch Ward (TSP) 33
+1 Pentarch Ward (TSP) 33
+1 Plated Pegasus (TSP) 34
+1 Plated Pegasus (TSP) 34
+1 Pull from Eternity (TSP) 35
+1 Pull from Eternity (TSP) 35
+1 Pulmonic Sliver (TSP) 36
+1 Quilled Sliver (TSP) 37
+1 Quilled Sliver (TSP) 37
+1 Return to Dust (TSP) 39
+1 Return to Dust (TSP) 39
+1 Serra Avenger (TSP) 40
+1 Sidewinder Sliver (TSP) 41
+1 Sidewinder Sliver (TSP) 41
+1 Sidewinder Sliver (TSP) 41
+1 Sidewinder Sliver (TSP) 41
+1 Spirit Loop (TSP) 42
+1 Spirit Loop (TSP) 42
+1 Temporal Isolation (TSP) 43
+1 Temporal Isolation (TSP) 43
+1 Temporal Isolation (TSP) 43
+1 Temporal Isolation (TSP) 43
+1 Tivadar of Thorn (TSP) 44
+1 Watcher Sliver (TSP) 45
+1 Watcher Sliver (TSP) 45
+1 Watcher Sliver (TSP) 45
+1 Watcher Sliver (TSP) 45
+1 Weathered Bodyguards (TSP) 46
+1 Zealot il-Vec (TSP) 47
+1 Zealot il-Vec (TSP) 47
+1 Zealot il-Vec (TSP) 47
+1 Zealot il-Vec (TSP) 47
+1 Plains (TSP) 282
+1 Plains (TSP) 282
+1 Plains (TSP) 282
+1 Plains (TSP) 282
+1 Plains (TSP) 282
+1 Plains (TSP) 282
+1 Plains (TSP) 282
+1 Plains (TSP) 282
+1 Plains (TSP) 282
+1 Plains (TSP) 282
+1 Plains (TSP) 282
+1 Plains (TSP) 282
+1 Plains (TSP) 282
+1 Plains (TSP) 282
+1 Plains (TSP) 282
+1 Plains (TSP) 282
+1 Plains (TSP) 282
+1 Plains (TSP) 282
+1 Plains (TSP) 282
+1 Plains (TSP) 283
+1 Plains (TSP) 283
+1 Plains (TSP) 283
+1 Plains (TSP) 283
+1 Plains (TSP) 283
+1 Plains (TSP) 283
+1 Plains (TSP) 283
+1 Plains (TSP) 283
+1 Plains (TSP) 283
+1 Plains (TSP) 283
+1 Plains (TSP) 283
+1 Plains (TSP) 283
+1 Plains (TSP) 283
+1 Plains (TSP) 283
+1 Plains (TSP) 283
+1 Plains (TSP) 283
+1 Plains (TSP) 283
+1 Plains (TSP) 283
+1 Plains (TSP) 283
+1 Plains (TSP) 284
+1 Plains (TSP) 284
+1 Plains (TSP) 284
+1 Plains (TSP) 284
+1 Plains (TSP) 284
+1 Plains (TSP) 284
+1 Plains (TSP) 284
+1 Plains (TSP) 284
+1 Plains (TSP) 284
+1 Plains (TSP) 284
+1 Plains (TSP) 284
+1 Plains (TSP) 284
+1 Plains (TSP) 284
+1 Plains (TSP) 284
+1 Plains (TSP) 284
+1 Plains (TSP) 284
+1 Plains (TSP) 284
+1 Plains (TSP) 284
+1 Plains (TSP) 284
+1 Plains (TSP) 285
+1 Plains (TSP) 285
+1 Plains (TSP) 285
+1 Plains (TSP) 285
+1 Plains (TSP) 285
+1 Plains (TSP) 285
+1 Plains (TSP) 285
+1 Plains (TSP) 285
+1 Plains (TSP) 285
+1 Plains (TSP) 285
+1 Plains (TSP) 285
+1 Plains (TSP) 285
+1 Plains (TSP) 285
+1 Plains (TSP) 285
+1 Plains (TSP) 285
+1 Plains (TSP) 285
+1 Plains (TSP) 285
+1 Plains (TSP) 285
+1 Plains (TSP) 285

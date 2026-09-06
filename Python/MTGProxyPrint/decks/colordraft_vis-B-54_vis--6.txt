@@ -1,0 +1,61 @@
+Deck
+1 Aku Djinn (VIS) 51
+1 Blanket of Night (VIS) 52
+1 Blanket of Night (VIS) 52
+1 Brood of Cockroaches (VIS) 53
+1 Brood of Cockroaches (VIS) 53
+1 Coercion (VIS) 54
+1 Coercion (VIS) 54
+1 Coercion (VIS) 54
+1 Crypt Rats (VIS) 55
+1 Crypt Rats (VIS) 55
+1 Crypt Rats (VIS) 55
+1 Dark Privilege (VIS) 56
+1 Dark Privilege (VIS) 56
+1 Dark Privilege (VIS) 56
+1 Death Watch (VIS) 57
+1 Death Watch (VIS) 57
+1 Death Watch (VIS) 57
+1 Desolation (VIS) 58
+1 Fallen Askari (VIS) 59
+1 Fallen Askari (VIS) 59
+1 Forbidden Ritual (VIS) 60
+1 Funeral Charm (VIS) 61
+1 Funeral Charm (VIS) 61
+1 Funeral Charm (VIS) 61
+1 Infernal Harvest (VIS) 62
+1 Infernal Harvest (VIS) 62
+1 Infernal Harvest (VIS) 62
+1 Infernal Harvest (VIS) 62
+1 Kaervek's Spite (VIS) 63
+1 Necromancy (VIS) 64
+1 Necromancy (VIS) 64
+1 Necrosavant (VIS) 65
+1 Nekrataal (VIS) 66
+1 Nekrataal (VIS) 66
+1 Pillar Tombs of Aku (VIS) 67
+1 Python (VIS) 68
+1 Python (VIS) 68
+1 Python (VIS) 68
+1 Python (VIS) 68
+1 Suq'Ata Assassin (VIS) 69
+1 Tar Pit Warrior (VIS) 70
+1 Urborg Mindsucker (VIS) 71
+1 Urborg Mindsucker (VIS) 71
+1 Urborg Mindsucker (VIS) 71
+1 Urborg Mindsucker (VIS) 71
+1 Vampiric Tutor (VIS) 72
+1 Vampirism (VIS) 73
+1 Wake of Vultures (VIS) 74
+1 Wake of Vultures (VIS) 74
+1 Wake of Vultures (VIS) 74
+1 Wicked Reward (VIS) 75
+1 Wicked Reward (VIS) 75
+1 Wicked Reward (VIS) 75
+1 Wicked Reward (VIS) 75
+1 Dragon Mask (VIS) 144
+1 Magma Mine (VIS) 149
+1 Matopi Golem (VIS) 150
+1 Snake Basket (VIS) 155
+1 Teferi's Puzzle Box (VIS) 156
+1 Wand of Denial (VIS) 159

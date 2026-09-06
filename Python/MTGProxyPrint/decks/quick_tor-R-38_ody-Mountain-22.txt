@@ -1,0 +1,61 @@
+Deck
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 343
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 344
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 345
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Mountain (ODY) 346
+1 Accelerate (TOR) 90
+1 Accelerate (TOR) 90
+1 Accelerate (TOR) 90
+1 Accelerate (TOR) 90
+1 Balthor the Stout (TOR) 91
+1 Barbarian Outcast (TOR) 92
+1 Barbarian Outcast (TOR) 92
+1 Barbarian Outcast (TOR) 92
+1 Crackling Club (TOR) 93
+1 Crackling Club (TOR) 93
+1 Crazed Firecat (TOR) 94
+1 Devastating Dreams (TOR) 95
+1 Enslaved Dwarf (TOR) 96
+1 Enslaved Dwarf (TOR) 96
+1 Fiery Temper (TOR) 97
+1 Flaming Gambit (TOR) 98
+1 Flaming Gambit (TOR) 98
+1 Flash of Defiance (TOR) 99
+1 Flash of Defiance (TOR) 99
+1 Grim Lavamancer (TOR) 100
+1 Hell-Bent Raider (TOR) 101
+1 Kamahl's Sledge (TOR) 102
+1 Kamahl's Sledge (TOR) 102
+1 Longhorn Firebeast (TOR) 103
+1 Longhorn Firebeast (TOR) 103
+1 Overmaster (TOR) 104
+1 Pardic Arsonist (TOR) 105
+1 Pardic Arsonist (TOR) 105
+1 Pardic Collaborator (TOR) 106
+1 Pardic Collaborator (TOR) 106
+1 Petravark (TOR) 109
+1 Petravark (TOR) 109
+1 Pitchstone Wall (TOR) 110
+1 Pyromania (TOR) 112
+1 Sonic Seizure (TOR) 115
+1 Sonic Seizure (TOR) 115
+1 Temporary Insanity (TOR) 116
+1 Violent Eruption (TOR) 117

@@ -1,0 +1,204 @@
+Deck
+1 Aetherflame Wall (TSP) 142
+1 Aetherflame Wall (TSP) 142
+1 Aetherflame Wall (TSP) 142
+1 Aetherflame Wall (TSP) 142
+1 Ancient Grudge (TSP) 143
+1 Ancient Grudge (TSP) 143
+1 Ancient Grudge (TSP) 143
+1 Ancient Grudge (TSP) 143
+1 Barbed Shocker (TSP) 144
+1 Barbed Shocker (TSP) 144
+1 Basalt Gargoyle (TSP) 145
+1 Basalt Gargoyle (TSP) 145
+1 Blazing Blade Askari (TSP) 146
+1 Blazing Blade Askari (TSP) 146
+1 Blazing Blade Askari (TSP) 146
+1 Blazing Blade Askari (TSP) 146
+1 Bogardan Hellkite (TSP) 147
+1 Bogardan Rager (TSP) 148
+1 Bogardan Rager (TSP) 148
+1 Bogardan Rager (TSP) 148
+1 Bogardan Rager (TSP) 148
+1 Bonesplitter Sliver (TSP) 149
+1 Bonesplitter Sliver (TSP) 149
+1 Bonesplitter Sliver (TSP) 149
+1 Bonesplitter Sliver (TSP) 149
+1 Coal Stoker (TSP) 150
+1 Coal Stoker (TSP) 150
+1 Coal Stoker (TSP) 150
+1 Coal Stoker (TSP) 150
+1 Conflagrate (TSP) 151
+1 Conflagrate (TSP) 151
+1 Empty the Warrens (TSP) 152
+1 Empty the Warrens (TSP) 152
+1 Empty the Warrens (TSP) 152
+1 Empty the Warrens (TSP) 152
+1 Firemaw Kavu (TSP) 153
+1 Firemaw Kavu (TSP) 153
+1 Flamecore Elemental (TSP) 154
+1 Flamecore Elemental (TSP) 154
+1 Flamecore Elemental (TSP) 154
+1 Flamecore Elemental (TSP) 154
+1 Flowstone Channeler (TSP) 155
+1 Flowstone Channeler (TSP) 155
+1 Flowstone Channeler (TSP) 155
+1 Flowstone Channeler (TSP) 155
+1 Fortune Thief (TSP) 156
+1 Fury Sliver (TSP) 157
+1 Fury Sliver (TSP) 157
+1 Ghitu Firebreathing (TSP) 158
+1 Ghitu Firebreathing (TSP) 158
+1 Ghitu Firebreathing (TSP) 158
+1 Ghitu Firebreathing (TSP) 158
+1 Goblin Skycutter (TSP) 159
+1 Goblin Skycutter (TSP) 159
+1 Goblin Skycutter (TSP) 159
+1 Goblin Skycutter (TSP) 159
+1 Grapeshot (TSP) 160
+1 Grapeshot (TSP) 160
+1 Grapeshot (TSP) 160
+1 Grapeshot (TSP) 160
+1 Greater Gargadon (TSP) 161
+1 Ground Rift (TSP) 162
+1 Ground Rift (TSP) 162
+1 Ground Rift (TSP) 162
+1 Ground Rift (TSP) 162
+1 Ib Halfheart, Goblin Tactician (TSP) 163
+1 Ignite Memories (TSP) 164
+1 Ignite Memories (TSP) 164
+1 Ironclaw Buzzardiers (TSP) 165
+1 Ironclaw Buzzardiers (TSP) 165
+1 Ironclaw Buzzardiers (TSP) 165
+1 Ironclaw Buzzardiers (TSP) 165
+1 Jaya Ballard, Task Mage (TSP) 166
+1 Keldon Halberdier (TSP) 167
+1 Keldon Halberdier (TSP) 167
+1 Keldon Halberdier (TSP) 167
+1 Keldon Halberdier (TSP) 167
+1 Lightning Axe (TSP) 168
+1 Lightning Axe (TSP) 168
+1 Lightning Axe (TSP) 168
+1 Lightning Axe (TSP) 168
+1 Magus of the Scroll (TSP) 169
+1 Mogg War Marshal (TSP) 170
+1 Mogg War Marshal (TSP) 170
+1 Mogg War Marshal (TSP) 170
+1 Mogg War Marshal (TSP) 170
+1 Norin the Wary (TSP) 171
+1 Orcish Cannonade (TSP) 172
+1 Orcish Cannonade (TSP) 172
+1 Orcish Cannonade (TSP) 172
+1 Orcish Cannonade (TSP) 172
+1 Pardic Dragon (TSP) 173
+1 Plunder (TSP) 174
+1 Plunder (TSP) 174
+1 Plunder (TSP) 174
+1 Plunder (TSP) 174
+1 Reiterate (TSP) 175
+1 Rift Bolt (TSP) 176
+1 Rift Bolt (TSP) 176
+1 Rift Bolt (TSP) 176
+1 Rift Bolt (TSP) 176
+1 Sedge Sliver (TSP) 177
+1 Subterranean Shambler (TSP) 178
+1 Subterranean Shambler (TSP) 178
+1 Subterranean Shambler (TSP) 178
+1 Subterranean Shambler (TSP) 178
+1 Sudden Shock (TSP) 179
+1 Sudden Shock (TSP) 179
+1 Sulfurous Blast (TSP) 180
+1 Sulfurous Blast (TSP) 180
+1 Tectonic Fiend (TSP) 181
+1 Tectonic Fiend (TSP) 181
+1 Thick-Skinned Goblin (TSP) 182
+1 Thick-Skinned Goblin (TSP) 182
+1 Two-Headed Sliver (TSP) 183
+1 Two-Headed Sliver (TSP) 183
+1 Two-Headed Sliver (TSP) 183
+1 Two-Headed Sliver (TSP) 183
+1 Undying Rage (TSP) 184
+1 Undying Rage (TSP) 184
+1 Viashino Bladescout (TSP) 185
+1 Viashino Bladescout (TSP) 185
+1 Viashino Bladescout (TSP) 185
+1 Viashino Bladescout (TSP) 185
+1 Volcanic Awakening (TSP) 186
+1 Volcanic Awakening (TSP) 186
+1 Word of Seizing (TSP) 188
+1 Mountain (TSP) 294
+1 Mountain (TSP) 294
+1 Mountain (TSP) 294
+1 Mountain (TSP) 294
+1 Mountain (TSP) 294
+1 Mountain (TSP) 294
+1 Mountain (TSP) 294
+1 Mountain (TSP) 294
+1 Mountain (TSP) 294
+1 Mountain (TSP) 294
+1 Mountain (TSP) 294
+1 Mountain (TSP) 294
+1 Mountain (TSP) 294
+1 Mountain (TSP) 294
+1 Mountain (TSP) 294
+1 Mountain (TSP) 294
+1 Mountain (TSP) 294
+1 Mountain (TSP) 294
+1 Mountain (TSP) 294
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 295
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 296
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297
+1 Mountain (TSP) 297

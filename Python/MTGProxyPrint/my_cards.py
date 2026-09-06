@@ -2,6 +2,21 @@ from shared import Card, load_set
 
 
 MY_CARDS: dict[str, list[str]] = {
+    "9ed": [
+        "Foul Imp",
+        "Hollow Dogs",
+        "Nekrataal",
+        "Phyrexian Gargantua",
+        "Raise Dead",
+        "Serpent Warrior",
+        "Unholy Strength",
+        "Tanglebloom",
+        "Phyrexian Hulk",
+    ],
+    "rav": [
+        "Terraformer",
+        "Vedalken Dismisser",
+    ],
     "dis": [
         "Helium Squirter",
         "Writ of Passage",

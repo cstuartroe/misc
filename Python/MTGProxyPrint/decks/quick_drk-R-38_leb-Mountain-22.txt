@@ -1,0 +1,61 @@
+Deck
+1 Mountain (LEB) 297
+1 Mountain (LEB) 297
+1 Mountain (LEB) 297
+1 Mountain (LEB) 297
+1 Mountain (LEB) 297
+1 Mountain (LEB) 297
+1 Mountain (LEB) 297
+1 Mountain (LEB) 297
+1 Mountain (LEB) 298
+1 Mountain (LEB) 298
+1 Mountain (LEB) 298
+1 Mountain (LEB) 298
+1 Mountain (LEB) 298
+1 Mountain (LEB) 298
+1 Mountain (LEB) 298
+1 Mountain (LEB) 299
+1 Mountain (LEB) 299
+1 Mountain (LEB) 299
+1 Mountain (LEB) 299
+1 Mountain (LEB) 299
+1 Mountain (LEB) 299
+1 Mountain (LEB) 299
+1 Ball Lightning (DRK) 57
+1 Blood Moon (DRK) 58
+1 Brothers of Fire (DRK) 59
+1 Cave People (DRK) 60
+1 Cave People (DRK) 60
+1 Eternal Flame (DRK) 61
+1 Fire Drake (DRK) 62
+1 Fissure (DRK) 63
+1 Fissure (DRK) 63
+1 Fissure (DRK) 63
+1 Goblin Caves (DRK) 64
+1 Goblin Caves (DRK) 64
+1 Goblin Caves (DRK) 64
+1 Goblin Caves (DRK) 64
+1 Goblin Digging Team (DRK) 65
+1 Goblin Digging Team (DRK) 65
+1 Goblin Digging Team (DRK) 65
+1 Goblin Digging Team (DRK) 65
+1 Goblin Hero (DRK) 66
+1 Goblin Hero (DRK) 66
+1 Goblin Hero (DRK) 66
+1 Goblin Rock Sled (DRK) 67
+1 Goblin Rock Sled (DRK) 67
+1 Goblin Rock Sled (DRK) 67
+1 Goblin Shrine (DRK) 68
+1 Goblin Shrine (DRK) 68
+1 Goblin Shrine (DRK) 68
+1 Goblin Shrine (DRK) 68
+1 Goblin Wizard (DRK) 69
+1 Goblins of the Flarg (DRK) 70
+1 Goblins of the Flarg (DRK) 70
+1 Goblins of the Flarg (DRK) 70
+1 Inferno (DRK) 71
+1 Mana Clash (DRK) 72
+1 Orc General (DRK) 73
+1 Orc General (DRK) 73
+1 Sisters of the Flame (DRK) 74
+1 Sisters of the Flame (DRK) 74
