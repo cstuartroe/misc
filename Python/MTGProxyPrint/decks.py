@@ -372,7 +372,7 @@ def my_cards():
 
 if __name__ == "__main__":
     for file in os.listdir(path="decks"):
-        if file != ".gitkeep":
+        if file.endswith(".txt") or file.endswith("png"):
             os.unlink(f"decks/{file}")
 
     generate_quick_decks()
