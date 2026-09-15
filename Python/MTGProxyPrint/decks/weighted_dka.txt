@@ -1,0 +1,395 @@
+Deck
+1 Archangel's Light (DKA) 1
+1 Bar the Door (DKA) 2
+1 Bar the Door (DKA) 2
+1 Bar the Door (DKA) 2
+1 Bar the Door (DKA) 2
+1 Break of Day (DKA) 3
+1 Break of Day (DKA) 3
+1 Break of Day (DKA) 3
+1 Break of Day (DKA) 3
+1 Burden of Guilt (DKA) 4
+1 Burden of Guilt (DKA) 4
+1 Burden of Guilt (DKA) 4
+1 Burden of Guilt (DKA) 4
+1 Curse of Exhaustion (DKA) 5
+1 Curse of Exhaustion (DKA) 5
+1 Elgaud Inquisitor (DKA) 6
+1 Elgaud Inquisitor (DKA) 6
+1 Elgaud Inquisitor (DKA) 6
+1 Elgaud Inquisitor (DKA) 6
+1 Faith's Shield (DKA) 7
+1 Faith's Shield (DKA) 7
+1 Gather the Townsfolk (DKA) 8
+1 Gather the Townsfolk (DKA) 8
+1 Gather the Townsfolk (DKA) 8
+1 Gather the Townsfolk (DKA) 8
+1 Gavony Ironwright (DKA) 9
+1 Gavony Ironwright (DKA) 9
+1 Hollowhenge Spirit (DKA) 10
+1 Hollowhenge Spirit (DKA) 10
+1 Increasing Devotion (DKA) 11
+1 Lingering Souls (DKA) 12
+1 Lingering Souls (DKA) 12
+1 Loyal Cathar // Unhallowed Cathar (DKA) 13
+1 Loyal Cathar // Unhallowed Cathar (DKA) 13
+1 Loyal Cathar // Unhallowed Cathar (DKA) 13
+1 Loyal Cathar // Unhallowed Cathar (DKA) 13
+1 Midnight Guard (DKA) 14
+1 Midnight Guard (DKA) 14
+1 Midnight Guard (DKA) 14
+1 Midnight Guard (DKA) 14
+1 Niblis of the Mist (DKA) 15
+1 Niblis of the Mist (DKA) 15
+1 Niblis of the Mist (DKA) 15
+1 Niblis of the Mist (DKA) 15
+1 Niblis of the Urn (DKA) 16
+1 Niblis of the Urn (DKA) 16
+1 Ray of Revelation (DKA) 17
+1 Ray of Revelation (DKA) 17
+1 Ray of Revelation (DKA) 17
+1 Ray of Revelation (DKA) 17
+1 Requiem Angel (DKA) 18
+1 Sanctuary Cat (DKA) 19
+1 Sanctuary Cat (DKA) 19
+1 Sanctuary Cat (DKA) 19
+1 Sanctuary Cat (DKA) 19
+1 Séance (DKA) 20
+1 Silverclaw Griffin (DKA) 21
+1 Silverclaw Griffin (DKA) 21
+1 Silverclaw Griffin (DKA) 21
+1 Silverclaw Griffin (DKA) 21
+1 Skillful Lunge (DKA) 22
+1 Skillful Lunge (DKA) 22
+1 Skillful Lunge (DKA) 22
+1 Skillful Lunge (DKA) 22
+1 Sudden Disappearance (DKA) 23
+1 Thalia, Guardian of Thraben (DKA) 24
+1 Thraben Doomsayer (DKA) 25
+1 Thraben Heretic (DKA) 26
+1 Thraben Heretic (DKA) 26
+1 Artful Dodge (DKA) 27
+1 Artful Dodge (DKA) 27
+1 Artful Dodge (DKA) 27
+1 Artful Dodge (DKA) 27
+1 Beguiler of Wills (DKA) 28
+1 Bone to Ash (DKA) 29
+1 Bone to Ash (DKA) 29
+1 Bone to Ash (DKA) 29
+1 Bone to Ash (DKA) 29
+1 Call to the Kindred (DKA) 30
+1 Chant of the Skifsang (DKA) 31
+1 Chant of the Skifsang (DKA) 31
+1 Chant of the Skifsang (DKA) 31
+1 Chant of the Skifsang (DKA) 31
+1 Chill of Foreboding (DKA) 32
+1 Chill of Foreboding (DKA) 32
+1 Counterlash (DKA) 33
+1 Curse of Echoes (DKA) 34
+1 Divination (DKA) 35
+1 Divination (DKA) 35
+1 Divination (DKA) 35
+1 Divination (DKA) 35
+1 Dungeon Geists (DKA) 36
+1 Geralf's Mindcrusher (DKA) 37
+1 Griptide (DKA) 38
+1 Griptide (DKA) 38
+1 Griptide (DKA) 38
+1 Griptide (DKA) 38
+1 Havengul Runebinder (DKA) 39
+1 Headless Skaab (DKA) 40
+1 Headless Skaab (DKA) 40
+1 Headless Skaab (DKA) 40
+1 Headless Skaab (DKA) 40
+1 Increasing Confusion (DKA) 41
+1 Mystic Retrieval (DKA) 42
+1 Mystic Retrieval (DKA) 42
+1 Nephalia Seakite (DKA) 43
+1 Nephalia Seakite (DKA) 43
+1 Nephalia Seakite (DKA) 43
+1 Nephalia Seakite (DKA) 43
+1 Niblis of the Breath (DKA) 44
+1 Niblis of the Breath (DKA) 44
+1 Relentless Skaabs (DKA) 45
+1 Relentless Skaabs (DKA) 45
+1 Saving Grasp (DKA) 46
+1 Saving Grasp (DKA) 46
+1 Saving Grasp (DKA) 46
+1 Saving Grasp (DKA) 46
+1 Screeching Skaab (DKA) 47
+1 Screeching Skaab (DKA) 47
+1 Screeching Skaab (DKA) 47
+1 Screeching Skaab (DKA) 47
+1 Secrets of the Dead (DKA) 48
+1 Secrets of the Dead (DKA) 48
+1 Shriekgeist (DKA) 49
+1 Shriekgeist (DKA) 49
+1 Shriekgeist (DKA) 49
+1 Shriekgeist (DKA) 49
+1 Soul Seizer // Ghastly Haunting (DKA) 50
+1 Soul Seizer // Ghastly Haunting (DKA) 50
+1 Stormbound Geist (DKA) 51
+1 Stormbound Geist (DKA) 51
+1 Stormbound Geist (DKA) 51
+1 Stormbound Geist (DKA) 51
+1 Thought Scour (DKA) 52
+1 Thought Scour (DKA) 52
+1 Thought Scour (DKA) 52
+1 Thought Scour (DKA) 52
+1 Tower Geist (DKA) 53
+1 Tower Geist (DKA) 53
+1 Black Cat (DKA) 54
+1 Black Cat (DKA) 54
+1 Black Cat (DKA) 54
+1 Black Cat (DKA) 54
+1 Chosen of Markov // Markov's Servant (DKA) 55
+1 Chosen of Markov // Markov's Servant (DKA) 55
+1 Chosen of Markov // Markov's Servant (DKA) 55
+1 Chosen of Markov // Markov's Servant (DKA) 55
+1 Curse of Misfortunes (DKA) 56
+1 Curse of Thirst (DKA) 57
+1 Curse of Thirst (DKA) 57
+1 Deadly Allure (DKA) 58
+1 Deadly Allure (DKA) 58
+1 Death's Caress (DKA) 59
+1 Death's Caress (DKA) 59
+1 Death's Caress (DKA) 59
+1 Death's Caress (DKA) 59
+1 Falkenrath Torturer (DKA) 60
+1 Falkenrath Torturer (DKA) 60
+1 Falkenrath Torturer (DKA) 60
+1 Falkenrath Torturer (DKA) 60
+1 Farbog Boneflinger (DKA) 61
+1 Farbog Boneflinger (DKA) 61
+1 Fiend of the Shadows (DKA) 62
+1 Geralf's Messenger (DKA) 63
+1 Gravecrawler (DKA) 64
+1 Gravepurge (DKA) 65
+1 Gravepurge (DKA) 65
+1 Gravepurge (DKA) 65
+1 Gravepurge (DKA) 65
+1 Gruesome Discovery (DKA) 66
+1 Gruesome Discovery (DKA) 66
+1 Gruesome Discovery (DKA) 66
+1 Gruesome Discovery (DKA) 66
+1 Harrowing Journey (DKA) 67
+1 Harrowing Journey (DKA) 67
+1 Highborn Ghoul (DKA) 68
+1 Highborn Ghoul (DKA) 68
+1 Highborn Ghoul (DKA) 68
+1 Highborn Ghoul (DKA) 68
+1 Increasing Ambition (DKA) 69
+1 Mikaeus, the Unhallowed (DKA) 70
+1 Ravenous Demon // Archdemon of Greed (DKA) 71
+1 Reap the Seagraf (DKA) 72
+1 Reap the Seagraf (DKA) 72
+1 Reap the Seagraf (DKA) 72
+1 Reap the Seagraf (DKA) 72
+1 Sightless Ghoul (DKA) 73
+1 Sightless Ghoul (DKA) 73
+1 Sightless Ghoul (DKA) 73
+1 Sightless Ghoul (DKA) 73
+1 Skirsdag Flayer (DKA) 74
+1 Skirsdag Flayer (DKA) 74
+1 Spiteful Shadows (DKA) 75
+1 Spiteful Shadows (DKA) 75
+1 Spiteful Shadows (DKA) 75
+1 Spiteful Shadows (DKA) 75
+1 Tragic Slip (DKA) 76
+1 Tragic Slip (DKA) 76
+1 Tragic Slip (DKA) 76
+1 Tragic Slip (DKA) 76
+1 Undying Evil (DKA) 77
+1 Undying Evil (DKA) 77
+1 Undying Evil (DKA) 77
+1 Undying Evil (DKA) 77
+1 Vengeful Vampire (DKA) 78
+1 Vengeful Vampire (DKA) 78
+1 Wakedancer (DKA) 79
+1 Wakedancer (DKA) 79
+1 Zombie Apocalypse (DKA) 80
+1 Afflicted Deserter // Werewolf Ransacker (DKA) 81
+1 Afflicted Deserter // Werewolf Ransacker (DKA) 81
+1 Alpha Brawl (DKA) 82
+1 Blood Feud (DKA) 83
+1 Blood Feud (DKA) 83
+1 Burning Oil (DKA) 84
+1 Burning Oil (DKA) 84
+1 Curse of Bloodletting (DKA) 85
+1 Erdwal Ripper (DKA) 86
+1 Erdwal Ripper (DKA) 86
+1 Erdwal Ripper (DKA) 86
+1 Erdwal Ripper (DKA) 86
+1 Faithless Looting (DKA) 87
+1 Faithless Looting (DKA) 87
+1 Faithless Looting (DKA) 87
+1 Faithless Looting (DKA) 87
+1 Fires of Undeath (DKA) 88
+1 Fires of Undeath (DKA) 88
+1 Fires of Undeath (DKA) 88
+1 Fires of Undeath (DKA) 88
+1 Flayer of the Hatebound (DKA) 89
+1 Fling (DKA) 90
+1 Fling (DKA) 90
+1 Fling (DKA) 90
+1 Fling (DKA) 90
+1 Forge Devil (DKA) 91
+1 Forge Devil (DKA) 91
+1 Forge Devil (DKA) 91
+1 Forge Devil (DKA) 91
+1 Heckling Fiends (DKA) 92
+1 Heckling Fiends (DKA) 92
+1 Hellrider (DKA) 93
+1 Hinterland Hermit // Hinterland Scourge (DKA) 94
+1 Hinterland Hermit // Hinterland Scourge (DKA) 94
+1 Hinterland Hermit // Hinterland Scourge (DKA) 94
+1 Hinterland Hermit // Hinterland Scourge (DKA) 94
+1 Increasing Vengeance (DKA) 95
+1 Markov Blademaster (DKA) 96
+1 Markov Warlord (DKA) 97
+1 Markov Warlord (DKA) 97
+1 Mondronen Shaman // Tovolar's Magehunter (DKA) 98
+1 Moonveil Dragon (DKA) 99
+1 Nearheath Stalker (DKA) 100
+1 Nearheath Stalker (DKA) 100
+1 Nearheath Stalker (DKA) 100
+1 Nearheath Stalker (DKA) 100
+1 Pyreheart Wolf (DKA) 101
+1 Pyreheart Wolf (DKA) 101
+1 Russet Wolves (DKA) 102
+1 Russet Wolves (DKA) 102
+1 Russet Wolves (DKA) 102
+1 Russet Wolves (DKA) 102
+1 Scorch the Fields (DKA) 103
+1 Scorch the Fields (DKA) 103
+1 Scorch the Fields (DKA) 103
+1 Scorch the Fields (DKA) 103
+1 Shattered Perception (DKA) 104
+1 Shattered Perception (DKA) 104
+1 Talons of Falkenrath (DKA) 105
+1 Talons of Falkenrath (DKA) 105
+1 Talons of Falkenrath (DKA) 105
+1 Talons of Falkenrath (DKA) 105
+1 Torch Fiend (DKA) 106
+1 Torch Fiend (DKA) 106
+1 Torch Fiend (DKA) 106
+1 Torch Fiend (DKA) 106
+1 Wrack with Madness (DKA) 107
+1 Wrack with Madness (DKA) 107
+1 Wrack with Madness (DKA) 107
+1 Wrack with Madness (DKA) 107
+1 Briarpack Alpha (DKA) 108
+1 Briarpack Alpha (DKA) 108
+1 Clinging Mists (DKA) 109
+1 Clinging Mists (DKA) 109
+1 Clinging Mists (DKA) 109
+1 Clinging Mists (DKA) 109
+1 Crushing Vines (DKA) 110
+1 Crushing Vines (DKA) 110
+1 Crushing Vines (DKA) 110
+1 Crushing Vines (DKA) 110
+1 Dawntreader Elk (DKA) 111
+1 Dawntreader Elk (DKA) 111
+1 Dawntreader Elk (DKA) 111
+1 Dawntreader Elk (DKA) 111
+1 Deranged Outcast (DKA) 112
+1 Favor of the Woods (DKA) 113
+1 Favor of the Woods (DKA) 113
+1 Favor of the Woods (DKA) 113
+1 Favor of the Woods (DKA) 113
+1 Feed the Pack (DKA) 114
+1 Ghoultree (DKA) 115
+1 Gravetiller Wurm (DKA) 116
+1 Gravetiller Wurm (DKA) 116
+1 Grim Flowering (DKA) 117
+1 Grim Flowering (DKA) 117
+1 Hollowhenge Beast (DKA) 118
+1 Hollowhenge Beast (DKA) 118
+1 Hollowhenge Beast (DKA) 118
+1 Hollowhenge Beast (DKA) 118
+1 Hunger of the Howlpack (DKA) 119
+1 Hunger of the Howlpack (DKA) 119
+1 Hunger of the Howlpack (DKA) 119
+1 Hunger of the Howlpack (DKA) 119
+1 Increasing Savagery (DKA) 120
+1 Kessig Recluse (DKA) 121
+1 Kessig Recluse (DKA) 121
+1 Kessig Recluse (DKA) 121
+1 Kessig Recluse (DKA) 121
+1 Lambholt Elder // Silverpelt Werewolf (DKA) 122
+1 Lambholt Elder // Silverpelt Werewolf (DKA) 122
+1 Lost in the Woods (DKA) 123
+1 Predator Ooze (DKA) 124
+1 Scorned Villager // Moonscarred Werewolf (DKA) 125
+1 Scorned Villager // Moonscarred Werewolf (DKA) 125
+1 Scorned Villager // Moonscarred Werewolf (DKA) 125
+1 Scorned Villager // Moonscarred Werewolf (DKA) 125
+1 Somberwald Dryad (DKA) 126
+1 Somberwald Dryad (DKA) 126
+1 Somberwald Dryad (DKA) 126
+1 Somberwald Dryad (DKA) 126
+1 Strangleroot Geist (DKA) 127
+1 Strangleroot Geist (DKA) 127
+1 Tracker's Instincts (DKA) 128
+1 Tracker's Instincts (DKA) 128
+1 Ulvenwald Bear (DKA) 129
+1 Ulvenwald Bear (DKA) 129
+1 Ulvenwald Bear (DKA) 129
+1 Ulvenwald Bear (DKA) 129
+1 Village Survivors (DKA) 130
+1 Village Survivors (DKA) 130
+1 Vorapede (DKA) 131
+1 Wild Hunger (DKA) 132
+1 Wild Hunger (DKA) 132
+1 Wild Hunger (DKA) 132
+1 Wild Hunger (DKA) 132
+1 Wolfbitten Captive // Krallenhorde Killer (DKA) 133
+1 Young Wolf (DKA) 134
+1 Young Wolf (DKA) 134
+1 Young Wolf (DKA) 134
+1 Young Wolf (DKA) 134
+1 Diregraf Captain (DKA) 135
+1 Diregraf Captain (DKA) 135
+1 Drogskol Captain (DKA) 136
+1 Drogskol Captain (DKA) 136
+1 Drogskol Reaver (DKA) 137
+1 Falkenrath Aristocrat (DKA) 138
+1 Havengul Lich (DKA) 139
+1 Huntmaster of the Fells // Ravager of the Fells (DKA) 140
+1 Immerwolf (DKA) 141
+1 Immerwolf (DKA) 141
+1 Sorin, Lord of Innistrad (DKA) 142
+1 Stromkirk Captain (DKA) 143
+1 Stromkirk Captain (DKA) 143
+1 Altar of the Lost (DKA) 144
+1 Altar of the Lost (DKA) 144
+1 Avacyn's Collar (DKA) 145
+1 Avacyn's Collar (DKA) 145
+1 Chalice of Life // Chalice of Death (DKA) 146
+1 Chalice of Life // Chalice of Death (DKA) 146
+1 Elbrus, the Binding Blade // Withengar Unbound (DKA) 147
+1 Executioner's Hood (DKA) 148
+1 Executioner's Hood (DKA) 148
+1 Executioner's Hood (DKA) 148
+1 Executioner's Hood (DKA) 148
+1 Grafdigger's Cage (DKA) 149
+1 Heavy Mattock (DKA) 150
+1 Heavy Mattock (DKA) 150
+1 Heavy Mattock (DKA) 150
+1 Heavy Mattock (DKA) 150
+1 Helvault (DKA) 151
+1 Jar of Eyeballs (DKA) 152
+1 Warden of the Wall (DKA) 153
+1 Warden of the Wall (DKA) 153
+1 Wolfhunter's Quiver (DKA) 154
+1 Wolfhunter's Quiver (DKA) 154
+1 Evolving Wilds (DKA) 155
+1 Evolving Wilds (DKA) 155
+1 Evolving Wilds (DKA) 155
+1 Evolving Wilds (DKA) 155
+1 Grim Backwoods (DKA) 156
+1 Haunted Fengraf (DKA) 157
+1 Haunted Fengraf (DKA) 157
+1 Haunted Fengraf (DKA) 157
+1 Haunted Fengraf (DKA) 157
+1 Vault of the Archangel (DKA) 158

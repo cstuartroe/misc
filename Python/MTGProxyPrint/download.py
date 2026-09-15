@@ -114,6 +114,17 @@ def get_additional_metadata(cards: list[Card]) -> None:
                 elif sclass == ['card-symbol', 'card-symbol-2W']:
                     colors.add("W")
 
+                elif sclass == ['card-symbol', 'card-symbol-BP']:
+                    colors.add("B")
+                elif sclass == ['card-symbol', 'card-symbol-GP']:
+                    colors.add("G")
+                elif sclass == ['card-symbol', 'card-symbol-RP']:
+                    colors.add("R")
+                elif sclass == ['card-symbol', 'card-symbol-UP']:
+                    colors.add("U")
+                elif sclass == ['card-symbol', 'card-symbol-WP']:
+                    colors.add("W")
+
                 elif sclass == ['card-symbol', 'card-symbol-WU']:
                     colors.add("W")
                     colors.add("U")
