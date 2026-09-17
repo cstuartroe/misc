@@ -169,9 +169,9 @@ def deck_to_image(title: str, deck: list[Card]):
 
         image.paste(card_image, (CARD_WIDTH*x, CARD_HEIGHT*y))
 
-    image.save(f"decks/{title}.png")
+    image.save(f"decks/{title}.jpg")
 
-    print(f"Wrote deck image {title}.png")
+    print(f"Wrote deck image {title}.jpg")
 
 
 def mana_curve_image(title: str, deck: list[Card]):
@@ -213,9 +213,9 @@ def mana_curve_image(title: str, deck: list[Card]):
             image.paste(card_image, (x, y))
 
 
-    image.save(f"decks/{title}_manacurve.png")
+    image.save(f"decks/{title}_manacurve.jpg")
 
-    print(f"Wrote deck image {title}_manacurve.png")
+    print(f"Wrote deck image {title}_manacurve.jpg")
 
 
 def deck_to_txt(title: str, deck: list[Card]):
@@ -236,6 +236,44 @@ def print_mana_curve(deck: list[Card]):
 
     for cmc, count in sorted(list(cmcs.items())):
         print(f"{cmc:>4}: {count:>2} ({round(100*count/len(deck)):>2}%)")
+
+
+def print_release_stats(deck: list[Card]):
+    set_counts = {}
+
+    for card in deck:
+        if "Basic" in card.card_type:
+            continue
+
+        set_counts[card.set_id] = set_counts.get(card.set_id, 0) + 1
+
+    print("Number of cards per set:")
+    for set_id, count in sorted(list(set_counts.items()), key=lambda x: MY_SETS.index(x[0])):
+        print(f"{set_id}: {count:>3}")
+
+
+def print_creature_stats(deck: list[Card]):
+    creature_type_counts = {}
+    for card in deck:
+        if "Creature" in card.card_type:
+            creature_type = card.card_type.split("—")[1].strip()
+            creature_type_counts[creature_type] = creature_type_counts.get(creature_type, 0) + 1
+
+    num_creatures = sum(creature_type_counts.values())
+    print(f"{num_creatures} creatures.")
+    print("Creature types:")
+    for creature_type, count in sorted(list(creature_type_counts.items()), key=lambda x: -x[1]):
+        print(f"{creature_type:>20}: {count:>2} ({round(count*100/num_creatures):>2}%)")
+
+    creature_type_component_counts = {}
+    for creature_type, count in creature_type_counts.items():
+        components = creature_type.split(" ")
+        for component in components:
+            creature_type_component_counts[component] = creature_type_component_counts.get(component, 0) + count
+
+    print("Creature type components:")
+    for creature_type_component, count in sorted(list(creature_type_component_counts.items()), key=lambda x: -x[1]):
+        print(f"{creature_type_component:>10}: {count:>2} ({round(count*100/num_creatures):>2}%)")
 
 
 def generate_quick_decks():
@@ -573,39 +611,14 @@ def oneoff_lrwshm_u_drawing():
             if card.title == "Island":
                 islands.append(card)
 
-    release_counts = {s: 0 for s in sets}
-    creature_type_counts = {}
-
     deck = []
     rejected = []
     for (title, include) in titles:
         card = lrwshm_cards_by_name[title]
         if include:
             deck.append(card)
-            release_counts[card.set_id] += 1
-
-            if "Creature" in card.card_type:
-                creature_type = card.card_type.split("—")[1].strip()
-                creature_type_counts[creature_type] = creature_type_counts.get(creature_type, 0) + 1
         else:
             rejected.append(card)
-
-    print(release_counts)
-    num_creatures = sum(creature_type_counts.values())
-    print(f"{num_creatures} creatures.")
-    print("Creature types:")
-    for creature_type, count in sorted(list(creature_type_counts.items()), key=lambda x: -x[1]):
-        print(f"{creature_type:>20}: {count:>2} ({round(count*100/num_creatures):>2}%)")
-
-    creature_type_component_counts = {}
-    for creature_type, count in creature_type_counts.items():
-        components = creature_type.split(" ")
-        for component in components:
-            creature_type_component_counts[component] = creature_type_component_counts.get(component, 0) + count
-
-    print("Creature type components:")
-    for creature_type_component, count in sorted(list(creature_type_component_counts.items()), key=lambda x: -x[1]):
-        print(f"{creature_type_component:>10}: {count:>2} ({round(count*100/num_creatures):>2}%)")
 
     deck.sort(key=lambda card: (card.cmc, "Creature" in card.card_type, MY_SETS.index(card.set_id)))
 
@@ -623,6 +636,79 @@ def oneoff_lrwshm_u_drawing():
     deck_to_txt(title, deck_with_islands)
     mana_curve_image(title, deck)
     mana_curve_image(title + "_rejected", rejected)
+    print_release_stats(deck)
+    print_creature_stats(deck)
+
+
+def wither_me_worries():
+    titles = [
+        (1, "Cinderhaze Wretch"),
+        (1, "Needle Specter"),
+        (1, "Blowfly Infestation"),
+        (1, "Corrosive Mentor"),
+        (1, "Puppeteer Clique"),
+        (1, "Fate Transfer"),
+        (1, "Restless Apparition"),
+        (1, "Voracious Hatchling"),
+        (1, "Quillspike"),
+        (1, "Rendclaw Trow"),
+        (1, "Cauldron Haze"),
+        (1, "Austere Command"),
+        (1, "Ajani Goldmane"),
+        (1, "Blight Sickle"),
+        (1, "Chainbreaker"),
+        (1, "Gnarled Effigy"),
+        (1, "Dusk Urchins"),
+        (1, "Crumbling Ashes"),
+        (1, "Eyeblight's Ending"),
+        (1, "Necroskitter"),
+        (1, "Canker Abomination"),
+        (1, "Flourishing Defenses"),
+        (1, "Harvest Gwyllion"),
+        (1, "Soul Snuffers"),
+        (1, "Incremental Blight"),
+        (1, "Deity of Scars"),
+        (1, "Wickerbough Elder"),
+        (1, "Heartmender"),
+        (1, "Creakwood Liege"),
+        (1, "Devoted Druid"),
+        (1, "Torture"),
+        (1, "Nettlevine Blight"),
+        (1, "Everlasting Torment"),
+        (1, "Sickle Ripper"),
+        (1, "Scar"),
+        (1, "Oona's Gatewarden"),
+        (12, "Swamp"),
+        (1, "Twilight Mire"),
+        (1, "Wooded Bastion"),
+        (1, "Windbrisk Heights"),
+        (1, "Vivid Meadow"),
+        (5, "Plains"),
+        (1, "Reflecting Pool"),
+        (1, "Murmuring Bosk"),
+        (1, "Shimmering Grotto"),
+    ]
+
+    sets = ["lrw", "mor", "shm", "eve"]
+
+    lrwshm_cards_by_name = {}
+    islands = []
+    for set_id in sets:
+        for card in load_set(set_id):
+            lrwshm_cards_by_name[card.title] = card
+
+    deck = []
+    for (count, title) in titles:
+        card = lrwshm_cards_by_name[title]
+        deck += [card]*count
+
+    deck.sort(key=lambda card: (card.cmc, "Creature" in card.card_type, MY_SETS.index(card.set_id)))
+
+    title = "manual/wither_me_worries"
+    deck_to_txt(title, deck)
+    mana_curve_image(title, deck)
+    print_release_stats(deck)
+    print_creature_stats(deck)
 
 
 if __name__ == "__main__":
@@ -637,3 +723,4 @@ if __name__ == "__main__":
     my_cards()
     # oneoff_lrwshm_ru_aggro()
     oneoff_lrwshm_u_drawing()
+    wither_me_worries()
