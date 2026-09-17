@@ -4,7 +4,7 @@ import random
 
 from PIL import Image
 
-from shared import MY_SETS, Card, load_set
+from shared import MY_SETS, Card, load_set, COSTS
 from my_cards import load_my_cards
 
 
@@ -174,6 +174,50 @@ def deck_to_image(title: str, deck: list[Card]):
     print(f"Wrote deck image {title}.png")
 
 
+def mana_curve_image(title: str, deck: list[Card]):
+    cmc_levels = {}
+    max_creatures = 0
+    max_noncreatures = 0
+
+    for card in deck:
+        if "Land" in card.card_type:
+            continue
+
+        if card.cmc not in cmc_levels:
+            cmc_levels[card.cmc] = {"creatures": [], "noncreatures": []}
+
+        if "Creature" in card.card_type:
+            cmc_levels[card.cmc]["creatures"].append(card)
+            max_creatures = max(max_creatures, len(cmc_levels[card.cmc]["creatures"]))
+        else:
+            cmc_levels[card.cmc]["noncreatures"].append(card)
+            max_noncreatures = max(max_noncreatures, len(cmc_levels[card.cmc]["noncreatures"]))
+
+    cmc_levels = sorted(list(cmc_levels.items()))
+
+    width = int(CARD_WIDTH*(max_creatures + max_noncreatures + .5))
+    height = CARD_HEIGHT*len(cmc_levels)
+    image = Image.new("RGB", (width, height), "black")
+
+    for i, (cmc, d) in enumerate(cmc_levels):
+        for j, card in enumerate(d["creatures"]):
+            x = CARD_WIDTH*(j + max_creatures - len(d["creatures"]))
+            y = CARD_HEIGHT*i
+            card_image = Image.open(f"card_images/{card.id}.webp")
+            image.paste(card_image, (x, y))
+
+        for j, card in enumerate(d["noncreatures"]):
+            x = int(CARD_WIDTH*(max_creatures + .5 + j))
+            y = CARD_HEIGHT*i
+            card_image = Image.open(f"card_images/{card.id}.webp")
+            image.paste(card_image, (x, y))
+
+
+    image.save(f"decks/{title}_manacurve.png")
+
+    print(f"Wrote deck image {title}_manacurve.png")
+
+
 def deck_to_txt(title: str, deck: list[Card]):
     text = "Deck\n"
     for card in deck:
@@ -183,6 +227,15 @@ def deck_to_txt(title: str, deck: list[Card]):
         fh.write(text)
 
     print(f"Wrote deck text {title}.txt")
+
+
+def print_mana_curve(deck: list[Card]):
+    cmcs = {}
+    for card in deck:
+        cmcs[card.cmc] = cmcs.get(card.cmc, 0) + 1
+
+    for cmc, count in sorted(list(cmcs.items())):
+        print(f"{cmc:>4}: {count:>2} ({round(100*count/len(deck)):>2}%)")
 
 
 def generate_quick_decks():
@@ -370,6 +423,208 @@ def my_cards():
     # deck_to_image("my_cards", my_cards)
 
 
+def oneoff_lrwshm_ru_aggro():
+    deck = []
+
+    for set_id in ["lrw", "mor", "shm", "eve"]:
+        set_cards = load_set(set_id)
+        for card in set_cards:
+            if "Basic Land" in card.card_type:
+                continue
+
+            if card.cost is None:  # Non-basic land:
+                deck.append(card)
+                continue
+
+            all_costs_payable_by_ru = True
+            for cost in card.cost:
+                colors, _ = COSTS[cost]
+                if len(colors) == 0 or "U" in colors or "R" in colors:
+                    pass
+                else:
+                    all_costs_payable_by_ru = False
+
+            if all_costs_payable_by_ru:
+                deck.append(card)
+
+    deck.sort(key=lambda card: -card.cmc)
+
+    deck_to_txt("oneoff_lrwshm_ru_aggro", deck)
+
+    # mana_curve_image("oneoff_lrwshm_ru_aggro", deck)
+
+
+def oneoff_lrwshm_u_drawing():
+    titles = [
+        ("Advice from the Fae", True),
+        ("Aethersnipe", True),
+        ("Augury Adept", True),
+        ("Banishing Knack", True),
+        ("Biting Tether", True),
+        ("Broken Ambitions", True),
+        ("Captivating Glance", True),
+        ("Cauldron of Souls", False),
+        ("Cerulean Wisps", False),
+        ("Clout of the Dominus", True),
+        ("Cold-Eyed Selkie", False),
+        ("Consign to Dream", True),
+        ("Cryptic Command", True),
+        ("Curse of Chains", True),
+        ("Cursecatcher", True),
+        ("Deathrender", False),
+        ("Deepchannel Mentor", False),
+        ("Dire Undercurrents", True),
+        ("Disperse", True),
+        ("Distant Melody", True),
+        ("Diviner's Wand", True),
+        ("Dolmen Gate", True),
+        ("Dominus of Fealty", False),
+        ("Door of Destinies", True),
+        ("Dream Fracture", True),
+        ("Ego Erasure", True),
+        ("Faerie Swarm", True),
+        ("Faerie Trickery", True),
+        ("Fallowsage", True),
+        ("Familiar's Ruse", True),
+        ("Fathom Trawl", True),
+        ("Flow of Ideas", True),
+        ("Ghastlord of Fugue", True),
+        ("Ghastly Discovery", True),
+        ("Glen Elendra Archmage", True),
+        ("Glen Elendra Liege", True),
+        ("Glimmerdust Nap", True),
+        ("Guile", False),
+        ("Helm of the Ghastlord", True),
+        ("Idle Thoughts", False),
+        ("Illuminated Folio", True),
+        ("Inkfathom Infiltrator", False),
+        ("Inspired Sprite", True),
+        ("Inundate", True),
+        ("Jace Beleren", True),
+        ("Leering Emblem", False),
+        ("Memory Plunder", False),
+        ("Merrow Commerce", False),
+        ("Merrow Harbinger", True),
+        ("Merrow Reejerey", True),
+        ("Mind Spring", True),
+        ("Mirrorweave", False),
+        ("Mothdust Changeling", False),
+        ("Mulldrifter", True),
+        ("Murkfiend Liege", False),
+        ("Negate", True),
+        ("Nevermaker", False),
+        ("Noggle Bandit", False),
+        ("Nucklavee", False),
+        ("Oona's Gatewarden", False),
+        ("Oona's Grace", True),
+        ("Overbeing of Myth", True),
+        ("Ponder", True),
+        ("Protective Bubble", True),
+        ("Puca's Mischief", False),
+        ("Puresight Merrow", True),
+        ("Put Away", False),
+        ("Ringskipper", True),
+        ("Sage of Fables", True),
+        ("Sage's Dousing", True),
+        ("Scarscale Ritual", True),
+        ("Scattering Stroke", True),
+        ("Selkie Hedge-Mage", True),
+        ("Shapesharer", True),
+        ("Shell Skulkin", True),
+        ("Sigil Tracer", True),
+        ("Silvergill Adept", True),
+        ("Silvergill Douser", True),
+        ("Sinking Feeling", False),
+        ("Somnomancer", True),
+        ("Sower of Temptation", True),
+        ("Spell Syphon", True),
+        ("Steel of the Godhead", True),
+        ("Stonybrook Angler", True),
+        ("Stonybrook Banneret", True),
+        ("Stream of Unconsciousness", True),
+        ("Surgespanner", True),
+        ("Sygg, River Cutthroat", True),
+        ("Thieves' Fortune", True),
+        ("Thought Reflection", True),
+        ("Thoughtweft Gambit", False),
+        ("Trip Noose", True),
+        ("Turn to Mist", False),
+        ("Wake Thrasher", True),
+        ("Whirlpool Whelm", True),
+        ("Wings of Velis Vel", True),
+        ("Wistful Selkie", True),
+
+        # Milling cards - may take or leave
+        ("Drowner Initiate", False),
+        ("Forced Fruition", False),
+        ("Grimoire Thief", False),
+        ("Ink Dissolver", False),
+        ("Oona, Queen of the Fae", False),
+        ("Sanity Grinding", False),
+    ]
+
+    sets = ["lrw", "mor", "shm", "eve"]
+
+    lrwshm_cards_by_name = {}
+    islands = []
+    for set_id in sets:
+        for card in load_set(set_id):
+            lrwshm_cards_by_name[card.title] = card
+            if card.title == "Island":
+                islands.append(card)
+
+    release_counts = {s: 0 for s in sets}
+    creature_type_counts = {}
+
+    deck = []
+    rejected = []
+    for (title, include) in titles:
+        card = lrwshm_cards_by_name[title]
+        if include:
+            deck.append(card)
+            release_counts[card.set_id] += 1
+
+            if "Creature" in card.card_type:
+                creature_type = card.card_type.split("—")[1].strip()
+                creature_type_counts[creature_type] = creature_type_counts.get(creature_type, 0) + 1
+        else:
+            rejected.append(card)
+
+    print(release_counts)
+    num_creatures = sum(creature_type_counts.values())
+    print(f"{num_creatures} creatures.")
+    print("Creature types:")
+    for creature_type, count in sorted(list(creature_type_counts.items()), key=lambda x: -x[1]):
+        print(f"{creature_type:>20}: {count:>2} ({round(count*100/num_creatures):>2}%)")
+
+    creature_type_component_counts = {}
+    for creature_type, count in creature_type_counts.items():
+        components = creature_type.split(" ")
+        for component in components:
+            creature_type_component_counts[component] = creature_type_component_counts.get(component, 0) + count
+
+    print("Creature type components:")
+    for creature_type_component, count in sorted(list(creature_type_component_counts.items()), key=lambda x: -x[1]):
+        print(f"{creature_type_component:>10}: {count:>2} ({round(count*100/num_creatures):>2}%)")
+
+    deck.sort(key=lambda card: (card.cmc, "Creature" in card.card_type, MY_SETS.index(card.set_id)))
+
+    number_of_desired_islands = round(len(deck)*.65)
+
+    print(f"Adding {number_of_desired_islands} islands to {len(deck)} non-land cards.")
+    print(f"Rejected {len(rejected)} cards.")
+
+    islands = (islands*math.ceil(number_of_desired_islands/len(islands)))[:number_of_desired_islands]
+    islands.sort(key=lambda card: (MY_SETS.index(card.set_id), card.order))
+
+    deck_with_islands = deck + islands
+
+    title = "manual/beatshaun_LRWSHM_U_mono"
+    deck_to_txt(title, deck_with_islands)
+    mana_curve_image(title, deck)
+    mana_curve_image(title + "_rejected", rejected)
+
+
 if __name__ == "__main__":
     for file in os.listdir(path="decks"):
         if file.endswith(".txt") or file.endswith("png"):
@@ -380,3 +635,5 @@ if __name__ == "__main__":
     generate_drafting_decks()
     generate_weighted_sets()
     my_cards()
+    # oneoff_lrwshm_ru_aggro()
+    oneoff_lrwshm_u_drawing()

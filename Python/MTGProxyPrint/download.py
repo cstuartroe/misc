@@ -1,11 +1,12 @@
 import json
 import os.path
+import re
 
 import bs4
 import requests
 import tqdm
 
-from shared import Card, MY_SETS
+from shared import Card, MY_SETS, COSTS
 
 
 def scrape_gallery(set_id: str) -> list[Card]:
@@ -59,7 +60,7 @@ def get_additional_metadata(cards: list[Card]) -> None:
         card.rarity = card_soup.find("span", {"class": "prints-current-set-details"}).text.split("·")[1].strip()
 
         if "Land" in card.card_type:
-            card.color = "L"
+            card.cost = None
 
         else:
             cost_div = card_soup.find("span", {"class": "card-text-mana-cost"})
@@ -69,101 +70,21 @@ def get_additional_metadata(cards: list[Card]) -> None:
             else:
                 symbols = cost_div.find_all("abbr")
 
-            colors = set()
+            card.cost = []
             for symbol in symbols:
                 sclass = symbol["class"]
 
-                if sclass in (
-                        ['card-symbol', 'card-symbol-0'],
-                        ['card-symbol', 'card-symbol-1'],
-                        ['card-symbol', 'card-symbol-2'],
-                        ['card-symbol', 'card-symbol-3'],
-                        ['card-symbol', 'card-symbol-4'],
-                        ['card-symbol', 'card-symbol-5'],
-                        ['card-symbol', 'card-symbol-6'],
-                        ['card-symbol', 'card-symbol-7'],
-                        ['card-symbol', 'card-symbol-8'],
-                        ['card-symbol', 'card-symbol-9'],
-                        ['card-symbol', 'card-symbol-10'],
-                        ['card-symbol', 'card-symbol-11'],
-                        ['card-symbol', 'card-symbol-12'],
-                        ['card-symbol', 'card-symbol-15'],
-                        ['card-symbol', 'card-symbol-X'],
-                ):
-                    pass
+                assert len(sclass) == 2
+                assert sclass[0] == "card-symbol"
+                m = re.fullmatch("card-symbol-([0-9BGRUWXP]+)", sclass[1])
+                assert m is not None
 
-                elif sclass == ['card-symbol', 'card-symbol-B']:
-                    colors.add("B")
-                elif sclass == ['card-symbol', 'card-symbol-G']:
-                    colors.add("G")
-                elif sclass == ['card-symbol', 'card-symbol-R']:
-                    colors.add("R")
-                elif sclass == ['card-symbol', 'card-symbol-U']:
-                    colors.add("U")
-                elif sclass == ['card-symbol', 'card-symbol-W']:
-                    colors.add("W")
+                cost = m.group(1)
 
-                elif sclass == ['card-symbol', 'card-symbol-2B']:
-                    colors.add("B")
-                elif sclass == ['card-symbol', 'card-symbol-2G']:
-                    colors.add("G")
-                elif sclass == ['card-symbol', 'card-symbol-2R']:
-                    colors.add("R")
-                elif sclass == ['card-symbol', 'card-symbol-2U']:
-                    colors.add("U")
-                elif sclass == ['card-symbol', 'card-symbol-2W']:
-                    colors.add("W")
-
-                elif sclass == ['card-symbol', 'card-symbol-BP']:
-                    colors.add("B")
-                elif sclass == ['card-symbol', 'card-symbol-GP']:
-                    colors.add("G")
-                elif sclass == ['card-symbol', 'card-symbol-RP']:
-                    colors.add("R")
-                elif sclass == ['card-symbol', 'card-symbol-UP']:
-                    colors.add("U")
-                elif sclass == ['card-symbol', 'card-symbol-WP']:
-                    colors.add("W")
-
-                elif sclass == ['card-symbol', 'card-symbol-WU']:
-                    colors.add("W")
-                    colors.add("U")
-                elif sclass == ['card-symbol', 'card-symbol-UB']:
-                    colors.add("U")
-                    colors.add("B")
-                elif sclass == ['card-symbol', 'card-symbol-BR']:
-                    colors.add("B")
-                    colors.add("R")
-                elif sclass == ['card-symbol', 'card-symbol-RG']:
-                    colors.add("R")
-                    colors.add("G")
-                elif sclass == ['card-symbol', 'card-symbol-GW']:
-                    colors.add("G")
-                    colors.add("W")
-                elif sclass == ['card-symbol', 'card-symbol-WU']:
-                    colors.add("W")
-                    colors.add("U")
-
-                elif sclass == ['card-symbol', 'card-symbol-WB']:
-                    colors.add("W")
-                    colors.add("B")
-                elif sclass == ['card-symbol', 'card-symbol-UR']:
-                    colors.add("U")
-                    colors.add("R")
-                elif sclass == ['card-symbol', 'card-symbol-BG']:
-                    colors.add("B")
-                    colors.add("G")
-                elif sclass == ['card-symbol', 'card-symbol-RW']:
-                    colors.add("R")
-                    colors.add("W")
-                elif sclass == ['card-symbol', 'card-symbol-GU']:
-                    colors.add("G")
-                    colors.add("U")
-
-                else:
+                if cost not in COSTS:
                     raise ValueError(f"Unknown class on card {card.title}: {sclass}")
 
-            card.color = ''.join(sorted(list(colors)))
+                card.cost.append(cost)
 
 
 def download_images(cards: list[Card]) -> None:
@@ -176,8 +97,8 @@ def download_images(cards: list[Card]) -> None:
 if __name__ == "__main__":
     for set_id in MY_SETS:
         filepath = f"set_json/{set_id}.json"
-        if os.path.exists(filepath):
-            continue
+        # if os.path.exists(filepath):
+        #     continue
 
         print(set_id)
         cards = scrape_gallery(set_id)
@@ -185,4 +106,4 @@ if __name__ == "__main__":
         with open(filepath, "w") as fh:
             json.dump([c.to_json() for c in cards], fh, indent=2)
 
-        # download_images(cards)
+        download_images(cards)

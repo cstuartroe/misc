@@ -8,7 +8,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/5/9561ffdb-f4dd-4b62-a2c2-933498e3a061.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "W"
+    "cost": [
+      "W"
+    ]
   },
   {
     "id": "3f28b2af-7891-49eb-a07f-5552b5fe3d15",
@@ -19,7 +21,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/3/f/3f28b2af-7891-49eb-a07f-5552b5fe3d15.webp",
     "rarity": "Rare",
     "card_type": "Sorcery",
-    "color": "W"
+    "cost": [
+      "5",
+      "W",
+      "W"
+    ]
   },
   {
     "id": "6d7c9675-e663-4ad1-9271-38d5c050a7c7",
@@ -30,7 +36,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/d/6d7c9675-e663-4ad1-9271-38d5c050a7c7.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Wall",
-    "color": "W"
+    "cost": [
+      "1",
+      "W"
+    ]
   },
   {
     "id": "e3379317-be18-4252-84ad-b7ebb6e557ff",
@@ -41,7 +50,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/e/3/e3379317-be18-4252-84ad-b7ebb6e557ff.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment \u2014 Aura",
-    "color": "W"
+    "cost": [
+      "2",
+      "W"
+    ]
   },
   {
     "id": "090dd4cf-5087-4ed8-a944-f3794e5862d5",
@@ -52,7 +64,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/9/090dd4cf-5087-4ed8-a944-f3794e5862d5.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Wizard",
-    "color": "W"
+    "cost": [
+      "2",
+      "W"
+    ]
   },
   {
     "id": "4d174892-c192-4667-94fb-9f8dbcc6c5eb",
@@ -63,7 +78,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/d/4d174892-c192-4667-94fb-9f8dbcc6c5eb.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Bird Soldier Archer",
-    "color": "W"
+    "cost": [
+      "3",
+      "W",
+      "W"
+    ]
   },
   {
     "id": "08afe190-368e-4259-9959-00beaccee7ba",
@@ -74,7 +93,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/8/08afe190-368e-4259-9959-00beaccee7ba.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Bird Soldier",
-    "color": "W"
+    "cost": [
+      "3",
+      "W"
+    ]
   },
   {
     "id": "29866d0b-f9be-4284-9d21-03598ef6ae4f",
@@ -85,7 +107,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/2/9/29866d0b-f9be-4284-9d21-03598ef6ae4f.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Bird Soldier",
-    "color": "W"
+    "cost": [
+      "4",
+      "W"
+    ]
   },
   {
     "id": "9890be7f-35af-43b7-b255-25be4ff20dc0",
@@ -96,7 +121,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/8/9890be7f-35af-43b7-b255-25be4ff20dc0.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "W"
+    "cost": [
+      "1",
+      "W",
+      "W"
+    ]
   },
   {
     "id": "7d6cb368-43f7-4d06-9cd5-492df5766567",
@@ -107,7 +136,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/d/7d6cb368-43f7-4d06-9cd5-492df5766567.webp",
     "rarity": "Rare",
     "card_type": "Sorcery",
-    "color": "W"
+    "cost": [
+      "2",
+      "W",
+      "W"
+    ]
   },
   {
     "id": "decec62b-7ac4-4097-9215-5db18db2dec6",
@@ -118,7 +151,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/e/decec62b-7ac4-4097-9215-5db18db2dec6.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Human Cleric",
-    "color": "W"
+    "cost": [
+      "1",
+      "W"
+    ]
   },
   {
     "id": "5654575e-0849-4e7f-98f2-0074ac8e0faa",
@@ -129,7 +165,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/6/5654575e-0849-4e7f-98f2-0074ac8e0faa.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Human Cleric",
-    "color": "W"
+    "cost": [
+      "3",
+      "W"
+    ]
   },
   {
     "id": "b5243fc3-176b-44a3-9f1a-ab069a08757a",
@@ -140,7 +179,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/b/5/b5243fc3-176b-44a3-9f1a-ab069a08757a.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Lhurgoyf",
-    "color": "W"
+    "cost": [
+      "1",
+      "W",
+      "W"
+    ]
   },
   {
     "id": "1646c998-aee5-497f-bd75-24ced1dabef9",
@@ -151,7 +194,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/6/1646c998-aee5-497f-bd75-24ced1dabef9.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "W"
+    "cost": [
+      "2",
+      "W"
+    ]
   },
   {
     "id": "984c0bdb-e9e2-435e-aa68-2dbad52c3dbd",
@@ -162,7 +208,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/8/984c0bdb-e9e2-435e-aa68-2dbad52c3dbd.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Cleric",
-    "color": "W"
+    "cost": [
+      "W"
+    ]
   },
   {
     "id": "d1f95b64-858b-4344-84a2-3afa5c7b9ee9",
@@ -173,7 +221,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/1/d1f95b64-858b-4344-84a2-3afa5c7b9ee9.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Cleric",
-    "color": "W"
+    "cost": [
+      "W"
+    ]
   },
   {
     "id": "14e8195a-d0e4-4b11-b413-765ed1cae834",
@@ -184,7 +234,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/4/14e8195a-d0e4-4b11-b413-765ed1cae834.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "W"
+    "cost": [
+      "3",
+      "W"
+    ]
   },
   {
     "id": "8d400b63-de3e-4805-a51d-c4c0dfbb7033",
@@ -195,7 +248,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/d/8d400b63-de3e-4805-a51d-c4c0dfbb7033.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Human Cleric",
-    "color": "W"
+    "cost": [
+      "W"
+    ]
   },
   {
     "id": "f69ecef5-4f1a-4463-8908-7c0ef955b02d",
@@ -206,7 +261,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/6/f69ecef5-4f1a-4463-8908-7c0ef955b02d.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "W"
+    "cost": [
+      "1",
+      "W",
+      "W"
+    ]
   },
   {
     "id": "b50d4337-9b71-429b-b6bc-2d70299a6e76",
@@ -217,7 +276,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/b/5/b50d4337-9b71-429b-b6bc-2d70299a6e76.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Human Nomad",
-    "color": "W"
+    "cost": [
+      "2",
+      "W"
+    ]
   },
   {
     "id": "66392169-5c6f-46bf-b0df-5670e40aecd9",
@@ -228,7 +290,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/6/66392169-5c6f-46bf-b0df-5670e40aecd9.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "W"
+    "cost": [
+      "1",
+      "W"
+    ]
   },
   {
     "id": "36848fb0-4070-40cf-b24a-2e8f47c5ebc3",
@@ -239,7 +304,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/3/6/36848fb0-4070-40cf-b24a-2e8f47c5ebc3.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "W"
+    "cost": [
+      "2",
+      "W"
+    ]
   },
   {
     "id": "d7992f83-93ad-4132-b8f2-a9f93bc96b4e",
@@ -250,7 +318,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/7/d7992f83-93ad-4132-b8f2-a9f93bc96b4e.webp",
     "rarity": "Uncommon",
     "card_type": "Instant",
-    "color": "W"
+    "cost": [
+      "1",
+      "W"
+    ]
   },
   {
     "id": "948f0d9d-4e05-48b4-8652-1f8f41d35563",
@@ -261,7 +332,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/4/948f0d9d-4e05-48b4-8652-1f8f41d35563.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Antelope",
-    "color": "W"
+    "cost": [
+      "2",
+      "W",
+      "W"
+    ]
   },
   {
     "id": "254d5bf0-f985-4919-a142-d4578ae9a38e",
@@ -272,7 +347,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/2/5/254d5bf0-f985-4919-a142-d4578ae9a38e.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Cleric",
-    "color": "W"
+    "cost": [
+      "2",
+      "W"
+    ]
   },
   {
     "id": "c2ffb8e7-7ae3-4846-b3da-ca6b4598eb7c",
@@ -283,7 +361,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/2/c2ffb8e7-7ae3-4846-b3da-ca6b4598eb7c.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "W"
+    "cost": [
+      "2",
+      "W"
+    ]
   },
   {
     "id": "7f1e36fe-ecbe-46aa-9ee8-2ba4daba7d31",
@@ -294,7 +375,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/f/7f1e36fe-ecbe-46aa-9ee8-2ba4daba7d31.webp",
     "rarity": "Common",
     "card_type": "Enchantment \u2014 Aura",
-    "color": "W"
+    "cost": [
+      "W"
+    ]
   },
   {
     "id": "b5a0c4e6-d50e-42e8-b062-8f6ef5950ab7",
@@ -305,7 +388,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/b/5/b5a0c4e6-d50e-42e8-b062-8f6ef5950ab7.webp",
     "rarity": "Rare",
     "card_type": "Sorcery",
-    "color": "W"
+    "cost": [
+      "4",
+      "W",
+      "W"
+    ]
   },
   {
     "id": "e518750f-492d-4575-b4ee-c80c1f8e0a58",
@@ -316,7 +403,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/e/5/e518750f-492d-4575-b4ee-c80c1f8e0a58.webp",
     "rarity": "Rare",
     "card_type": "Legendary Creature \u2014 Bird Soldier",
-    "color": "W"
+    "cost": [
+      "1",
+      "W",
+      "W"
+    ]
   },
   {
     "id": "7f8eee50-efd2-45fd-b815-051167ef4541",
@@ -327,7 +418,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/f/7f8eee50-efd2-45fd-b815-051167ef4541.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "W"
+    "cost": [
+      "1",
+      "W"
+    ]
   },
   {
     "id": "a5becc51-4df8-4f67-a029-42a3da598a26",
@@ -338,7 +432,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/a/5/a5becc51-4df8-4f67-a029-42a3da598a26.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Human Nomad",
-    "color": "W"
+    "cost": [
+      "3",
+      "W"
+    ]
   },
   {
     "id": "f9ff6624-ed0e-43d0-9519-112979b165f5",
@@ -349,7 +446,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/9/f9ff6624-ed0e-43d0-9519-112979b165f5.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Human Cleric",
-    "color": "W"
+    "cost": [
+      "W",
+      "W",
+      "W"
+    ]
   },
   {
     "id": "27ce1baf-8a89-4884-b0f7-19311bfc8c4c",
@@ -360,7 +461,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/2/7/27ce1baf-8a89-4884-b0f7-19311bfc8c4c.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Human Nomad Mystic",
-    "color": "W"
+    "cost": [
+      "1",
+      "W",
+      "W"
+    ]
   },
   {
     "id": "fb37f08b-019e-4e6b-8b15-b2971a3b5ebb",
@@ -371,7 +476,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/b/fb37f08b-019e-4e6b-8b15-b2971a3b5ebb.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Human Nomad Mystic",
-    "color": "W"
+    "cost": [
+      "W"
+    ]
   },
   {
     "id": "48ed1b3d-0f7e-46ff-ada7-ebbd416ecf5b",
@@ -382,7 +489,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/8/48ed1b3d-0f7e-46ff-ada7-ebbd416ecf5b.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Nomad Mystic",
-    "color": "W"
+    "cost": [
+      "1",
+      "W"
+    ]
   },
   {
     "id": "1ba21062-5d13-47b9-bea1-ded8530a9aeb",
@@ -393,7 +503,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/b/1ba21062-5d13-47b9-bea1-ded8530a9aeb.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Nomad Mystic",
-    "color": "W"
+    "cost": [
+      "3",
+      "W"
+    ]
   },
   {
     "id": "9ffef7c6-e05b-4bef-84aa-8df10be110af",
@@ -404,7 +517,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/f/9ffef7c6-e05b-4bef-84aa-8df10be110af.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Human Nomad",
-    "color": "W"
+    "cost": [
+      "2",
+      "W"
+    ]
   },
   {
     "id": "e216a539-152b-4a83-98ef-1996182a5714",
@@ -415,7 +531,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/e/2/e216a539-152b-4a83-98ef-1996182a5714.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Dog",
-    "color": "W"
+    "cost": [
+      "1",
+      "W"
+    ]
   },
   {
     "id": "0812edfa-3a53-48e8-ba35-6922a1f3aa90",
@@ -426,7 +545,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/8/0812edfa-3a53-48e8-ba35-6922a1f3aa90.webp",
     "rarity": "Rare",
     "card_type": "Legendary Creature \u2014 Human Nomad",
-    "color": "W"
+    "cost": [
+      "1",
+      "W",
+      "W"
+    ]
   },
   {
     "id": "6103a3a7-78ce-4a66-bd82-434e0bd9dea4",
@@ -437,7 +560,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/1/6103a3a7-78ce-4a66-bd82-434e0bd9dea4.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Cleric",
-    "color": "W"
+    "cost": [
+      "2",
+      "W"
+    ]
   },
   {
     "id": "be58f0dd-3856-4960-83de-06eed78ed703",
@@ -448,7 +574,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/b/e/be58f0dd-3856-4960-83de-06eed78ed703.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Cleric",
-    "color": "W"
+    "cost": [
+      "2",
+      "W"
+    ]
   },
   {
     "id": "9940f593-021f-44cd-9725-0779a2808b6c",
@@ -459,7 +588,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/9/9940f593-021f-44cd-9725-0779a2808b6c.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "W"
+    "cost": [
+      "3",
+      "W"
+    ]
   },
   {
     "id": "5e5a61de-ee4e-4097-b342-b5f2c976e16e",
@@ -470,7 +602,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/e/5e5a61de-ee4e-4097-b342-b5f2c976e16e.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Human Nomad",
-    "color": "W"
+    "cost": [
+      "2",
+      "W",
+      "W"
+    ]
   },
   {
     "id": "3d7f1dd0-ee1b-484a-949d-dde4c3340a09",
@@ -481,7 +617,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/3/d/3d7f1dd0-ee1b-484a-949d-dde4c3340a09.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "W"
+    "cost": [
+      "W"
+    ]
   },
   {
     "id": "b09586de-4853-4e51-a4ac-70eabb37eef4",
@@ -492,7 +630,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/b/0/b09586de-4853-4e51-a4ac-70eabb37eef4.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "W"
+    "cost": [
+      "4",
+      "W"
+    ]
   },
   {
     "id": "9c726ab3-1692-4e14-ab21-664a1679bc53",
@@ -503,7 +644,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/c/9c726ab3-1692-4e14-ab21-664a1679bc53.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "W"
+    "cost": [
+      "1",
+      "W"
+    ]
   },
   {
     "id": "14d24d2f-699b-46d8-9353-45e6a67f99d2",
@@ -514,7 +658,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/4/14d24d2f-699b-46d8-9353-45e6a67f99d2.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Bird Soldier",
-    "color": "W"
+    "cost": [
+      "1",
+      "W"
+    ]
   },
   {
     "id": "4bdcd0de-6466-488c-a882-bad80c86504d",
@@ -525,7 +672,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/b/4bdcd0de-6466-488c-a882-bad80c86504d.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment",
-    "color": "W"
+    "cost": [
+      "3",
+      "W"
+    ]
   },
   {
     "id": "d5b49d82-6d11-4294-a367-0b5b45c05e44",
@@ -536,7 +686,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/5/d5b49d82-6d11-4294-a367-0b5b45c05e44.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment",
-    "color": "W"
+    "cost": [
+      "3",
+      "W"
+    ]
   },
   {
     "id": "f3451ddf-efec-474b-884c-64288e5552d2",
@@ -547,7 +700,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/3/f3451ddf-efec-474b-884c-64288e5552d2.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment",
-    "color": "W"
+    "cost": [
+      "3",
+      "W"
+    ]
   },
   {
     "id": "76ef2016-b3c8-4615-a056-3000bcccb68e",
@@ -558,7 +714,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/6/76ef2016-b3c8-4615-a056-3000bcccb68e.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment",
-    "color": "W"
+    "cost": [
+      "3",
+      "W"
+    ]
   },
   {
     "id": "7c3de9f5-a05c-4341-a2c2-a1a475d400fd",
@@ -569,7 +728,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/c/7c3de9f5-a05c-4341-a2c2-a1a475d400fd.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment",
-    "color": "W"
+    "cost": [
+      "3",
+      "W"
+    ]
   },
   {
     "id": "f6780ded-86df-419d-b63b-6b67d2960b28",
@@ -580,7 +742,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/6/f6780ded-86df-419d-b63b-6b67d2960b28.webp",
     "rarity": "Uncommon",
     "card_type": "Instant",
-    "color": "W"
+    "cost": [
+      "2",
+      "W"
+    ]
   },
   {
     "id": "89920480-9b39-47dd-988a-c040067da7fb",
@@ -591,7 +756,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/9/89920480-9b39-47dd-988a-c040067da7fb.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment \u2014 Aura",
-    "color": "W"
+    "cost": [
+      "2",
+      "W"
+    ]
   },
   {
     "id": "f399b371-fed0-42b8-8f95-5d76fdbe193d",
@@ -602,7 +770,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/3/f399b371-fed0-42b8-8f95-5d76fdbe193d.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment",
-    "color": "W"
+    "cost": [
+      "W"
+    ]
   },
   {
     "id": "1d23e47a-21d5-4d7e-8aa0-3b3064da5967",
@@ -613,7 +783,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/d/1d23e47a-21d5-4d7e-8aa0-3b3064da5967.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Nomad",
-    "color": "W"
+    "cost": [
+      "W"
+    ]
   },
   {
     "id": "1fb726e8-162d-4143-9778-32476c0e1ab1",
@@ -624,7 +796,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/f/1fb726e8-162d-4143-9778-32476c0e1ab1.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Angel Horror",
-    "color": "W"
+    "cost": [
+      "4",
+      "W",
+      "W"
+    ]
   },
   {
     "id": "82db4a41-03e8-4f0c-946c-a98fc5c9f7c8",
@@ -635,7 +811,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/2/82db4a41-03e8-4f0c-946c-a98fc5c9f7c8.webp",
     "rarity": "Rare",
     "card_type": "Legendary Creature \u2014 Octopus Noble",
-    "color": "U"
+    "cost": [
+      "4",
+      "U",
+      "U"
+    ]
   },
   {
     "id": "137b701e-6140-463e-84b5-58d8a728df40",
@@ -646,7 +826,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/3/137b701e-6140-463e-84b5-58d8a728df40.webp",
     "rarity": "Common",
     "card_type": "Enchantment \u2014 Aura",
-    "color": "U"
+    "cost": [
+      "U"
+    ]
   },
   {
     "id": "3d09ea4a-0d3a-40b8-be0f-a31693099c4f",
@@ -657,7 +839,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/3/d/3d09ea4a-0d3a-40b8-be0f-a31693099c4f.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "U"
+    "cost": [
+      "1",
+      "U"
+    ]
   },
   {
     "id": "8d73d1e7-79be-4b28-a480-b65b4f34f755",
@@ -668,7 +853,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/d/8d73d1e7-79be-4b28-a480-b65b4f34f755.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Illusion",
-    "color": "U"
+    "cost": [
+      "5",
+      "U",
+      "U"
+    ]
   },
   {
     "id": "c7553877-7df2-42f7-98a3-1a07f66a4905",
@@ -679,7 +868,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/7/c7553877-7df2-42f7-98a3-1a07f66a4905.webp",
     "rarity": "Uncommon",
     "card_type": "Instant",
-    "color": "U"
+    "cost": [
+      "1",
+      "U"
+    ]
   },
   {
     "id": "5b27130d-2296-4076-9829-15ab63081896",
@@ -690,7 +882,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/b/5b27130d-2296-4076-9829-15ab63081896.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Bird Soldier",
-    "color": "U"
+    "cost": [
+      "3",
+      "U"
+    ]
   },
   {
     "id": "57f5d024-f137-4ea8-be02-7de46dee95fd",
@@ -701,7 +896,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/7/57f5d024-f137-4ea8-be02-7de46dee95fd.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Bird Soldier",
-    "color": "U"
+    "cost": [
+      "2",
+      "U",
+      "U"
+    ]
   },
   {
     "id": "9fd2f2cb-a0f1-4844-a692-bcaf1899d41c",
@@ -712,7 +911,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/f/9fd2f2cb-a0f1-4844-a692-bcaf1899d41c.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Bird Soldier Wizard",
-    "color": "U"
+    "cost": [
+      "3",
+      "U",
+      "U"
+    ]
   },
   {
     "id": "5d977da2-4024-4c7b-b557-e89564f8d465",
@@ -723,7 +926,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/d/5d977da2-4024-4c7b-b557-e89564f8d465.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Human Wizard",
-    "color": "U"
+    "cost": [
+      "2",
+      "U"
+    ]
   },
   {
     "id": "529c5440-e31f-40be-9e66-699d17049fb4",
@@ -734,7 +940,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/2/529c5440-e31f-40be-9e66-699d17049fb4.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Griffin",
-    "color": "U"
+    "cost": [
+      "3",
+      "U",
+      "U"
+    ]
   },
   {
     "id": "44012bb8-17b7-4b50-a796-662ef09bfc29",
@@ -745,7 +955,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/4/44012bb8-17b7-4b50-a796-662ef09bfc29.webp",
     "rarity": "Uncommon",
     "card_type": "Sorcery",
-    "color": "U"
+    "cost": [
+      "2",
+      "U"
+    ]
   },
   {
     "id": "57f3c75b-0fe0-48e0-b468-bb928565e9dd",
@@ -756,7 +969,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/7/57f3c75b-0fe0-48e0-b468-bb928565e9dd.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "U"
+    "cost": [
+      "3",
+      "U",
+      "U"
+    ]
   },
   {
     "id": "dea15b53-2940-40e7-8d48-8ec11341da83",
@@ -767,7 +984,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/e/dea15b53-2940-40e7-8d48-8ec11341da83.webp",
     "rarity": "Common",
     "card_type": "Sorcery",
-    "color": "U"
+    "cost": [
+      "U"
+    ]
   },
   {
     "id": "b1d2cfe5-b905-4d8a-89e4-474619e2796c",
@@ -778,7 +997,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/b/1/b1d2cfe5-b905-4d8a-89e4-474619e2796c.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Octopus",
-    "color": "U"
+    "cost": [
+      "3",
+      "U"
+    ]
   },
   {
     "id": "cb6f1c4e-4fbc-4474-8dd2-5846d417b6ab",
@@ -789,7 +1011,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/b/cb6f1c4e-4fbc-4474-8dd2-5846d417b6ab.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Octopus Rogue",
-    "color": "U"
+    "cost": [
+      "2",
+      "U"
+    ]
   },
   {
     "id": "78480527-cfd6-4065-b702-82de4694f9bb",
@@ -800,7 +1025,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/8/78480527-cfd6-4065-b702-82de4694f9bb.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Octopus",
-    "color": "U"
+    "cost": [
+      "2",
+      "U",
+      "U"
+    ]
   },
   {
     "id": "6efdf190-970d-4751-b214-cd962f7f2ca8",
@@ -811,7 +1040,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/e/6efdf190-970d-4751-b214-cd962f7f2ca8.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Octopus Wizard Scout",
-    "color": "U"
+    "cost": [
+      "1",
+      "U"
+    ]
   },
   {
     "id": "137e0ac1-3bf2-4583-b44f-c9fe8d7e8882",
@@ -822,7 +1054,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/3/137e0ac1-3bf2-4583-b44f-c9fe8d7e8882.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "U"
+    "cost": [
+      "1",
+      "U",
+      "U"
+    ]
   },
   {
     "id": "50496069-0f55-4dfe-8b1e-7fc4f649f2f1",
@@ -833,7 +1069,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/0/50496069-0f55-4dfe-8b1e-7fc4f649f2f1.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment \u2014 Aura",
-    "color": "U"
+    "cost": [
+      "2",
+      "U",
+      "U"
+    ]
   },
   {
     "id": "7de76ff6-d065-4db1-b28d-4a4ccb1cc0fa",
@@ -844,7 +1084,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/d/7de76ff6-d065-4db1-b28d-4a4ccb1cc0fa.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Lhurgoyf",
-    "color": "U"
+    "cost": [
+      "6",
+      "U",
+      "U"
+    ]
   },
   {
     "id": "45f2878e-1c1c-4dd3-9687-7bb216d557c7",
@@ -855,7 +1099,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/5/45f2878e-1c1c-4dd3-9687-7bb216d557c7.webp",
     "rarity": "Uncommon",
     "card_type": "Sorcery",
-    "color": "U"
+    "cost": [
+      "2",
+      "U",
+      "U"
+    ]
   },
   {
     "id": "d4f38d07-829c-4311-a61b-2785cf2266ef",
@@ -866,7 +1114,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/4/d4f38d07-829c-4311-a61b-2785cf2266ef.webp",
     "rarity": "Rare",
     "card_type": "Sorcery",
-    "color": "U"
+    "cost": [
+      "4",
+      "U",
+      "U"
+    ]
   },
   {
     "id": "22e64f32-0436-4f07-b2b5-a622e3f59d65",
@@ -877,7 +1129,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/2/2/22e64f32-0436-4f07-b2b5-a622e3f59d65.webp",
     "rarity": "Uncommon",
     "card_type": "Instant",
-    "color": "U"
+    "cost": [
+      "2",
+      "U"
+    ]
   },
   {
     "id": "04217c17-7c29-4b02-b9b6-bfa1df50d4bc",
@@ -888,7 +1143,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/4/04217c17-7c29-4b02-b9b6-bfa1df50d4bc.webp",
     "rarity": "Common",
     "card_type": "Sorcery",
-    "color": "U"
+    "cost": [
+      "3",
+      "U"
+    ]
   },
   {
     "id": "8eb6e9f8-a508-451e-8a72-5f9834ba5352",
@@ -899,7 +1157,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/e/8eb6e9f8-a508-451e-8a72-5f9834ba5352.webp",
     "rarity": "Rare",
     "card_type": "Instant",
-    "color": "U"
+    "cost": [
+      "U"
+    ]
   },
   {
     "id": "2ae3a000-478c-4185-a8c0-82f29942497b",
@@ -910,7 +1170,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/2/a/2ae3a000-478c-4185-a8c0-82f29942497b.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Serpent",
-    "color": "U"
+    "cost": [
+      "3",
+      "U"
+    ]
   },
   {
     "id": "7f5d0e3f-b8f1-472a-857b-5464174d243b",
@@ -921,7 +1184,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/f/7f5d0e3f-b8f1-472a-857b-5464174d243b.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Wizard",
-    "color": "U"
+    "cost": [
+      "1",
+      "U"
+    ]
   },
   {
     "id": "97f99a3d-d811-4666-aac8-5957068157dc",
@@ -932,7 +1198,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/7/97f99a3d-d811-4666-aac8-5957068157dc.webp",
     "rarity": "Rare",
     "card_type": "Sorcery",
-    "color": "U"
+    "cost": [
+      "U"
+    ]
   },
   {
     "id": "ed13fdb4-f28a-43c9-a69f-bab227806c39",
@@ -943,7 +1211,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/e/d/ed13fdb4-f28a-43c9-a69f-bab227806c39.webp",
     "rarity": "Uncommon",
     "card_type": "Instant",
-    "color": "U"
+    "cost": [
+      "3",
+      "U",
+      "U"
+    ]
   },
   {
     "id": "ee6e2d96-dd9e-45f6-b412-78562f2ada40",
@@ -954,7 +1226,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/e/e/ee6e2d96-dd9e-45f6-b412-78562f2ada40.webp",
     "rarity": "Common",
     "card_type": "Enchantment \u2014 Aura",
-    "color": "U"
+    "cost": [
+      "1",
+      "U"
+    ]
   },
   {
     "id": "dcd48c28-bfa3-4eca-8e1a-f72d785b2ab9",
@@ -965,7 +1240,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/c/dcd48c28-bfa3-4eca-8e1a-f72d785b2ab9.webp",
     "rarity": "Uncommon",
     "card_type": "Sorcery",
-    "color": "U"
+    "cost": [
+      "4",
+      "U"
+    ]
   },
   {
     "id": "10b863b8-7780-4bbe-a7f8-46bfdcb34a2b",
@@ -976,7 +1254,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/0/10b863b8-7780-4bbe-a7f8-46bfdcb34a2b.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Human Wizard",
-    "color": "U"
+    "cost": [
+      "U",
+      "U",
+      "U"
+    ]
   },
   {
     "id": "67445332-0b56-4fec-8dcd-bb9a87194db5",
@@ -987,7 +1269,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/7/67445332-0b56-4fec-8dcd-bb9a87194db5.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "U"
+    "cost": [
+      "U",
+      "U"
+    ]
   },
   {
     "id": "f50843cc-20ac-4746-816e-f2630aa31594",
@@ -998,7 +1283,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/5/f50843cc-20ac-4746-816e-f2630aa31594.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "U"
+    "cost": [
+      "U"
+    ]
   },
   {
     "id": "7db5d930-23b4-4726-8f5c-3c690b36f4a4",
@@ -1009,7 +1296,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/d/7db5d930-23b4-4726-8f5c-3c690b36f4a4.webp",
     "rarity": "Rare",
     "card_type": "Enchantment \u2014 Aura",
-    "color": "U"
+    "cost": [
+      "3",
+      "U",
+      "U"
+    ]
   },
   {
     "id": "9216e73b-56ef-48b9-a6a1-b370fb0d97c1",
@@ -1020,7 +1311,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/2/9216e73b-56ef-48b9-a6a1-b370fb0d97c1.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Illusion Dog",
-    "color": "U"
+    "cost": [
+      "1",
+      "U"
+    ]
   },
   {
     "id": "04dc842c-3250-44ed-906c-38f14bf1f0e2",
@@ -1031,7 +1325,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/4/04dc842c-3250-44ed-906c-38f14bf1f0e2.webp",
     "rarity": "Uncommon",
     "card_type": "Instant",
-    "color": "U"
+    "cost": [
+      "1",
+      "U"
+    ]
   },
   {
     "id": "862fc18f-90d2-430d-aff2-47c1483dee9d",
@@ -1042,7 +1339,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/6/862fc18f-90d2-430d-aff2-47c1483dee9d.webp",
     "rarity": "Common",
     "card_type": "Enchantment \u2014 Aura",
-    "color": "U"
+    "cost": [
+      "1",
+      "U"
+    ]
   },
   {
     "id": "d3297f28-a15d-43dd-a96e-09701d5f9aed",
@@ -1053,7 +1353,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/3/d3297f28-a15d-43dd-a96e-09701d5f9aed.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Illusion",
-    "color": "U"
+    "cost": [
+      "4",
+      "U"
+    ]
   },
   {
     "id": "819d5bd2-02bf-4a22-a656-764425711c29",
@@ -1064,7 +1367,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/1/819d5bd2-02bf-4a22-a656-764425711c29.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Human Wizard",
-    "color": "U"
+    "cost": [
+      "2",
+      "U"
+    ]
   },
   {
     "id": "68ea14a6-539a-47eb-9147-a310be7b63fe",
@@ -1075,7 +1381,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/8/68ea14a6-539a-47eb-9147-a310be7b63fe.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "U"
+    "cost": [
+      "3",
+      "U"
+    ]
   },
   {
     "id": "fa88f595-1b6f-4af0-bc50-bd07c8be431f",
@@ -1086,7 +1395,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/a/fa88f595-1b6f-4af0-bc50-bd07c8be431f.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "U"
+    "cost": [
+      "1",
+      "U"
+    ]
   },
   {
     "id": "606f16fb-0829-45f9-a12e-aeb2371dd533",
@@ -1097,7 +1409,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/0/606f16fb-0829-45f9-a12e-aeb2371dd533.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Wizard",
-    "color": "U"
+    "cost": [
+      "4",
+      "U"
+    ]
   },
   {
     "id": "538ffe1e-c312-4797-99dd-9bf5f896bdc3",
@@ -1108,7 +1423,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/3/538ffe1e-c312-4797-99dd-9bf5f896bdc3.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Shapeshifter",
-    "color": "U"
+    "cost": [
+      "2",
+      "U"
+    ]
   },
   {
     "id": "3ede3f6f-e642-4fe4-aa37-0f01cdf4d149",
@@ -1119,7 +1437,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/3/e/3ede3f6f-e642-4fe4-aa37-0f01cdf4d149.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment",
-    "color": "U"
+    "cost": [
+      "1",
+      "U"
+    ]
   },
   {
     "id": "b7850794-4c85-4844-a461-650cd4eaec93",
@@ -1130,7 +1451,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/b/7/b7850794-4c85-4844-a461-650cd4eaec93.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "U"
+    "cost": [
+      "X",
+      "U"
+    ]
   },
   {
     "id": "8c1c9d34-ea4c-4e89-a7ed-06c4469c1aca",
@@ -1141,7 +1465,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/c/8c1c9d34-ea4c-4e89-a7ed-06c4469c1aca.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment",
-    "color": "U"
+    "cost": [
+      "2",
+      "U"
+    ]
   },
   {
     "id": "ba7a96ee-e2d1-4d76-a09e-d6868ddd9282",
@@ -1152,7 +1479,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/b/a/ba7a96ee-e2d1-4d76-a09e-d6868ddd9282.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Beast",
-    "color": "U"
+    "cost": [
+      "2",
+      "U",
+      "U"
+    ]
   },
   {
     "id": "4e05f63c-f93d-44b9-98e9-c5e3e3aad6b9",
@@ -1163,7 +1494,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/e/4e05f63c-f93d-44b9-98e9-c5e3e3aad6b9.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Beast",
-    "color": "U"
+    "cost": [
+      "1",
+      "U"
+    ]
   },
   {
     "id": "7284a7fd-cda8-43ac-b119-ad47b33c2ec4",
@@ -1174,7 +1508,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/2/7284a7fd-cda8-43ac-b119-ad47b33c2ec4.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Beast",
-    "color": "U"
+    "cost": [
+      "U"
+    ]
   },
   {
     "id": "d4c3d626-880c-422a-ac09-a79a52847477",
@@ -1185,7 +1521,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/4/d4c3d626-880c-422a-ac09-a79a52847477.webp",
     "rarity": "Rare",
     "card_type": "Sorcery",
-    "color": "U"
+    "cost": [
+      "8",
+      "U",
+      "U"
+    ]
   },
   {
     "id": "a5a0c915-92a9-4eb0-a02a-c1571b00761b",
@@ -1196,7 +1536,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/a/5/a5a0c915-92a9-4eb0-a02a-c1571b00761b.webp",
     "rarity": "Common",
     "card_type": "Sorcery",
-    "color": "U"
+    "cost": [
+      "3",
+      "U"
+    ]
   },
   {
     "id": "4cad8762-ff91-4971-84be-f643c7795679",
@@ -1207,7 +1550,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/c/4cad8762-ff91-4971-84be-f643c7795679.webp",
     "rarity": "Rare",
     "card_type": "Sorcery",
-    "color": "U"
+    "cost": [
+      "3",
+      "U",
+      "U"
+    ]
   },
   {
     "id": "606b4e02-f81a-490c-8d2e-cfea7917d6b7",
@@ -1218,7 +1565,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/0/606b4e02-f81a-490c-8d2e-cfea7917d6b7.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Bird Soldier",
-    "color": "U"
+    "cost": [
+      "2",
+      "U",
+      "U"
+    ]
   },
   {
     "id": "8aa4bf82-65e7-4b0c-9f96-dd84a67dcfb2",
@@ -1229,7 +1580,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/a/8aa4bf82-65e7-4b0c-9f96-dd84a67dcfb2.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "U"
+    "cost": [
+      "1",
+      "U"
+    ]
   },
   {
     "id": "9e201229-34a6-48c8-a07c-d8aefcf5f8a7",
@@ -1240,7 +1594,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/e/9e201229-34a6-48c8-a07c-d8aefcf5f8a7.webp",
     "rarity": "Rare",
     "card_type": "Sorcery",
-    "color": "U"
+    "cost": [
+      "4",
+      "U",
+      "U"
+    ]
   },
   {
     "id": "c0199cfb-5e44-40f0-b9cf-71473155eb94",
@@ -1251,7 +1609,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/0/c0199cfb-5e44-40f0-b9cf-71473155eb94.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "U"
+    "cost": [
+      "1",
+      "U"
+    ]
   },
   {
     "id": "0012621b-c0e1-48d6-99b9-ecca4763d748",
@@ -1262,7 +1623,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/0/0012621b-c0e1-48d6-99b9-ecca4763d748.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "B"
+    "cost": [
+      "2",
+      "B"
+    ]
   },
   {
     "id": "dd1452ff-cec6-4df3-8bdc-bfb7869553a1",
@@ -1273,7 +1637,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/d/dd1452ff-cec6-4df3-8bdc-bfb7869553a1.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Horror",
-    "color": "B"
+    "cost": [
+      "1",
+      "B"
+    ]
   },
   {
     "id": "4dcdcad5-e4fb-480e-984f-1ac5cdc986b9",
@@ -1284,7 +1651,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/d/4dcdcad5-e4fb-480e-984f-1ac5cdc986b9.webp",
     "rarity": "Rare",
     "card_type": "Legendary Creature \u2014 Human Minion",
-    "color": "B"
+    "cost": [
+      "2",
+      "B",
+      "B"
+    ]
   },
   {
     "id": "7db3697e-a31b-45a5-b742-fdfb00ce3929",
@@ -1295,7 +1666,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/d/7db3697e-a31b-45a5-b742-fdfb00ce3929.webp",
     "rarity": "Uncommon",
     "card_type": "Sorcery",
-    "color": "B"
+    "cost": [
+      "2",
+      "B"
+    ]
   },
   {
     "id": "c0530e09-5206-460e-abd2-e928eca294a5",
@@ -1306,7 +1680,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/0/c0530e09-5206-460e-abd2-e928eca294a5.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Minion",
-    "color": "B"
+    "cost": [
+      "1",
+      "B"
+    ]
   },
   {
     "id": "0d2f0da3-a13e-4a45-98dc-6227cf952a5e",
@@ -1317,7 +1694,12 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/d/0d2f0da3-a13e-4a45-98dc-6227cf952a5e.webp",
     "rarity": "Rare",
     "card_type": "Legendary Creature \u2014 Human Wizard",
-    "color": "B"
+    "cost": [
+      "3",
+      "B",
+      "B",
+      "B"
+    ]
   },
   {
     "id": "dd376a52-5dfd-49f3-a520-537cd4527439",
@@ -1328,7 +1710,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/d/dd376a52-5dfd-49f3-a520-537cd4527439.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "B"
+    "cost": [
+      "1",
+      "B",
+      "B"
+    ]
   },
   {
     "id": "3700a61f-76fe-42e6-be93-0ba319b7b543",
@@ -1339,7 +1725,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/3/7/3700a61f-76fe-42e6-be93-0ba319b7b543.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment \u2014 Aura",
-    "color": "B"
+    "cost": [
+      "4",
+      "B",
+      "B"
+    ]
   },
   {
     "id": "10c180ea-2d1e-458e-b5d4-e87975eba968",
@@ -1350,7 +1740,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/0/10c180ea-2d1e-458e-b5d4-e87975eba968.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Horror",
-    "color": "B"
+    "cost": [
+      "3",
+      "B"
+    ]
   },
   {
     "id": "541e06cb-5616-40b4-9d36-89471a795ac8",
@@ -1361,7 +1754,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/4/541e06cb-5616-40b4-9d36-89471a795ac8.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "B"
+    "cost": [
+      "B"
+    ]
   },
   {
     "id": "ca7363dc-fc0d-4fe0-a90c-6ce1782be3ae",
@@ -1372,7 +1767,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/a/ca7363dc-fc0d-4fe0-a90c-6ce1782be3ae.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Zombie",
-    "color": "B"
+    "cost": [
+      "1",
+      "B"
+    ]
   },
   {
     "id": "8de97585-3d24-4e8d-8bf9-edd75ee88443",
@@ -1383,7 +1781,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/d/8de97585-3d24-4e8d-8bf9-edd75ee88443.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Horror",
-    "color": "B"
+    "cost": [
+      "4",
+      "B"
+    ]
   },
   {
     "id": "f2bea0ec-52e0-4f45-a445-8805dc6ed596",
@@ -1394,7 +1795,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/2/f2bea0ec-52e0-4f45-a445-8805dc6ed596.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "B"
+    "cost": [
+      "1",
+      "B",
+      "B"
+    ]
   },
   {
     "id": "916fb8a8-f402-4ef6-8a6b-8fc591e04367",
@@ -1405,7 +1810,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/1/916fb8a8-f402-4ef6-8a6b-8fc591e04367.webp",
     "rarity": "Uncommon",
     "card_type": "Sorcery",
-    "color": "B"
+    "cost": [
+      "1",
+      "B"
+    ]
   },
   {
     "id": "f6cf7e1b-00ea-46f8-a20a-76c307167854",
@@ -1416,7 +1824,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/6/f6cf7e1b-00ea-46f8-a20a-76c307167854.webp",
     "rarity": "Uncommon",
     "card_type": "Sorcery",
-    "color": "B"
+    "cost": [
+      "2",
+      "B",
+      "B"
+    ]
   },
   {
     "id": "97d15534-310f-4f9d-be0d-59b0ed8a5f53",
@@ -1427,7 +1839,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/7/97d15534-310f-4f9d-be0d-59b0ed8a5f53.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Rat Minion",
-    "color": "B"
+    "cost": [
+      "3",
+      "B"
+    ]
   },
   {
     "id": "f67943c0-304a-4d04-8e26-f45b3ab27a45",
@@ -1438,7 +1853,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/6/f67943c0-304a-4d04-8e26-f45b3ab27a45.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Imp",
-    "color": "B"
+    "cost": [
+      "2",
+      "B"
+    ]
   },
   {
     "id": "f60a2091-fb97-4f04-911b-fce9b6351044",
@@ -1449,7 +1867,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/6/f60a2091-fb97-4f04-911b-fce9b6351044.webp",
     "rarity": "Rare",
     "card_type": "Instant",
-    "color": "B"
+    "cost": [
+      "B"
+    ]
   },
   {
     "id": "333123bc-fb66-4b5a-bf55-045d2906c8c3",
@@ -1460,7 +1880,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/3/3/333123bc-fb66-4b5a-bf55-045d2906c8c3.webp",
     "rarity": "Uncommon",
     "card_type": "Instant",
-    "color": "B"
+    "cost": [
+      "2",
+      "B"
+    ]
   },
   {
     "id": "17542219-1165-4483-9cef-7abecaebb6a2",
@@ -1471,7 +1894,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/7/17542219-1165-4483-9cef-7abecaebb6a2.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Horror",
-    "color": "B"
+    "cost": [
+      "5",
+      "B"
+    ]
   },
   {
     "id": "e413b65a-700d-44eb-a880-5a0118d2ebac",
@@ -1482,7 +1908,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/e/4/e413b65a-700d-44eb-a880-5a0118d2ebac.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Zombie",
-    "color": "B"
+    "cost": [
+      "3",
+      "B"
+    ]
   },
   {
     "id": "634b2b46-b213-4eb0-81d8-0e9dd161b85f",
@@ -1493,7 +1922,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/3/634b2b46-b213-4eb0-81d8-0e9dd161b85f.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Dog",
-    "color": "B"
+    "cost": [
+      "1",
+      "B"
+    ]
   },
   {
     "id": "d11770ee-dcf0-4dd4-ab43-b98f1133cec7",
@@ -1504,7 +1936,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/1/d11770ee-dcf0-4dd4-ab43-b98f1133cec7.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Imp",
-    "color": "B"
+    "cost": [
+      "2",
+      "B"
+    ]
   },
   {
     "id": "d79129e7-6cc4-4060-8b76-3afbd2e0d456",
@@ -1515,7 +1950,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/7/d79129e7-6cc4-4060-8b76-3afbd2e0d456.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Horror",
-    "color": "B"
+    "cost": [
+      "1",
+      "B"
+    ]
   },
   {
     "id": "d9d2bfa3-0499-43ea-a76d-b12fddbc104e",
@@ -1526,7 +1964,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/9/d9d2bfa3-0499-43ea-a76d-b12fddbc104e.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "B"
+    "cost": [
+      "B"
+    ]
   },
   {
     "id": "c92e67ef-d1e9-427f-827b-d07e06126821",
@@ -1537,7 +1977,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/9/c92e67ef-d1e9-427f-827b-d07e06126821.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Zombie",
-    "color": "B"
+    "cost": [
+      "3",
+      "B"
+    ]
   },
   {
     "id": "5e273b71-85ca-49d2-ba96-70cc0ae8d718",
@@ -1548,7 +1991,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/e/5e273b71-85ca-49d2-ba96-70cc0ae8d718.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "B"
+    "cost": [
+      "B",
+      "B",
+      "B"
+    ]
   },
   {
     "id": "aca4c571-48b8-4150-93f8-4cb5c8e797c4",
@@ -1559,7 +2006,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/a/c/aca4c571-48b8-4150-93f8-4cb5c8e797c4.webp",
     "rarity": "Rare",
     "card_type": "Sorcery",
-    "color": "B"
+    "cost": [
+      "3",
+      "B",
+      "B"
+    ]
   },
   {
     "id": "d6abaca0-7ce1-4024-adf6-ef6cc0fbcb75",
@@ -1570,7 +2021,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/6/d6abaca0-7ce1-4024-adf6-ef6cc0fbcb75.webp",
     "rarity": "Rare",
     "card_type": "Sorcery",
-    "color": "B"
+    "cost": [
+      "2",
+      "B"
+    ]
   },
   {
     "id": "00615487-3526-4b4c-bb06-8f2af1f101d0",
@@ -1581,7 +2035,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/0/00615487-3526-4b4c-bb06-8f2af1f101d0.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Rat",
-    "color": "B"
+    "cost": [
+      "2",
+      "B"
+    ]
   },
   {
     "id": "d26af8f6-df64-4027-880c-f2fae2d8103f",
@@ -1592,7 +2049,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/2/d26af8f6-df64-4027-880c-f2fae2d8103f.webp",
     "rarity": "Common",
     "card_type": "Sorcery",
-    "color": "B"
+    "cost": [
+      "B"
+    ]
   },
   {
     "id": "0b140a36-6686-4781-a432-cb2ef58afa81",
@@ -1603,7 +2062,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/b/0b140a36-6686-4781-a432-cb2ef58afa81.webp",
     "rarity": "Common",
     "card_type": "Sorcery",
-    "color": "B"
+    "cost": [
+      "2",
+      "B"
+    ]
   },
   {
     "id": "35d94052-aae3-4ced-9309-fc4a0d1f159d",
@@ -1614,7 +2076,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/3/5/35d94052-aae3-4ced-9309-fc4a0d1f159d.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment",
-    "color": "B"
+    "cost": [
+      "1",
+      "B",
+      "B"
+    ]
   },
   {
     "id": "c07889a1-1582-4f14-8925-fa21a1a5fd65",
@@ -1625,7 +2091,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/0/c07889a1-1582-4f14-8925-fa21a1a5fd65.webp",
     "rarity": "Common",
     "card_type": "Sorcery",
-    "color": "B"
+    "cost": [
+      "1",
+      "B"
+    ]
   },
   {
     "id": "895b1c9b-b1a1-457b-92cd-3469a38b69a3",
@@ -1636,7 +2105,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/9/895b1c9b-b1a1-457b-92cd-3469a38b69a3.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Horror",
-    "color": "B"
+    "cost": [
+      "2",
+      "B",
+      "B"
+    ]
   },
   {
     "id": "47a4e7d0-ff09-4e19-8456-f4845f56dc8b",
@@ -1647,7 +2120,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/7/47a4e7d0-ff09-4e19-8456-f4845f56dc8b.webp",
     "rarity": "Common",
     "card_type": "Sorcery",
-    "color": "B"
+    "cost": [
+      "4",
+      "B",
+      "B"
+    ]
   },
   {
     "id": "937465ca-4cf7-4412-86eb-264efb0fdddd",
@@ -1658,7 +2135,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/3/937465ca-4cf7-4412-86eb-264efb0fdddd.webp",
     "rarity": "Common",
     "card_type": "Sorcery",
-    "color": "B"
+    "cost": [
+      "1",
+      "B"
+    ]
   },
   {
     "id": "fdc0d499-4a22-4f33-83c7-4e8cdbc3ebe6",
@@ -1669,7 +2149,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/d/fdc0d499-4a22-4f33-83c7-4e8cdbc3ebe6.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Lhurgoyf",
-    "color": "B"
+    "cost": [
+      "2",
+      "B",
+      "B"
+    ]
   },
   {
     "id": "d90f5a4e-8c3a-4803-bb59-d3d7c23761db",
@@ -1680,7 +2164,12 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/9/d90f5a4e-8c3a-4803-bb59-d3d7c23761db.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "B"
+    "cost": [
+      "B",
+      "B",
+      "B",
+      "B"
+    ]
   },
   {
     "id": "8b886292-5937-44ee-bc2a-f316791c91ae",
@@ -1691,7 +2180,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/b/8b886292-5937-44ee-bc2a-f316791c91ae.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Minion",
-    "color": "B"
+    "cost": [
+      "2",
+      "B"
+    ]
   },
   {
     "id": "3f993815-af2f-4fa0-8848-979fc8c72d9a",
@@ -1702,7 +2194,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/3/f/3f993815-af2f-4fa0-8848-979fc8c72d9a.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Human Minion",
-    "color": "B"
+    "cost": [
+      "2",
+      "B",
+      "B"
+    ]
   },
   {
     "id": "309bc2e7-bece-493d-b7ab-0e08a9f40909",
@@ -1713,7 +2209,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/3/0/309bc2e7-bece-493d-b7ab-0e08a9f40909.webp",
     "rarity": "Common",
     "card_type": "Enchantment \u2014 Aura",
-    "color": "B"
+    "cost": [
+      "3",
+      "B"
+    ]
   },
   {
     "id": "2c1dbad4-1105-4426-8d4d-a30f6fa95ce8",
@@ -1724,7 +2223,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/2/c/2c1dbad4-1105-4426-8d4d-a30f6fa95ce8.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Vampire",
-    "color": "B"
+    "cost": [
+      "3",
+      "B",
+      "B"
+    ]
   },
   {
     "id": "0a2db4b2-6209-4a49-b868-e5d229ffcbc1",
@@ -1735,7 +2238,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/a/0a2db4b2-6209-4a49-b868-e5d229ffcbc1.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Zombie Giant",
-    "color": "B"
+    "cost": [
+      "1",
+      "B"
+    ]
   },
   {
     "id": "98a6fba0-e5fc-4fa8-9895-8e4b8272bebe",
@@ -1746,7 +2252,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/8/98a6fba0-e5fc-4fa8-9895-8e4b8272bebe.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Human Minion",
-    "color": "B"
+    "cost": [
+      "3",
+      "B",
+      "B"
+    ]
   },
   {
     "id": "66cc53cf-13eb-4028-944d-a670ad30dbca",
@@ -1757,7 +2267,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/6/66cc53cf-13eb-4028-944d-a670ad30dbca.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment",
-    "color": "B"
+    "cost": [
+      "3",
+      "B",
+      "B"
+    ]
   },
   {
     "id": "ee49bae4-b53f-4d62-9ba6-6105b0087bcf",
@@ -1768,7 +2282,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/e/e/ee49bae4-b53f-4d62-9ba6-6105b0087bcf.webp",
     "rarity": "Uncommon",
     "card_type": "Instant",
-    "color": "B"
+    "cost": [
+      "X",
+      "B"
+    ]
   },
   {
     "id": "93e3c013-319f-4a77-a55e-11323468b8ea",
@@ -1779,7 +2296,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/3/93e3c013-319f-4a77-a55e-11323468b8ea.webp",
     "rarity": "Uncommon",
     "card_type": "Sorcery",
-    "color": "B"
+    "cost": [
+      "B"
+    ]
   },
   {
     "id": "16705695-1ba8-4169-974f-d8c683ab2652",
@@ -1790,7 +2309,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/6/16705695-1ba8-4169-974f-d8c683ab2652.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Vampire",
-    "color": "B"
+    "cost": [
+      "4",
+      "B",
+      "B"
+    ]
   },
   {
     "id": "c513f51b-a0db-4c08-8acc-1e91060b93b7",
@@ -1801,7 +2324,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/5/c513f51b-a0db-4c08-8acc-1e91060b93b7.webp",
     "rarity": "Rare",
     "card_type": "Instant",
-    "color": "B"
+    "cost": [
+      "1",
+      "B"
+    ]
   },
   {
     "id": "bb08a4a7-941b-4b54-a89b-a4145a6fc14e",
@@ -1812,7 +2338,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/b/b/bb08a4a7-941b-4b54-a89b-a4145a6fc14e.webp",
     "rarity": "Rare",
     "card_type": "Sorcery",
-    "color": "B"
+    "cost": [
+      "B"
+    ]
   },
   {
     "id": "d4b6413d-68d3-4097-9bb3-873df4900e4c",
@@ -1823,7 +2351,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/4/d4b6413d-68d3-4097-9bb3-873df4900e4c.webp",
     "rarity": "Rare",
     "card_type": "Enchantment \u2014 Aura",
-    "color": "B"
+    "cost": [
+      "3",
+      "B",
+      "B"
+    ]
   },
   {
     "id": "5fbfdc2a-7bf3-4461-bef7-fa499d29d1b8",
@@ -1834,7 +2366,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/f/5fbfdc2a-7bf3-4461-bef7-fa499d29d1b8.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Shade",
-    "color": "B"
+    "cost": [
+      "3",
+      "B"
+    ]
   },
   {
     "id": "c4649311-1300-42fb-ac10-90490756c7aa",
@@ -1845,7 +2380,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/4/c4649311-1300-42fb-ac10-90490756c7aa.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Zombie Assassin",
-    "color": "B"
+    "cost": [
+      "4",
+      "B"
+    ]
   },
   {
     "id": "5fe73ea4-caa2-41de-a065-272a4d850362",
@@ -1856,7 +2394,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/f/5fe73ea4-caa2-41de-a065-272a4d850362.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Zombie",
-    "color": "B"
+    "cost": [
+      "B"
+    ]
   },
   {
     "id": "ccd5f98a-7ab5-44b3-850c-b50963dace66",
@@ -1867,7 +2407,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/c/ccd5f98a-7ab5-44b3-850c-b50963dace66.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment",
-    "color": "B"
+    "cost": [
+      "1",
+      "B"
+    ]
   },
   {
     "id": "513a2a6f-9ae6-42cb-b75f-6b45fc35f36e",
@@ -1878,7 +2421,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/1/513a2a6f-9ae6-42cb-b75f-6b45fc35f36e.webp",
     "rarity": "Uncommon",
     "card_type": "Sorcery",
-    "color": "B"
+    "cost": [
+      "3",
+      "B"
+    ]
   },
   {
     "id": "9082bfb8-0ab0-4378-976d-a2c9d3c35a5e",
@@ -1889,7 +2435,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/0/9082bfb8-0ab0-4378-976d-a2c9d3c35a5e.webp",
     "rarity": "Common",
     "card_type": "Sorcery",
-    "color": "R"
+    "cost": [
+      "3",
+      "R"
+    ]
   },
   {
     "id": "5514627a-b24c-48c9-9a5a-5a375adcdf62",
@@ -1900,7 +2449,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/5/5514627a-b24c-48c9-9a5a-5a375adcdf62.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Wizard",
-    "color": "R"
+    "cost": [
+      "4",
+      "R"
+    ]
   },
   {
     "id": "ebaef0bd-8288-49ba-a889-d897a4aae64c",
@@ -1911,7 +2463,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/e/b/ebaef0bd-8288-49ba-a889-d897a4aae64c.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Elemental Beast",
-    "color": "R"
+    "cost": [
+      "6",
+      "R",
+      "R"
+    ]
   },
   {
     "id": "6c899f9b-ebce-4424-9cd9-861a50a5f7d2",
@@ -1922,7 +2478,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/c/6c899f9b-ebce-4424-9cd9-861a50a5f7d2.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Barbarian",
-    "color": "R"
+    "cost": [
+      "2",
+      "R"
+    ]
   },
   {
     "id": "694b24de-d7f8-49c6-8ab3-d5fab13b6a8f",
@@ -1933,7 +2492,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/9/694b24de-d7f8-49c6-8ab3-d5fab13b6a8f.webp",
     "rarity": "Uncommon",
     "card_type": "Instant",
-    "color": "R"
+    "cost": [
+      "3",
+      "R"
+    ]
   },
   {
     "id": "ee1be893-1287-40a3-81d6-271df3154b45",
@@ -1944,7 +2506,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/e/e/ee1be893-1287-40a3-81d6-271df3154b45.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment",
-    "color": "R"
+    "cost": [
+      "1",
+      "R"
+    ]
   },
   {
     "id": "f7d192ef-a174-4df5-b67f-22918c32cf71",
@@ -1955,7 +2520,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/7/f7d192ef-a174-4df5-b67f-22918c32cf71.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "R"
+    "cost": [
+      "R"
+    ]
   },
   {
     "id": "8e9535a5-29ea-4085-a36b-4905d85e97ac",
@@ -1966,7 +2533,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/e/8e9535a5-29ea-4085-a36b-4905d85e97ac.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Dwarf",
-    "color": "R"
+    "cost": [
+      "3",
+      "R"
+    ]
   },
   {
     "id": "9a5d5eef-6e3c-4907-a277-a13de2916e2b",
@@ -1977,7 +2547,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/a/9a5d5eef-6e3c-4907-a277-a13de2916e2b.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "R"
+    "cost": [
+      "3",
+      "R",
+      "R"
+    ]
   },
   {
     "id": "670a5bba-a10f-41f6-88cd-cef1dfe4bfa9",
@@ -1988,7 +2562,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/7/670a5bba-a10f-41f6-88cd-cef1dfe4bfa9.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Beast",
-    "color": "R"
+    "cost": [
+      "3",
+      "R"
+    ]
   },
   {
     "id": "57817159-de10-4a68-83e1-971fa9cfee2c",
@@ -1999,7 +2576,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/7/57817159-de10-4a68-83e1-971fa9cfee2c.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "R"
+    "cost": [
+      "2",
+      "R",
+      "R"
+    ]
   },
   {
     "id": "9162a4df-ca6d-4f07-ae48-d333f1cb74b9",
@@ -2010,7 +2591,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/1/9162a4df-ca6d-4f07-ae48-d333f1cb74b9.webp",
     "rarity": "Uncommon",
     "card_type": "Sorcery",
-    "color": "R"
+    "cost": [
+      "3",
+      "R"
+    ]
   },
   {
     "id": "2e2f16f9-4980-45e9-99bf-0e00e3008b1d",
@@ -2021,7 +2605,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/2/e/2e2f16f9-4980-45e9-99bf-0e00e3008b1d.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "R"
+    "cost": [
+      "2",
+      "R"
+    ]
   },
   {
     "id": "6f00d726-4289-48ff-8c14-6a5080a00fda",
@@ -2032,7 +2619,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/f/6f00d726-4289-48ff-8c14-6a5080a00fda.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Dwarf",
-    "color": "R"
+    "cost": [
+      "R"
+    ]
   },
   {
     "id": "6a15d274-85b4-4f3c-b502-f6dfe7db4d37",
@@ -2043,7 +2632,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/a/6a15d274-85b4-4f3c-b502-f6dfe7db4d37.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Dwarf",
-    "color": "R"
+    "cost": [
+      "2",
+      "R"
+    ]
   },
   {
     "id": "85197997-5e1a-46ce-8f0d-6da5ce297baf",
@@ -2054,7 +2646,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/5/85197997-5e1a-46ce-8f0d-6da5ce297baf.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "R"
+    "cost": [
+      "1",
+      "R",
+      "R"
+    ]
   },
   {
     "id": "a2bc3d85-5ba1-4f2e-a676-be989bdb04f7",
@@ -2065,7 +2661,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/a/2/a2bc3d85-5ba1-4f2e-a676-be989bdb04f7.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Dwarf Berserker",
-    "color": "R"
+    "cost": [
+      "4",
+      "R"
+    ]
   },
   {
     "id": "e2e10742-77c9-4f91-81b2-37b2ac910f09",
@@ -2076,7 +2675,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/e/2/e2e10742-77c9-4f91-81b2-37b2ac910f09.webp",
     "rarity": "Common",
     "card_type": "Sorcery",
-    "color": "R"
+    "cost": [
+      "3",
+      "R"
+    ]
   },
   {
     "id": "25080720-612f-40c0-8894-cda8e3e8afb8",
@@ -2087,7 +2689,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/2/5/25080720-612f-40c0-8894-cda8e3e8afb8.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Beast",
-    "color": "R"
+    "cost": [
+      "2",
+      "R"
+    ]
   },
   {
     "id": "164a92ac-0788-4238-a2ed-1ebd3dd0dd88",
@@ -2098,7 +2703,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/6/164a92ac-0788-4238-a2ed-1ebd3dd0dd88.webp",
     "rarity": "Uncommon",
     "card_type": "Instant",
-    "color": "R"
+    "cost": [
+      "R"
+    ]
   },
   {
     "id": "1a9232ae-9f32-4bbc-a020-554b3f9cbbd3",
@@ -2109,7 +2716,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/a/1a9232ae-9f32-4bbc-a020-554b3f9cbbd3.webp",
     "rarity": "Rare",
     "card_type": "Sorcery",
-    "color": "R"
+    "cost": [
+      "4",
+      "R"
+    ]
   },
   {
     "id": "d5e45005-dd81-4d80-b043-02f719aca929",
@@ -2120,7 +2730,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/5/d5e45005-dd81-4d80-b043-02f719aca929.webp",
     "rarity": "Common",
     "card_type": "Sorcery",
-    "color": "R"
+    "cost": [
+      "R"
+    ]
   },
   {
     "id": "64bbd438-7df2-4d7b-88ad-4531ebaf3931",
@@ -2131,7 +2743,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/4/64bbd438-7df2-4d7b-88ad-4531ebaf3931.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "R"
+    "cost": [
+      "1",
+      "R"
+    ]
   },
   {
     "id": "0dc939cc-826a-4208-ba5b-a11e1cd47aa2",
@@ -2142,7 +2757,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/d/0dc939cc-826a-4208-ba5b-a11e1cd47aa2.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Ogre",
-    "color": "R"
+    "cost": [
+      "4",
+      "R"
+    ]
   },
   {
     "id": "b69dfc05-51ba-4798-ac00-1e9b8bbbf280",
@@ -2153,7 +2771,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/b/6/b69dfc05-51ba-4798-ac00-1e9b8bbbf280.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Barbarian",
-    "color": "R"
+    "cost": [
+      "3",
+      "R"
+    ]
   },
   {
     "id": "d9b404c0-9ce1-4491-82fd-6dba7e6895cd",
@@ -2164,7 +2785,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/9/d9b404c0-9ce1-4491-82fd-6dba7e6895cd.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "R"
+    "cost": [
+      "2",
+      "R",
+      "R"
+    ]
   },
   {
     "id": "ee88c776-85f1-4beb-a814-f706f5c4f341",
@@ -2175,7 +2800,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/e/e/ee88c776-85f1-4beb-a814-f706f5c4f341.webp",
     "rarity": "Rare",
     "card_type": "Legendary Creature \u2014 Human Barbarian",
-    "color": "R"
+    "cost": [
+      "4",
+      "R",
+      "R"
+    ]
   },
   {
     "id": "c99e1ded-7440-40a6-846b-7450a9b7d2a8",
@@ -2186,7 +2815,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/9/c99e1ded-7440-40a6-846b-7450a9b7d2a8.webp",
     "rarity": "Common",
     "card_type": "Enchantment \u2014 Aura",
-    "color": "R"
+    "cost": [
+      "1",
+      "R"
+    ]
   },
   {
     "id": "cd0e9e53-2710-4c2a-a8e4-48f25375ebc7",
@@ -2197,7 +2829,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/d/cd0e9e53-2710-4c2a-a8e4-48f25375ebc7.webp",
     "rarity": "Uncommon",
     "card_type": "Sorcery",
-    "color": "R"
+    "cost": [
+      "1",
+      "R"
+    ]
   },
   {
     "id": "8b836d4c-38f3-4661-9dc7-0c9baaa595a5",
@@ -2208,7 +2843,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/b/8b836d4c-38f3-4661-9dc7-0c9baaa595a5.webp",
     "rarity": "Uncommon",
     "card_type": "Sorcery",
-    "color": "R"
+    "cost": [
+      "4",
+      "R",
+      "R"
+    ]
   },
   {
     "id": "7be2da24-a0cd-4e90-bc29-4da649fa56bf",
@@ -2219,7 +2858,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/b/7be2da24-a0cd-4e90-bc29-4da649fa56bf.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Dog",
-    "color": "R"
+    "cost": [
+      "1",
+      "R"
+    ]
   },
   {
     "id": "69ed2b52-2862-423c-8ce3-6c8232d9d92c",
@@ -2230,7 +2872,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/9/69ed2b52-2862-423c-8ce3-6c8232d9d92c.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment",
-    "color": "R"
+    "cost": [
+      "2",
+      "R"
+    ]
   },
   {
     "id": "200fa50d-5a54-47eb-a123-29c4fb55ebee",
@@ -2241,7 +2886,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/2/0/200fa50d-5a54-47eb-a123-29c4fb55ebee.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Lhurgoyf",
-    "color": "R"
+    "cost": [
+      "2",
+      "R",
+      "R"
+    ]
   },
   {
     "id": "497efda1-5013-45d2-b717-b0296218c42b",
@@ -2252,7 +2901,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/9/497efda1-5013-45d2-b717-b0296218c42b.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Dwarf",
-    "color": "R"
+    "cost": [
+      "3",
+      "R"
+    ]
   },
   {
     "id": "55725e38-d60a-41a2-93b0-2eefe6d2cc59",
@@ -2263,7 +2915,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/5/55725e38-d60a-41a2-93b0-2eefe6d2cc59.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Minotaur Scout",
-    "color": "R"
+    "cost": [
+      "1",
+      "R"
+    ]
   },
   {
     "id": "4c2b326b-d177-4a03-a0a3-fe2c2d4af272",
@@ -2274,7 +2929,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/c/4c2b326b-d177-4a03-a0a3-fe2c2d4af272.webp",
     "rarity": "Rare",
     "card_type": "Instant",
-    "color": "R"
+    "cost": [
+      "1",
+      "R"
+    ]
   },
   {
     "id": "993d31bc-7355-4dfc-ac4e-ababaa0dc529",
@@ -2285,7 +2943,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/9/993d31bc-7355-4dfc-ac4e-ababaa0dc529.webp",
     "rarity": "Rare",
     "card_type": "Instant",
-    "color": "R"
+    "cost": [
+      "2",
+      "R"
+    ]
   },
   {
     "id": "8407b02f-66b3-4cfa-a3c4-105f314fd037",
@@ -2296,7 +2957,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/4/8407b02f-66b3-4cfa-a3c4-105f314fd037.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "R"
+    "cost": [
+      "R"
+    ]
   },
   {
     "id": "88468a76-1f64-4189-bbb8-7c333181d57c",
@@ -2307,7 +2970,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/8/88468a76-1f64-4189-bbb8-7c333181d57c.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Lizard",
-    "color": "R"
+    "cost": [
+      "R"
+    ]
   },
   {
     "id": "16858395-c742-4657-88c2-5af20c92718d",
@@ -2318,7 +2983,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/6/16858395-c742-4657-88c2-5af20c92718d.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Elemental Cat",
-    "color": "R"
+    "cost": [
+      "3",
+      "R"
+    ]
   },
   {
     "id": "4a734abe-7bfd-4153-be2d-1c289fb60996",
@@ -2329,7 +2997,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/a/4a734abe-7bfd-4153-be2d-1c289fb60996.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Dwarf",
-    "color": "R"
+    "cost": [
+      "1",
+      "R"
+    ]
   },
   {
     "id": "44ac622c-db04-41bf-817e-4698843e6346",
@@ -2340,7 +3011,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/4/44ac622c-db04-41bf-817e-4698843e6346.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Dwarf",
-    "color": "R"
+    "cost": [
+      "2",
+      "R"
+    ]
   },
   {
     "id": "785ccfe1-04f1-4d2e-9e30-2ae3efe7213a",
@@ -2351,7 +3025,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/8/785ccfe1-04f1-4d2e-9e30-2ae3efe7213a.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment",
-    "color": "R"
+    "cost": [
+      "2",
+      "R"
+    ]
   },
   {
     "id": "0938e686-345e-4411-b564-cf9324ec6b9d",
@@ -2362,7 +3039,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/9/0938e686-345e-4411-b564-cf9324ec6b9d.webp",
     "rarity": "Common",
     "card_type": "Sorcery",
-    "color": "R"
+    "cost": [
+      "R"
+    ]
   },
   {
     "id": "431145f8-64e9-4e7d-998a-21fe55f49e01",
@@ -2373,7 +3052,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/3/431145f8-64e9-4e7d-998a-21fe55f49e01.webp",
     "rarity": "Uncommon",
     "card_type": "Sorcery",
-    "color": "R"
+    "cost": [
+      "1",
+      "R"
+    ]
   },
   {
     "id": "6f2fc246-2e95-456f-aa4e-97768c4f4bb4",
@@ -2384,7 +3066,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/f/6f2fc246-2e95-456f-aa4e-97768c4f4bb4.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "R"
+    "cost": [
+      "R"
+    ]
   },
   {
     "id": "52e14dbe-4d33-405c-ab84-2fc6b1e000b8",
@@ -2395,7 +3079,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/2/52e14dbe-4d33-405c-ab84-2fc6b1e000b8.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Elemental Cat",
-    "color": "R"
+    "cost": [
+      "3",
+      "R",
+      "R"
+    ]
   },
   {
     "id": "0672960b-4cb5-4ed6-ba3c-6b97290e0330",
@@ -2406,7 +3094,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/6/0672960b-4cb5-4ed6-ba3c-6b97290e0330.webp",
     "rarity": "Common",
     "card_type": "Sorcery",
-    "color": "R"
+    "cost": [
+      "3",
+      "R"
+    ]
   },
   {
     "id": "98d03ec3-2279-4266-a3bd-4cebdcb04d70",
@@ -2417,7 +3108,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/8/98d03ec3-2279-4266-a3bd-4cebdcb04d70.webp",
     "rarity": "Rare",
     "card_type": "Sorcery",
-    "color": "R"
+    "cost": [
+      "3",
+      "R"
+    ]
   },
   {
     "id": "b1e623a8-145e-4649-b2cc-d3bb8a93f0f3",
@@ -2428,7 +3122,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/b/1/b1e623a8-145e-4649-b2cc-d3bb8a93f0f3.webp",
     "rarity": "Uncommon",
     "card_type": "Sorcery",
-    "color": "R"
+    "cost": [
+      "3",
+      "R",
+      "R"
+    ]
   },
   {
     "id": "cff5902e-2ca1-43bb-b636-c860b3d0b3f2",
@@ -2439,7 +3137,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/f/cff5902e-2ca1-43bb-b636-c860b3d0b3f2.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Dwarf Wizard",
-    "color": "R"
+    "cost": [
+      "R"
+    ]
   },
   {
     "id": "d3936053-b2ed-49b8-ab69-fe47a972cfe4",
@@ -2450,7 +3150,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/3/d3936053-b2ed-49b8-ab69-fe47a972cfe4.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment \u2014 Aura",
-    "color": "R"
+    "cost": [
+      "1",
+      "R",
+      "R"
+    ]
   },
   {
     "id": "623cc141-0f75-4e67-b852-6c144d98e619",
@@ -2461,7 +3165,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/2/623cc141-0f75-4e67-b852-6c144d98e619.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "R"
+    "cost": [
+      "4",
+      "R"
+    ]
   },
   {
     "id": "7e1dc36f-3fdd-42cf-9d3a-695f4bf60c68",
@@ -2472,7 +3179,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/e/7e1dc36f-3fdd-42cf-9d3a-695f4bf60c68.webp",
     "rarity": "Common",
     "card_type": "Sorcery",
-    "color": "R"
+    "cost": [
+      "1",
+      "R"
+    ]
   },
   {
     "id": "97daab4b-d934-4a3f-a043-f7c9c1dd32bf",
@@ -2483,7 +3193,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/7/97daab4b-d934-4a3f-a043-f7c9c1dd32bf.webp",
     "rarity": "Uncommon",
     "card_type": "Sorcery",
-    "color": "R"
+    "cost": [
+      "1",
+      "R"
+    ]
   },
   {
     "id": "4f663979-a778-4fb2-97c4-67ab82926f13",
@@ -2494,7 +3207,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/f/4f663979-a778-4fb2-97c4-67ab82926f13.webp",
     "rarity": "Rare",
     "card_type": "Sorcery",
-    "color": "R"
+    "cost": [
+      "8",
+      "R"
+    ]
   },
   {
     "id": "3d86db25-3ec1-42f3-8b02-2729d50dd201",
@@ -2505,7 +3221,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/3/d/3d86db25-3ec1-42f3-8b02-2729d50dd201.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Dwarf",
-    "color": "R"
+    "cost": [
+      "2",
+      "R",
+      "R"
+    ]
   },
   {
     "id": "3284b61a-bd95-4846-ad3f-903cd1158867",
@@ -2516,7 +3236,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/3/2/3284b61a-bd95-4846-ad3f-903cd1158867.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "G"
+    "cost": [
+      "1",
+      "G",
+      "G"
+    ]
   },
   {
     "id": "6a5ebe27-2083-400e-8943-b506be470e3f",
@@ -2527,7 +3251,12 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/a/6a5ebe27-2083-400e-8943-b506be470e3f.webp",
     "rarity": "Uncommon",
     "card_type": "Instant",
-    "color": "G"
+    "cost": [
+      "2",
+      "G",
+      "G",
+      "G"
+    ]
   },
   {
     "id": "429a88cc-53db-4c5e-a061-f0f49a38c675",
@@ -2538,7 +3267,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/2/429a88cc-53db-4c5e-a061-f0f49a38c675.webp",
     "rarity": "Rare",
     "card_type": "Sorcery",
-    "color": "G"
+    "cost": [
+      "2",
+      "G"
+    ]
   },
   {
     "id": "8241680d-6453-44ac-ab0f-3e7ebdd31e89",
@@ -2549,7 +3281,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/2/8241680d-6453-44ac-ab0f-3e7ebdd31e89.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human",
-    "color": "G"
+    "cost": [
+      "2",
+      "G"
+    ]
   },
   {
     "id": "84273844-7fab-4ff7-afb3-c82153132daf",
@@ -2560,7 +3295,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/4/84273844-7fab-4ff7-afb3-c82153132daf.webp",
     "rarity": "Common",
     "card_type": "Sorcery",
-    "color": "G"
+    "cost": [
+      "G"
+    ]
   },
   {
     "id": "c4fd0ea3-4134-4f7d-a0c8-01c49bacfcfc",
@@ -2571,7 +3308,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/4/c4fd0ea3-4134-4f7d-a0c8-01c49bacfcfc.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Elemental",
-    "color": "G"
+    "cost": [
+      "G",
+      "G",
+      "G"
+    ]
   },
   {
     "id": "e1f3a32a-bfd2-4c31-a349-3e62a84c20e1",
@@ -2582,7 +3323,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/e/1/e1f3a32a-bfd2-4c31-a349-3e62a84c20e1.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Centaur",
-    "color": "G"
+    "cost": [
+      "4",
+      "G",
+      "G"
+    ]
   },
   {
     "id": "148ce683-3911-4b77-9e07-3985766a3777",
@@ -2593,7 +3338,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/4/148ce683-3911-4b77-9e07-3985766a3777.webp",
     "rarity": "Uncommon",
     "card_type": "Sorcery",
-    "color": "G"
+    "cost": [
+      "2",
+      "G"
+    ]
   },
   {
     "id": "7bb40e09-6855-46d5-9bc9-bc6b2b0d7653",
@@ -2604,7 +3352,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/b/7bb40e09-6855-46d5-9bc9-bc6b2b0d7653.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Druid",
-    "color": "G"
+    "cost": [
+      "G"
+    ]
   },
   {
     "id": "e9923532-bc4f-44de-b963-d6914321c49a",
@@ -2615,7 +3365,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/e/9/e9923532-bc4f-44de-b963-d6914321c49a.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Druid",
-    "color": "G"
+    "cost": [
+      "G"
+    ]
   },
   {
     "id": "e22318a5-80c8-4fa3-ad05-8d3035caf336",
@@ -2626,7 +3378,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/e/2/e22318a5-80c8-4fa3-ad05-8d3035caf336.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment \u2014 Aura",
-    "color": "G"
+    "cost": [
+      "1",
+      "G"
+    ]
   },
   {
     "id": "b4abdf1c-a0a9-4e1d-b448-58742830f767",
@@ -2637,7 +3392,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/b/4/b4abdf1c-a0a9-4e1d-b448-58742830f767.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "G"
+    "cost": [
+      "2",
+      "G",
+      "G"
+    ]
   },
   {
     "id": "435d9562-8f2b-43fe-ba21-8f5896378280",
@@ -2648,7 +3407,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/3/435d9562-8f2b-43fe-ba21-8f5896378280.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Ape",
-    "color": "G"
+    "cost": [
+      "3",
+      "G",
+      "G"
+    ]
   },
   {
     "id": "977383a8-9a31-4aad-ace2-6ed4d0dd1cbe",
@@ -2659,7 +3422,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/7/977383a8-9a31-4aad-ace2-6ed4d0dd1cbe.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "G"
+    "cost": [
+      "1",
+      "G"
+    ]
   },
   {
     "id": "2134a564-b089-4049-bd9c-a3f10e072263",
@@ -2670,7 +3436,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/2/1/2134a564-b089-4049-bd9c-a3f10e072263.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "G"
+    "cost": [
+      "1",
+      "G",
+      "G"
+    ]
   },
   {
     "id": "9917cf32-0236-4463-9b1d-e8193754ff97",
@@ -2681,7 +3451,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/9/9917cf32-0236-4463-9b1d-e8193754ff97.webp",
     "rarity": "Uncommon",
     "card_type": "Instant",
-    "color": "G"
+    "cost": [
+      "1",
+      "G"
+    ]
   },
   {
     "id": "fc441d3a-e917-4dd6-b5f9-f99075ec398f",
@@ -2692,7 +3465,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/c/fc441d3a-e917-4dd6-b5f9-f99075ec398f.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Elemental",
-    "color": "G"
+    "cost": [
+      "X",
+      "G"
+    ]
   },
   {
     "id": "e188562f-8219-4fb0-ac2c-5618cfb00bca",
@@ -2703,7 +3479,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/e/1/e188562f-8219-4fb0-ac2c-5618cfb00bca.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Centaur Archer",
-    "color": "G"
+    "cost": [
+      "3",
+      "G"
+    ]
   },
   {
     "id": "0afd6911-32b5-410a-afb0-fd3d2996fe59",
@@ -2714,7 +3493,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/a/0afd6911-32b5-410a-afb0-fd3d2996fe59.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Druid",
-    "color": "G"
+    "cost": [
+      "2",
+      "G"
+    ]
   },
   {
     "id": "af822507-fd4c-454b-ab07-106c81c535bf",
@@ -2725,7 +3507,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/a/f/af822507-fd4c-454b-ab07-106c81c535bf.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Squirrel Beast",
-    "color": "G"
+    "cost": [
+      "3",
+      "G"
+    ]
   },
   {
     "id": "aebab65c-7d5f-4086-8eb1-7dc445e801e9",
@@ -2736,7 +3521,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/a/e/aebab65c-7d5f-4086-8eb1-7dc445e801e9.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Centaur",
-    "color": "G"
+    "cost": [
+      "1",
+      "G",
+      "G"
+    ]
   },
   {
     "id": "f47e020a-ed73-465a-b7eb-a4eeccd096cc",
@@ -2747,7 +3536,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/4/f47e020a-ed73-465a-b7eb-a4eeccd096cc.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Elephant Wurm",
-    "color": "G"
+    "cost": [
+      "3",
+      "G",
+      "G"
+    ]
   },
   {
     "id": "40ebe935-ccf9-435e-8fe8-53bcbf3526e7",
@@ -2758,7 +3551,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/0/40ebe935-ccf9-435e-8fe8-53bcbf3526e7.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "G"
+    "cost": [
+      "1",
+      "G"
+    ]
   },
   {
     "id": "217dada5-7ffc-488b-8062-34c034906ea9",
@@ -2769,7 +3565,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/2/1/217dada5-7ffc-488b-8062-34c034906ea9.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "G"
+    "cost": [
+      "1",
+      "G"
+    ]
   },
   {
     "id": "3f5db5e0-bd95-4c82-a12d-7288dbbbe3ba",
@@ -2780,7 +3579,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/3/f/3f5db5e0-bd95-4c82-a12d-7288dbbbe3ba.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Insect Druid",
-    "color": "G"
+    "cost": [
+      "3",
+      "G"
+    ]
   },
   {
     "id": "5c0a4e6e-cc4e-43d5-aece-f009e117366a",
@@ -2791,7 +3593,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/c/5c0a4e6e-cc4e-43d5-aece-f009e117366a.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Insect Druid",
-    "color": "G"
+    "cost": [
+      "2",
+      "G"
+    ]
   },
   {
     "id": "48cb5283-d384-490e-a0a5-2d10c1acc8cc",
@@ -2802,7 +3607,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/8/48cb5283-d384-490e-a0a5-2d10c1acc8cc.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Insect Druid",
-    "color": "G"
+    "cost": [
+      "2",
+      "G"
+    ]
   },
   {
     "id": "4b66bab3-ee6f-4f74-bbc1-8099c9c4904b",
@@ -2813,7 +3621,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/b/4b66bab3-ee6f-4f74-bbc1-8099c9c4904b.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "G"
+    "cost": [
+      "1",
+      "G",
+      "G"
+    ]
   },
   {
     "id": "fd1f6cfa-9576-4bb8-83db-33c2b147206d",
@@ -2824,7 +3636,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/d/fd1f6cfa-9576-4bb8-83db-33c2b147206d.webp",
     "rarity": "Rare",
     "card_type": "Sorcery",
-    "color": "G"
+    "cost": [
+      "X",
+      "G"
+    ]
   },
   {
     "id": "99e5ecf5-a662-4df0-a6ba-9177c62b6503",
@@ -2835,7 +3650,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/9/99e5ecf5-a662-4df0-a6ba-9177c62b6503.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Mongoose",
-    "color": "G"
+    "cost": [
+      "G"
+    ]
   },
   {
     "id": "f4eec210-5df0-4fb8-8eb1-e616d9995acc",
@@ -2846,7 +3663,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/4/f4eec210-5df0-4fb8-8eb1-e616d9995acc.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Human Druid",
-    "color": "G"
+    "cost": [
+      "5",
+      "G"
+    ]
   },
   {
     "id": "96f9df13-3bd8-415d-b949-9b39f97fdde7",
@@ -2857,7 +3677,12 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/6/96f9df13-3bd8-415d-b949-9b39f97fdde7.webp",
     "rarity": "Uncommon",
     "card_type": "Sorcery",
-    "color": "G"
+    "cost": [
+      "2",
+      "G",
+      "G",
+      "G"
+    ]
   },
   {
     "id": "642ea1f9-49f0-4e0d-8122-c3a305c149e9",
@@ -2868,7 +3693,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/4/642ea1f9-49f0-4e0d-8122-c3a305c149e9.webp",
     "rarity": "Uncommon",
     "card_type": "Sorcery",
-    "color": "G"
+    "cost": [
+      "G"
+    ]
   },
   {
     "id": "f5e2d822-09d0-42e5-ad91-67c66e947b3d",
@@ -2879,7 +3706,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/5/f5e2d822-09d0-42e5-ad91-67c66e947b3d.webp",
     "rarity": "Common",
     "card_type": "Enchantment \u2014 Aura",
-    "color": "G"
+    "cost": [
+      "G"
+    ]
   },
   {
     "id": "fe394a38-ee44-4342-adcf-8c65d14f4978",
@@ -2890,7 +3719,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/e/fe394a38-ee44-4342-adcf-8c65d14f4978.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Elephant",
-    "color": "G"
+    "cost": [
+      "4",
+      "G"
+    ]
   },
   {
     "id": "0084ba4e-98eb-4eb4-b23e-c5ab4d7d95cb",
@@ -2901,7 +3733,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/0/0084ba4e-98eb-4eb4-b23e-c5ab4d7d95cb.webp",
     "rarity": "Common",
     "card_type": "Instant",
-    "color": "G"
+    "cost": [
+      "2",
+      "G"
+    ]
   },
   {
     "id": "1bddb0ef-fdda-491b-a0cf-48cbdd761918",
@@ -2912,7 +3747,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/b/1bddb0ef-fdda-491b-a0cf-48cbdd761918.webp",
     "rarity": "Common",
     "card_type": "Sorcery",
-    "color": "G"
+    "cost": [
+      "1",
+      "G"
+    ]
   },
   {
     "id": "ddf54317-4c08-4a66-9fd2-9983384e2374",
@@ -2923,7 +3761,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/d/ddf54317-4c08-4a66-9fd2-9983384e2374.webp",
     "rarity": "Uncommon",
     "card_type": "Sorcery",
-    "color": "G"
+    "cost": [
+      "6",
+      "G"
+    ]
   },
   {
     "id": "641a3bae-9146-4e70-862a-86a56f7c3816",
@@ -2934,7 +3775,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/4/641a3bae-9146-4e70-862a-86a56f7c3816.webp",
     "rarity": "Rare",
     "card_type": "Legendary Creature \u2014 Centaur Druid",
-    "color": "G"
+    "cost": [
+      "G",
+      "G",
+      "G"
+    ]
   },
   {
     "id": "70d05b6a-5c7e-4e08-88d3-98f2b5b054bc",
@@ -2945,7 +3790,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/0/70d05b6a-5c7e-4e08-88d3-98f2b5b054bc.webp",
     "rarity": "Common",
     "card_type": "Enchantment \u2014 Aura",
-    "color": "G"
+    "cost": [
+      "2",
+      "G"
+    ]
   },
   {
     "id": "7a43fd3e-1e08-400c-b22b-e22da82bcdee",
@@ -2956,7 +3804,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/a/7a43fd3e-1e08-400c-b22b-e22da82bcdee.webp",
     "rarity": "Common",
     "card_type": "Sorcery",
-    "color": "G"
+    "cost": [
+      "G"
+    ]
   },
   {
     "id": "f56f195e-a80c-4447-8d3f-cc1259035d1b",
@@ -2967,7 +3817,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/5/f56f195e-a80c-4447-8d3f-cc1259035d1b.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Centaur Archer",
-    "color": "G"
+    "cost": [
+      "1",
+      "G"
+    ]
   },
   {
     "id": "72194a6e-481d-4b07-922b-53f919bfa316",
@@ -2978,7 +3831,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/2/72194a6e-481d-4b07-922b-53f919bfa316.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Centaur",
-    "color": "G"
+    "cost": [
+      "2",
+      "G"
+    ]
   },
   {
     "id": "04462629-fb03-40e8-84e6-4a66e4d5392b",
@@ -2989,7 +3845,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/4/04462629-fb03-40e8-84e6-4a66e4d5392b.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Cat",
-    "color": "G"
+    "cost": [
+      "3",
+      "G"
+    ]
   },
   {
     "id": "181254ce-259a-4b31-8937-728564f2baf3",
@@ -3000,7 +3859,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/8/181254ce-259a-4b31-8937-728564f2baf3.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Squirrel",
-    "color": "G"
+    "cost": [
+      "1",
+      "G",
+      "G"
+    ]
   },
   {
     "id": "22eccb27-1723-4c5a-96b8-85e6e5739c30",
@@ -3011,7 +3874,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/2/2/22eccb27-1723-4c5a-96b8-85e6e5739c30.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment \u2014 Aura",
-    "color": "G"
+    "cost": [
+      "1",
+      "G",
+      "G"
+    ]
   },
   {
     "id": "12be33d7-f25e-4dbf-9706-74403103b127",
@@ -3022,7 +3889,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/2/12be33d7-f25e-4dbf-9706-74403103b127.webp",
     "rarity": "Uncommon",
     "card_type": "Enchantment",
-    "color": "G"
+    "cost": [
+      "1",
+      "G",
+      "G"
+    ]
   },
   {
     "id": "938d5157-154c-4300-82d4-0e23d934d436",
@@ -3033,7 +3904,12 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/3/938d5157-154c-4300-82d4-0e23d934d436.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Basilisk",
-    "color": "G"
+    "cost": [
+      "4",
+      "G",
+      "G",
+      "G"
+    ]
   },
   {
     "id": "576e3ccd-40a3-4ea9-8e76-5e70b2ef9123",
@@ -3044,7 +3920,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/7/576e3ccd-40a3-4ea9-8e76-5e70b2ef9123.webp",
     "rarity": "Uncommon",
     "card_type": "Instant",
-    "color": "G"
+    "cost": [
+      "1",
+      "G"
+    ]
   },
   {
     "id": "c39c412b-2f21-483a-b744-5d55bc007c0d",
@@ -3055,7 +3934,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/3/c39c412b-2f21-483a-b744-5d55bc007c0d.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Lhurgoyf",
-    "color": "G"
+    "cost": [
+      "1",
+      "G",
+      "G"
+    ]
   },
   {
     "id": "90b8ba27-c3bb-48cf-b831-518f5d255c2e",
@@ -3066,7 +3949,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/0/90b8ba27-c3bb-48cf-b831-518f5d255c2e.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Insect",
-    "color": "G"
+    "cost": [
+      "2",
+      "G"
+    ]
   },
   {
     "id": "bd3c78de-0c2a-441e-8912-ff920fc563ef",
@@ -3077,7 +3963,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/b/d/bd3c78de-0c2a-441e-8912-ff920fc563ef.webp",
     "rarity": "Rare",
     "card_type": "Enchantment",
-    "color": "G"
+    "cost": [
+      "4",
+      "G"
+    ]
   },
   {
     "id": "f8b5e7ed-a0ab-48f6-8f69-56a8bd115007",
@@ -3088,7 +3977,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/8/f8b5e7ed-a0ab-48f6-8f69-56a8bd115007.webp",
     "rarity": "Uncommon",
     "card_type": "Instant",
-    "color": "G"
+    "cost": [
+      "2",
+      "G"
+    ]
   },
   {
     "id": "964cf7e3-932d-432f-8ad4-9bd651aada96",
@@ -3099,7 +3991,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/6/964cf7e3-932d-432f-8ad4-9bd651aada96.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Bear Druid",
-    "color": "G"
+    "cost": [
+      "1",
+      "G"
+    ]
   },
   {
     "id": "5bb8dd5c-a79a-4afc-80b2-64645bb17a34",
@@ -3110,7 +4005,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/b/5bb8dd5c-a79a-4afc-80b2-64645bb17a34.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Dog",
-    "color": "G"
+    "cost": [
+      "1",
+      "G"
+    ]
   },
   {
     "id": "34e501e6-38da-44ad-abe2-53ea7f0eb4ae",
@@ -3121,7 +4019,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/3/4/34e501e6-38da-44ad-abe2-53ea7f0eb4ae.webp",
     "rarity": "Common",
     "card_type": "Creature \u2014 Human Druid",
-    "color": "G"
+    "cost": [
+      "G"
+    ]
   },
   {
     "id": "be645675-d263-42c4-9e71-f98cf4c2aab5",
@@ -3132,7 +4032,10 @@
     "img_uri": "https://cards.scryfall.io/grid/front/b/e/be645675-d263-42c4-9e71-f98cf4c2aab5.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Human Druid",
-    "color": "G"
+    "cost": [
+      "3",
+      "G"
+    ]
   },
   {
     "id": "4a3e6eb5-6d0f-4f82-86f9-bbce8d27afbb",
@@ -3143,7 +4046,13 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/a/4a3e6eb5-6d0f-4f82-86f9-bbce8d27afbb.webp",
     "rarity": "Rare",
     "card_type": "Legendary Creature \u2014 Atog",
-    "color": "BGRUW"
+    "cost": [
+      "W",
+      "U",
+      "B",
+      "R",
+      "G"
+    ]
   },
   {
     "id": "912c398a-e49a-4399-ac41-7b1d4328a59d",
@@ -3154,7 +4063,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/1/912c398a-e49a-4399-ac41-7b1d4328a59d.webp",
     "rarity": "Rare",
     "card_type": "Sorcery",
-    "color": "GR"
+    "cost": [
+      "2",
+      "R",
+      "G"
+    ]
   },
   {
     "id": "f3bce4f8-3a3f-4ec2-9b37-10bb12713afc",
@@ -3165,7 +4078,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/3/f3bce4f8-3a3f-4ec2-9b37-10bb12713afc.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Angel",
-    "color": "UW"
+    "cost": [
+      "5",
+      "W",
+      "U"
+    ]
   },
   {
     "id": "c69742a8-cc6d-457b-8d99-81d05ab1bf0b",
@@ -3176,7 +4093,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/6/c69742a8-cc6d-457b-8d99-81d05ab1bf0b.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Atog",
-    "color": "GR"
+    "cost": [
+      "1",
+      "R",
+      "G"
+    ]
   },
   {
     "id": "eb68983d-fd8c-4844-8ceb-afd3cae7e4df",
@@ -3187,7 +4108,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/e/b/eb68983d-fd8c-4844-8ceb-afd3cae7e4df.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Human Nomad Mystic",
-    "color": "GW"
+    "cost": [
+      "2",
+      "G",
+      "W"
+    ]
   },
   {
     "id": "6967608d-141d-426f-a129-6f1a6a58273c",
@@ -3198,7 +4123,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/9/6967608d-141d-426f-a129-6f1a6a58273c.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Atog",
-    "color": "UW"
+    "cost": [
+      "1",
+      "W",
+      "U"
+    ]
   },
   {
     "id": "6757bf0e-489f-4be2-9e41-463b59f00dd1",
@@ -3209,7 +4138,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/7/6757bf0e-489f-4be2-9e41-463b59f00dd1.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Atog",
-    "color": "BU"
+    "cost": [
+      "1",
+      "U",
+      "B"
+    ]
   },
   {
     "id": "760a329c-e815-49d3-8df1-d052ce19b0c6",
@@ -3220,7 +4153,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/6/760a329c-e815-49d3-8df1-d052ce19b0c6.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Atog",
-    "color": "BR"
+    "cost": [
+      "1",
+      "B",
+      "R"
+    ]
   },
   {
     "id": "932ce702-565f-4d8c-b9fc-2d7c939ef7d7",
@@ -3231,7 +4168,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/3/932ce702-565f-4d8c-b9fc-2d7c939ef7d7.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Human Wizard",
-    "color": "BU"
+    "cost": [
+      "1",
+      "U",
+      "B"
+    ]
   },
   {
     "id": "aa559342-9587-4fe3-9059-3b3a08d6637a",
@@ -3242,7 +4183,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/a/a/aa559342-9587-4fe3-9059-3b3a08d6637a.webp",
     "rarity": "Uncommon",
     "card_type": "Creature \u2014 Atog",
-    "color": "GW"
+    "cost": [
+      "1",
+      "G",
+      "W"
+    ]
   },
   {
     "id": "4f21d595-c248-4aae-9fd7-4e5787ab8781",
@@ -3253,7 +4198,11 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/f/4f21d595-c248-4aae-9fd7-4e5787ab8781.webp",
     "rarity": "Rare",
     "card_type": "Creature \u2014 Vampire Dragon",
-    "color": "BR"
+    "cost": [
+      "6",
+      "B",
+      "R"
+    ]
   },
   {
     "id": "aaca85d4-b4c2-4adc-a0f9-26339bacfd92",
@@ -3264,7 +4213,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/a/a/aaca85d4-b4c2-4adc-a0f9-26339bacfd92.webp",
     "rarity": "Rare",
     "card_type": "Artifact",
-    "color": ""
+    "cost": [
+      "2"
+    ]
   },
   {
     "id": "701942dd-7777-436f-8076-194584be8285",
@@ -3275,7 +4226,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/0/701942dd-7777-436f-8076-194584be8285.webp",
     "rarity": "Rare",
     "card_type": "Artifact",
-    "color": ""
+    "cost": [
+      "4"
+    ]
   },
   {
     "id": "fb988572-1e1d-4b1d-8dc7-78bda966554e",
@@ -3286,7 +4239,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/f/b/fb988572-1e1d-4b1d-8dc7-78bda966554e.webp",
     "rarity": "Uncommon",
     "card_type": "Artifact",
-    "color": ""
+    "cost": [
+      "1"
+    ]
   },
   {
     "id": "c9410da0-5693-456f-afa8-cb92ac176847",
@@ -3297,7 +4252,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/9/c9410da0-5693-456f-afa8-cb92ac176847.webp",
     "rarity": "Rare",
     "card_type": "Artifact Creature \u2014 Golem",
-    "color": ""
+    "cost": [
+      "4"
+    ]
   },
   {
     "id": "b522518c-1846-4e95-b77d-2aadac78684d",
@@ -3308,7 +4265,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/b/5/b522518c-1846-4e95-b77d-2aadac78684d.webp",
     "rarity": "Uncommon",
     "card_type": "Artifact Creature \u2014 Golem",
-    "color": ""
+    "cost": [
+      "6"
+    ]
   },
   {
     "id": "0550133b-22cf-4ecd-b89a-8c2f0beeaa22",
@@ -3319,7 +4278,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/5/0550133b-22cf-4ecd-b89a-8c2f0beeaa22.webp",
     "rarity": "Uncommon",
     "card_type": "Artifact Creature \u2014 Construct",
-    "color": ""
+    "cost": [
+      "2"
+    ]
   },
   {
     "id": "3cbaad4f-fb66-4e56-b383-32f55552c8b2",
@@ -3330,7 +4291,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/3/c/3cbaad4f-fb66-4e56-b383-32f55552c8b2.webp",
     "rarity": "Rare",
     "card_type": "Legendary Artifact",
-    "color": ""
+    "cost": [
+      "5"
+    ]
   },
   {
     "id": "1fd66433-b0e9-453d-9a27-ea0efb158dac",
@@ -3341,7 +4304,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/f/1fd66433-b0e9-453d-9a27-ea0efb158dac.webp",
     "rarity": "Uncommon",
     "card_type": "Artifact",
-    "color": ""
+    "cost": [
+      "1"
+    ]
   },
   {
     "id": "752420dc-d69a-4c9d-b563-f8928a4a0920",
@@ -3352,7 +4317,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/5/752420dc-d69a-4c9d-b563-f8928a4a0920.webp",
     "rarity": "Rare",
     "card_type": "Artifact Creature \u2014 Juggernaut",
-    "color": ""
+    "cost": [
+      "4"
+    ]
   },
   {
     "id": "cd8958d5-e4a9-42ee-ae82-d184c4b92c9d",
@@ -3363,7 +4330,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/d/cd8958d5-e4a9-42ee-ae82-d184c4b92c9d.webp",
     "rarity": "Uncommon",
     "card_type": "Artifact Creature \u2014 Gnome",
-    "color": ""
+    "cost": [
+      "3"
+    ]
   },
   {
     "id": "241ebc17-b8ae-4ca4-8413-f53501d86244",
@@ -3374,7 +4343,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/2/4/241ebc17-b8ae-4ca4-8413-f53501d86244.webp",
     "rarity": "Uncommon",
     "card_type": "Artifact",
-    "color": ""
+    "cost": [
+      "3"
+    ]
   },
   {
     "id": "044bbf15-e71d-4f47-bac3-bba8021118bd",
@@ -3385,7 +4356,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/4/044bbf15-e71d-4f47-bac3-bba8021118bd.webp",
     "rarity": "Uncommon",
     "card_type": "Artifact",
-    "color": ""
+    "cost": [
+      "1"
+    ]
   },
   {
     "id": "e588cc41-4b86-4e93-94e8-dd765b27ab63",
@@ -3396,7 +4369,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/e/5/e588cc41-4b86-4e93-94e8-dd765b27ab63.webp",
     "rarity": "Uncommon",
     "card_type": "Artifact",
-    "color": ""
+    "cost": [
+      "1"
+    ]
   },
   {
     "id": "4f84a9bf-ce64-4301-8f2c-20f1b4acd3ef",
@@ -3407,7 +4382,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/f/4f84a9bf-ce64-4301-8f2c-20f1b4acd3ef.webp",
     "rarity": "Uncommon",
     "card_type": "Artifact",
-    "color": ""
+    "cost": [
+      "2"
+    ]
   },
   {
     "id": "70e888f9-c583-478a-9ef0-2e89db8a8dbb",
@@ -3418,7 +4395,9 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/0/70e888f9-c583-478a-9ef0-2e89db8a8dbb.webp",
     "rarity": "Uncommon",
     "card_type": "Artifact",
-    "color": ""
+    "cost": [
+      "1"
+    ]
   },
   {
     "id": "4945031e-1158-474c-9e50-1ec817acc767",
@@ -3429,7 +4408,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/4/9/4945031e-1158-474c-9e50-1ec817acc767.webp",
     "rarity": "Common",
     "card_type": "Land",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "1809361e-ae1a-4c47-8464-e6496e94d962",
@@ -3440,7 +4419,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/8/1809361e-ae1a-4c47-8464-e6496e94d962.webp",
     "rarity": "Uncommon",
     "card_type": "Land",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "189b4925-b34b-43bd-869e-1b1db99450e6",
@@ -3451,7 +4430,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/8/189b4925-b34b-43bd-869e-1b1db99450e6.webp",
     "rarity": "Common",
     "card_type": "Land",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "848d686a-e2f7-488d-947f-a555099b74b1",
@@ -3462,7 +4441,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/4/848d686a-e2f7-488d-947f-a555099b74b1.webp",
     "rarity": "Uncommon",
     "card_type": "Land",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "ca041d5e-c65f-4e7e-ae4f-9c748a069aa3",
@@ -3473,7 +4452,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/a/ca041d5e-c65f-4e7e-ae4f-9c748a069aa3.webp",
     "rarity": "Uncommon",
     "card_type": "Land",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "d5d74112-7244-4c3f-a5eb-b6be671aefe8",
@@ -3484,7 +4463,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/5/d5d74112-7244-4c3f-a5eb-b6be671aefe8.webp",
     "rarity": "Uncommon",
     "card_type": "Land",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "1012124a-5401-4bd1-a163-4633d934938f",
@@ -3495,7 +4474,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/1/0/1012124a-5401-4bd1-a163-4633d934938f.webp",
     "rarity": "Rare",
     "card_type": "Land",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "2583b941-6156-4c4b-a068-0d0ac75a3dd3",
@@ -3506,7 +4485,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/2/5/2583b941-6156-4c4b-a068-0d0ac75a3dd3.webp",
     "rarity": "Rare",
     "card_type": "Land",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "d1fa74b2-f9bd-4617-8b65-878781f3a2fd",
@@ -3517,7 +4496,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/1/d1fa74b2-f9bd-4617-8b65-878781f3a2fd.webp",
     "rarity": "Rare",
     "card_type": "Land",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "6b6c08ce-d01d-4ae6-81d3-149679e27e6a",
@@ -3528,7 +4507,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/b/6b6c08ce-d01d-4ae6-81d3-149679e27e6a.webp",
     "rarity": "Rare",
     "card_type": "Land",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "64300b71-050f-47a3-83be-f24480bdc01d",
@@ -3539,7 +4518,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/4/64300b71-050f-47a3-83be-f24480bdc01d.webp",
     "rarity": "Uncommon",
     "card_type": "Land",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "eaeaf9f2-d196-4607-a704-06f2315d8cc5",
@@ -3550,7 +4529,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/e/a/eaeaf9f2-d196-4607-a704-06f2315d8cc5.webp",
     "rarity": "Rare",
     "card_type": "Land",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "bb60ffc9-4919-40f2-bdd6-07eee6abf37c",
@@ -3561,7 +4540,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/b/b/bb60ffc9-4919-40f2-bdd6-07eee6abf37c.webp",
     "rarity": "Common",
     "card_type": "Land",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "9e492399-d514-485a-8cdd-a3797a05e47a",
@@ -3572,7 +4551,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/e/9e492399-d514-485a-8cdd-a3797a05e47a.webp",
     "rarity": "Common",
     "card_type": "Land",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "69a5f84a-9e9b-42b6-a973-864409d6e564",
@@ -3583,7 +4562,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/9/69a5f84a-9e9b-42b6-a973-864409d6e564.webp",
     "rarity": "Rare",
     "card_type": "Land",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "c8c0da61-59c5-4206-83d9-c4676e169f01",
@@ -3594,7 +4573,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/c/8/c8c0da61-59c5-4206-83d9-c4676e169f01.webp",
     "rarity": "Rare",
     "card_type": "Land",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "7bfa27ee-553e-4c6e-a79c-9757bd74c057",
@@ -3605,7 +4584,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/b/7bfa27ee-553e-4c6e-a79c-9757bd74c057.webp",
     "rarity": "Rare",
     "card_type": "Land",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "30375d24-ccfe-47a2-babd-1bda0a6298fe",
@@ -3616,7 +4595,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/3/0/30375d24-ccfe-47a2-babd-1bda0a6298fe.webp",
     "rarity": "Rare",
     "card_type": "Land",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "dd2e8770-c72b-439c-8f79-3aa24646cdd5",
@@ -3627,7 +4606,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/d/d/dd2e8770-c72b-439c-8f79-3aa24646cdd5.webp",
     "rarity": "Common",
     "card_type": "Land",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "eecfb420-ace3-4627-a2e0-62a701d025c9",
@@ -3638,7 +4617,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/e/e/eecfb420-ace3-4627-a2e0-62a701d025c9.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Plains",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "014efd6a-5b0c-41d1-b7de-78eab5b62917",
@@ -3649,7 +4628,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/1/014efd6a-5b0c-41d1-b7de-78eab5b62917.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Plains",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "51b0dd0f-8ad8-4292-9df6-7b28ab4605e3",
@@ -3660,7 +4639,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/1/51b0dd0f-8ad8-4292-9df6-7b28ab4605e3.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Plains",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "7ee52bef-0586-46b8-a405-f4e0741f0059",
@@ -3671,7 +4650,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/e/7ee52bef-0586-46b8-a405-f4e0741f0059.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Plains",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "527f36a0-80b8-4492-b1c3-20a34953ceb7",
@@ -3682,7 +4661,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/2/527f36a0-80b8-4492-b1c3-20a34953ceb7.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Island",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "ef57bbe1-8507-4284-8d08-6b10b7894f96",
@@ -3693,7 +4672,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/e/f/ef57bbe1-8507-4284-8d08-6b10b7894f96.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Island",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "ba30bfc3-5aec-480d-a80a-fe71b098b14b",
@@ -3704,7 +4683,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/b/a/ba30bfc3-5aec-480d-a80a-fe71b098b14b.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Island",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "bf964c1b-941f-4a02-895b-0608bddc1ce7",
@@ -3715,7 +4694,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/b/f/bf964c1b-941f-4a02-895b-0608bddc1ce7.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Island",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "276b18fb-66cb-4dc0-9c67-60cee1502c7f",
@@ -3726,7 +4705,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/2/7/276b18fb-66cb-4dc0-9c67-60cee1502c7f.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Swamp",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "907ff242-885f-4948-b95c-61cf033d0969",
@@ -3737,7 +4716,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/0/907ff242-885f-4948-b95c-61cf033d0969.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Swamp",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "5a4a9736-da37-4327-b9ee-e9a38fbe8a19",
@@ -3748,7 +4727,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/5/a/5a4a9736-da37-4327-b9ee-e9a38fbe8a19.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Swamp",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "82f74cd0-cd73-4b08-8544-5f56b6d96f78",
@@ -3759,7 +4738,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/8/2/82f74cd0-cd73-4b08-8544-5f56b6d96f78.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Swamp",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "3c22765e-a131-4be6-ba48-64b84564ea51",
@@ -3770,7 +4749,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/3/c/3c22765e-a131-4be6-ba48-64b84564ea51.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Mountain",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "e1e88b41-7ae5-40fc-8947-5f5aa03388be",
@@ -3781,7 +4760,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/e/1/e1e88b41-7ae5-40fc-8947-5f5aa03388be.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Mountain",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "025e57e4-d088-4ad9-b872-cba327f63e9c",
@@ -3792,7 +4771,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/0/2/025e57e4-d088-4ad9-b872-cba327f63e9c.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Mountain",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "9b396f90-92b1-4cc0-9be8-2f724b39fbc6",
@@ -3803,7 +4782,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/b/9b396f90-92b1-4cc0-9be8-2f724b39fbc6.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Mountain",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "73029d4b-f073-4df0-a6cc-8014284a1ced",
@@ -3814,7 +4793,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/7/3/73029d4b-f073-4df0-a6cc-8014284a1ced.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Forest",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "9397010b-6116-4612-993a-11ec2a5d3115",
@@ -3825,7 +4804,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/9/3/9397010b-6116-4612-993a-11ec2a5d3115.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Forest",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "318b15ea-80b9-48df-b010-aa1aabcf51ea",
@@ -3836,7 +4815,7 @@
     "img_uri": "https://cards.scryfall.io/grid/front/3/1/318b15ea-80b9-48df-b010-aa1aabcf51ea.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Forest",
-    "color": "L"
+    "cost": null
   },
   {
     "id": "65e8080f-9e4a-4fad-9ea3-09d5e0e1c816",
@@ -3847,6 +4826,6 @@
     "img_uri": "https://cards.scryfall.io/grid/front/6/5/65e8080f-9e4a-4fad-9ea3-09d5e0e1c816.webp",
     "rarity": "Common",
     "card_type": "Basic Land \u2014 Forest",
-    "color": "L"
+    "cost": null
   }
 ]
